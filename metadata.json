@@ -1,0 +1,8 @@
+{
+  "name": "RealMe",
+  "description": "An immersive mobile-first strategic daily alignment app that turns your morning routine into a sovereign realm management ritual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
