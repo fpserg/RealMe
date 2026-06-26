@@ -13,8 +13,13 @@ export interface MeaningfulMove {
   title: string;
   realm: string; // Matches one of the Realms
   description: string;
-  impact: string; // Real-world effect e.g. "Creates spatial clarity in your sanctuary"
-  cost: string; // Real-world cost e.g. "Requires 15 Minutes"
+  impact: string; // Real-world benefit
+  cost: string; // Estimated effort/cost
+}
+
+export interface PressureNode {
+  realm: string;
+  status: string; // e.g. "stalled progress (8 days)", "high-impact task available", "stable and low risk"
 }
 
 export interface AdvisorDecree {
@@ -28,10 +33,10 @@ export interface AdvisorDecree {
     personalGrowth: string;
     adventures: string;
   };
-  keyFrictionPoints: string; // Key friction points (what is blocked/demanding attention)
-  recommendedAction: MeaningfulMove; // ONE recommended action (highest leverage move)
-  alternativeMoves: MeaningfulMove[]; // Pivot options
-  closingMotivation?: string; // Optional closing motivational line in fantasy tone
+  pressureNodes: PressureNode[]; // Current Pressure Nodes
+  recommendedAction: MeaningfulMove; // ONE recommended focus
+  alternativeMoves?: MeaningfulMove[]; // Pivot options (optional in new v1 spec but good for fallback)
+  closingMotivation?: string;
 }
 
 export interface TurnLog {

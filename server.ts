@@ -39,41 +39,49 @@ app.post("/api/advisor/decree", async (req, res) => {
 
     const { morningIntel, alignment, history, localTime } = req.body;
     const userAlignment = alignment ?? "Sovereign Balance";
-    const userBrief = morningIntel ?? "The sovereign did not declare any custom morning challenges. All borders are quiet.";
+    const userBrief = morningIntel ?? "The sovereign is maintaining a steady posture. All borders are quiet, with steady progress in the active campaigns.";
 
     const promptText = `
 User Local Time: ${localTime || new Date().toISOString()}
 User Selected Daily Alignment focus: "${userAlignment}"
 
-The Sovereign's Morning Intel report (User's description of their current state, challenges, deadlines, fatigue levels, relationships, and priorities):
+The Sovereign's Daily State context (interpreted from past moves and the active state):
 "${userBrief}"
 
 Recent historical tactical moves or achievements logged:
 ${JSON.stringify(history || [])}
 
-Analyze the user's description and generate a daily strategic alignment. You are the High Game Master of 'RealMe', translating real-life goals, challenges, and concerns into a grand strategy turn. Keep the tone completely high-agency, calm, majestic, and wise (refer to the user as "Sire", "Your Majesty", "Your Grace", or "My Sovereign").
+Analyze the sovereign's current posture and generate a daily strategic alignment. You are the High Game Master of 'RealMe', translating real-life goals, challenges, and concerns into a grand strategy turn. Keep the tone completely high-agency, calm, majestic, and wise (refer to the user as "Sergey", "Sire", "Your Majesty", "Your Grace", or "My Sovereign").
 
 Do NOT include any numerical statistics, sliders, or RPG-like health percentages in your descriptions.
 
-Evaluate how the user's morning description affects the six real-life Realms:
-1. Career: Professional expansion, coding, focus hours, work output, projects.
-2. Family: Immediate relationships, partner, parents, children, key friendships.
-3. Estate: Living space, organization, cooking, physical home base.
-4. Wealth: Financial buffers, tracking, budget clarity, investment engines.
-5. Personal Growth: Mind, sleep, vigor, study, physical health, reading.
-6. Adventures: Play, hobbies, exploration, trips, scheduling leisure. (Framed with the strongest fantasy language since leisure represents the adventurous outer marches).
+Evaluate how the user's state affects the six real-life Realms:
+1. Career: Professional expansion, deep focus, investments, work performance, valuation projects.
+2. Family: Immediate relationships, partner, parents, close alliances.
+3. Estate: Living space, organization, construction projects, physical home base.
+4. Wealth: Financial reserves, budgets, tracking, material safety.
+5. Personal Growth: Mind, vigor, physical development, study, health.
+6. Adventures: Spontaneous play, curiosity-driven pursuits, exploration. (Framed with the strongest fantasy language since leisure represents the adventurous outer marches).
 
 Your analysis must build a daily briefing following these exact components:
 1. Opening narrative (Game Master voice): Evaluate the sovereign's current focus and morning status.
-2. Status of each Realm: Exactly one-sentence descriptive status updates indicating if it's flourishing, neglected, demanding upkeep, or building momentum.
-3. Key friction points: Summarize what is currently blocked, neglected, or causing cognitive anxiety / pressure.
-4. ONE recommended action: The SINGLE highest-leverage Meaningful Move for today. 
-   - Must correspond to exactly one of the six Realms (e.g., "Career", "Family", "Estate", "Wealth", "Personal Growth", "Adventures").
-   - Give it an epic, fantasy strategy title (e.g. "Consolidate the Central Archives", "Fortify the Northern Perimeter", "Gather Kin to the Banquet Table").
-   - Define a single, high-leverage real-world action to execute (e.g., "Review your project's index file for 20 minutes without looking at emails", "Message a sibling to coordinate a phone call", "Clean the kitchen counter until spotless to secure your base of operations").
-   - Highlight the real-world strategic impact of completing this move (e.g., "+ Career momentum, removing executive paralysis").
-   - Define a real-world resource requirement or commitment (e.g., "Requires 20 Minutes of offline focus", "Requires an act of courage", "Requires 1 Hour of screen-free quiet").
-5. TWO alternative moves: Provide exactly 2 optional backup tactics (in the same schema format as the recommended action) representing alternative pivots if the Sovereign must steer elsewhere.
+2. Status of each Realm: Exactly one or two calm narrative sentences. NO numbers, NO percentages, NO stats.
+   Example formats:
+   - Career: The Career Front is active and demanding. One key valuation task is ready for completion today.
+   - Family: The Family Realm is stable and strong. Recent attention has strengthened bonds.
+   - Estate: The Estate has entered a dormant phase. No progress in recent days. Momentum is fading.
+   - Wealth: The Wealth system is steady. No urgent shifts detected.
+   - Personal Growth: Learning momentum is low but stable. Small progress would compound well.
+   - Adventures: New ideas are forming. This domain is quiet but open to exploration.
+3. Current Pressure Nodes (At least 3 nodes, but with absolutely no score or guilt language): List of active pressure points.
+   Format of status: "stalled progress (8 days)", "high-impact task available", "stable and low risk", "demanding attention", etc.
+4. ONE recommended action: The SINGLE highest-leverage Recommended Focus today.
+   - Must correspond to exactly one of the six Realms.
+   - Give it a simple, noble, and direct real-life focus title (e.g., "Call the contractor and confirm electrical work for the Estate", "Complete the valuations spreadsheet review", "Draft the core software schema").
+   - Define a single, high-leverage real-world action to execute.
+   - Highlight the real-world strategic benefit of completing this move (e.g., "Restores momentum and reduces background cognitive load", "Dissolves project paralysis").
+   - Define a real-world resource requirement or commitment (e.g., "15 minutes", "30 minutes focus", "Requires 1 hour of quiet").
+5. TWO alternative moves: Provide exactly 2 optional backup tactics in the same schema format as the recommended action.
 6. Optional closing motivational line (Game Master fantasy voice).
 `;
 
@@ -107,14 +115,26 @@ Your analysis must build a daily briefing following these exact components:
                   realmsStatus: {
                     type: Type.OBJECT,
                     properties: {
-                      career: { type: Type.STRING, description: "One-sentence strategic guidance for Career." },
-                      family: { type: Type.STRING, description: "One-sentence strategic guidance for Family." },
-                      estate: { type: Type.STRING, description: "One-sentence strategic guidance for Estate." },
-                      wealth: { type: Type.STRING, description: "One-sentence strategic guidance for Wealth." },
-                      personalGrowth: { type: Type.STRING, description: "One-sentence strategic guidance for Personal Growth." },
-                      adventures: { type: Type.STRING, description: "One-sentence strategic guidance for Adventures." }
+                      career: { type: Type.STRING, description: "Calm narrative status for Career (1-2 sentences)." },
+                      family: { type: Type.STRING, description: "Calm narrative status for Family (1-2 sentences)." },
+                      estate: { type: Type.STRING, description: "Calm narrative status for Estate (1-2 sentences)." },
+                      wealth: { type: Type.STRING, description: "Calm narrative status for Wealth (1-2 sentences)." },
+                      personalGrowth: { type: Type.STRING, description: "Calm narrative status for Personal Growth (1-2 sentences)." },
+                      adventures: { type: Type.STRING, description: "Calm narrative status for Adventures (1-2 sentences)." }
                     },
                     required: ["career", "family", "estate", "wealth", "personalGrowth", "adventures"]
+                  },
+                  pressureNodes: {
+                    type: Type.ARRAY,
+                    description: "Exactly three pressure points corresponding to Realms.",
+                    items: {
+                      type: Type.OBJECT,
+                      properties: {
+                        realm: { type: Type.STRING, description: "One of: Career, Family, Estate, Wealth, Personal Growth, Adventures" },
+                        status: { type: Type.STRING, description: "Status description e.g. 'stalled progress (8 days)', 'high-impact task available', 'stable and low risk'" }
+                      },
+                      required: ["realm", "status"]
+                    }
                   },
                   keyFrictionPoints: {
                     type: Type.STRING,
@@ -122,13 +142,13 @@ Your analysis must build a daily briefing following these exact components:
                   },
                   recommendedAction: {
                     type: Type.OBJECT,
-                    description: "The single highest leverage recommended move for today.",
+                    description: "The single highest leverage recommended focus for today.",
                     properties: {
-                      title: { type: Type.STRING, description: "Epic historical/strategy title for the move." },
+                      title: { type: Type.STRING, description: "Epic/direct title of the action." },
                       realm: { type: Type.STRING, description: "One of: Career, Family, Estate, Wealth, Personal Growth, Adventures" },
                       description: { type: Type.STRING, description: "Practical, real-world action to execute." },
                       impact: { type: Type.STRING, description: "Real-world strategic benefit of this action." },
-                      cost: { type: Type.STRING, description: "Resource requirement or duration description." }
+                      cost: { type: Type.STRING, description: "Resource requirement, e.g. '15 minutes' or '30 minutes focus'." }
                     },
                     required: ["title", "realm", "description", "impact", "cost"]
                   },
@@ -138,7 +158,7 @@ Your analysis must build a daily briefing following these exact components:
                     items: {
                       type: Type.OBJECT,
                       properties: {
-                        title: { type: Type.STRING, description: "Epic historical/strategy title." },
+                        title: { type: Type.STRING, description: "Backup option title." },
                         realm: { type: Type.STRING, description: "One of: Career, Family, Estate, Wealth, Personal Growth, Adventures" },
                         description: { type: Type.STRING, description: "Practical, real-world action to execute." },
                         impact: { type: Type.STRING, description: "Real-world strategic benefit." },
@@ -152,7 +172,7 @@ Your analysis must build a daily briefing following these exact components:
                     description: "A short majestic, closing motivational remark in character."
                   }
                 },
-                required: ["decreeTitle", "morningBrief", "realmsStatus", "keyFrictionPoints", "recommendedAction", "alternativeMoves", "closingMotivation"]
+                required: ["decreeTitle", "morningBrief", "realmsStatus", "pressureNodes", "keyFrictionPoints", "recommendedAction", "alternativeMoves", "closingMotivation"]
               }
             }
           });
