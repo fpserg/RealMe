@@ -28,52 +28,53 @@ if (apiKey) {
   console.warn("WARNING: GEMINI_API_KEY environment variable is not defined.");
 }
 
-// Grand Advisor API Endpoint
+// Grand Game Master / Strategic Advisor API Endpoint
 app.post("/api/advisor/decree", async (req, res) => {
   try {
     if (!ai) {
       return res.status(500).json({
-        error: "Sovereign Advisor is unavailable. Please make sure GEMINI_API_KEY is configured in your Settings > Secrets panel."
+        error: "Sovereign Game Master is unavailable. Please check that GEMINI_API_KEY is configured in your Secrets."
       });
     }
 
-    const { provinces, alignment, history, localTime } = req.body;
-
-    const citadelVal = provinces?.citadel ?? 50;
-    const trainingVal = provinces?.trainingGrounds ?? 50;
-    const forgeVal = provinces?.forge ?? 50;
-    const sanctuaryVal = provinces?.sanctuary ?? 50;
-    const userAlignment = alignment ?? "Calm Alignment";
+    const { morningIntel, alignment, history, localTime } = req.body;
+    const userAlignment = alignment ?? "Sovereign Balance";
+    const userBrief = morningIntel ?? "The sovereign did not declare any custom morning challenges. All borders are quiet.";
 
     const promptText = `
 User Local Time: ${localTime || new Date().toISOString()}
-User Alignment Strategy Chosen: "${userAlignment}"
+User Selected Daily Alignment focus: "${userAlignment}"
 
-Current Stability levels of the Provinces (0% is completely neglected/vulnerable, 100% is exceptionally strong and secure):
-- The Citadel (Mind & Reflection): ${citadelVal}%
-- The Training Grounds (Body & Vitality): ${trainingVal}%
-- The Forge (Craft & Fortune): ${forgeVal}%
-- The Sanctuary (Relations & Heart): ${sanctuaryVal}%
+The Sovereign's Morning Intel report (User's description of their current state, challenges, deadlines, fatigue levels, relationships, and priorities):
+"${userBrief}"
 
-Recent historical moves or achievements recorded:
+Recent historical tactical moves or achievements logged:
 ${JSON.stringify(history || [])}
 
-Generate a morning turn briefing that makes the user feel exactly like a King opening their strategic map at the beginning of a turn in a grand strategy game. The tone must be:
-- Calm, dignified, optimistic, high-agency, and completely in control.
-- Sovereign-supportive (refer to the user as "Sire", "My Sovereign", "Your Grace", or "Your Majesty").
-- Grounded and realistic, not overhyped, silly, or dramatic AI slop. It should sound like a wise Grand Chancellor or Royal Vizier briefing a ruler.
-- Focused on inviting the user to make exactly ONE meaningful, focused move today.
+Analyze the user's description and generate a daily strategic alignment. You are the High Game Master of 'RealMe', translating real-life goals, challenges, and concerns into a grand strategy turn. Keep the tone completely high-agency, calm, majestic, and wise (refer to the user as "Sire", "Your Majesty", "Your Grace", or "My Sovereign").
 
-Provide:
-1. A majestic and title-appropriate name for today's Decree (e.g. "The Decree of Golden Restoration", "The Edict of the Silent Forge").
-2. A clear morning brief (2-3 sentences) evaluating the state of the realm and offering quiet, sovereign encouragement.
-3. Brief reports for each of the four provinces (Citadel, Training Grounds, Forge, Sanctuary) advising on how they stand and what they need. Keep them to 1 concise sentence each.
-4. Exactly 3 tactical options for "One Meaningful Move" (quests/actions the user can perform today in real life). 
-   - Each option must target a specific province (map it to one of: "Citadel", "Training Grounds", "Forge", or "Sanctuary").
-   - Give each a thematic medieval/strategy title (e.g. "Consolidate the Archives", "Requisition Vital Rest", "Reinforce the Outposts", "Assemble the High Council").
-   - A clear, simple real-world action description (e.g. "Read 10 pages of your target volume", "Take an evening walk along the perimeter with a trusted companion", "Dedicate 25 minutes of focus to outline your key project code").
-   - The strategic impact (e.g., "+10% Forge stability, clearing administrative fog").
-   - A fun thematic cost or resource requirement (e.g., "Requires 25 Focus points", "Requires 1 Hour of Solitude", "Requires an act of courage").
+Do NOT include any numerical statistics, sliders, or RPG-like health percentages in your descriptions.
+
+Evaluate how the user's morning description affects the six real-life Realms:
+1. Career: Professional expansion, coding, focus hours, work output, projects.
+2. Family: Immediate relationships, partner, parents, children, key friendships.
+3. Estate: Living space, organization, cooking, physical home base.
+4. Wealth: Financial buffers, tracking, budget clarity, investment engines.
+5. Personal Growth: Mind, sleep, vigor, study, physical health, reading.
+6. Adventures: Play, hobbies, exploration, trips, scheduling leisure. (Framed with the strongest fantasy language since leisure represents the adventurous outer marches).
+
+Your analysis must build a daily briefing following these exact components:
+1. Opening narrative (Game Master voice): Evaluate the sovereign's current focus and morning status.
+2. Status of each Realm: Exactly one-sentence descriptive status updates indicating if it's flourishing, neglected, demanding upkeep, or building momentum.
+3. Key friction points: Summarize what is currently blocked, neglected, or causing cognitive anxiety / pressure.
+4. ONE recommended action: The SINGLE highest-leverage Meaningful Move for today. 
+   - Must correspond to exactly one of the six Realms (e.g., "Career", "Family", "Estate", "Wealth", "Personal Growth", "Adventures").
+   - Give it an epic, fantasy strategy title (e.g. "Consolidate the Central Archives", "Fortify the Northern Perimeter", "Gather Kin to the Banquet Table").
+   - Define a single, high-leverage real-world action to execute (e.g., "Review your project's index file for 20 minutes without looking at emails", "Message a sibling to coordinate a phone call", "Clean the kitchen counter until spotless to secure your base of operations").
+   - Highlight the real-world strategic impact of completing this move (e.g., "+ Career momentum, removing executive paralysis").
+   - Define a real-world resource requirement or commitment (e.g., "Requires 20 Minutes of offline focus", "Requires an act of courage", "Requires 1 Hour of screen-free quiet").
+5. TWO alternative moves: Provide exactly 2 optional backup tactics (in the same schema format as the recommended action) representing alternative pivots if the Sovereign must steer elsewhere.
+6. Optional closing motivational line (Game Master fantasy voice).
 `;
 
     // Resilient fallback models and automatic retry logic
@@ -85,51 +86,73 @@ Provide:
       let attempts = 2; // Try each model up to 2 times
       for (let attempt = 1; attempt <= attempts; attempt++) {
         try {
-          console.log(`[Advisor API] Calling Gemini model ${modelName} (attempt ${attempt}/${attempts})...`);
+          console.log(`[Game Master API] Consulting ${modelName} (attempt ${attempt}/${attempts})...`);
           const response = await ai.models.generateContent({
             model: modelName,
             contents: promptText,
             config: {
-              systemInstruction: "You are the wise Royal Chancellor and Grand Vizier of 'RealMe'. You draft clean, highly immersive, sovereign-supportive daily strategic briefs for the King's personal life. Your feedback is noble, crisp, optimistic, and highly professional. Never write generic AI fluff.",
+              systemInstruction: "You are the wise Royal Game Master and Sovereign Advisor of the RealMe life operating system. You draft immersive, majestic, real-world strategic decrees for the King's life. Avoid empty stats or numeric meters. Ground your response in practical, noble, high-agency real life actions.",
               responseMimeType: "application/json",
               responseSchema: {
                 type: Type.OBJECT,
                 properties: {
                   decreeTitle: {
                     type: Type.STRING,
-                    description: "The name of today's decree or edict."
+                    description: "The name of today's Turn Edict or Decree."
                   },
                   morningBrief: {
                     type: Type.STRING,
-                    description: "The wise grand advisor's morning strategic report (2-3 sentences max)."
+                    description: "The Game Master's morning opening narrative report (2-3 sentences max)."
                   },
-                  provincesStatus: {
+                  realmsStatus: {
                     type: Type.OBJECT,
                     properties: {
-                      citadel: { type: Type.STRING, description: "One-sentence evaluation of the Citadel (Mind)." },
-                      trainingGrounds: { type: Type.STRING, description: "One-sentence evaluation of the Training Grounds (Body)." },
-                      forge: { type: Type.STRING, description: "One-sentence evaluation of the Forge (Craft)." },
-                      sanctuary: { type: Type.STRING, description: "One-sentence evaluation of the Sanctuary (Relations)." }
+                      career: { type: Type.STRING, description: "One-sentence strategic guidance for Career." },
+                      family: { type: Type.STRING, description: "One-sentence strategic guidance for Family." },
+                      estate: { type: Type.STRING, description: "One-sentence strategic guidance for Estate." },
+                      wealth: { type: Type.STRING, description: "One-sentence strategic guidance for Wealth." },
+                      personalGrowth: { type: Type.STRING, description: "One-sentence strategic guidance for Personal Growth." },
+                      adventures: { type: Type.STRING, description: "One-sentence strategic guidance for Adventures." }
                     },
-                    required: ["citadel", "trainingGrounds", "forge", "sanctuary"]
+                    required: ["career", "family", "estate", "wealth", "personalGrowth", "adventures"]
                   },
-                  meaningfulMoves: {
+                  keyFrictionPoints: {
+                    type: Type.STRING,
+                    description: "A short, vivid summary of the main friction blocking or pressing the Sovereign today."
+                  },
+                  recommendedAction: {
+                    type: Type.OBJECT,
+                    description: "The single highest leverage recommended move for today.",
+                    properties: {
+                      title: { type: Type.STRING, description: "Epic historical/strategy title for the move." },
+                      realm: { type: Type.STRING, description: "One of: Career, Family, Estate, Wealth, Personal Growth, Adventures" },
+                      description: { type: Type.STRING, description: "Practical, real-world action to execute." },
+                      impact: { type: Type.STRING, description: "Real-world strategic benefit of this action." },
+                      cost: { type: Type.STRING, description: "Resource requirement or duration description." }
+                    },
+                    required: ["title", "realm", "description", "impact", "cost"]
+                  },
+                  alternativeMoves: {
                     type: Type.ARRAY,
-                    description: "Three distinct, elegant tactical move options for today.",
+                    description: "Exactly two secondary backup tactical options if the sovereign pivots.",
                     items: {
                       type: Type.OBJECT,
                       properties: {
-                        title: { type: Type.STRING, description: "Medieval-sounding title for the action." },
-                        province: { type: Type.STRING, description: "One of: Citadel, Training Grounds, Forge, Sanctuary" },
+                        title: { type: Type.STRING, description: "Epic historical/strategy title." },
+                        realm: { type: Type.STRING, description: "One of: Career, Family, Estate, Wealth, Personal Growth, Adventures" },
                         description: { type: Type.STRING, description: "Practical, real-world action to execute." },
-                        impact: { type: Type.STRING, description: "Strategic benefit to the sector stability." },
-                        cost: { type: Type.STRING, description: "Thematic resource cost or duration." }
+                        impact: { type: Type.STRING, description: "Real-world strategic benefit." },
+                        cost: { type: Type.STRING, description: "Resource requirement." }
                       },
-                      required: ["title", "province", "description", "impact", "cost"]
+                      required: ["title", "realm", "description", "impact", "cost"]
                     }
+                  },
+                  closingMotivation: {
+                    type: Type.STRING,
+                    description: "A short majestic, closing motivational remark in character."
                   }
                 },
-                required: ["decreeTitle", "morningBrief", "provincesStatus", "meaningfulMoves"]
+                required: ["decreeTitle", "morningBrief", "realmsStatus", "keyFrictionPoints", "recommendedAction", "alternativeMoves", "closingMotivation"]
               }
             }
           });
@@ -140,9 +163,8 @@ Provide:
           }
         } catch (err: any) {
           lastError = err;
-          console.warn(`[Advisor API] Failed attempt ${attempt} for model ${modelName}:`, err.message || err);
+          console.warn(`[Game Master API] Failed attempt ${attempt} for model ${modelName}:`, err.message || err);
           if (attempt < attempts) {
-            // Exponential backoff wait before retrying (500ms, 1000ms, etc.)
             await new Promise((resolve) => setTimeout(resolve, attempt * 500));
           }
         }
@@ -154,7 +176,7 @@ Provide:
     }
 
     if (!responseText) {
-      throw lastError || new Error("All recommended AI advisors are temporarily engaged in regional diplomacy (down).");
+      throw lastError || new Error("All recommended AI game masters are temporarily offline.");
     }
 
     const result = JSON.parse(responseText.trim());
@@ -163,7 +185,7 @@ Provide:
   } catch (error: any) {
     console.error("Error in /api/advisor/decree:", error);
     return res.status(500).json({
-      error: "The Royal Council has suffered an administrative disturbance: " + (error.message || error)
+      error: "The High Council has encountered a communication disturbance: " + (error.message || error)
     });
   }
 });
@@ -185,7 +207,7 @@ async function startServer() {
   }
 
   app.listen(PORT, "0.0.0.0", () => {
-    console.log(`RealMe server running on port ${PORT} in ${process.env.NODE_ENV || "development"} mode`);
+    console.log(`RealMe sovereign server running on port ${PORT} in ${process.env.NODE_ENV || "development"} mode`);
   });
 }
 

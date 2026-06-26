@@ -1,35 +1,37 @@
-export type ProvinceId = "citadel" | "trainingGrounds" | "forge" | "sanctuary";
+export type RealmId = "career" | "family" | "estate" | "wealth" | "personalGrowth" | "adventures";
 
-export interface Province {
-  id: ProvinceId;
+export interface Realm {
+  id: RealmId;
   name: string;
-  title: string;
-  stability: number; // 0 - 100
   description: string;
   poeticSubtitle: string;
-  color: string; // Tailwind class
-  accentColor: string; // hex or similar
-  glowClass: string;
+  iconName: string;
+  accentColor: string;
 }
 
 export interface MeaningfulMove {
   title: string;
-  province: string; // E.g., "Citadel", "Training Grounds", "Forge", "Sanctuary"
+  realm: string; // Matches one of the Realms
   description: string;
-  impact: string;
-  cost: string;
+  impact: string; // Real-world effect e.g. "Creates spatial clarity in your sanctuary"
+  cost: string; // Real-world cost e.g. "Requires 15 Minutes"
 }
 
 export interface AdvisorDecree {
   decreeTitle: string;
-  morningBrief: string;
-  provincesStatus: {
-    citadel: string;
-    trainingGrounds: string;
-    forge: string;
-    sanctuary: string;
+  morningBrief: string; // Opening narrative
+  realmsStatus: {
+    career: string;
+    family: string;
+    estate: string;
+    wealth: string;
+    personalGrowth: string;
+    adventures: string;
   };
-  meaningfulMoves: MeaningfulMove[];
+  keyFrictionPoints: string; // Key friction points (what is blocked/demanding attention)
+  recommendedAction: MeaningfulMove; // ONE recommended action (highest leverage move)
+  alternativeMoves: MeaningfulMove[]; // Pivot options
+  closingMotivation?: string; // Optional closing motivational line in fantasy tone
 }
 
 export interface TurnLog {
@@ -39,19 +41,19 @@ export interface TurnLog {
   selectedMove: MeaningfulMove;
   completedAt: string | null;
   outcomeNotes?: string;
-  stabilityAdjustments?: Record<ProvinceId, number>;
 }
 
 export type AlignmentType = 
-  | "Calm Reflection" 
-  | "Aggressive Growth" 
-  | "Strategic Defense" 
-  | "Vitality Focus" 
+  | "Expansion & Conquest" 
+  | "Home & Hearth" 
+  | "Legacy & Treasury" 
+  | "Sovereign Health" 
+  | "Spontaneous Exploration"
   | "Sovereign Balance";
 
 export interface AlignmentDetail {
   type: AlignmentType;
   description: string;
-  bonus: string;
+  focusRealms: string[];
   iconName: string;
 }

@@ -1,117 +1,134 @@
 import React, { useState, useEffect } from "react";
-import { Province, ProvinceId, MeaningfulMove, AdvisorDecree, TurnLog, AlignmentType } from "./types";
-import KingdomMap from "./components/KingdomMap";
-import ProvinceDetailCard from "./components/ProvinceDetailCard";
+import { Realm, RealmId, MeaningfulMove, AdvisorDecree, TurnLog, AlignmentType } from "./types";
+import RealmsDashboard from "./components/RealmsDashboard";
 import AlignmentSelector, { alignments } from "./components/AlignmentSelector";
 import { 
-  Castle, 
-  Flame, 
-  Hammer, 
-  Users, 
+  Briefcase, 
+  Heart, 
+  Home, 
+  Coins, 
+  BookOpen, 
+  Compass, 
   Sparkles, 
-  FileText, 
   Award, 
   Timer, 
   ChevronRight, 
   Bookmark, 
+  Crown,
+  Scroll,
   HelpCircle,
-  Crown
+  AlertCircle
 } from "lucide-react";
 
-// Default provinces
-const INITIAL_PROVINCES: Province[] = [
+// The six real-life Realms, fully grounded with immersive strategic descriptions
+const INITIAL_REALMS: Realm[] = [
   {
-    id: "citadel",
-    name: "Citadel",
-    title: "The Citadel of Mind",
-    stability: 50,
-    description: "The seat of reflection, memory, and cognitive fortress. Controls your mental capacity, reading habits, and clarity of thought.",
-    poeticSubtitle: "Where high thoughts guard the borders of the self",
-    color: "from-blue-600 to-indigo-700",
-    accentColor: "#3b82f6",
-    glowClass: "shadow-blue-500/20",
+    id: "career",
+    name: "Career",
+    description: "The conquest of profession, deep work, coding, and production. Governs your active craft output, architecture designs, and professional milestones.",
+    poeticSubtitle: "Professional Conquest",
+    iconName: "briefcase",
+    accentColor: "#3b82f6", // Royal blue
   },
   {
-    id: "trainingGrounds",
-    name: "Training Grounds",
-    title: "The Training Grounds",
-    stability: 50,
-    description: "The arena of physiological energy, sleep hygiene, vigor, and bodily capacity. Dictates the endurance of the ruler.",
-    poeticSubtitle: "The vessel of sovereign action and physical stamina",
-    color: "from-rose-600 to-red-700",
-    accentColor: "#ef4444",
-    glowClass: "shadow-rose-500/20",
+    id: "family",
+    name: "Family",
+    description: "The alliances of kin, close companions, partners, and friends. Guards the sovereign's heart against the cold drafts of isolation.",
+    poeticSubtitle: "Kinship & Alliances",
+    iconName: "heart",
+    accentColor: "#ec4899", // Deep pink
   },
   {
-    id: "forge",
-    name: "Forge",
-    title: "The Forge of Fortune",
-    stability: 50,
-    description: "The workspace of engineering, craft, finances, and material progress. This is where high-quality deep-work and projects are forged.",
-    poeticSubtitle: "Transmuting pure focus into permanent works of gold",
-    color: "from-amber-600 to-amber-700",
-    accentColor: "#f59e0b",
-    glowClass: "shadow-amber-500/20",
+    id: "estate",
+    name: "Estate",
+    description: "The upkeep of your sanctuary and living base of operations. Governs household organization, physical order, deep cooking, and home security.",
+    poeticSubtitle: "The Castle Keep",
+    iconName: "home",
+    accentColor: "#10b981", // Emerald green
   },
   {
-    id: "sanctuary",
-    name: "Sanctuary",
-    title: "The Sanctuary of Heart",
-    stability: 50,
-    description: "The court of alliances, deep relationships, family, and inner emotional peace. Guards the emotional state from cold isolation.",
-    poeticSubtitle: "The hearth of trust, keeping cold winds from the keep",
-    color: "from-emerald-600 to-emerald-700",
-    accentColor: "#10b981",
-    glowClass: "shadow-emerald-500/20",
+    id: "wealth",
+    name: "Wealth",
+    description: "The royal treasury, passive engines, budgets, and strategic financial reserves. Governs material autonomy, tracking protocols, and legacy defense.",
+    poeticSubtitle: "The Royal Treasury",
+    iconName: "coins",
+    accentColor: "#eab308", // Gold yellow
+  },
+  {
+    id: "personalGrowth",
+    name: "Personal Growth",
+    description: "The citadel of mind, high study, reading, restorative sleep, physical fitness, and mental stamina.",
+    poeticSubtitle: "Sovereign Fortitude",
+    iconName: "bookOpen",
+    accentColor: "#a855f7", // Noble purple
+  },
+  {
+    id: "adventures",
+    name: "Adventures",
+    description: "The expeditions of leisure, spontaneous travels, refreshing hobbies, and wild play that renew the spirit of the ruler.",
+    poeticSubtitle: "Royal Expeditions",
+    iconName: "compass",
+    accentColor: "#f97316", // Amber orange
   },
 ];
 
 const FALLBACK_DECREE: AdvisorDecree = {
-  decreeTitle: "The Decree of Resolute Ascendancy",
-  morningBrief: "Sire, the sun rises over your sovereign domain. Let us focus our realm's energy into exactly one deliberate expansion of stability today. All quadrants report readiness for your instructions.",
-  provincesStatus: {
-    citadel: "The libraries are peaceful; they await the ink of quiet study to dispel clouding mist.",
-    trainingGrounds: "The garrisons require vigorous movement or deep rest to secure high stamina.",
-    forge: "An anvil lies quiet, requiring direct focused labor to materialize modern code and wealth.",
-    sanctuary: "No news is safe news, but kin and alliances require continuous warmth to prevent rust."
+  decreeTitle: "The Decree of Resolute Alignment",
+  morningBrief: "Sire, the sun rises over your sovereign domain. Let us focus our turn's energy into exactly one deliberate, high-impact move to reinforce the order of your life.",
+  realmsStatus: {
+    career: "The Career front demands focus today; professional backlogs must be dissolved with high-efficiency work.",
+    family: "The Family realm flourishes when we dispatch a timely alliance-strengthening communication.",
+    estate: "The Estate has grown quiet; organizing your central keep restores high psychological clarity.",
+    wealth: "The Wealth treasury is stable, but guarding against silent material leakages preserves sovereign autonomy.",
+    personalGrowth: "Personal Growth is ready for a restorative offline session to recharge mental stamina.",
+    adventures: "A new opportunity for brief, spontaneous exploration awaits in the outer marches of leisure."
   },
-  meaningfulMoves: [
+  keyFrictionPoints: "Demanding professional pressures have left little energy for your physical home base and restorative rest.",
+  recommendedAction: {
+    title: "Draft the Core Blueprint",
+    realm: "Career",
+    description: "Dedicate 35 minutes of offline, uninterrupted coding or planning to your primary active development project.",
+    impact: "+ Career momentum, dissolving cognitive overload",
+    cost: "Requires 35 Minutes Focus"
+  },
+  alternativeMoves: [
     {
-      title: "Consolidate the Archives",
-      province: "Citadel",
-      description: "Spend 20 minutes in silence with a difficult text, taking physical hand-written notes.",
-      impact: "+15% Citadel Stability, curing cognitive fatigue",
-      cost: "Requires 20 Mins of Solitude"
+      title: "Consolidate the Central Keep",
+      realm: "Estate",
+      description: "Perform a quick 15-minute sweep of your physical workspace, returning stray items to their designated posts.",
+      impact: "+ Clean workspace, relieving daily ambient stress",
+      cost: "Requires 15 Minutes"
     },
     {
-      title: "Vigorous Patrol along the Keep",
-      province: "Training Grounds",
-      description: "Complete a brisk, 30-minute outdoor physical perimeter walk, strictly offline.",
-      impact: "+15% Training Grounds Stability, elevating circulatory energy",
-      cost: "Requires 30 Mins offline"
-    },
-    {
-      title: "Forge the Core Pillar",
-      province: "Forge",
-      description: "Dedicate 45 minutes of hyper-focused work to your primary active development task without distraction.",
-      impact: "+20% Forge Stability, clearing long-standing backlogs",
-      cost: "Requires 45 Mins Focus"
+      title: "Vigorous Perimeter Patrol",
+      realm: "Personal Growth",
+      description: "Complete a brisk, 25-minute outdoor walk without looking at any digital screens (no phone).",
+      impact: "+ Vigor, restorative oxygenation, clarity",
+      cost: "Requires 25 Mins Offline"
     }
-  ]
+  ],
+  closingMotivation: "Tackle your chosen campaign with silent resolution. Your realms stand aligned, Sire."
 };
+
+const SUGGESTED_TEMPLATES = [
+  "Working on heavy software development today under major timeline pressure. Feeling focused but my physical desk is a total mess.",
+  "High vigor morning! Aiming to track family finances, tidy up the living quarters, and schedule a weekend hike with a partner.",
+  "Feeling slightly isolated. Need to check in on parents, work on code backlogs, and do a solid workout to clear my head.",
+  "Drained from intense work sprint. Need a slow day prioritizing health, small home organization chores, and early rest."
+];
 
 export default function App() {
   // Current user screen stage
-  // 'PREP': Morning setup/calibration
-  // 'DECISION': View map & advice, pick a move
-  // 'EXECUTION': Do the chosen move
-  // 'RECONCILED': Show successful completion & reflection
+  // 'PREP': Morning input & setup
+  // 'DECISION': View advice, pick a single move
+  // 'EXECUTION': Do the chosen move with stopwatch
+  // 'RECONCILED': Successful completion & seal
   const [appStage, setAppStage] = useState<"PREP" | "DECISION" | "EXECUTION" | "RECONCILED">("PREP");
 
   // App States
-  const [provinces, setProvinces] = useState<Province[]>(INITIAL_PROVINCES);
+  const [morningIntel, setMorningIntel] = useState<string>("");
   const [selectedAlignment, setSelectedAlignment] = useState<AlignmentType>("Sovereign Balance");
-  const [activeProvinceId, setActiveProvinceId] = useState<ProvinceId>("citadel");
+  const [activeRealmId, setActiveRealmId] = useState<RealmId>("career");
   
   // Turn states
   const [turnCount, setTurnCount] = useState<number>(1);
@@ -130,11 +147,6 @@ export default function App() {
   // Load from local storage on mount
   useEffect(() => {
     try {
-      const savedProvinces = localStorage.getItem("realme_provinces");
-      if (savedProvinces) {
-        setProvinces(JSON.parse(savedProvinces));
-      }
-
       const savedTurnCount = localStorage.getItem("realme_turn_count");
       if (savedTurnCount) {
         setTurnCount(parseInt(savedTurnCount, 10));
@@ -179,29 +191,15 @@ export default function App() {
     return () => clearInterval(interval);
   }, [isTimerRunning]);
 
-  // Save current province metrics
-  const saveProvincesToStorage = (updated: Province[]) => {
-    localStorage.setItem("realme_provinces", JSON.stringify(updated));
-  };
-
-  // Province calibration handler
-  const handleCalibrationChange = (id: ProvinceId, val: number) => {
-    const updated = provinces.map((p) => (p.id === id ? { ...p, stability: val } : p));
-    setProvinces(updated);
-    saveProvincesToStorage(updated);
-  };
-
   // Draft decrees (AI Fetch)
   const handleDraftDecrees = async () => {
+    if (!morningIntel.trim()) {
+      alert("Please brief the Game Master on your current life state before drafting the turn decree, Sire.");
+      return;
+    }
+
     setLoadingDecree(true);
     setAppStage("DECISION");
-
-    const mappedProvinces = {
-      citadel: provinces.find((p) => p.id === "citadel")?.stability ?? 50,
-      trainingGrounds: provinces.find((p) => p.id === "trainingGrounds")?.stability ?? 50,
-      forge: provinces.find((p) => p.id === "forge")?.stability ?? 50,
-      sanctuary: provinces.find((p) => p.id === "sanctuary")?.stability ?? 50,
-    };
 
     try {
       setIsFallbackActive(false);
@@ -209,57 +207,62 @@ export default function App() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          provinces: mappedProvinces,
+          morningIntel: morningIntel.trim(),
           alignment: selectedAlignment,
-          history: logs.slice(0, 5), // pass brief context of last 5 turns
+          history: logs.slice(0, 4), // provide brief context of past accomplishments
           localTime: new Date().toISOString(),
         }),
       });
 
       if (!response.ok) {
-        throw new Error("Advisor responded with error");
+        throw new Error("Advisor responded with error code");
       }
 
       const data = await response.json();
       setAdvisorDecree(data);
-      // Automatically pre-select first recommended move
-      if (data.meaningfulMoves && data.meaningfulMoves.length > 0) {
+      // Pre-select primary recommended move
+      if (data.recommendedAction) {
+        setSelectedMove(data.recommendedAction);
+        const mapToId = getRealmIdByLabel(data.recommendedAction.realm);
+        if (mapToId) setActiveRealmId(mapToId);
+      } else if (data.meaningfulMoves && data.meaningfulMoves.length > 0) {
+        // Backwards compatibility or alternative structure
         setSelectedMove(data.meaningfulMoves[0]);
-        // Set active province node on the map to match this move's target
-        const mapToId = getProvinceIdByLabel(data.meaningfulMoves[0].province);
-        if (mapToId) setActiveProvinceId(mapToId);
+        const mapToId = getRealmIdByLabel(data.meaningfulMoves[0].realm);
+        if (mapToId) setActiveRealmId(mapToId);
       }
     } catch (err) {
       console.warn("Could not retrieve strategic AI scroll, deploying Royal Reserves.", err);
-      // Implement fallback data gracefully
       setIsFallbackActive(true);
       setAdvisorDecree(FALLBACK_DECREE);
-      setSelectedMove(FALLBACK_DECREE.meaningfulMoves[0]);
+      setSelectedMove(FALLBACK_DECREE.recommendedAction);
     } finally {
       setLoadingDecree(false);
     }
   };
 
-  // Convert "Citadel" text labels to standard ID values
-  const getProvinceIdByLabel = (label: string): ProvinceId | null => {
+  // Convert text labels to standard ID values
+  const getRealmIdByLabel = (label: string): RealmId | null => {
     const norm = label.toLowerCase();
-    if (norm.includes("citadel")) return "citadel";
-    if (norm.includes("training") || norm.includes("body")) return "trainingGrounds";
-    if (norm.includes("forge") || norm.includes("craft")) return "forge";
-    if (norm.includes("sanctuary") || norm.includes("relations") || norm.includes("heart")) return "sanctuary";
+    if (norm.includes("career") || norm.includes("work") || norm.includes("conquest")) return "career";
+    if (norm.includes("family") || norm.includes("kin") || norm.includes("alliance")) return "family";
+    if (norm.includes("estate") || norm.includes("house") || norm.includes("keep") || norm.includes("home")) return "estate";
+    if (norm.includes("wealth") || norm.includes("treasury") || norm.includes("finance")) return "wealth";
+    if (norm.includes("personal") || norm.includes("growth") || norm.includes("fortitude") || norm.includes("health") || norm.includes("mind") || norm.includes("citadel")) return "personalGrowth";
+    if (norm.includes("adventure") || norm.includes("expedition") || norm.includes("leisure") || norm.includes("play")) return "adventures";
     return null;
   };
 
   // Handle click on tactical move recommendation
   const handleSelectMove = (move: MeaningfulMove) => {
     setSelectedMove(move);
-    const id = getProvinceIdByLabel(move.province);
+    const id = getRealmIdByLabel(move.realm);
     if (id) {
-      setActiveProvinceId(id);
+      setActiveRealmId(id);
     }
   };
 
-  // Commit and Affix Sovereign Seal
+  // Commit and Affix Sovereign Seal to begin active turn campaign
   const handleAffixSeal = () => {
     if (!selectedMove) return;
     setActiveMove(selectedMove);
@@ -272,65 +275,12 @@ export default function App() {
     localStorage.setItem("realme_timer_seconds", "0");
   };
 
-  // Complete move & calculate outcome
+  // Complete active move & save log entry
   const handleConcludeAction = () => {
     if (!activeMove) return;
 
     // Stop timer
     setIsTimerRunning(false);
-
-    // Parse the stability changes
-    const targetProvId = getProvinceIdByLabel(activeMove.province);
-    const adjustments: Record<ProvinceId, number> = {
-      citadel: 0,
-      trainingGrounds: 0,
-      forge: 0,
-      sanctuary: 0,
-    };
-
-    // Calculate baseline boost from move impact text
-    let baseBoost = 15;
-    if (activeMove.impact.includes("20%")) baseBoost = 20;
-    if (activeMove.impact.includes("10%")) baseBoost = 10;
-
-    if (targetProvId) {
-      adjustments[targetProvId] = baseBoost;
-    }
-
-    // Apply alignment bonuses
-    if (selectedAlignment === "Sovereign Balance") {
-      adjustments.citadel += 5;
-      adjustments.trainingGrounds += 5;
-      adjustments.forge += 5;
-      adjustments.sanctuary += 5;
-    } else if (selectedAlignment === "Calm Reflection") {
-      adjustments.citadel += 15;
-    } else if (selectedAlignment === "Aggressive Growth") {
-      adjustments.forge += 15;
-    } else if (selectedAlignment === "Vitality Focus") {
-      adjustments.trainingGrounds += 15;
-    } else if (selectedAlignment === "Strategic Defense") {
-      // Find weakest province
-      let weakestId: ProvinceId = "citadel";
-      let minVal = 100;
-      provinces.forEach((p) => {
-        if (p.stability < minVal) {
-          minVal = p.stability;
-          weakestId = p.id;
-        }
-      });
-      adjustments[weakestId] += 20;
-    }
-
-    // Update real state
-    const updatedProvinces = provinces.map((p) => {
-      const addition = adjustments[p.id];
-      const nextVal = Math.min(100, p.stability + addition);
-      return { ...p, stability: nextVal };
-    });
-
-    setProvinces(updatedProvinces);
-    saveProvincesToStorage(updatedProvinces);
 
     // Save turn log
     const newLog: TurnLog = {
@@ -339,8 +289,7 @@ export default function App() {
       decreeTitle: advisorDecree?.decreeTitle || "The Daily Edict",
       selectedMove: activeMove,
       completedAt: new Date().toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" }),
-      outcomeNotes: journalEntry.trim() || "The Sovereign task was successfully accomplished with focused execution.",
-      stabilityAdjustments: adjustments,
+      outcomeNotes: journalEntry.trim() || "The sovereign task was successfully accomplished with absolute focus.",
     };
 
     const updatedLogs = [newLog, ...logs];
@@ -360,9 +309,10 @@ export default function App() {
     setAppStage("RECONCILED");
   };
 
-  // Re-enter setup morning calibration
+  // Re-enter morning preparation
   const handleBeginNewTurn = () => {
     setJournalEntry("");
+    setMorningIntel("");
     setAdvisorDecree(null);
     setSelectedMove(null);
     setAppStage("PREP");
@@ -378,32 +328,29 @@ export default function App() {
       .padStart(2, "0")}`;
   };
 
-  // Determine current active campaign province
-  const activeCampaignProvince = activeMove ? activeMove.province : selectedMove ? selectedMove.province : null;
+  const activeCampaignRealm = activeMove ? activeMove.realm : selectedMove ? selectedMove.realm : null;
 
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100 flex flex-col font-sans relative selection:bg-amber-500/30 selection:text-amber-200">
-      {/* Background visual atmosphere elements */}
+      {/* Background visual atmospheric elements */}
       <div className="fixed inset-0 pointer-events-none overflow-hidden z-0">
-        {/* Ambient gold radial glow top right */}
-        <div className="absolute top-[-20%] right-[-20%] w-[80%] aspect-square rounded-full bg-[radial-gradient(circle_at_center,rgba(217,119,6,0.06)_0%,transparent_70%)]" />
-        {/* Ambient blue radial glow bottom left */}
-        <div className="absolute bottom-[-10%] left-[-10%] w-[60%] aspect-square rounded-full bg-[radial-gradient(circle_at_center,rgba(59,130,246,0.04)_0%,transparent_70%)]" />
+        <div className="absolute top-[-20%] right-[-20%] w-[80%] aspect-square rounded-full bg-[radial-gradient(circle_at_center,rgba(217,119,6,0.05)_0%,transparent_70%)]" />
+        <div className="absolute bottom-[-10%] left-[-10%] w-[60%] aspect-square rounded-full bg-[radial-gradient(circle_at_center,rgba(59,130,246,0.03)_0%,transparent_70%)]" />
       </div>
 
-      {/* Royal Masthead */}
-      <header className="border-b border-amber-900/20 bg-stone-950/80 backdrop-blur-md sticky top-0 z-50 px-4 py-3 shadow-lg shadow-black/40">
+      {/* Royal Masthead Header */}
+      <header className="border-b border-amber-950/40 bg-stone-950/80 backdrop-blur-md sticky top-0 z-50 px-4 py-3 shadow-lg shadow-black/40">
         <div className="max-w-md mx-auto flex justify-between items-center">
           <div className="flex items-center gap-2.5">
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-amber-600 to-amber-900 flex items-center justify-center border border-amber-500/30 shadow-inner">
-              <Crown className="w-4.5 h-4.5 text-amber-100 animate-pulse" />
+              <Crown className="w-4.5 h-4.5 text-amber-100" />
             </div>
             <div>
-              <h1 className="font-serif text-base font-bold tracking-wider text-stone-100 uppercase flex items-center gap-1">
-                RealMe <span className="text-[10px] font-mono font-medium text-amber-500 px-1 bg-amber-500/10 border border-amber-500/20 rounded">Turn {turnCount}</span>
+              <h1 className="font-serif text-base font-bold tracking-wider text-stone-100 uppercase flex items-center gap-1.5">
+                RealMe <span className="text-[10px] font-mono font-medium text-amber-500 px-1.5 bg-amber-500/10 border border-amber-500/20 rounded">Turn {turnCount}</span>
               </h1>
-              <p className="text-[10px] text-stone-400 uppercase tracking-widest font-semibold font-mono">
-                Sovereign Morning Alignment
+              <p className="text-[9px] text-stone-400 uppercase tracking-widest font-semibold font-mono">
+                Sovereign Life OS
               </p>
             </div>
           </div>
@@ -411,8 +358,8 @@ export default function App() {
             <span className="text-xs font-serif font-bold text-amber-400 tracking-wide uppercase">
               {new Date().toLocaleDateString(undefined, { weekday: "short", month: "short", day: "numeric" })}
             </span>
-            <div className="text-[9px] font-mono text-stone-400 uppercase tracking-wider">
-              {new Intl.DateTimeFormat(undefined, { hour: 'numeric', minute: 'numeric', hour12: true }).format(new Date())}
+            <div className="text-[9px] font-mono text-stone-500 uppercase tracking-wider">
+              2026 Turn
             </div>
           </div>
         </div>
@@ -421,40 +368,72 @@ export default function App() {
       {/* Main Container */}
       <main className="flex-1 w-full max-w-md mx-auto px-4 py-6 z-10 flex flex-col justify-start">
         
-        {/* STAGE 1: MORNING PREPARATION & CALIBRATION */}
+        {/* STAGE 1: MORNING PREPARATION & INTEL INPUT */}
         {appStage === "PREP" && (
           <div className="space-y-6 flex flex-col justify-between animate-fade-in">
+            
             {/* Visual greeting card */}
-            <div className="text-center py-6 px-4 bg-radial-[circle_at_center,rgba(120,53,15,0.1)_0%,transparent_100%] border-b border-stone-900">
+            <div className="text-center py-6 px-4 bg-radial-[circle_at_center,rgba(120,53,15,0.08)_0%,transparent_100%] border-b border-stone-900">
               <span className="text-xs font-mono text-amber-500 font-bold uppercase tracking-widest">
-                A New Day Dawns, Sire
+                Sovereign Morning Briefing
               </span>
-              <h2 className="font-serif text-3xl font-bold text-stone-100 mt-2 tracking-wide leading-tight">
-                Review the State of Your Provinces
+              <h2 className="font-serif text-2xl font-bold text-stone-100 mt-2 tracking-wide leading-tight">
+                Brief Your Grand Game Master
               </h2>
               <p className="text-xs text-stone-400 mt-2 max-w-xs mx-auto">
-                Evaluate your personal boundaries this morning. Be candid about where you feel strong and where you feel neglected.
+                No sliders. No numeric safety meters. Just high-agency narrative strategy mapping real-life responsibilities.
               </p>
             </div>
 
-            {/* Kingdom Interactive SVG Map */}
-            <KingdomMap
-              provinces={provinces}
-              activeProvinceId={activeProvinceId}
-              onSelectProvince={(id) => setActiveProvinceId(id)}
-              activeCampaignProvince={null}
+            {/* Realms Dashboard Grid Component */}
+            <RealmsDashboard
+              realms={INITIAL_REALMS}
+              activeRealmId={activeRealmId}
+              onSelectRealm={(id) => setActiveRealmId(id)}
+              activeCampaignRealm={null}
             />
 
-            {/* Current Selected Province Detail / Calibration panel */}
-            {activeProvinceId && (
-              <ProvinceDetailCard
-                province={provinces.find((p) => p.id === activeProvinceId)!}
-                onCalibrationChange={handleCalibrationChange}
-                canCalibrate={true}
-              />
-            )}
+            {/* Morning Intel TextArea */}
+            <div className="space-y-3 bg-stone-900/40 border border-stone-900 rounded-2xl p-4">
+              <div>
+                <span className="text-[9px] font-mono text-amber-500 uppercase tracking-widest font-bold">
+                  Sovereign Intelligence
+                </span>
+                <h4 className="font-serif text-base font-bold text-stone-200 mt-0.5">
+                  Declare Your Daily State
+                </h4>
+                <p className="text-xs text-stone-400 mt-0.5">
+                  Brief the Game Master on active work deadlines, fatigue levels, active household projects, budgets, or family priorities.
+                </p>
+              </div>
 
-            {/* Alignment Strategy Selector Component */}
+              <textarea
+                value={morningIntel}
+                onChange={(e) => setMorningIntel(e.target.value)}
+                placeholder="Sire, brief your advisor... (e.g., 'Intense code review delivery by noon today. Desk is a disaster, partner wants to connect tonight, and need to check my retirement tracking update.')"
+                className="w-full h-28 bg-stone-950 border border-stone-900 focus:border-amber-500/50 rounded-xl p-3 text-xs text-stone-200 placeholder-stone-600 focus:outline-none focus:ring-1 focus:ring-amber-500/15 transition-all resize-none"
+              />
+
+              {/* Inspiration Template Badges */}
+              <div className="space-y-1.5">
+                <span className="text-[9px] font-mono text-stone-500 uppercase tracking-wider block">
+                  Quick Turn Brief Templates (Click to apply):
+                </span>
+                <div className="flex flex-col gap-1.5">
+                  {SUGGESTED_TEMPLATES.map((tmpl, idx) => (
+                    <button
+                      key={idx}
+                      onClick={() => setMorningIntel(tmpl)}
+                      className="text-left text-[11px] text-stone-400 hover:text-amber-300 transition-colors bg-stone-950/60 p-2 border border-stone-900 rounded-lg block truncate cursor-pointer"
+                    >
+                      💡 {tmpl}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            </div>
+
+            {/* Turn Directive focus alignment selector */}
             <div className="bg-stone-900/40 border border-stone-900 rounded-2xl p-4">
               <AlignmentSelector
                 selectedAlignment={selectedAlignment}
@@ -462,19 +441,19 @@ export default function App() {
               />
             </div>
 
-            {/* Turn Draft Button */}
+            {/* Strategic Decree CTA Button */}
             <button
               onClick={handleDraftDecrees}
               id="draft-decrees-btn"
               className="w-full bg-gradient-to-r from-amber-600 via-amber-700 to-amber-950 hover:from-amber-500 hover:to-amber-900 text-stone-100 font-serif font-bold text-sm tracking-widest uppercase py-4 px-6 rounded-2xl border border-amber-500/40 hover:border-amber-400/80 shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center gap-2 cursor-pointer group"
             >
-              <span>Draft Sovereign Decree</span>
+              <span>Consult Game Master</span>
               <ChevronRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
             </button>
           </div>
         )}
 
-        {/* STAGE 2: DECISION MAP & RECOMMENDED MOVES */}
+        {/* STAGE 2: DECISION MAP & MOVES REPORT */}
         {appStage === "DECISION" && (
           <div className="space-y-6 animate-fade-in">
             {loadingDecree ? (
@@ -486,24 +465,25 @@ export default function App() {
                 </div>
                 <div>
                   <h3 className="font-serif text-lg font-bold text-amber-500 uppercase tracking-widest">
-                    Consulting the Advisor...
+                    Consulting High Advisor...
                   </h3>
                   <p className="text-xs text-stone-400 max-w-xs mx-auto mt-1 italic">
-                    "Sire, the Grand Advisor compiles today's alignment matrix based on your current province stats and alignment..."
+                    "Sire, the High Advisor interprets your real life signals, identifying stagnations and charting today's single most meaningful campaign..."
                   </p>
                 </div>
               </div>
             ) : (
-              /* Live Strategic Dashboard */
+              /* Live Turn Decision Dashboard */
               <div className="space-y-5">
-                {/* Advisor's Decree Panel */}
-                <div className="bg-stone-900/60 border border-stone-800 rounded-2xl p-4.5 relative overflow-hidden">
-                  <div className="absolute top-0 right-0 p-3 opacity-15">
-                    <Crown className="w-16 h-16 text-amber-500" />
+                
+                {/* Advisor's Grand Narrative Decree Panel */}
+                <div className="bg-stone-900/60 border border-stone-800 rounded-2xl p-5 relative overflow-hidden">
+                  <div className="absolute top-0 right-0 p-3 opacity-10">
+                    <Crown className="w-20 h-20 text-amber-500" />
                   </div>
                   <div className="flex flex-wrap items-center gap-2 justify-between">
                     <span className="text-[9px] font-mono uppercase tracking-widest text-amber-500/80 font-bold bg-amber-500/10 px-2 py-0.5 border border-amber-500/10 rounded">
-                      Vizier's Morning Report
+                      Game Master Narration
                     </span>
                     {isFallbackActive && (
                       <span className="text-[9px] font-mono uppercase tracking-widest text-amber-400 font-bold bg-amber-950/60 px-2 py-0.5 border border-amber-500/30 rounded animate-pulse">
@@ -518,7 +498,7 @@ export default function App() {
                     </div>
                   )}
 
-                  <h3 className="font-serif text-xl font-bold text-amber-400 mt-2.5 tracking-wide">
+                  <h3 className="font-serif text-xl font-bold text-amber-400 mt-3 tracking-wide">
                     {advisorDecree?.decreeTitle}
                   </h3>
                   <p className="text-xs text-stone-200 mt-2.5 leading-relaxed italic">
@@ -526,99 +506,176 @@ export default function App() {
                   </p>
                 </div>
 
-                {/* Main Interactive Map Grid */}
-                <div className="py-2">
-                  <KingdomMap
-                    provinces={provinces}
-                    activeProvinceId={activeProvinceId}
-                    onSelectProvince={(id) => setActiveProvinceId(id)}
-                    activeCampaignProvince={activeCampaignProvince}
+                {/* Key Friction Points block */}
+                {advisorDecree?.keyFrictionPoints && (
+                  <div className="bg-red-950/20 border border-red-900/30 rounded-xl p-4 flex gap-3 items-start">
+                    <AlertCircle className="w-5 h-5 text-red-400 shrink-0 mt-0.5" />
+                    <div>
+                      <h5 className="text-[10px] font-mono font-bold text-red-400 uppercase tracking-wider">
+                        Active Friction Blockade
+                      </h5>
+                      <p className="text-xs text-stone-200 mt-1 leading-relaxed">
+                        {advisorDecree.keyFrictionPoints}
+                      </p>
+                    </div>
+                  </div>
+                )}
+
+                {/* Interactive Realms Dashboard showing the 6 realms */}
+                <div className="py-1">
+                  <div className="flex justify-between items-center mb-2 px-1">
+                    <span className="text-[9px] font-mono uppercase tracking-widest text-stone-400">
+                      Select Realm to inspect Advisor state:
+                    </span>
+                  </div>
+                  <RealmsDashboard
+                    realms={INITIAL_REALMS}
+                    activeRealmId={activeRealmId}
+                    onSelectRealm={(id) => setActiveRealmId(id)}
+                    activeCampaignRealm={activeCampaignRealm}
+                    advisorComments={advisorDecree?.realmsStatus}
                   />
                 </div>
 
-                {/* Selected Node Status Evaluator */}
-                {activeProvinceId && (
-                  <ProvinceDetailCard
-                    province={provinces.find((p) => p.id === activeProvinceId)!}
-                    onCalibrationChange={handleCalibrationChange}
-                    canCalibrate={false}
-                    advisorComment={
-                      activeProvinceId === "citadel" ? advisorDecree?.provincesStatus.citadel :
-                      activeProvinceId === "trainingGrounds" ? advisorDecree?.provincesStatus.trainingGrounds :
-                      activeProvinceId === "forge" ? advisorDecree?.provincesStatus.forge :
-                      advisorDecree?.provincesStatus.sanctuary
-                    }
-                  />
-                )}
+                {/* Question Headline */}
+                <div className="text-center py-4 bg-gradient-to-r from-amber-500/5 via-amber-500/10 to-amber-500/5 border-y border-stone-900/80 my-2">
+                  <h3 className="font-serif text-base font-bold text-stone-100 uppercase tracking-wider">
+                    “What is the most meaningful move I can make today?”
+                  </h3>
+                  <p className="text-[10px] text-stone-400 font-mono mt-1">
+                    Commit to one clear strategy to dissolve daily complexity.
+                  </p>
+                </div>
 
-                {/* Tactical Moves Section */}
-                <div className="space-y-3">
-                  <div className="flex items-center justify-between px-1">
-                    <span className="text-[10px] font-mono text-stone-400 uppercase tracking-widest font-bold">
-                      The Strategic Recommendations
-                    </span>
-                    <span className="text-[10px] font-mono text-amber-500 uppercase tracking-widest font-semibold flex items-center gap-1">
-                      <span className="w-1.5 h-1.5 rounded-full bg-amber-500 animate-pulse" /> Select Exactly One
-                    </span>
-                  </div>
+                {/* Meaningful Moves - Primacy of recommendedAction, alternatives listed below */}
+                <div className="space-y-4">
+                  
+                  {/* Recommended action (The central hero move) */}
+                  {advisorDecree?.recommendedAction && (
+                    <div className="space-y-2">
+                      <span className="text-[10px] font-mono text-amber-500 uppercase tracking-widest font-black block pl-1">
+                        👑 Game Master's Highest Leverage Move
+                      </span>
+                      {(() => {
+                        const move = advisorDecree.recommendedAction;
+                        const isSelected = selectedMove?.title === move.title;
+                        const mappedId = getRealmIdByLabel(move.realm);
+                        const realmColor = INITIAL_REALMS.find(r => r.id === mappedId)?.accentColor || "#d97706";
 
-                  <div className="grid grid-cols-1 gap-2.5">
-                    {advisorDecree?.meaningfulMoves.map((move, index) => {
-                      const isSelected = selectedMove?.title === move.title;
-                      const mappedId = getProvinceIdByLabel(move.province);
-                      const provColor = provinces.find(p => p.id === mappedId)?.accentColor || "#d97706";
+                        return (
+                          <button
+                            onClick={() => handleSelectMove(move)}
+                            id="recommended-move-btn"
+                            className={`w-full text-left p-5 rounded-2xl border transition-all duration-300 relative flex flex-col justify-between cursor-pointer ${
+                              isSelected
+                                ? "bg-amber-950/20 border-amber-500 shadow-xl shadow-amber-950/40 scale-[1.01]"
+                                : "bg-stone-900 border-stone-800/80 hover:bg-stone-900/80 hover:border-stone-700"
+                            }`}
+                          >
+                            <div 
+                              className="absolute left-0 top-0 bottom-0 w-1.5 rounded-l-2xl"
+                              style={{ backgroundColor: realmColor }}
+                            />
 
-                      return (
-                        <button
-                          key={index}
-                          onClick={() => handleSelectMove(move)}
-                          id={`tactical-move-btn-${index}`}
-                          className={`w-full text-left p-4 rounded-xl border transition-all duration-300 relative flex flex-col justify-between ${
-                            isSelected
-                              ? "bg-amber-950/20 border-amber-600/80 shadow-lg shadow-black/30"
-                              : "bg-stone-900/40 border-stone-800/80 hover:bg-stone-900/70"
-                          }`}
-                        >
-                          {/* Left Border Accent color matches province */}
-                          <div 
-                            className="absolute left-0 top-0 bottom-0 w-1 rounded-l-xl"
-                            style={{ backgroundColor: isSelected ? "#f59e0b" : provColor }}
-                          />
-
-                          {/* Move Header */}
-                          <div className="flex justify-between items-start gap-2 w-full pl-1">
-                            <div>
-                              <span 
-                                className="text-[9px] font-mono font-bold uppercase tracking-widest"
-                                style={{ color: provColor }}
-                              >
-                                {move.province} Edict
+                            <div className="flex justify-between items-start gap-2 w-full pl-2">
+                              <div>
+                                <span 
+                                  className="text-[10px] font-mono font-bold uppercase tracking-widest px-1.5 py-0.5 rounded bg-stone-950 border border-stone-900 inline-block"
+                                  style={{ color: realmColor }}
+                                >
+                                  ⚔ {move.realm} Domain
+                                </span>
+                                <h4 className="font-serif text-base font-bold text-stone-100 mt-2">
+                                  {move.title}
+                                </h4>
+                              </div>
+                              <span className="text-[8px] font-mono text-amber-950 bg-amber-400 px-2 py-0.5 rounded-full uppercase font-bold tracking-widest shadow-inner shrink-0">
+                                Recommended
                               </span>
-                              <h4 className="font-serif text-sm font-bold text-stone-100 mt-0.5">
-                                {move.title}
-                              </h4>
                             </div>
-                            {isSelected && (
-                              <span className="text-[9px] font-mono text-amber-400 bg-amber-500/20 px-1.5 py-0.5 rounded uppercase font-semibold tracking-widest">
-                                Target Move
-                              </span>
-                            )}
-                          </div>
 
-                          {/* Move Body */}
-                          <p className="text-stone-300 text-[11px] leading-relaxed mt-2 pl-1">
-                            {move.description}
-                          </p>
+                            <p className="text-stone-200 text-xs leading-relaxed mt-3 pl-2">
+                              {move.description}
+                            </p>
 
-                          {/* Move Footer Stats */}
-                          <div className="flex justify-between items-center mt-3 pt-2 border-t border-stone-800/40 pl-1 text-[10px] font-mono text-stone-400">
-                            <span className="text-emerald-400 font-semibold">{move.impact}</span>
-                            <span className="italic text-stone-500">{move.cost}</span>
-                          </div>
-                        </button>
-                      );
-                    })}
-                  </div>
+                            <div className="flex justify-between items-center mt-4 pt-3 border-t border-stone-800 pl-2 text-[11px] font-mono">
+                              <span className="text-emerald-400 font-bold">{move.impact}</span>
+                              <span className="italic text-stone-400">{move.cost}</span>
+                            </div>
+                          </button>
+                        );
+                      })()}
+                    </div>
+                  )}
+
+                  {/* Alternative Tactical options */}
+                  {advisorDecree?.alternativeMoves && advisorDecree.alternativeMoves.length > 0 && (
+                    <div className="space-y-2 pt-2">
+                      <span className="text-[10px] font-mono text-stone-500 uppercase tracking-widest block pl-1 font-semibold">
+                        Alternative Tactical Pivots
+                      </span>
+                      <div className="grid grid-cols-1 gap-2.5">
+                        {advisorDecree.alternativeMoves.map((move, index) => {
+                          const isSelected = selectedMove?.title === move.title;
+                          const mappedId = getRealmIdByLabel(move.realm);
+                          const realmColor = INITIAL_REALMS.find(r => r.id === mappedId)?.accentColor || "#d97706";
+
+                          return (
+                            <button
+                              key={index}
+                              onClick={() => handleSelectMove(move)}
+                              id={`alternative-move-btn-${index}`}
+                              className={`w-full text-left p-4 rounded-xl border transition-all duration-300 relative flex flex-col justify-between cursor-pointer ${
+                                isSelected
+                                  ? "bg-amber-950/20 border-amber-600/80 shadow-md shadow-black/20"
+                                  : "bg-stone-900/40 border-stone-800/80 hover:bg-stone-900/70"
+                              }`}
+                            >
+                              <div 
+                                className="absolute left-0 top-0 bottom-0 w-1 rounded-l-xl"
+                                style={{ backgroundColor: isSelected ? "#f59e0b" : realmColor }}
+                              />
+
+                              <div className="flex justify-between items-start gap-2 w-full pl-1">
+                                <div>
+                                  <span 
+                                    className="text-[9px] font-mono font-bold uppercase tracking-widest"
+                                    style={{ color: realmColor }}
+                                  >
+                                    {move.realm} Route
+                                  </span>
+                                  <h4 className="font-serif text-sm font-bold text-stone-100 mt-0.5">
+                                    {move.title}
+                                  </h4>
+                                </div>
+                                {isSelected && (
+                                  <span className="text-[9px] font-mono text-amber-400 bg-amber-500/20 px-1.5 py-0.5 rounded uppercase font-semibold tracking-widest">
+                                    Sovereign Chosen
+                                  </span>
+                                )}
+                              </div>
+
+                              <p className="text-stone-300 text-[11px] leading-relaxed mt-2 pl-1">
+                                {move.description}
+                              </p>
+
+                              <div className="flex justify-between items-center mt-3 pt-2 border-t border-stone-800/40 pl-1 text-[10px] font-mono text-stone-400">
+                                <span className="text-emerald-400 font-semibold">{move.impact}</span>
+                                <span className="italic text-stone-500">{move.cost}</span>
+                              </div>
+                            </button>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  )}
+
+                  {/* Closing Motivation Line */}
+                  {advisorDecree?.closingMotivation && (
+                    <p className="text-[11px] text-stone-400 text-center italic mt-4 px-4 leading-normal">
+                      "{advisorDecree.closingMotivation}"
+                    </p>
+                  )}
                 </div>
 
                 {/* Action CTA Block */}
@@ -630,13 +687,13 @@ export default function App() {
                       className="w-full bg-amber-500 hover:bg-amber-400 text-stone-950 font-serif font-black text-sm tracking-widest uppercase py-4 px-6 rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-300 flex items-center justify-center gap-2 cursor-pointer"
                     >
                       <Bookmark className="w-4 h-4 fill-stone-950" />
-                      <span>Affix Sovereign Seal & Begin Move</span>
+                      <span>Affix Sovereign Seal & Begin Campaign</span>
                     </button>
                     <button
                       onClick={() => setAppStage("PREP")}
-                      className="w-full mt-2.5 text-stone-500 hover:text-stone-300 font-mono text-[10px] uppercase tracking-widest py-1 transition-colors"
+                      className="w-full mt-2.5 text-stone-500 hover:text-stone-300 font-mono text-[10px] uppercase tracking-widest py-1 transition-colors cursor-pointer"
                     >
-                      ← Re-Calibrate Province Borders
+                      ← Re-Brief the Game Master
                     </button>
                   </div>
                 )}
@@ -645,37 +702,38 @@ export default function App() {
           </div>
         )}
 
-        {/* STAGE 3: EXECUTION / MOVE RUNNING PHASE */}
+        {/* STAGE 3: ACTIVE CAMPAIGN / MOVE IN PROGRESS */}
         {appStage === "EXECUTION" && activeMove && (
           <div className="space-y-6 animate-fade-in py-4">
+            
             {/* Focal Header card */}
             <div className="text-center space-y-2 py-4 relative">
               <span className="text-[10px] font-mono text-amber-500 uppercase tracking-widest font-black bg-amber-500/10 px-2.5 py-1 border border-amber-500/10 rounded">
-                Active Strategic Campaign
+                Active Turn Focus
               </span>
               <h2 className="font-serif text-2xl font-bold text-stone-100 tracking-wide pt-1">
                 {activeMove.title}
               </h2>
               <p className="text-xs text-stone-400 max-w-xs mx-auto">
-                The Crown's focus is dedicated solely to this single task. Complete it offline with absolute concentration.
+                Your Grace, you are currently engaged in a high-leverage move. Focus completely offline.
               </p>
             </div>
 
-            {/* Main Interactive Map in focus-shrunk state */}
+            {/* Realms view in focus state */}
             <div className="opacity-70 scale-90 select-none py-1 pointer-events-none">
-              <KingdomMap
-                provinces={provinces}
-                activeProvinceId={getProvinceIdByLabel(activeMove.province)}
-                onSelectProvince={() => {}}
-                activeCampaignProvince={activeMove.province}
+              <RealmsDashboard
+                realms={INITIAL_REALMS}
+                activeRealmId={getRealmIdByLabel(activeMove.realm)}
+                onSelectRealm={() => {}}
+                activeCampaignRealm={activeMove.realm}
               />
             </div>
 
-            {/* Instructions box */}
+            {/* Strategic instructions */}
             <div className="bg-stone-900/60 border border-stone-800 rounded-2xl p-5 shadow-xl space-y-4">
               <div>
                 <span className="text-[9px] font-mono text-amber-500/80 uppercase tracking-widest font-bold">
-                  Sovereign Instructions
+                  Sovereign Action Protocol
                 </span>
                 <p className="text-stone-200 text-xs leading-relaxed mt-1">
                   {activeMove.description}
@@ -685,15 +743,15 @@ export default function App() {
               <div className="grid grid-cols-2 gap-4 pt-3 border-t border-stone-800/60 text-xs">
                 <div>
                   <span className="text-[9px] font-mono text-stone-500 uppercase tracking-wider block">
-                    Strategic Outcome
+                    Strategic Realm
                   </span>
                   <span className="text-emerald-400 font-mono font-bold mt-0.5 block">
-                    {activeMove.impact}
+                    {activeMove.realm}
                   </span>
                 </div>
                 <div>
                   <span className="text-[9px] font-mono text-stone-500 uppercase tracking-wider block">
-                    Committed Resource
+                    Committed Cost
                   </span>
                   <span className="text-amber-500 font-mono font-bold mt-0.5 block">
                     {activeMove.cost}
@@ -702,10 +760,10 @@ export default function App() {
               </div>
             </div>
 
-            {/* Focused Timer Clock */}
+            {/* High Impact Timer */}
             <div className="p-6 bg-stone-950 border border-stone-900 rounded-2xl text-center space-y-2.5">
               <div className="flex items-center justify-center gap-1.5 text-stone-400">
-                <Timer className="w-4.5 h-4.5 text-amber-500 animate-pulse" />
+                <Timer className="w-4.5 h-4.5 text-amber-500" />
                 <span className="text-[10px] font-mono uppercase tracking-widest font-semibold">
                   Campaign Duration
                 </span>
@@ -718,16 +776,16 @@ export default function App() {
               </p>
             </div>
 
-            {/* Chroniclers' Scroll (Reflection Box) */}
+            {/* Chroniclers' Scroll (Notes Box) */}
             <div className="space-y-2">
               <label className="text-[10px] font-mono text-stone-400 uppercase tracking-widest font-bold block pl-1">
-                The Chroniclers' Scroll (Notes & Reflection)
+                The Chronicle Scroll (Insights & Reflections)
               </label>
               <textarea
                 value={journalEntry}
                 onChange={(e) => setJournalEntry(e.target.value)}
-                placeholder="What occurred during your reign's effort? Log insights, blocks, or thoughts..."
-                className="w-full h-24 bg-stone-900/40 border border-stone-800 hover:border-stone-700 focus:border-amber-500/50 rounded-xl p-3 text-xs text-stone-200 placeholder-stone-600 focus:outline-none focus:ring-1 focus:ring-amber-500/20 transition-all resize-none"
+                placeholder="Sire, log your insights, obstacles overcome, or strategic notes on today's move..."
+                className="w-full h-24 bg-stone-900/40 border border-stone-800 hover:border-stone-700 focus:border-amber-500/50 rounded-xl p-3 text-xs text-stone-200 placeholder-stone-600 focus:outline-none focus:ring-1 focus:ring-amber-500/15 transition-all resize-none"
               />
             </div>
 
@@ -745,6 +803,7 @@ export default function App() {
         {/* STAGE 4: TURN CONCLUDED / RECONCILED VIEW */}
         {appStage === "RECONCILED" && (
           <div className="space-y-6 animate-fade-in py-4 text-center">
+            
             {/* Victory Badge */}
             <div className="inline-flex w-16 h-16 rounded-full bg-emerald-950/40 border border-emerald-500/30 items-center justify-center shadow-lg shadow-emerald-950/20 mb-1">
               <Award className="w-8 h-8 text-emerald-400 animate-bounce" />
@@ -752,32 +811,32 @@ export default function App() {
 
             <div className="space-y-1">
               <span className="text-xs font-mono text-emerald-400 uppercase tracking-widest font-bold">
-                Campaign Victorious
+                Turn Concluded Successfully
               </span>
               <h2 className="font-serif text-3xl font-bold text-stone-100 tracking-wide">
                 The Turn is Sealed
               </h2>
               <p className="text-xs text-stone-400 max-w-xs mx-auto">
-                Your tactical move has successfully concluded. Your provinces report increased resilience, strengthening your boundaries.
+                Your tactical decision has been executed. The chronicles have been written, and your realms stand aligned and defended.
               </p>
             </div>
 
-            {/* Map demonstrating new stability values */}
+            {/* Realms grid in passive state */}
             <div className="py-2">
-              <KingdomMap
-                provinces={provinces}
-                activeProvinceId={null}
-                onSelectProvince={() => {}}
-                activeCampaignProvince={null}
+              <RealmsDashboard
+                realms={INITIAL_REALMS}
+                activeRealmId={null}
+                onSelectRealm={() => {}}
+                activeCampaignRealm={null}
               />
             </div>
 
-            {/* Recurrent review box */}
+            {/* Reconciled review block */}
             {logs[0] && (
-              <div className="bg-stone-900/60 border border-stone-800 rounded-2xl p-4.5 text-left space-y-3.5 max-w-sm mx-auto">
+              <div className="bg-stone-900/60 border border-stone-800 rounded-2xl p-5 text-left space-y-3.5 max-w-sm mx-auto">
                 <div>
                   <span className="text-[9px] font-mono text-stone-500 uppercase tracking-widest block">
-                    Recorded Edict
+                    Turn Decree Edict
                   </span>
                   <span className="font-serif text-sm font-bold text-stone-100 block">
                     {logs[0].decreeTitle}
@@ -785,59 +844,54 @@ export default function App() {
                 </div>
                 <div>
                   <span className="text-[9px] font-mono text-stone-500 uppercase tracking-widest block">
-                    Meaningful Move Finished
+                    Meaningful Move Executed
                   </span>
                   <span className="text-stone-300 text-xs font-semibold block mt-0.5">
-                    {logs[0].selectedMove.title} ({logs[0].selectedMove.province})
+                    {logs[0].selectedMove.title} ({logs[0].selectedMove.realm})
                   </span>
+                  <p className="text-[11px] text-stone-400 leading-normal mt-0.5">
+                    {logs[0].selectedMove.description}
+                  </p>
                 </div>
                 {logs[0].outcomeNotes && (
                   <div>
                     <span className="text-[9px] font-mono text-stone-500 uppercase tracking-widest block">
-                      Chronicler's Notes
+                      Sovereign Insights Logged
                     </span>
                     <p className="text-stone-300 text-xs italic leading-relaxed mt-1">
                       "{logs[0].outcomeNotes}"
                     </p>
                   </div>
                 )}
-                <div className="pt-2 border-t border-stone-800/60">
-                  <span className="text-[9px] font-mono text-stone-500 uppercase tracking-widest block mb-1">
-                    Province Stability Restored
+                <div className="pt-2.5 border-t border-stone-800/60 flex justify-between items-center">
+                  <span className="text-[9px] font-mono text-emerald-400 font-bold uppercase">
+                    ★ Realm aligned
                   </span>
-                  <div className="flex flex-wrap gap-2">
-                    {Object.entries(logs[0].stabilityAdjustments || {}).map(([key, val]) => {
-                      if (val === 0) return null;
-                      const pName = key === "citadel" ? "Citadel" : key === "trainingGrounds" ? "Training Grounds" : key === "forge" ? "Forge" : "Sanctuary";
-                      return (
-                        <span key={key} className="text-[9px] font-mono bg-emerald-950/40 border border-emerald-500/20 text-emerald-400 px-1.5 py-0.5 rounded">
-                          {pName} +{val}%
-                        </span>
-                      );
-                    })}
-                  </div>
+                  <span className="text-[9px] font-mono text-stone-500">
+                    Sealed @ {logs[0].completedAt}
+                  </span>
                 </div>
               </div>
             )}
 
-            {/* Conclude and hold action */}
+            {/* Complete turn and hold action */}
             <div className="pt-4">
               <button
                 onClick={handleBeginNewTurn}
                 id="begin-new-turn-btn"
                 className="w-full bg-amber-500 hover:bg-amber-400 text-stone-950 font-serif font-black text-sm tracking-widest uppercase py-4 px-6 rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-300 flex items-center justify-center gap-2 cursor-pointer"
               >
-                <span>Settle Realm & Await Tomorrow</span>
+                <span>Settle Realms & Await Tomorrow</span>
               </button>
             </div>
           </div>
         )}
 
-        {/* IMPERIAL CHRONICLES / HISTORY SECTION */}
+        {/* THE IMPERIAL CHRONICLES / TURN HISTORY SECTION */}
         {logs.length > 0 && (
           <div className="mt-12 pt-8 border-t border-stone-900 space-y-4">
-            <div className="flex items-center gap-2 pl-1">
-              <FileText className="w-4 h-4 text-amber-500" />
+            <div className="flex items-center gap-2.5 pl-1">
+              <Scroll className="w-4 h-4 text-amber-500" />
               <h3 className="font-serif text-sm font-bold text-stone-200 tracking-wider uppercase">
                 The Imperial Chronicles
               </h3>
@@ -848,7 +902,7 @@ export default function App() {
                 <div 
                   key={index} 
                   id={`chronicle-item-${index}`}
-                  className="bg-stone-950 border border-stone-900 hover:border-stone-800 transition-all rounded-xl p-3.5 space-y-2.5 text-left"
+                  className="bg-stone-950 border border-stone-900 hover:border-stone-800 transition-all rounded-xl p-4 space-y-2.5 text-left"
                 >
                   <div className="flex justify-between items-center text-xs">
                     <span className="font-serif font-bold text-amber-500">
@@ -859,16 +913,16 @@ export default function App() {
                     </span>
                   </div>
 
-                  <p className="text-stone-300 text-[11px] leading-relaxed">
-                    {log.outcomeNotes}
+                  <p className="text-stone-300 text-[11px] leading-relaxed italic">
+                    "{log.outcomeNotes}"
                   </p>
 
-                  <div className="flex justify-between items-center text-[9px] font-mono pt-1.5 border-t border-stone-900">
+                  <div className="flex justify-between items-center text-[9px] font-mono pt-2 border-t border-stone-900">
                     <span className="text-stone-500">
                       Decree: <span className="text-stone-400">{log.decreeTitle}</span>
                     </span>
-                    <span className="text-emerald-400 font-semibold uppercase">
-                      +{log.selectedMove.province} Restored
+                    <span className="text-amber-400 font-semibold uppercase">
+                      {log.selectedMove.realm} Aligned
                     </span>
                   </div>
                 </div>
@@ -878,11 +932,11 @@ export default function App() {
         )}
       </main>
 
-      {/* Royal footer */}
-      <footer className="border-t border-stone-900 bg-stone-950 py-6 text-center text-[10px] font-mono text-stone-600 mt-12 z-10">
+      {/* Sovereign footer */}
+      <footer className="border-t border-stone-900 bg-stone-950 py-8 text-center text-[10px] font-mono text-stone-600 mt-12 z-10">
         <div className="max-w-md mx-auto space-y-1">
-          <p>© 2026 RealMe App. All borders are safe and sovereign.</p>
-          <p>Designed with desktop precision and high-contrast light-eye styling.</p>
+          <p>© 2026 RealMe OS. All domains are aligned, safe, and sovereign.</p>
+          <p>No fantasy numbers. Real life, strategically commanded.</p>
         </div>
       </footer>
     </div>
