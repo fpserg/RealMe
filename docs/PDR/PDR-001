@@ -1,0 +1,25 @@
+# PDR-001 — RealMe is a Life Operating System
+
+## Status
+
+Accepted
+
+## Problem
+
+Traditional productivity apps manage tasks.
+
+They do not help the user understand, prioritize and navigate life as a whole.
+
+## Decision
+
+RealMe models life as a collection of interconnected Realms.
+
+The objective is not task completion.
+
+The objective is helping the Warden govern the Realm.
+
+## Consequences
+
+Features should improve clarity, judgment and continuity.
+
+Task management is only one capability of the system.
