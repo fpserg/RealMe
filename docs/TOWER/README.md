@@ -10,3 +10,7 @@ Objectives
 - Detect leaks.
 - Forecast sustainability.
 - Advise the Architect.
+
+Process
+
+- 
