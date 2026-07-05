@@ -57,3 +57,15 @@ The extraordinary hides inside ordinary things until someone learns to notice.
 Every map is incomplete.
 
 The purpose of the map is navigation, not certainty.
+
+## The Law of the Open Road
+
+Do not count stones.
+
+Walk while the road is open.
+
+When conditions align, advance as far as they naturally allow.
+
+When the road is blocked, acknowledge the blocker, leave the site, and continue elsewhere.
+
+RealMe values continuity of movement, not artificial consistency.
