@@ -1,4 +1,4 @@
-#  Day 13 - Day Before Vacation
+#  Day 13 - Observatory Awakens
 
 ## 🌤️ Realm Weather
 
