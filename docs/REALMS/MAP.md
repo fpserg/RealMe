@@ -6,7 +6,7 @@ _Last updated: 2026-07-07_
 
 # 🏰 Citadel
 
-Roles
+**Roles**
 
 - 🎙️ Voice
 - 🛡️ Steward
@@ -18,7 +18,7 @@ Roles
 
 # 💼 Career
 
-Districts
+**Districts**
 
 ## 🔬 Research
 
@@ -31,7 +31,7 @@ Campaigns
 
 ## 👥 Leadership
 
-Campaigns
+**Campaigns**
 
 - Hiring
 - Team
@@ -39,14 +39,14 @@ Campaigns
 
 ## 🤝 Franchise
 
-Campaigns
+**Campaigns**
 
 - Client Calls
 - Presentations
 
 ## ⚒ Craft
 
-Campaigns
+**Campaigns**
 
 - RealMe
 - AI Workflows
@@ -54,7 +54,7 @@ Campaigns
 
 ## 🌱 Growth
 
-Campaigns
+**Campaigns**
 
 - Gaming Analytics
 - Product Thinking
@@ -63,7 +63,7 @@ Campaigns
 
 # 🏡 Household
 
-Campaigns
+**Campaigns**
 
 - Family
 - Kids
@@ -73,7 +73,7 @@ Campaigns
 
 # 🏠 Stronghold
 
-Campaigns
+**Campaigns**
 
 - Bathroom
 - Kitchen
@@ -83,7 +83,7 @@ Campaigns
 
 # 🏰 Tower
 
-Campaigns
+**Campaigns**
 
 - Observatory
 - GIFTED
