@@ -315,102 +315,101 @@ Sometimes restoration is complete not when new ideas appear, but when none are r
 
 ---
 
-📜 Chronicles — Day 13
+# 📜 Chronicles — Day 13
 
-🌤️ Realm Weather
+## 🌤️ Realm Weather
 
-Overall: Sunny. Progress was driven more by strategic understanding than by the number of completed tasks.
+**Overall:** Sunny. Progress was driven more by strategic understanding than by the number of completed tasks.
 
-⸻
+---
 
-💼 Career Realm
+## 💼 Career Realm
 
-* Final office day before vacation approaching.
-* Vacation successfully negotiated.
-* Focus shifts from execution to orderly handover.
-* Remaining action: contact HR regarding the Oil & Gas analyst position.
+- Final office day before vacation approaching.
+- Vacation successfully negotiated.
+- Focus shifts from execution to orderly handover.
+- Remaining action: contact HR regarding the Oil & Gas analyst position.
 
-Weather: 🌤️ Calm.
+**Weather:** 🌤️ Calm.
 
-⸻
+---
 
-🏡 Household Realm
+## 🏡 Household Realm
 
-* Household remained warm and supportive.
-* Alisa and Sergey received their first pocket money — a small but memorable family milestone.
-* Oksi continues to enjoy planning the Stronghold.
+- Household remained warm and supportive.
+- Alisa and Sergey received their first pocket money — a small but memorable family milestone.
+- Oksi continues to enjoy planning the Stronghold.
 
-Weather: ☀️ Sunny.
+**Weather:** ☀️ Sunny.
 
-⸻
+---
 
-🏠 Stronghold Realm
+## 🏠 Stronghold Realm
 
 Progress continues toward weekend inhabitation.
 
-Completed / in progress:
-
-* Plumbing visit scheduled.
-* Toilet installation path opened.
-* Sink installation path opened.
+**Completed / In Progress:**
+- Plumbing visit scheduled.
+- Toilet installation path opened.
+- Sink installation path opened.
 
 The Stronghold is approaching the point where it becomes usable rather than merely under construction.
 
-Weather: 🌞 Promising.
+**Weather:** 🌞 Promising.
 
-⸻
+---
 
-🏰 Tower Realm
+## 🏰 Tower Realm
 
 A productive strategic discussion took place.
 
-Main insight:
+### Main Insight
 
-* NFTs should preferably be converted into non-withdrawable prestige and achievement systems rather than additional Treasury liabilities.
+NFTs should preferably be converted into **non-withdrawable prestige and achievement systems** rather than additional Treasury liabilities.
 
 Examples discussed:
 
-* achievements;
-* monuments;
-* clan prestige;
-* persistent player identity.
+- Achievements
+- Monuments
+- Clan prestige
+- Persistent player identity
 
 Alex generally supported the direction while realistically placing it after current priorities.
 
-Potential Treasury leakage from the proposed mechanic appears to have been avoided.
+A potential Treasury leakage from the proposed mechanic appears to have been avoided.
 
-Weather: 🌤️ Strategic progress.
+**Weather:** 🌤️ Strategic progress.
 
-⸻
+---
 
-🔭 Observatory Realm
+## 🔭 Observatory Realm
 
 The Observatory reached an important conceptual milestone.
 
-Mission refined:
+### Mission
 
-Data → Questions → Insights → Decisions
+**Data → Questions → Insights → Decisions**
 
 The Observatory is no longer viewed as a dashboard project but as a decision-support institution.
 
-⸻
+---
 
-🏰 Citadel Realm
+## 🏰 Citadel Realm
 
 The internal structure of the Citadel evolved.
 
-Current residents:
+### Current Residents
 
-* 👑 Warden
-* 🏗️ Architect
-* 🛡️ Steward
-* 🔭 Observer
-* 🎙️ Voice
+- 👑 Warden
+- 🏗️ Architect
+- 🛡️ Steward
+- 🔭 Observer
+- 🎙️ Voice
 
 Morning rituals are now activated naturally rather than by explicitly addressing each role.
 
-⸻
+---
 
-💎 Stone of the Day
+## 💎 Stone of the Day
 
-The Observatory exists to improve decisions, not to produce dashboards.
+> **The Observatory exists to improve decisions, not to produce dashboards.**
