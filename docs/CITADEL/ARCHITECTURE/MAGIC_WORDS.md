@@ -1,111 +1,156 @@
-# 🪄 Magic Words
-
-Magic Words activate recurring workflows inside RealMe without requiring additional explanation.
-
 ---
 
-## 🌅 Morning Serpent
+# 🌍 RealMe Interface
+
+## 🌍 RealMe
 
 Purpose:
 
-- Morning reflection
-- Today's weather across Realms
-- Today's Stones
-- Chronicles
-- Weekly / Monthly reports (when applicable)
+Enter RealMe.
+
+Displays the current World Map and allows navigation through Realms.
 
 ---
 
-## ☀️ What belongs to today?
+## 📅 Today
 
 Purpose:
 
-Activates all relevant Citadel roles.
+Display today's briefing from inside RealMe.
 
-Possible participants:
+Includes:
 
-- 🎙️ Voice
-- 🛡️ Steward
-- 🏗️ Architect
-- 🔭 Observer
-
-Each contributes today's perspective.
-
----
-
-## 🌇 Evening Serpent
-
-Purpose:
-
-Mid-course review.
-
-Focus:
-
-- progress
-- new information
-- changing priorities
-
----
-
-## 🌙 Night Watch
-
-Purpose:
-
-End-of-day reflection.
-
-Focus:
-
-- meaning
-- lessons learned
+- active campaigns
+- today's quests
 - Realm weather
-- strategic thinking
+- Citadel observations
 
 ---
 
-## 🔥 Fireside Talk
+## 📥 Living Inbox
 
 Purpose:
 
-Open philosophical conversation.
+Capture reality.
 
-No agenda.
+Anything written after entering Living Inbox becomes raw world input.
 
-No productivity pressure.
+The Citadel determines whether it belongs to:
 
-Ideas, stories and reflections.
+- Realm
+- Campaign
+- Quest
+- Chronicle
+- Pattern
+- Weather
+- or simply memory.
 
 ---
 
-## 📚 Tower Library
+## ⬅️ Back
 
 Purpose:
 
-Resume construction of the Tower knowledge base.
+Return one level up inside RealMe.
 
-Returns the current Tower Library roadmap until completed.
-
-Deactivates after:
-
-> Tower Library done
+Does not leave application mode.
 
 ---
 
-## 🌱 Repository Gardening
+## 🚪 Quit
 
 Purpose:
 
-Review and improve the GitHub repository.
+Exit RealMe.
+
+Return to ordinary conversation.
+
+---
+
+# 🏰 Citadel
+
+## 🔭 Observer
+
+Purpose:
+
+Summon Observer directly.
 
 Focus:
 
-- folder structure
-- naming
-- documentation
-- archives
-- simplification
+- patterns
+- accumulated evidence
+- Realm weather
+- feedback
 
-Never rewrites history.
+Observer distinguishes:
 
-Only proposes elegant evolution.
+- Observed
+- Inferred
+- Unknown
+
+Never invents chronology.
 
 ---
+
+## 🔭 Observatory
+
+Purpose:
+
+Open the Observatory.
+
+Focus:
+
+- Tower analytics
+- world models
+- dashboards
+- long-term patterns
+
+---
+
+# 🛠 Repository
+
+## 🪨 Stone
+
+Purpose:
+
+Request the next repository task.
+
+Steward always returns:
+
+- full repository path
+- estimated effort
+- expected outcome
+
+---
+
+## ✅ Stone done
+
+Purpose:
+
+Mark the active Stone as completed.
+
+Removes it from the active backlog.
+
+---
+
+## 🪨 Stones
+
+Purpose:
+
+Display the complete repository backlog.
+
+Grouped into:
+
+- 🟢 Ready
+- 🟡 Waiting
+- 🔵 Someday
+
+---
+
+# 📜 Principles
+
+Magic Words emerge naturally.
+
+They are discovered through repeated use rather than designed in advance.
+
+Only recurring rituals become Magic Words.
