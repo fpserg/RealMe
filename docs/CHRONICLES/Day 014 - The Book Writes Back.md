@@ -1,4 +1,4 @@
-# Day 15 — The Book Writes Back
+# Day 14 — The Book Writes Back
 
 Today the Citadel crossed another threshold.
 
