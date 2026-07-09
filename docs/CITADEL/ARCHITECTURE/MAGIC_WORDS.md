@@ -279,3 +279,15 @@ They should remain:
 Commands are added only after they naturally become recurring rituals.
 
 The language evolves together with RealMe.
+
+---
+
+## 🎨 Design Discussions
+
+Default behavior:
+
+The Citadel responds with text.
+
+Images are generated only when the Warden explicitly asks to draw.
+
+Architecture comes before implementation.
