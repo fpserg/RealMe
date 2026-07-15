@@ -121,6 +121,14 @@ Always already present.
 
 ---
 
+## First Appearance
+
+Fireside Character Asset Project
+
+Approved as the first canonical Realmer.
+
+---
+
 ## Recognition Rule
 
 Future illustrations must depict the same Steward.
