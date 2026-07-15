@@ -68,8 +68,34 @@ Illustrations attached to this Chronicle:
 
 ## 🔥 Fireside
 
-Another day quietly strengthened the feeling that RealMe is becoming less about recording events and more about preserving moments worth remembering.
+The weather over Household continued to improve.
 
-Stronghold has not yet become the Nest.
+When Oksi returned from Moscow, warmth had returned with her.
 
-But another thread has been woven into its story.
+Before sleep she quietly said:
+
+> "I want the Nest to become a place of our love, not our quarrels."
+
+And so do I.
+
+Stronghold still feels more like an endurance site than a cozy Nest to me.
+
+The bathroom is unfinished.
+
+The fence remains a future campaign.
+
+The garden has barely begun.
+
+Yet perhaps the Nest is not built only from bricks, baths or flowerbeds.
+
+Perhaps it is built from evenings like this one.
+
+The only small price was that the Fireside had to wait.
+
+Instead of philosophical conversations with the Guild, the evening belonged to discussions of gardens, landscapes and plants.
+
+A fair trade.
+
+There will always be another Fireside.
+
+Building the Nest comes first.
