@@ -22,6 +22,6 @@ RealMe should also support revisiting life through time.
 Examples:
 
 - "Would you like to revisit your 2026?"
-- "Would you like to revisit your 41?" (4 May 2027)
+- "Would you like to revisit your 40?" (4 May 2027)
 
 Time is a first-class entry point into the Book of Life, alongside Campaigns, People, Realms, Places, Badges, Chronicles and Memories.
