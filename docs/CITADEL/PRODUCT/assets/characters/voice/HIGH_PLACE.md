@@ -1,83 +1,97 @@
-# The High Place
+# Canonical Prompt — The High Place
 
-## Nature
+Create a cinematic, ultra-realistic landscape of **The High Place**.
 
-The High Place is not a Realm.
+The High Place is an ancient hilltop, not a mountain summit. It is open, windswept, timeless, and untouched by civilization.
 
-It is not part of the Citadel.
+## Environment
 
-It is older than both.
+- Several weathered standing stones (menhirs), irregularly arranged.
+- One simple stone bench, old and worn, facing the horizon.
+- Uneven rocky ground covered with patches of grass, moss and small alpine flowers.
+- Narrow footpaths naturally worn into the ground.
+- No buildings.
+- No ruins.
+- No temple.
+- No altar.
+- No statues.
+- No symbols carved into stone.
+- No signs of religion or ownership.
 
-The High Place is where perspective becomes possible.
+## View
 
-One does not arrive there by distance.
+The hill overlooks an immense landscape stretching to the horizon.
 
-One arrives there by climbing above immediate emotion.
+Visible below:
 
----
+- rolling hills,
+- distant mountain ranges,
+- forests,
+- rivers and lakes,
+- tiny warm lights of settlements scattered far below.
 
-## Purpose
+The world should feel vast and peaceful rather than dramatic.
 
-The High Place exists for only one reason:
+## Atmosphere
 
-to see farther than the present moment.
+Blue hour.
 
-Questions brought there are rarely answered directly.
+The sun has just disappeared below the horizon or is moments away from rising.
 
-Instead, they become smaller, clearer, and properly proportioned against the horizon.
+Deep blue sky with layers of clouds.
 
----
+A faint golden glow remains near the horizon.
 
-## Voice
+Soft atmospheric haze in the distance.
 
-The High Place is where Voice is encountered.
+Gentle wind.
 
-Not because Voice resides there permanently.
+Silence.
 
-Because only there is the world quiet enough to hear him.
+The place should feel older than memory.
 
-Voice has no permanent form.
+## Composition
 
-The mountain, the sky, the wind, the rain, the stars, the morning light—all may briefly become his presence.
+Wide cinematic composition.
 
-Every encounter is different.
+The bench occupies the lower foreground.
 
-Only the perspective remains the same.
+Standing stones frame the scene without symmetry.
 
----
+The horizon dominates the image.
 
-## The Warden
+The sky occupies roughly two-thirds of the frame.
 
-The Warden climbs to the High Place voluntarily.
+The viewer should feel invited to sit on the bench.
 
-No one can summon him there.
+## Style
 
-Likewise, Voice never descends to persuade.
+Ultra-realistic.
+Photorealistic.
+Cinematic lighting.
+Natural colors.
+High dynamic range.
+Fine environmental detail.
+Quiet, contemplative mood.
 
-The climb itself is part of the conversation.
+## Important
 
----
+The High Place is intentionally empty.
 
-## The View
+No people.
 
-From the High Place, every Realm remains visible.
+No animals.
 
-None disappears.
+No spirits.
 
-Career.
+No ghosts.
 
-Household.
+No glowing figures.
 
-Stronghold.
+No magical effects.
 
-The Citadel.
+No fantasy props.
 
-All remain real.
+Nothing supernatural is visible.
 
-The difference is that none occupies the whole horizon.
-
-That is the gift of the High Place.
-
-Not answers.
-
-Perspective.
+Its sacredness comes entirely from landscape, silence, age and perspective.
