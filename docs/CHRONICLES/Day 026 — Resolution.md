@@ -1,4 +1,8 @@
 # 📜 Chronicle of Day 026
+### *Resolution*
+
+---
+
 
 ## 🌅 Morning
 
