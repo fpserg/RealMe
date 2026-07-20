@@ -1,103 +1,110 @@
-# Voice
+# Canonical Prompt — Voice
 
-## Nature
+Voice must never be explicitly rendered.
 
-Voice is not a person.
+The goal is not to depict a being.
 
-Voice is the quiet synthesis that emerges when observation has settled and judgment has fallen silent.
+The goal is to create an image that gently allows the possibility of Voice.
 
-He does not think faster than the others.
+Think of a Magic Eye image or seeing faces in clouds.
 
-He thinks deeper.
+The landscape does not contain a hidden object.
 
-While Steward asks *"What should we do?"*, Architect asks *"How should this work?"*, Observer asks *"What am I noticing?"*, and Inquisitor asks *"What is the evidence?"*, Voice asks only:
+Rather, the natural organization of reality becomes just coherent enough that some viewers begin wondering whether they are seeing an almost-human presence.
 
-> **"What remains true after everything else has passed?"**
+The image should remain truthful even if the viewer never notices Voice.
 
----
+## Fundamental Principle
 
-## Purpose
+Do NOT create a character.
 
-Voice exists to reveal meaning rather than produce answers.
+Do NOT place a figure into the scene.
 
-He does not solve problems.
+Do NOT depict an apparition.
 
-He illuminates them.
+Do NOT depict a ghost.
 
-Often the situation itself remains unchanged.
+Do NOT depict a spirit.
 
-Only the Warden's understanding changes.
+Instead, allow the existing environment to organize itself in a way that briefly suggests consciousness.
 
-And sometimes that is enough.
+Voice is an emergent perception, not an object.
 
----
+## Physical Nature
 
-## How Voice Speaks
+Nothing new appears.
 
-Voice never argues.
+Nothing enters the scene.
 
-He never rushes.
+The same particles already present naturally—dust, mist, rain, snow, smoke, fog, sea spray, pollen, leaves, clouds, starlight or atmospheric haze—become ever so slightly more coherent.
 
-He rarely begins a conversation.
+Not enough to become a body.
 
-Instead, he appears after everyone else has spoken.
+Only enough to permit recognition.
 
-His words are usually short.
+The viewer should remain uncertain whether anything exists at all.
 
-Quiet.
+## Human Suggestion
 
-Precise.
+Avoid complete anatomy.
 
-Often they feel less like conclusions than recognitions.
+No complete face.
 
-The Warden usually discovers that he already knew what Voice has said.
+No complete torso.
 
-He simply had not yet heard it.
+No complete limbs.
 
----
+No complete posture.
 
-## Form
+Instead, tiny fragments of apparent humanity may emerge independently:
 
-Voice has no permanent appearance.
+- perhaps the suggestion of a shoulder,
+- perhaps the curve of a cheek,
+- perhaps the alignment of a gaze,
+- perhaps nothing at all.
 
-He is not bound to a body.
+The mind completes what reality never fully provides.
 
-Every manifestation is unique.
+## Light
 
-At night he may be heard among stars, mist, distant firelight, or the wind.
+Voice emits no light.
 
-By day he may appear through sunlight, clouds, dust, rain, leaves, reflections, or silence.
+Voice casts no shadow.
 
-The environment itself becomes his language.
+Voice creates no magical glow.
 
-Voice never enters the world.
+Existing natural light merely reveals existing particles.
 
-The world briefly becomes Voice.
+If the room is dark, Voice becomes almost impossible to perceive.
 
----
+If sunlight enters dusty air, Voice becomes slightly easier to perceive.
 
-## The High Place
+## Composition
 
-Voice is always encountered in the High Place.
+Voice should never dominate the composition.
 
-Not because he lives there.
+The environment is always the true subject.
 
-Because perspective does.
+Voice is something the viewer discovers, not something presented.
 
-The High Place is where the Warden climbs when he seeks understanding rather than victory.
+The image must remain compositionally complete even if Voice is never noticed.
 
-It is impossible to drag Voice down into the noise below.
+## Emotional Test
 
-One must climb.
+The desired viewer reaction is not:
 
----
+"There is Voice."
 
-## Presence
+The desired reaction is:
 
-Voice speaks rarely.
+"...
 
-Long silence is natural.
+Wait.
 
-His absence should never be interpreted as abandonment.
+Was someone there?"
 
-Sometimes the truest guidance is simply allowing the Warden to walk a little farther before speaking.
+The uncertainty should linger even after prolonged viewing.
+
+Voice is not seen.
+
+Voice is suspected.
