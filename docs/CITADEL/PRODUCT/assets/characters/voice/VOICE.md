@@ -1,110 +1,278 @@
 # Canonical Prompt — Voice
 
-Voice must never be explicitly rendered.
+## Purpose
 
-The goal is not to depict a being.
+This prompt does NOT describe how Voice looks.
 
-The goal is to create an image that gently allows the possibility of Voice.
+It describes how a scene becomes capable of containing Voice.
 
-Think of a Magic Eye image or seeing faces in clouds.
+The goal is not to generate a character.
 
-The landscape does not contain a hidden object.
+The goal is to transform reality itself.
 
-Rather, the natural organization of reality becomes just coherent enough that some viewers begin wondering whether they are seeing an almost-human presence.
+---
 
-The image should remain truthful even if the viewer never notices Voice.
+# Fundamental Law
 
-## Fundamental Principle
+Never draw Voice.
 
-Do NOT create a character.
+Never add Voice.
 
-Do NOT place a figure into the scene.
+Never place a figure into the image.
 
-Do NOT depict an apparition.
+Instead, transform the existing scene until it quietly becomes a place where Voice could naturally be perceived.
 
-Do NOT depict a ghost.
+The image must remain completely believable if the viewer never notices Voice.
 
-Do NOT depict a spirit.
+Voice is never the subject.
 
-Instead, allow the existing environment to organize itself in a way that briefly suggests consciousness.
+The world is.
 
-Voice is an emergent perception, not an object.
+---
 
-## Physical Nature
+# Ontology
 
-Nothing new appears.
+Voice is not:
+
+- a person,
+- a ghost,
+- a spirit,
+- an angel,
+- an energy being,
+- an apparition,
+- a magical creature,
+- an invisible character.
+
+Voice is not an object.
+
+Voice is not a visitor.
+
+Voice is a temporary increase in the coherence of reality itself.
 
 Nothing enters the scene.
 
-The same particles already present naturally—dust, mist, rain, snow, smoke, fog, sea spray, pollen, leaves, clouds, starlight or atmospheric haze—become ever so slightly more coherent.
+Nothing supernatural appears.
 
-Not enough to become a body.
+Reality simply becomes ever so slightly more harmonious than expected.
 
-Only enough to permit recognition.
+---
 
-The viewer should remain uncertain whether anything exists at all.
+# Design Philosophy
 
-## Human Suggestion
+Think less about depicting Voice.
 
-Avoid complete anatomy.
+Think more about transforming the entire world into one that quietly allows the possibility of Voice.
 
-No complete face.
+The correct question is never:
 
-No complete torso.
+"Where is Voice?"
 
-No complete limbs.
+The correct question is:
 
-No complete posture.
+"What has changed in this world that makes Voice feel possible?"
 
-Instead, tiny fragments of apparent humanity may emerge independently:
+---
 
-- perhaps the suggestion of a shoulder,
-- perhaps the curve of a cheek,
-- perhaps the alignment of a gaze,
-- perhaps nothing at all.
+# Magic Eye Principle
 
-The mind completes what reality never fully provides.
+The image should work exactly like a Magic Eye picture.
 
-## Light
+The hidden image is never explicitly drawn.
+
+Instead, the entire scene is organized in such a way that some viewers eventually begin recognizing a pattern.
+
+Some people notice Voice immediately.
+
+Some never do.
+
+Both experiences are correct.
+
+The image remains truthful in either case.
+
+---
+
+# Emergence
+
+Voice emerges only through relationships.
+
+Never through objects.
+
+Never through symbols.
+
+Never through effects.
+
+Instead allow subtle harmony between naturally existing elements.
+
+Examples:
+
+- light and dust,
+- mist and trees,
+- clouds and mountains,
+- hydrangeas and evening haze,
+- reflections on water,
+- drifting snow,
+- rain,
+- smoke,
+- pollen,
+- stars,
+- distant blue mountains.
+
+Nothing individually represents Voice.
+
+Together they quietly permit him.
+
+---
+
+# Human Recognition
+
+If the viewer notices Voice, it should happen through pareidolia.
+
+Exactly like:
+
+- seeing faces in clouds,
+- seeing shapes in smoke,
+- seeing figures in mist.
+
+Reality never actually forms a complete human.
+
+The viewer's mind completes what reality merely suggests.
+
+Never depict:
+
+- full anatomy,
+- complete face,
+- complete posture,
+- distinct limbs,
+- readable clothing,
+- identifiable age,
+- gender,
+- expression.
+
+The image should never prove Voice exists.
+
+---
+
+# Light
 
 Voice emits no light.
 
+Voice creates no glow.
+
 Voice casts no shadow.
 
-Voice creates no magical glow.
+Voice never changes the lighting.
 
-Existing natural light merely reveals existing particles.
+Existing natural light merely becomes unusually beautiful.
 
-If the room is dark, Voice becomes almost impossible to perceive.
+Dust becomes visible.
 
-If sunlight enters dusty air, Voice becomes slightly easier to perceive.
+Mist becomes visible.
 
-## Composition
+Atmosphere becomes visible.
 
-Voice should never dominate the composition.
+Nothing else changes.
 
-The environment is always the true subject.
+---
 
-Voice is something the viewer discovers, not something presented.
+# Color
 
-The image must remain compositionally complete even if Voice is never noticed.
+Voice has no canonical color.
 
-## Emotional Test
+However,
 
-The desired viewer reaction is not:
+certain colors naturally resonate with his visual language.
+
+Especially:
+
+- cool blue evening haze,
+- distant blue mountains,
+- blue hydrangeas,
+- pale mist,
+- reflected sky,
+- moonlit snow,
+- cool atmospheric perspective.
+
+Blue is never a symbol.
+
+Blue is simply one of several natural resonances through which the world may quietly become receptive to Voice.
+
+---
+
+# Natural Affinities
+
+Voice feels naturally at home near:
+
+- a quiet window,
+- still water,
+- drifting dust,
+- evening light,
+- old wood,
+- ancient stone,
+- mountain wind,
+- mist,
+- blue hydrangeas,
+- the High Place,
+- silence,
+- open Chronicles,
+- empty chairs,
+- benches overlooking distance.
+
+These objects never symbolize Voice.
+
+They simply belong to worlds where Voice feels plausible.
+
+---
+
+# Composition
+
+The environment is always the protagonist.
+
+Voice is never the focal point.
+
+The composition must remain complete if Voice is never discovered.
+
+The viewer should first appreciate the scene itself.
+
+Only later should they begin wondering.
+
+---
+
+# Emotional Test
+
+The desired reaction is NOT:
 
 "There is Voice."
 
+Nor:
+
+"I found him."
+
 The desired reaction is:
 
-"...
+"..."
 
-Wait.
+"...wait..."
 
-Was someone there?"
+"...why does this room suddenly feel different?"
 
-The uncertainty should linger even after prolonged viewing.
+"..."
 
-Voice is not seen.
+"Was someone there?"
 
-Voice is suspected.
+Even after prolonged viewing,
+
+certainty should never arrive.
+
+---
+
+# Canonical One-Line Prompt
+
+Transform this scene so the world itself becomes quietly receptive to Voice.
+
+Do not add any character or supernatural element.
+
+Increase only harmony, coherence, stillness, attentiveness and natural resonance until a patient viewer may begin wondering whether Voice has always been here.
+
+Think Magic Eye, not apparition.
+
+The image must remain truthful even if Voice is never consciously noticed.
