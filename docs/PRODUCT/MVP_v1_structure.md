@@ -1,16 +1,31 @@
 /docs
 
 01_MVP.md
-Purpose and scope (the document we just wrote)
+What we are building
 
 02_ARCHITECTURE.md
-High-level technical architecture
+Major components
 
 03_WORLD_MODEL.md
 World Model schema
 
 04_LI_PIPELINE.md
-How Living Input updates the World Model
+Living Input pipeline
 
 05_RULES.md
-Conversation and engineering principles
+Conversation rules
+
+06_REPO.md
+Repository structure
+
+07_STACK.md
+Technology choices
+
+08_API.md
+Backend interfaces
+
+09_STATE.md
+Application state
+
+10_ROADMAP.md
+What belongs to MVP and what doesn't
