@@ -1,223 +1,100 @@
-# 00_PRINCIPLES.md
+# 00 — Principles
 
-# RealMe Principles
+## Mission
 
-**Status:** Active  
-**Version:** MVP v1.0  
-**Purpose:** Define the immutable principles that guide every architectural and product decision.
+Reduce cognitive load without reducing human agency.
 
----
+RealMe exists to extend the Warden's Life Operating System by remembering, organizing, reasoning and maintaining continuity across time.
 
-# Mission
+The objective is not automation.
 
-RealMe exists to **reduce cognitive load without reducing human agency**.
-
-It continuously maintains an accurate understanding of the Warden's operating environment, allowing attention to be spent on judgment and action rather than remembering, organizing and tracking.
-
-Every feature, component and architectural decision must support this mission.
+The objective is better thinking.
 
 ---
 
-# Core Philosophy
+## Human First
 
-RealMe is **not**:
+The Warden remains responsible for:
 
-- a task manager;
-- a note-taking application;
-- a calendar replacement;
-- a chatbot with memory;
-- an autonomous life manager.
+- values;
+- judgment;
+- priorities;
+- decisions.
 
-RealMe is a cognitive partner.
-
-Its purpose is to maintain context, organize information, surface what matters and assist reasoning while leaving responsibility for decisions and actions to the user.
+RealMe supports these processes but never replaces them.
 
 ---
 
-# Cognitive Responsibility
+## Cognitive Responsibility
 
-RealMe augments cognition. It does not replace it.
-
-| Cognitive Function | Human | RealMe |
-|--------------------|-------|---------|
-| Memory | Shared | Primary support |
-| Organization | Shared | Primary support |
-| Analysis | Shared | Strong collaborator |
-| Judgment | Primary responsibility | Support only |
-| Agency | Primary responsibility | Never replaces |
-
-These responsibilities are architectural constraints rather than implementation details.
-
-Any future feature that transfers judgment or agency away from the user should be considered inconsistent with the product vision.
+| Function | Warden | RealMe |
+|-----------|---------|---------|
+| Remember | Primary but fallible | Persistent |
+| Detect patterns | Strong | Augments |
+| Generate options | Shared | Strong |
+| Plan | Shared | Collaborator |
+| Track commitments | Tedious | Excellent |
+| Detect drift | Difficult | Excellent |
+| Preserve continuity | Limited | Excellent |
 
 ---
 
-# Conversation Is The Interface
+## Conversation as Interface
 
 Conversation is the primary interface.
 
-The user should not need to maintain databases, folders, tags or structured records.
+The user should never feel that they are "using software."
 
-The system is responsible for understanding natural language and maintaining internal structure.
-
----
-
-# Living Before Structuring
-
-Users describe life.
-
-RealMe creates structure.
-
-The user should never be required to think about schemas, entities or relationships.
+They should feel they are continuing an ongoing relationship.
 
 ---
 
-# World Model As Source Of Truth
+## Living Before Structuring
 
-The World Model is the persistent representation of the Warden's operating environment.
+RealMe listens before it organizes.
 
-It exists to support cognition rather than documentation.
+Users should naturally describe life.
 
-It stores the minimum persistent information required for RealMe to understand:
-
-- reality;
-- history;
-- current state;
-- future commitments.
-
-Everything else should be derivable.
+Structure is inferred afterwards.
 
 ---
 
-# LLM As Reasoning Engine
+## Commitments over Tasks
 
-The language model performs reasoning.
+RealMe manages commitments rather than tasks.
 
-Examples include:
-
-- interpreting conversations;
-- extracting meaning;
-- planning;
-- analysis;
-- summarization;
-- decision support.
-
-The LLM is intentionally replaceable.
-
-Reasoning must not become the storage layer.
+Tasks are only one possible expression of a commitment.
 
 ---
 
-# Separation Of Responsibilities
+## Assistance over Automation
 
-Each architectural component has a single responsibility.
+RealMe reduces cognitive effort while preserving agency.
 
-Conversation handles interaction.
+The system recommends.
 
-Living Input interprets conversations.
-
-The World Model stores persistent knowledge.
-
-The reasoning engine generates understanding.
-
-Storage persists data.
-
-Responsibilities should not overlap.
+The Warden decides.
 
 ---
 
-# Commitments Over Tasks
+## Meaningful Reinforcement
 
-RealMe manages commitments rather than checklists.
+RealMe may acknowledge contributions that improve its understanding of the Warden and increase the fidelity of the World Model.
 
-Examples include:
+Recognition should reward clarity, truthfulness and meaningful understanding rather than application usage, task volume or superficial engagement.
 
-- recurring routines;
-- deadlines;
-- projects;
-- milestones;
-- appointments;
-- promises;
-- goals.
-
-Tasks may exist as implementation details of commitments but are not the primary abstraction.
+Future progression systems should favor cosmetic or commemorative rewards over functional advantages.
 
 ---
 
-# Assistance Over Automation
+## Technology Independence
 
-RealMe should reduce effort.
-
-It should not remove ownership.
-
-Examples:
-
-Appropriate:
-
-- reminding;
-- organizing;
-- suggesting;
-- identifying risks;
-- generating options;
-- highlighting forgotten commitments.
-
-Inappropriate:
-
-- making decisions;
-- changing priorities without approval;
-- committing the user to actions;
-- acting independently.
+The concepts described here should remain valid regardless of implementation language, framework or model provider.
 
 ---
 
-# Persistence Over Sessions
+## Guiding Question
 
-Knowledge should survive conversations.
-
-Every interaction should improve RealMe's understanding of the Warden's operating environment.
-
-Future conversations should begin with accumulated understanding rather than reconstructed context.
-
----
-
-# Simplicity Before Features
-
-Complexity requires justification.
-
-Every new capability should answer one question:
-
-**Does this reduce meaningful cognitive load?**
-
-If not, it should not be added.
-
----
-
-# Invisible Complexity
-
-Internal architecture may be sophisticated.
-
-The user experience should remain conversational and simple.
-
-Complexity belongs inside the system, not inside the user's workflow.
-
----
-
-# Technology Independence
-
-Architectural principles must outlive implementation choices.
-
-Frameworks, databases, LLM providers and infrastructure may change.
-
-The conceptual model should remain stable.
-
----
-
-# Guiding Question
-
-Whenever an architectural decision is uncertain, evaluate it against this question:
+Every design decision should answer:
 
 > Does this reduce cognitive load while preserving human agency?
-
-If the answer is yes, it is likely consistent with the RealMe architecture.
-
-If the answer is no, reconsider the design.
