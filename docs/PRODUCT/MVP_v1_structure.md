@@ -1,5 +1,8 @@
 /docs
 
+00_PRINCIPLES.md
+    What must always remain true, regardless of how the implementation changes
+
 01_MVP.md
 What we are building
 
