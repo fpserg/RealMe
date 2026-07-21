@@ -1,146 +1,223 @@
-# RealMe Constitution
-## 00_PRINCIPLES.md
+# 00_PRINCIPLES.md
 
-This document defines the non-negotiable architectural principles of RealMe.
+# RealMe Principles
 
-Every implementation decision must be consistent with these principles.
-
-If code conflicts with this document, the code should change.
-
----
-
-# 1. Conversation Is the Interface
-
-The primary interface of RealMe is natural conversation.
-
-The user should not be required to interact with forms, databases, dashboards or structured editors to maintain the system.
+**Status:** Active  
+**Version:** MVP v1.0  
+**Purpose:** Define the immutable principles that guide every architectural and product decision.
 
 ---
 
-# 2. The World Model Is the Memory
+# Mission
 
-The World Model is the persistent representation of the user's personal reality.
+RealMe exists to **reduce cognitive load without reducing human agency**.
 
-Conversation is temporary.
+It continuously maintains an accurate understanding of the Warden's operating environment, allowing attention to be spent on judgment and action rather than remembering, organizing and tracking.
 
-The World Model is durable.
+Every feature, component and architectural decision must support this mission.
 
 ---
 
-# 3. The World Model Is the Personal Source of Truth
+# Core Philosophy
 
-The World Model stores facts about the user's life.
+RealMe is **not**:
+
+- a task manager;
+- a note-taking application;
+- a calendar replacement;
+- a chatbot with memory;
+- an autonomous life manager.
+
+RealMe is a cognitive partner.
+
+Its purpose is to maintain context, organize information, surface what matters and assist reasoning while leaving responsibility for decisions and actions to the user.
+
+---
+
+# Cognitive Responsibility
+
+RealMe augments cognition. It does not replace it.
+
+| Cognitive Function | Human | RealMe |
+|--------------------|-------|---------|
+| Memory | Shared | Primary support |
+| Organization | Shared | Primary support |
+| Analysis | Shared | Strong collaborator |
+| Judgment | Primary responsibility | Support only |
+| Agency | Primary responsibility | Never replaces |
+
+These responsibilities are architectural constraints rather than implementation details.
+
+Any future feature that transfers judgment or agency away from the user should be considered inconsistent with the product vision.
+
+---
+
+# Conversation Is The Interface
+
+Conversation is the primary interface.
+
+The user should not need to maintain databases, folders, tags or structured records.
+
+The system is responsible for understanding natural language and maintaining internal structure.
+
+---
+
+# Living Before Structuring
+
+Users describe life.
+
+RealMe creates structure.
+
+The user should never be required to think about schemas, entities or relationships.
+
+---
+
+# World Model As Source Of Truth
+
+The World Model is the persistent representation of the Warden's operating environment.
+
+It exists to support cognition rather than documentation.
+
+It stores the minimum persistent information required for RealMe to understand:
+
+- reality;
+- history;
+- current state;
+- future commitments.
+
+Everything else should be derivable.
+
+---
+
+# LLM As Reasoning Engine
+
+The language model performs reasoning.
 
 Examples include:
 
-- people
-- realms
-- places
-- campaigns
-- relationships
-- principles
-- events
-- current state
+- interpreting conversations;
+- extracting meaning;
+- planning;
+- analysis;
+- summarization;
+- decision support.
 
-It does not store general knowledge.
+The LLM is intentionally replaceable.
 
----
-
-# 4. The LLM Is the Reasoning Engine
-
-The LLM is responsible for:
-
-- conversation
-- reasoning
-- planning
-- creativity
-- synthesis
-- analysis
-
-The LLM is not responsible for maintaining long-term personal memory.
+Reasoning must not become the storage layer.
 
 ---
 
-# 5. Living Comes Before Structuring
+# Separation Of Responsibilities
 
-The user updates the World Model by living, not by managing it.
+Each architectural component has a single responsibility.
 
-Natural conversation is the primary method of maintaining personal knowledge.
+Conversation handles interaction.
 
----
+Living Input interprets conversations.
 
-# 6. Invisible Complexity
+The World Model stores persistent knowledge.
 
-Internal complexity is acceptable.
-
-User-facing complexity is not.
-
-The user should experience a simple conversational interface regardless of the sophistication of the underlying architecture.
-
----
-
-# 7. Simplicity Over Features
-
-Every new feature increases cognitive load.
-
-A feature should be added only if it meaningfully improves the user's thinking or reduces the user's cognitive burden.
-
----
-
-# 8. Architecture Over Shortcuts
-
-Temporary implementation shortcuts must not compromise the long-term architecture.
-
-If a shortcut conflicts with the architecture, it should be avoided or clearly isolated.
-
----
-
-# 9. Separation of Responsibilities
-
-Each component has a single responsibility.
-
-The World Model stores reality.
-
-The LLM reasons.
+The reasoning engine generates understanding.
 
 Storage persists data.
 
-Conversation translates between the user and the World Model.
-
-The UI presents the conversation.
+Responsibilities should not overlap.
 
 ---
 
-# 10. The User Should Never Maintain the System
+# Commitments Over Tasks
 
-RealMe exists to reduce cognitive load.
+RealMe manages commitments rather than checklists.
 
-The user should never become responsible for maintaining the application's internal state.
+Examples include:
 
-Whenever possible, the system should infer, organize and update information automatically.
+- recurring routines;
+- deadlines;
+- projects;
+- milestones;
+- appointments;
+- promises;
+- goals.
+
+Tasks may exist as implementation details of commitments but are not the primary abstraction.
 
 ---
 
-# 11. Production Before Optimization
+# Assistance Over Automation
 
-The system should first produce correct behavior.
+RealMe should reduce effort.
 
-Optimization, automation and advanced capabilities should be added only after the core architecture is functioning correctly.
+It should not remove ownership.
+
+Examples:
+
+Appropriate:
+
+- reminding;
+- organizing;
+- suggesting;
+- identifying risks;
+- generating options;
+- highlighting forgotten commitments.
+
+Inappropriate:
+
+- making decisions;
+- changing priorities without approval;
+- committing the user to actions;
+- acting independently.
 
 ---
 
-# 12. Replaceable Technologies
+# Persistence Over Sessions
 
-Frameworks, databases and LLM providers are implementation details.
+Knowledge should survive conversations.
 
-The architecture should make it possible to replace them without changing the fundamental design of RealMe.
+Every interaction should improve RealMe's understanding of the Warden's operating environment.
+
+Future conversations should begin with accumulated understanding rather than reconstructed context.
+
+---
+
+# Simplicity Before Features
+
+Complexity requires justification.
+
+Every new capability should answer one question:
+
+**Does this reduce meaningful cognitive load?**
+
+If not, it should not be added.
+
+---
+
+# Invisible Complexity
+
+Internal architecture may be sophisticated.
+
+The user experience should remain conversational and simple.
+
+Complexity belongs inside the system, not inside the user's workflow.
+
+---
+
+# Technology Independence
+
+Architectural principles must outlive implementation choices.
+
+Frameworks, databases, LLM providers and infrastructure may change.
+
+The conceptual model should remain stable.
 
 ---
 
 # Guiding Question
 
-For every design decision, ask:
+Whenever an architectural decision is uncertain, evaluate it against this question:
 
-"Does this reduce the user's cognitive load while preserving conversation as the primary interface?"
+> Does this reduce cognitive load while preserving human agency?
+
+If the answer is yes, it is likely consistent with the RealMe architecture.
 
 If the answer is no, reconsider the design.
