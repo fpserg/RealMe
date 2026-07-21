@@ -1,385 +1,128 @@
-# 04_LI_PIPELINE.md
+# 04 — Living Input Pipeline
 
-# Living Input Pipeline
+Living Inputs are the primary mechanism by which the World Model evolves.
 
-**Status:** Active  
-**Version:** MVP v1.0  
-**Purpose:** Define how natural conversation becomes structured understanding in the World Model.
+The pipeline transforms natural conversation into persistent understanding.
 
 ---
 
-# Purpose
+## Pipeline
 
-Living Input (LI) is the mechanism through which RealMe learns.
-
-Every meaningful conversation is treated as a potential source of new understanding.
-
-The goal of the pipeline is **not** to record conversations.
-
-The goal is to continuously improve the World Model.
-
----
-
-# Design Principles
-
-The pipeline should:
-
-- accept natural language only;
-- require no manual structuring by the user;
-- extract durable understanding rather than raw text;
-- update existing knowledge whenever possible;
-- avoid storing unnecessary information.
-
-The user should never think about the pipeline.
-
----
-
-# High-Level Flow
-
-```
 Conversation
 
-        ↓
+↓
 
-Living Input
+Interpretation
 
-        ↓
+↓
 
-Understanding
+Classification
 
-        ↓
+↓
+
+Reconciliation with existing World Model
+
+↓
 
 World Model Update
 
-        ↓
+↓
+
+Contribution Detection
+
+↓
 
 Future Reasoning
-```
-
-Conversation produces understanding.
-
-Understanding updates the World Model.
-
-The updated World Model improves future conversations.
 
 ---
 
-# Pipeline Stages
+## Interpretation
 
-## Stage 1 — Receive Input
+Extract durable meaning rather than literal wording.
 
-The user communicates naturally.
+Ignore transient conversational details.
+
+Preserve information likely to reduce future cognitive load.
+
+---
+
+## Classification
+
+Information may update:
+
+- People
+- Realms
+- Places
+- Projects
+- Commitments
+- Events
+- Current State
+- Chronicles
+
+---
+
+## Reconciliation
+
+Before adding information:
+
+- identify existing entities;
+- merge when appropriate;
+- avoid duplicates;
+- preserve continuity.
+
+---
+
+## World Model Update
+
+Persist only durable understanding.
 
 Examples:
 
-> Sergey Jr has football every Wednesday.
-
-> Equity Strategy report is due September 15.
-
-> Bathroom plumbing is finished.
-
-> Roman comes next Tuesday.
-
-The system does not require commands or structured syntax.
+- new commitment;
+- project progress;
+- relationship update;
+- recurring routine;
+- behavioral pattern.
 
 ---
 
-## Stage 2 — Interpret Meaning
+## Contribution Detection
 
-The reasoning engine identifies persistent meaning.
+After every successful World Model update, determine whether the conversation produced meaningful new understanding.
 
-The objective is understanding rather than transcription.
+If so, emit a Contribution Event.
 
 Examples:
 
-Input:
+- new long-term commitment;
+- important behavioral insight;
+- significant project milestone;
+- clarification of relationships;
+- architectural improvement.
 
-> Sergey Jr has football every Wednesday.
+Contribution Events are not rewards.
 
-Understanding:
+They are notifications that meaningful understanding has increased.
 
-- recurring commitment
-- participant
-- schedule
-- related realm
-
----
-
-Input:
-
-> Bathroom plumbing is finished.
-
-Understanding:
-
-- project milestone
-- project progress
-- completion event
+Future recognition systems (XP, badges, Chronicle decoration, etc.) consume these events without affecting the World Model.
 
 ---
 
-Input:
+## Future Reasoning
 
-> Equity Strategy report is due September 15.
+Updated knowledge becomes immediately available for:
 
-Understanding:
-
-- project
-- commitment
-- deadline
-
----
-
-## Stage 3 — Classify
-
-Every extracted item is classified before persistence.
-
-The MVP should recognize at least the following categories.
-
-| Category | Purpose |
-|----------|---------|
-| Person | Individual |
-| Realm | Life domain |
-| Place | Location |
-| Project | Multi-step initiative |
-| Commitment | Future responsibility |
-| Event | Time-specific occurrence |
-| State | Current condition |
-| Relationship | Connection between entities |
-
-Classification determines how the World Model should evolve.
+- Morning Serpent;
+- Evening Serpent;
+- WBT;
+- reminders;
+- commitment tracking;
+- future conversations.
 
 ---
 
-## Stage 4 — Reconcile
+## Storage Principle
 
-Before creating anything new, the pipeline searches for existing entities.
+Store only information that improves future reasoning and reduces future cognitive load.
 
-Questions include:
-
-- Does this person already exist?
-- Is this an existing project?
-- Is this an update rather than a new commitment?
-- Does this event complete an existing milestone?
-- Is this a recurring pattern already known?
-
-Whenever possible:
-
-**Update existing entities instead of creating duplicates.**
-
----
-
-## Stage 5 — Update The World Model
-
-Once reconciliation is complete, the World Model is updated.
-
-Possible operations include:
-
-- create entity;
-- update entity;
-- close commitment;
-- change project status;
-- create relationship;
-- update current state;
-- append historical event.
-
-The update should preserve consistency.
-
----
-
-# Commitment Extraction
-
-Commitments are first-class outputs of the pipeline.
-
-Examples include:
-
-## Recurring
-
-Input
-
-> Sergey Jr has football every Wednesday at 18:00.
-
-Output
-
-```
-Commitment
-
-Type:
-Recurring
-
-Title:
-Football
-
-Participants:
-Sergey Jr
-Warden
-
-Schedule:
-Wednesday
-18:00
-```
-
----
-
-## Deadline
-
-Input
-
-> Equity Strategy report is due September 15.
-
-Output
-
-```
-Commitment
-
-Type:
-Deadline
-
-Title:
-Equity Strategy Report
-
-Due:
-2026-09-15
-```
-
----
-
-## Project
-
-Input
-
-> We're renovating the bathroom.
-
-Output
-
-```
-Project
-
-Bathroom Campaign
-
-Status:
-Active
-```
-
-Future Living Inputs update this project instead of recreating it.
-
----
-
-# State Updates
-
-The pipeline updates current understanding.
-
-Example
-
-Morning
-
-```
-Bathroom Campaign
-
-Progress:
-Planning
-```
-
-↓
-
-Input
-
-> Roman finished the plumbing today.
-
-↓
-
-Updated State
-
-```
-Bathroom Campaign
-
-Progress:
-Plumbing completed
-```
-
-History records the milestone.
-
-Current State reflects the latest understanding.
-
----
-
-# History
-
-Meaningful events become history.
-
-Examples:
-
-- project milestone completed;
-- important decision made;
-- commitment fulfilled;
-- meeting occurred.
-
-History should explain how Current State evolved.
-
----
-
-# What Should Usually Not Be Stored
-
-The pipeline should avoid persisting information that has little future value.
-
-Examples:
-
-- greetings;
-- conversational filler;
-- temporary wording;
-- repeated statements;
-- information already represented in the World Model.
-
-The objective is understanding, not completeness.
-
----
-
-# Confidence
-
-Every extraction has implicit confidence.
-
-High confidence:
-
-> The report is due September 15.
-
-Low confidence:
-
-> I might write the report sometime.
-
-Low-confidence interpretations should not automatically become persistent commitments.
-
-When uncertainty materially affects the World Model, RealMe should ask a clarification question rather than assume.
-
----
-
-# Future Reasoning
-
-The pipeline itself does not generate reminders, plans or decisions.
-
-Its responsibility ends after maintaining an accurate World Model.
-
-Future reasoning uses the updated World Model to provide assistance.
-
-This separation keeps learning independent from reasoning.
-
----
-
-# Success Criteria
-
-The pipeline is successful when:
-
-- users communicate naturally;
-- persistent knowledge grows over time;
-- duplicate entities remain rare;
-- commitments stay current;
-- project state reflects reality;
-- future conversations require progressively less repeated context.
-
----
-
-# Guiding Principle
-
-The Living Input Pipeline should answer one question:
-
-> **What lasting understanding from this conversation will reduce future cognitive load?**
-
-Only that understanding belongs in the World Model.
+Everything else should remain part of the conversation only.
