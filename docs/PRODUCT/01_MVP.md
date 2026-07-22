@@ -1,6 +1,6 @@
 # 01 — MVP
 
-## Purpose
+# Purpose
 
 Validate the central hypothesis:
 
@@ -8,32 +8,36 @@ Validate the central hypothesis:
 
 ---
 
-## MVP Capabilities
+# MVP Capabilities
 
 The MVP consists of:
 
 - conversational interaction;
+- Morning Serpent generation;
 - Living Inputs;
+- continuous World Model reconciliation;
 - World Model persistence;
 - commitment tracking;
 - reasoning using accumulated knowledge;
-- "What Belongs to Today?" generation.
+- "What Belongs to Today?" generation;
+- Chronicle generation.
 
 ---
 
-## Success Criteria
+# Success Criteria
 
 The MVP is successful if the Warden can:
 
 - naturally provide Living Inputs;
 - rely on RealMe to remember important information;
 - maintain commitments across conversations;
-- retrieve today's agenda using WBT;
+- retrieve today's operational picture using WBT;
+- trust that WBT reflects the continuously reconciled state of the day;
 - experience measurable reduction in cognitive load.
 
 ---
 
-## Recognition
+# Recognition
 
 The MVP should internally recognize when a Living Input meaningfully improves the World Model.
 
@@ -45,7 +49,7 @@ The purpose is to expose future extension points without coupling the World Mode
 
 ---
 
-## Out of Scope
+# Out of Scope
 
 Explicitly excluded from MVP:
 
@@ -63,8 +67,10 @@ These may be added later without changing the core architecture.
 
 ---
 
-## MVP Principle
+# MVP Principle
 
 The MVP validates cognition rather than presentation.
+
+The primary objective is to validate that continuous reconciliation of a World Model improves everyday decision-making while preserving human agency.
 
 If the cognitive architecture succeeds, presentation can evolve independently.
