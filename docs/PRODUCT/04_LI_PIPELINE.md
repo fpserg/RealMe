@@ -2,13 +2,80 @@
 
 Living Inputs are the primary mechanism by which the World Model evolves.
 
-The pipeline transforms natural conversation into persistent understanding.
+RealMe does not update once per day.
+
+It lives continuously through Living Inputs.
+
+The pipeline transforms natural conversation into persistent understanding while maintaining an up-to-date operational picture of the day.
 
 ---
 
-## Pipeline
+# Daily Lifecycle
 
-Conversation
+Every day follows the same operational cycle.
+
+```
+Morning Serpent
+        │
+        ▼
+Living Inputs (0..N)
+        │
+        ▼
+World Model Reconciliation
+        │
+        ▼
+What Belongs to Today
+        │
+        ▼
+Chronicle
+```
+
+Each stage has a distinct responsibility.
+
+The Morning Serpent establishes the initial hypothesis of the day.
+
+Living Inputs continuously reconcile that hypothesis with reality.
+
+The Chronicle reflects the completed day rather than either the plan or individual updates.
+
+---
+
+# Living Inputs
+
+A Living Input (LI) is a short factual update describing something that has happened.
+
+Examples:
+
+```
+LI
+
+Yandex preview completed.
+```
+
+```
+LI
+
+TV issue resolved.
+```
+
+```
+LI
+
+Meeting moved to Thursday.
+```
+
+Living Inputs should remain intentionally lightweight.
+
+The intelligence belongs to reconciliation, not to the input itself.
+
+---
+
+# Steward Processing Pipeline
+
+Each Living Input passes through the following stages.
+
+```
+Living Input
 
 ↓
 
@@ -28,15 +95,20 @@ World Model Update
 
 ↓
 
+What Belongs to Today Update
+
+↓
+
 Contribution Detection
 
 ↓
 
 Future Reasoning
+```
 
 ---
 
-## Interpretation
+# Interpretation
 
 Extract durable meaning rather than literal wording.
 
@@ -46,12 +118,13 @@ Preserve information likely to reduce future cognitive load.
 
 ---
 
-## Classification
+# Classification
 
-Information may update:
+Information may affect:
 
 - People
 - Realms
+- Domains
 - Places
 - Projects
 - Commitments
@@ -61,7 +134,7 @@ Information may update:
 
 ---
 
-## Reconciliation
+# Reconciliation
 
 Before adding information:
 
@@ -70,15 +143,24 @@ Before adding information:
 - avoid duplicates;
 - preserve continuity.
 
+Determine whether the Living Input:
+
+- completes a commitment;
+- creates a commitment;
+- changes priorities;
+- updates relationships;
+- changes World Model state.
+
 ---
 
-## World Model Update
+# World Model Update
 
 Persist only durable understanding.
 
 Examples:
 
 - new commitment;
+- completed commitment;
 - project progress;
 - relationship update;
 - recurring routine;
@@ -86,7 +168,23 @@ Examples:
 
 ---
 
-## Contribution Detection
+# What Belongs to Today
+
+After reconciliation, determine whether today's operational picture has changed.
+
+If so, update WBT.
+
+WBT is not:
+
+- the Morning Serpent;
+- a task list;
+- a history of Living Inputs.
+
+It is the continuously reconciled representation of today's remaining commitments.
+
+---
+
+# Contribution Detection
 
 After every successful World Model update, determine whether the conversation produced meaningful new understanding.
 
@@ -108,20 +206,20 @@ Future recognition systems (XP, badges, Chronicle decoration, etc.) consume thes
 
 ---
 
-## Future Reasoning
+# Future Reasoning
 
 Updated knowledge becomes immediately available for:
 
 - Morning Serpent;
-- Evening Serpent;
 - WBT;
+- Chronicle;
 - reminders;
 - commitment tracking;
 - future conversations.
 
 ---
 
-## Storage Principle
+# Storage Principle
 
 Store only information that improves future reasoning and reduces future cognitive load.
 
