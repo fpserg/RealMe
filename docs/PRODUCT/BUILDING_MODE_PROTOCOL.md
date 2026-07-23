@@ -71,7 +71,7 @@ During the session, the Architect maintains an internal workspace containing:
 - the uploaded repository;
 - accepted architectural decisions;
 - accepted document changes;
-- architecture candidates from previous conversations that require confirmation.
+- Architecture Candidates from previous conversations that require confirmation.
 
 Repository files are not emitted during this stage.
 
@@ -91,11 +91,23 @@ Building Stop
 
 The Architect performs a final consistency review across the entire repository.
 
-Only files whose contents changed are returned.
+Only repository files whose contents changed are returned.
 
-Each updated file is emitted as a separate pasteable Markdown block.
+Each updated file is emitted as a **complete replacement Markdown document**.
 
-Unchanged files are omitted.
+Replacement files must:
+
+- contain the entire document;
+- integrate all accepted architectural decisions;
+- remove superseded sections where necessary;
+- preserve repository consistency;
+- be immediately pasteable over the existing repository file.
+
+Partial amendments, patches and diff-style updates are never emitted.
+
+If the combined size of all changed files exceeds the maximum response size, the Architect emits them across consecutive messages, preserving file boundaries. The Building session is complete only after every changed replacement file has been emitted in full.
+
+Unchanged repository files are omitted.
 
 ---
 
@@ -113,9 +125,11 @@ Only after explicit acceptance are they incorporated into the repository.
 
 During Building Mode:
 
-- the uploaded repository is treated as the source of truth;
-- modifications exist only inside the working workspace;
-- repository updates are emitted only during Building Stop.
+- the uploaded repository is treated as the sole source of truth;
+- modifications exist only inside the Architect's working workspace;
+- accepted decisions are accumulated until Building Stop;
+- repository updates are emitted only during Building Stop;
+- emitted files are complete replacement versions of the affected repository documents.
 
 This provides an atomic update process similar to a reviewed software pull request.
 
@@ -126,6 +140,7 @@ This provides an atomic update process similar to a reviewed software pull reque
 - Upload first, reason second.
 - Accept decisions explicitly.
 - Update the repository atomically.
+- Emit complete replacement files only.
 - Emit only changed files.
 - Preserve repository consistency over convenience.
 - Treat documentation as maintainable architecture rather than conversation history.
