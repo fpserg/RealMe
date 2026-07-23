@@ -3,7 +3,7 @@
 # World Model
 
 **Status:** Active  
-**Version:** MVP v1.0  
+**Version:** MVP v1.1  
 **Purpose:** Define the persistent representation of the Warden's operating environment.
 
 ---
@@ -312,6 +312,54 @@ First draft completed
 ```
 
 The latest state replaces obsolete state while preserving meaningful history.
+
+---
+
+# Admission Principle
+
+The World Model is the authoritative representation of durable understanding.
+
+Not every interpretation should immediately become persistent truth.
+
+During reconciliation, RealMe may produce a **Candidate World Model Update**.
+
+Candidate updates represent proposed durable understanding that has not yet been admitted into the World Model.
+
+Admission follows two paths.
+
+## Automatic Admission
+
+Updates may be incorporated immediately when they are:
+
+- factual;
+- unambiguous;
+- directly stated by the Warden;
+- consistent with the existing World Model;
+- unlikely to alter long-term understanding.
+
+Examples include:
+
+- completed commitments;
+- schedule changes;
+- project progress;
+- factual status updates.
+
+## Reviewed Admission
+
+Review is required when reconciliation produces inferred or potentially identity-changing understanding.
+
+Examples include:
+
+- new long-term commitments;
+- changes to relationships;
+- persistent preferences;
+- behavioral patterns;
+- Realm structure;
+- architectural discoveries.
+
+When ambiguity exists, RealMe proposes the update rather than silently incorporating it.
+
+This preserves both continuity and human agency while allowing the World Model to evolve continuously.
 
 ---
 
