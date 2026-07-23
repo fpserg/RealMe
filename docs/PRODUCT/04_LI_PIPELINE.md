@@ -12,7 +12,7 @@ The pipeline transforms natural conversation into persistent understanding while
 
 # Daily Lifecycle
 
-Every day follows the same operational cycle.
+Every operational day follows the same lifecycle.
 
 ```
 Morning Serpent
@@ -24,7 +24,14 @@ Living Inputs (0..N)
 World Model Reconciliation
         │
         ▼
-What Belongs to Today
+Operational Record
+        │
+        ├────────► What Belongs to Today (live)
+        │
+        └────────► WBTD (before bedtime)
+                         │
+                         ▼
+Next Morning
         │
         ▼
 Chronicle
@@ -32,11 +39,17 @@ Chronicle
 
 Each stage has a distinct responsibility.
 
-The Morning Serpent establishes the initial hypothesis of the day.
+The Morning Serpent establishes the initial operational hypothesis for the day.
 
 Living Inputs continuously reconcile that hypothesis with reality.
 
-The Chronicle reflects the completed day rather than either the plan or individual updates.
+The Operational Record preserves factual history.
+
+WBT represents the current operational picture.
+
+WBTD preserves the final operational state of the completed day.
+
+The Chronicle reflects the completed day after the next Morning Serpent.
 
 ---
 
@@ -87,11 +100,23 @@ Classification
 
 ↓
 
-Reconciliation with existing World Model
+Reconciliation
+
+↓
+
+Candidate World Model Update
+
+↓
+
+Review (if required)
 
 ↓
 
 World Model Update
+
+↓
+
+Operational Record Update
 
 ↓
 
@@ -151,11 +176,17 @@ Determine whether the Living Input:
 - updates relationships;
 - changes World Model state.
 
+Reconciliation produces a Candidate World Model Update.
+
+Straightforward factual updates may proceed automatically.
+
+Durable inferred understanding may require review before admission into the World Model.
+
 ---
 
 # World Model Update
 
-Persist only durable understanding.
+Persist only admitted durable understanding.
 
 Examples:
 
@@ -165,6 +196,24 @@ Examples:
 - relationship update;
 - recurring routine;
 - behavioral pattern.
+
+---
+
+# Operational Record
+
+The Operational Record (OR) is the canonical factual history of the current operational day.
+
+It is:
+
+- append-only;
+- factual;
+- grouped by Realm and Domain;
+- continuously updated;
+- free from interpretation and reflection.
+
+Every accepted Living Input appends to the Operational Record.
+
+The Operational Record is the authoritative source for operational history.
 
 ---
 
@@ -181,6 +230,61 @@ WBT is not:
 - a history of Living Inputs.
 
 It is the continuously reconciled representation of today's remaining commitments.
+
+---
+
+# End-of-Day Workflow
+
+The last operational action before bedtime is:
+
+```
+OR
+```
+
+The finalized Operational Record is presented and archived.
+
+Immediately afterwards:
+
+```
+WBTD
+```
+
+The final operational state of the day is frozen.
+
+WBTD records:
+
+- completed commitments;
+- unfinished commitments;
+- commitments carried forward.
+
+WBTD is immutable.
+
+It serves as an operational audit of the completed day.
+
+It is not used for reasoning.
+
+---
+
+# Morning Continuation
+
+The first operational step of the next day is the Morning Serpent.
+
+Using:
+
+- the finalized Operational Record;
+- the reconciled World Model;
+- today's Morning Serpent;
+
+RealMe generates the Chronicle for the previous day.
+
+Chronicles are therefore derived from factual operational history rather than reconstructed from conversation.
+
+This creates a clear separation between:
+
+- Operational Record — factual history;
+- WBT — live operational picture;
+- WBTD — operational audit;
+- Chronicle — reflective narrative.
 
 ---
 
@@ -212,7 +316,7 @@ Updated knowledge becomes immediately available for:
 
 - Morning Serpent;
 - WBT;
-- Chronicle;
+- Chronicle generation;
 - reminders;
 - commitment tracking;
 - future conversations.
