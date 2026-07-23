@@ -34,42 +34,28 @@ Only Incorporated candidates should modify repository documents.
 
 ## Accepted
 
-### Operational Records
+### Operational Continuity Layer
 
 Status:
 Accepted
 
 Purpose:
-Maintain a searchable factual history of completed commitments, separate from the Chronicle.
 
-Target document:
-TBD
+Elevate the relationship between:
 
----
+- Operational Record;
+- What Belongs to Today (WBT);
+- WBTD;
+- Chronicle
 
-### WBT Snapshot (WBTS)
+into an explicit architectural layer rather than treating them as independent artifacts.
 
-Status:
-Accepted
+The architecture is already operationally consistent, but this relationship is not yet explicitly represented in the repository.
 
-Purpose:
-Provide a portable checkpoint of the current operational state for continuity between ChatGPT sessions.
+Target documents:
 
-Target document:
-TBD
-
----
-
-### World Model Reconciliation Workflow
-
-Status:
-Accepted
-
-Purpose:
-Require proposed World Model changes to be reviewed before becoming persistent truth.
-
-Target document:
-03_WORLD_MODEL.md
+- 02_ARCHITECTURE.md
+- 04_LI_PIPELINE.md
 
 ---
 
@@ -87,4 +73,83 @@ _None_
 
 ## Incorporated
 
-_None_
+### Operational Record
+
+Status:
+Incorporated
+
+Purpose:
+
+Maintain an append-only factual history of the operational day.
+
+Operational Record is the canonical source for:
+
+- WBT updates;
+- WBTD generation;
+- Chronicle generation.
+
+The Operational Record is factual rather than reflective.
+
+It preserves operational history without interpretation.
+
+Repository documents:
+
+- 04_LI_PIPELINE.md
+
+---
+
+### WBTD (What Belongs to Today — Daily)
+
+Status:
+Incorporated
+
+Purpose:
+
+Freeze the final operational state of the completed day immediately before bedtime.
+
+WBTD is:
+
+- immutable;
+- historical;
+- operational rather than reflective.
+
+It records:
+
+- completed commitments;
+- unfinished commitments;
+- commitments carried forward.
+
+WBTD is not used for future reasoning.
+
+It exists as a historical operational checkpoint.
+
+Repository documents:
+
+- 04_LI_PIPELINE.md
+
+---
+
+### Reviewed Reconciliation
+
+Status:
+Incorporated
+
+Purpose:
+
+Separate conversation from durable understanding.
+
+Reconciliation produces a Candidate World Model Update.
+
+Only admitted understanding becomes persistent World Model knowledge.
+
+Straightforward factual updates may be admitted automatically.
+
+Durable inferred understanding requires review before admission.
+
+This preserves continuity while maintaining the Warden's authority over long-term understanding.
+
+Repository documents:
+
+- 03_WORLD_MODEL.md
+- 04_LI_PIPELINE.md
+- 05_RULES.md
