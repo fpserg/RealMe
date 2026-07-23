@@ -1,26 +1,74 @@
-# CURRENT_WBT.md
+# 📋 CURRENT_WBT
 
-# Current WBT
+**Status:** Start of Day 031
 
-## Career Realm
+---
 
-### Leadership Domain
-- Discuss Tuesday leave with Andrey.
-- If approved, reschedule the Oil & Gas interview.
+# 💼 Career
 
-### Strategy Domain
-- Continue Ecosystems Report (active strategic project, target: end of September).
-- Continue Equity Strategy.
+## 👥 Leadership
 
-## Household Realm
+### 📊 TMT Research
 
-### Stronghold Domain
-- Decide whether to proceed with wired Internet installation.
+#### Active Commitments
 
-### Upcoming
-- Saturday: armchair and coffee table delivery.
+- Continue updating the Yandex valuation/model.
+- Send the Yandex preview to consensus.
+- Send the Ozon preview to consensus.
 
-## Third Realm
+### 📈 Strategy Research
 
-### RealMe Domain
-- Continue MVP architecture and documentation.
+#### Active Commitments
+
+- Finalize Artem's dividend report.
+- Read the Fund Flows report.
+
+### ⚙️ Management
+
+#### Active Commitments
+
+- Call Alexey (ECM) after the Astra CFO meeting.
+
+---
+
+# 🏡 Household
+
+## 👨‍👩‍👧‍👦 Family
+
+_No active commitments._
+
+---
+
+# 🏛️ Third Realm
+
+## 🗼 Tower
+
+_No active commitments._
+
+## 🎁 GIFTED
+
+_No active commitments._
+
+---
+
+# 🤖 RealMe
+
+## 🏗️ Architecture
+
+_No active commitments._
+
+---
+
+# Operational Focus
+
+## High Priority
+
+- Send the Yandex preview to consensus.
+- Send the Ozon preview to consensus.
+- Finalize Artem's dividend report.
+
+## Medium Priority
+
+- Continue updating the Yandex valuation/model.
+- Read the Fund Flows report.
+- Call Alexey (ECM) after the Astra CFO meeting.
