@@ -2,53 +2,45 @@
 
 ## Purpose
 
-The Morning Serpent Bundle defines everything required to initialize a new operational day within the Realm.
+The Morning Serpent Bundle defines the complete runtime environment required to initialize a new operational day.
 
-It specifies:
+It does not redefine the behavior of Morning Serpent.
 
-- how Morning Serpent behaves;
-- which constitutional principles govern it;
-- which Realm Role performs it;
-- how the Chronicle is written.
+Instead, it specifies which repository documents, operational artifacts and constitutional principles must be loaded before execution.
 
-The Bundle exists to make Morning Serpent deterministic and independent of conversational memory.
+The Bundle serves as the canonical entry point for the morning workflow.
 
 ---
 
-# Required Inputs
+# Required Repository Documents
 
-## Repository Documents
-
-Load before execution:
+Load the following repository documents:
 
 - Morning Serpent Protocol
 - Realm Roles
 - Conversation Principle: Honesty Over Engagement
 - Chronicle Style Guide
 
-## Operational Artifacts
-
-Load before execution:
-
-- Latest Operational Record (OR)
-- Latest WBTD
-
-## Optional
-
-- Morning Living Inputs supplied together with the invocation.
+These documents define how Morning Serpent behaves.
 
 ---
 
-# Execution
+# Required Operational Artifacts
 
-After all required documents and operational artifacts are available:
+Load the latest:
 
-1. Activate Steward.
-2. Execute Morning Serpent Protocol.
-3. Generate the Chronicle according to the Chronicle Style Guide.
-4. Initialize CURRENT_WBT.
-5. Process any supplied Living Inputs.
-6. Return control to Steward for the operational day.
+- Operational Record (OR)
+- WBTD
+
+These artifacts define the operational state from which the new day begins.
+
+---
+
+# Optional Inputs
+
+Morning Living Inputs supplied together with the invocation.
+
+These are processed only after CURRENT_WBT has been initialized.
 
 ---
 
@@ -58,101 +50,20 @@ Morning Serpent is executed by:
 
 🪶 Steward
 
-Other Realm Roles participate only when:
-
-- explicitly invoked;
-- required by another protocol;
-- requested by the Warden through Realmers.
+Role selection follows the Realm Roles document.
 
 ---
 
-# Governing Principles
+# Dependencies
 
-Morning Serpent operates under:
+Execution depends on:
 
-- Realm Roles
-- Conversation Principle: Honesty Over Engagement
-- Morning Serpent Protocol
-- Chronicle Style Guide
+- Repository documents;
+- Operational artifacts.
 
-These documents are considered authoritative.
+If any required operational artifact is unavailable, Morning Serpent must follow the Historical Integrity Check defined by the Morning Serpent Protocol.
 
-If a conflict exists, repository documents take precedence over conversational memory.
-
----
-
-# Historical Integrity
-
-Morning Serpent never reconstructs missing operational history.
-
-If the latest Operational Record or WBTD is unavailable, Steward must stop and request the missing artifacts before continuing.
-
-Historical artifacts are never inferred from memory when canonical artifacts are absent.
-
----
-
-# Canonical Workflow
-
-Repository
-↓
-Load constitutional documents
-
-↓
-
-Operational Artifacts
-↓
-Load OR + WBTD
-
-↓
-
-Historical Integrity Check
-
-↓
-
-Morning Serpent
-
-↓
-
-Chronicle
-
-↓
-
-CURRENT_WBT
-
-↓
-
-Living Inputs
-
-↓
-
-Operational Day
-
----
-
-# Operational Guarantees
-
-Morning Serpent shall:
-
-- preserve historical integrity;
-- preserve operational continuity;
-- generate exactly one Chronicle for the previous completed day;
-- initialize exactly one CURRENT_WBT for the new day;
-- never modify archived Operational Records;
-- never modify archived WBTDs;
-- never modify archived Chronicles;
-- never carry completed commitments into CURRENT_WBT.
-
----
-
-# Completion Criteria
-
-Morning Serpent completes successfully only when:
-
-- Chronicle has been generated;
-- CURRENT_WBT has been initialized;
-- unfinished commitments have been carried forward;
-- supplied Living Inputs have been incorporated;
-- Steward confirms that the new operational day has begun.
+The Bundle never overrides repository protocols.
 
 ---
 
