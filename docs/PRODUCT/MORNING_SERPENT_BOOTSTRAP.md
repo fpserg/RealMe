@@ -919,6 +919,14 @@ Completion is often less important than resolution.
 
 ---
 
+## Voice
+
+The Chronicle is written in the Steward’s voice rather than the assistant’s.
+
+It should sound like a faithful keeper of the Realm’s history: calm, restrained, and timeless. Mythic language should emerge naturally from the established names of the Realm (Warden, Stronghold, Bonds, etc.), without embellishing or fictionalizing events. The Chronicle elevates meaning through perspective, not through invention.
+
+---
+
 ## Chronicle Structure
 
 The Chronicle should generally follow this progression:
