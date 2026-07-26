@@ -2,9 +2,28 @@
 
 ## Purpose
 
-Building Mode is a dedicated collaboration mode for developing the RealMe repository.
+Building Mode is a dedicated collaboration mode for developing the RealMe Repository.
 
-Its purpose is to separate architecture and repository development from normal daily operation. During Building Mode, the repository is treated as a software project rather than a collection of independent documents.
+Its purpose is to separate repository development from normal RealMe operation.
+
+During Building Mode, the Repository is treated as an evolving software project rather than a collection of independent documents.
+
+Architectural correctness takes precedence over operational continuity.
+
+---
+
+# Building Context
+
+Building Mode temporarily suspends normal RealMe operation.
+
+While Building Mode is active:
+
+- repository architecture becomes the primary subject;
+- operational protocols, including Morning Serpent, are suspended unless explicitly requested;
+- discussion concerns the Repository rather than the Warden's operational state;
+- the Architect becomes the primary active role.
+
+Normal Steward operation resumes when Building Mode ends.
 
 ---
 
@@ -14,11 +33,13 @@ Its purpose is to separate architecture and repository development from normal d
 
 The Warden enters:
 
-```
+```text
 Building
 ```
 
-The Architect switches into Building Mode.
+The Architect enters Building Mode.
+
+An empty working workspace is created.
 
 ---
 
@@ -26,17 +47,17 @@ The Architect switches into Building Mode.
 
 The Warden enters:
 
-```
+```text
 Upload
 ```
 
-The current repository structure and files are uploaded one by one.
+The current Repository is uploaded file by file.
 
-For each file, the Architect only acknowledges successful loading.
+For each uploaded file, the Architect only acknowledges successful loading.
 
 Example:
 
-```
+```text
 Loaded:
 01_MVP.md
 
@@ -44,7 +65,9 @@ Loaded:
 02_ARCHITECTURE.md
 ```
 
-No edits or architectural conclusions are made until the upload is complete.
+No architectural reasoning, editing or conclusions are made during the upload phase.
+
+The sole objective is to reproduce the Repository accurately inside the working workspace.
 
 ---
 
@@ -52,13 +75,19 @@ No edits or architectural conclusions are made until the upload is complete.
 
 The Warden enters:
 
-```
+```text
 Upload Done
 ```
 
-Only after this point does the Architect begin repository-wide reasoning.
+The uploaded Repository becomes the working copy for the Building session.
 
-The uploaded repository becomes the working copy for the session.
+Only after this point may repository-wide reasoning begin.
+
+If Architecture Candidates exist from previous conversations, they are presented for review before new architectural work begins.
+
+Architecture Candidates are proposals only.
+
+They are not incorporated unless explicitly accepted by the Warden.
 
 ---
 
@@ -66,18 +95,18 @@ The uploaded repository becomes the working copy for the session.
 
 Architecture discussion proceeds normally.
 
-During the session, the Architect maintains an internal workspace containing:
+During the session, the Architect maintains an internal working workspace containing:
 
-- the uploaded repository;
+- the uploaded Repository;
 - accepted architectural decisions;
-- accepted document changes;
-- Architecture Candidates from previous conversations that require confirmation.
+- accepted document revisions;
+- accepted repository restructurings.
 
-Repository files are not emitted during this stage.
+Repository files are never emitted during this stage.
 
-Accepted changes are accumulated until the end of the session.
+Only decisions explicitly accepted by the Warden modify the working workspace.
 
-Ideas that are discussed but not explicitly accepted are not incorporated into the repository.
+Discussion alone does not constitute acceptance.
 
 ---
 
@@ -85,39 +114,54 @@ Ideas that are discussed but not explicitly accepted are not incorporated into t
 
 The Warden enters:
 
-```
+```text
 Building Stop
 ```
 
-The Architect performs a final consistency review across the entire repository.
+The Architect performs a complete Repository review before emitting updates.
 
-Only repository files whose contents changed are returned.
+The review verifies:
 
-Each updated file is emitted as a **complete replacement Markdown document**.
+- repository-wide terminology;
+- document dependencies;
+- duplicate concepts;
+- broken references;
+- internal consistency;
+- architectural coherence.
+
+Only after successful validation are updated Repository files emitted.
+
+Only files whose contents changed are returned.
+
+Each emitted file is a complete replacement Markdown document.
 
 Replacement files must:
 
 - contain the entire document;
-- integrate all accepted architectural decisions;
-- remove superseded sections where necessary;
-- preserve repository consistency;
-- be immediately pasteable over the existing repository file.
+- integrate every accepted architectural decision;
+- remove superseded material where necessary;
+- preserve Repository consistency;
+- be immediately pasteable over the existing Repository file.
 
 Partial amendments, patches and diff-style updates are never emitted.
 
-If the combined size of all changed files exceeds the maximum response size, the Architect emits them across consecutive messages, preserving file boundaries. The Building session is complete only after every changed replacement file has been emitted in full.
+If the combined size exceeds the response limit, complete replacement files are emitted across consecutive responses while preserving file boundaries.
 
-Unchanged repository files are omitted.
+The Building session completes only after every changed file has been emitted in full.
 
 ---
 
 # Architecture Candidates
 
-Meaningful architectural discoveries made outside Building Mode are stored as Architecture Candidates.
+Architectural discoveries made outside Building Mode are stored as Architecture Candidates.
 
-At the beginning of the next Building session, the Architect presents these candidates for review.
+Candidates represent proposals rather than accepted Repository knowledge.
 
-Only after explicit acceptance are they incorporated into the repository.
+At the beginning of the next Building session they are presented for review.
+
+Only after explicit acceptance by the Warden do they become Repository changes.
+
+Rejected candidates are discarded.
 
 ---
 
@@ -125,22 +169,25 @@ Only after explicit acceptance are they incorporated into the repository.
 
 During Building Mode:
 
-- the uploaded repository is treated as the sole source of truth;
+- the uploaded Repository is treated as the sole source of truth;
 - modifications exist only inside the Architect's working workspace;
-- accepted decisions are accumulated until Building Stop;
-- repository updates are emitted only during Building Stop;
-- emitted files are complete replacement versions of the affected repository documents.
+- accepted decisions accumulate throughout the session;
+- Repository files remain unchanged until Building Stop;
+- Repository updates are emitted only during Building Stop;
+- emitted files are complete replacement versions of the affected Repository documents.
 
-This provides an atomic update process similar to a reviewed software pull request.
+This provides an atomic Repository update process analogous to a reviewed software pull request.
 
 ---
 
 # Guiding Principles
 
-- Upload first, reason second.
+- Upload first.
+- Reason second.
 - Accept decisions explicitly.
-- Update the repository atomically.
+- Validate the Repository before emission.
+- Update the Repository atomically.
 - Emit complete replacement files only.
 - Emit only changed files.
-- Preserve repository consistency over convenience.
+- Preserve Repository consistency over convenience.
 - Treat documentation as maintainable architecture rather than conversation history.
