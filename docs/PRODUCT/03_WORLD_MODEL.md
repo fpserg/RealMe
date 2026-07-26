@@ -1,444 +1,220 @@
-# 03_WORLD_MODEL.md
-
-# World Model
-
-**Status:** Active  
-**Version:** MVP v1.1  
-**Purpose:** Define the persistent representation of the Warden's operating environment.
-
----
+# 03 — World Model
 
 # Purpose
 
-The World Model is the persistent source of truth about the Warden's life.
+Define the durable understanding maintained by RealMe.
 
-Its purpose is not to document life.
+The World Model represents the Warden's world independently of any individual conversation, session, or operational day.
 
-Its purpose is to maintain enough structured understanding to reduce cognitive load during future reasoning.
-
-The World Model is continuously updated through conversation and consulted whenever RealMe reasons about the user's situation.
+It is the single source of durable truth from which reasoning, operational views, and future decisions are derived.
 
 ---
 
-# Design Principles
+# Architectural Principle
 
-The World Model is:
+RealMe does not persist conversations.
 
-- persistent;
-- structured;
-- cumulative;
-- continuously updated;
-- independent of any specific LLM.
+RealMe persists understanding.
 
-The World Model is **not**:
+Conversations are transient.
 
-- a conversation log;
-- a note database;
-- a document repository;
-- a calendar replacement;
-- a task manager.
+Understanding is durable.
 
 ---
 
-# What The World Model Represents
+# The World Model
 
-The model represents the Warden's operating environment across time.
+The World Model is a typed property graph.
 
-It captures four domains.
+It represents durable understanding through:
 
-## 1. Reality
+- nodes;
+- relationships;
+- properties.
 
-Things that exist.
+Together these describe the Warden's operating environment.
 
-Examples:
-
-- people;
-- places;
-- realms;
-- organizations;
-- projects;
-- objects;
-- relationships.
+The World Model defines *what is known*, not *how it is currently being used*.
 
 ---
 
-## 2. History
+# World Model Invariants
 
-Things that happened.
+The following principles are fundamental to the architecture.
 
-Examples:
+## Single Source of Truth
 
-- events;
-- decisions;
-- completed milestones;
-- Living Inputs;
-- generated Chronicles.
+The World Model is the only source of durable knowledge.
 
-History explains how the current state emerged.
+No derived view may become an independent source of truth.
 
 ---
 
-## 3. Current State
+## Durable Understanding
 
-Things that are true now.
+Only information expected to remain useful beyond the current interaction belongs in the World Model.
 
-Examples:
-
-- active projects;
-- current priorities;
-- ongoing campaigns;
-- blockers;
-- locations;
-- progress.
-
-Current State changes frequently.
-
-It should always represent the latest known understanding.
+Temporary reasoning, conversation context and execution state remain outside the World Model.
 
 ---
 
-## 4. Commitments
+## Stable Identity
 
-Things expected to require future attention.
+Every node possesses a stable identity independent of its relationships.
 
-Examples:
-
-- recurring routines;
-- deadlines;
-- appointments;
-- milestones;
-- promises;
-- long-term goals.
-
-Commitments are first-class entities because remembering them consumes cognitive load.
+Relationships may change without changing the identity of the underlying concept.
 
 ---
 
-# Core Entity Types
+## Explicit Relationships
 
-The MVP should support the following persistent entity types.
+Connections between concepts are represented explicitly rather than through duplication.
 
-| Entity | Purpose |
-|---------|---------|
-| Person | Individuals known to the Warden |
-| Realm | Major life domains |
-| Place | Meaningful locations |
-| Project | Multi-step initiatives |
-| Commitment | Future obligations or recurring responsibilities |
-| Event | Things that happened or will happen at a specific time |
-| Chronicle | Human-readable historical summaries |
-
-Additional entities may be introduced later without changing the conceptual model.
+Relationships are durable knowledge.
 
 ---
 
-# Commitment
+## Derived Execution
 
-Commitments are central to RealMe.
+Operational structures are derived from the World Model.
 
-A Commitment represents something the Warden has accepted responsibility for.
-
-Examples:
-
-- Sergey Jr football every Wednesday.
-- Equity Strategy report due September 15.
-- Bathroom Campaign.
-- Weekly Buy-Side publication.
-- AI Foundations course.
-
-RealMe should reason from commitments rather than isolated tasks.
+Execution never defines understanding.
 
 ---
 
-# Commitment Types
+## Evolvable Ontology
 
-A commitment may represent different temporal structures.
+The architectural principles of the World Model are stable.
 
-## Deadline
-
-Example:
-
-> Equity Strategy report due September 15.
-
-Characteristics:
-
-- target date;
-- progress;
-- completion status.
+The ontology used to represent the Warden's world is intentionally minimal and may evolve as implementation reveals better representations.
 
 ---
 
-## Recurring
+# Ontology
 
-Example:
+The World Model represents durable concepts as typed nodes connected through typed relationships.
 
-> Sergey Jr football every Wednesday.
+The MVP defines an initial ontology sufficient to represent the Warden's world.
 
-Characteristics:
+Examples of node types include:
 
-- recurrence rule;
-- expected participation;
-- exceptions.
+- Realm
+- Domain
+- Commitment
+- Person
+- Place
+- Event
+- Asset
 
----
+These types are not intended to be exhaustive.
 
-## Scheduled
-
-Example:
-
-> Dentist appointment.
-
-Characteristics:
-
-- fixed date and time;
-- duration;
-- participants.
-
----
-
-## Project
-
-Example:
-
-> Bathroom Campaign.
-
-Characteristics:
-
-- milestones;
-- evolving progress;
-- related commitments;
-- completion state.
-
----
-
-## Goal
-
-Example:
-
-> Finish AI Foundations.
-
-Characteristics:
-
-- desired outcome;
-- optional target date;
-- measurable progress.
+Additional types should only be introduced when existing concepts and relationships cannot adequately represent new knowledge.
 
 ---
 
 # Relationships
 
-Entities should be connected rather than isolated.
+Relationships connect nodes.
 
-Examples:
-
-```
-Person
-    │
-    ├── participates in
-    │
-Commitment
-    │
-    ├── belongs to
-    │
-Realm
-    │
-    ├── advances
-    │
-Project
-```
-
-Example:
-
-```
-Sergey Jr
-        │
-participates in
-        │
-Football
-        │
-belongs to
-        │
-Household
-```
-
-Another example:
-
-```
-Equity Strategy Report
-        │
-belongs to
-        │
-Career
-```
-
-The World Model should prefer explicit relationships over duplicated information.
-
----
-
-# State Evolution
-
-The World Model is continuously refined.
-
-Example:
-
-```
-Morning
-
-Equity Strategy
-Status:
-Not started
-
-↓
-
-Living Input
-
-↓
-
-Afternoon
-
-Status:
-Outline complete
-
-↓
-
-Living Input
-
-↓
-
-Evening
-
-Status:
-First draft completed
-```
-
-The latest state replaces obsolete state while preserving meaningful history.
-
----
-
-# Admission Principle
-
-The World Model is the authoritative representation of durable understanding.
-
-Not every interpretation should immediately become persistent truth.
-
-During reconciliation, RealMe may produce a **Candidate World Model Update**.
-
-Candidate updates represent proposed durable understanding that has not yet been admitted into the World Model.
-
-Admission follows two paths.
-
-## Automatic Admission
-
-Updates may be incorporated immediately when they are:
-
-- factual;
-- unambiguous;
-- directly stated by the Warden;
-- consistent with the existing World Model;
-- unlikely to alter long-term understanding.
+They represent durable understanding that cannot be expressed through isolated concepts.
 
 Examples include:
 
-- completed commitments;
-- schedule changes;
-- project progress;
-- factual status updates.
+- belongs to
+- contains
+- depends on
+- involves
+- occurs at
+- located at
+- responsible for
+- related to
 
-## Reviewed Admission
+Relationships are first-class elements of the World Model.
 
-Review is required when reconciliation produces inferred or potentially identity-changing understanding.
+---
+
+# Properties
+
+Nodes and relationships possess properties describing their durable characteristics.
 
 Examples include:
 
-- new long-term commitments;
-- changes to relationships;
-- persistent preferences;
-- behavioral patterns;
-- Realm structure;
-- architectural discoveries.
+- title
+- description
+- status
+- priority
+- timestamps
+- confidence
 
-When ambiguity exists, RealMe proposes the update rather than silently incorporating it.
+Properties describe existing concepts.
 
-This preserves both continuity and human agency while allowing the World Model to evolve continuously.
-
----
-
-# Temporal Reasoning
-
-The World Model should understand time.
-
-Questions it should eventually answer include:
-
-- What requires attention today?
-- What becomes important this week?
-- What commitments are overdue?
-- What routines are expected today?
-- Which projects are blocked?
-- Which commitments are related?
-
-Temporal understanding is derived from commitments, events and current state.
+They do not exist independently.
 
 ---
 
-# Memory Strategy
+# Ownership
 
-Not every sentence belongs in the World Model.
+Every durable fact belongs to exactly one location within the World Model.
 
-Persist information that is likely to remain useful across future conversations.
+Knowledge should not be duplicated.
 
-Examples:
-
-Persist:
-
-- relationships;
-- recurring routines;
-- projects;
-- commitments;
-- long-term preferences;
-- meaningful decisions.
-
-Usually do not persist:
-
-- casual conversation;
-- transient emotions without lasting relevance;
-- one-off observations with no future value;
-- conversational filler.
-
-Persistence should favor long-term usefulness over completeness.
+When multiple concepts share understanding, they should reference one another through relationships rather than maintain separate copies.
 
 ---
 
-# Chronicles
+# Relationship to Living Inputs
 
-Chronicles are generated from the World Model.
+Living Inputs are observations.
 
-They are not the source of truth.
+Reconciliation determines whether they modify the World Model.
 
-Purpose:
+Only accepted understanding becomes durable knowledge.
 
-- summarize history;
-- explain progress;
-- help human reflection.
-
-The World Model exists independently of Chronicles.
+Conversation history itself is never part of the World Model.
 
 ---
 
-# Architectural Constraints
+# Relationship to Application State
 
-The World Model must never:
+Application State exists to execute the present.
 
-- depend on the current conversation;
-- depend on a specific LLM;
-- require manual maintenance by the user;
-- duplicate information unnecessarily.
+The World Model exists to understand the past and improve the future.
 
-Every update should improve future reasoning while preserving consistency.
+Runtime state is derived from the World Model whenever possible and discarded when no longer required.
+
+---
+
+# Relationship to Derived Views
+
+Operational structures such as:
+
+- Operational Record
+- WBT
+- WBTD
+- Chronicle
+
+are derived from the World Model together with current operational context.
+
+These views exist to support execution rather than define durable knowledge.
+
+---
+
+# Future Evolution
+
+Future versions may introduce:
+
+- richer ontologies;
+- additional relationship semantics;
+- graph-native persistence;
+- semantic reasoning over relationships;
+- multiple interconnected World Models.
+
+These extensions should preserve the architectural principles defined in this document.
 
 ---
 
 # Guiding Principle
 
-The World Model should store the minimum persistent information required to reduce future cognitive load.
+The World Model represents durable understanding of the Warden's world.
 
-If storing information does not improve future reasoning or assistance, it does not belong in the World Model.
+Everything else exists to interpret it, operate upon it, or derive views from it.
