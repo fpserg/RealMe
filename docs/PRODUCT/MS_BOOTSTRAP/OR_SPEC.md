@@ -2,15 +2,15 @@
 
 ## Purpose
 
-The Operational Record (OR) is the canonical factual history of the World.
+The Operational Record (OR) is the canonical factual history of an operational day.
 
-Its purpose is to preserve what happened during an operational day.
+Its purpose is to preserve an accurate, chronological record of what occurred while the World was unfolding.
 
-It is the authoritative source of historical facts.
+The Operational Record is the authoritative historical source used by RealMe.
 
-The Operational Record does **not** interpret events.
+It records facts.
 
-It records them.
+It does not interpret them.
 
 ---
 
@@ -18,9 +18,9 @@ It records them.
 
 The Operational Record answers one question:
 
-> What happened?
+> **What happened?**
 
-It deliberately avoids asking:
+It deliberately does not answer:
 
 - Why did it matter?
 - What changed?
@@ -32,59 +32,67 @@ The Operational Record preserves facts.
 
 The Chronicle preserves meaning.
 
-WBT preserves continuity.
+CURRENT_WBT preserves continuity.
+
+---
+
+# Constitutional Role
+
+The Operational Record is the canonical factual history of the World.
+
+It serves as the factual foundation for:
+
+- WBTD generation;
+- Chronicle generation;
+- Morning Serpent.
+
+Whenever historical facts are required, the Operational Record is authoritative.
 
 ---
 
 # Relationship to Other Artifacts
 
-## Operational Record
+## CURRENT_WBT
 
-Preserves:
+Represents the live operational state of the current day.
 
-- events;
-- decisions;
-- conversations;
-- observations;
-- completed work;
-- changes of state;
-- Living Inputs.
+Changes throughout the day.
 
-Chronological.
-
-Append-only.
-
-Factual.
+Not historical.
 
 ---
 
-## WBT / WBTD
+## WBTD
 
-Preserve operational continuity.
+Represents the final operational state of the completed day.
 
-Derived from the operational state rather than historical events.
+Derived from CURRENT_WBT.
+
+Preserves operational continuity.
 
 ---
 
 ## Chronicle
 
+Interprets the completed day.
+
 Uses the Operational Record as its factual foundation.
 
-Interprets rather than repeats.
+Preserves meaning rather than chronology.
 
 ---
 
 # Canonical Properties
 
-The Operational Record is:
+An Operational Record is:
 
 - factual;
 - chronological;
 - append-only;
-- immutable after archival;
-- repository-ready.
+- repository-ready;
+- immutable after archival.
 
-It contains observations rather than interpretations.
+It records observations rather than interpretations.
 
 ---
 
@@ -92,86 +100,68 @@ It contains observations rather than interpretations.
 
 Each operational day has exactly one Operational Record.
 
-The document consists of:
+An Operational Record consists of:
 
 1. Header
 2. Chronological Entries
-3. End-of-Day Closure
+3. Closure
+
+The internal formatting may evolve provided these three components remain present.
 
 ---
 
 # Header
 
-The document begins with:
+The Header identifies the operational day.
 
-```markdown
-# Operational Record — Day XXX
+It includes:
+
+- day identifier;
+- date;
+- operational status.
+
+Example:
+
+```text
+# Operational Record — Day 034
 
 Date:
 
 Status: Active
 ```
 
-While the day is in progress:
-
-```text
-Status: Active
-```
-
-After WBTD generation:
-
-```text
-Status: Closed
-```
+The exact formatting is not constitutionally significant.
 
 ---
 
 # Chronological Entries
 
-Entries are recorded as events occur.
+Entries are appended as the day unfolds.
 
-Each entry should include:
+Each entry records one factual event.
 
-- approximate time (when useful);
-- factual description;
-- affected Realm or Domain (when relevant).
+An entry may include, where appropriate:
 
-Example:
+- approximate time;
+- affected Realm or Domain;
+- factual description.
 
-```text
-09:10
-
-Career Realm
-
-Completed first draft of Yandex valuation model.
-```
-
-or
-
-```text
-18:40
-
-Household Realm
-
-Roman confirmed plumbing work for next week.
-```
-
-No interpretation should be added.
+Interpretation should not be included.
 
 ---
 
 # Living Inputs
 
-Every Living Input that changes the operational state should be appended to the Operational Record.
+Every Living Input that changes the operational state of the World should be recorded in the Operational Record.
 
 Examples include:
 
-- completed commitments;
+- completed work;
 - new commitments;
+- decisions;
 - discoveries;
 - conversations;
 - significant observations;
-- decisions;
 - changes of plans.
 
 Not every Living Input will later appear in the Chronicle.
@@ -180,12 +170,12 @@ Not every Living Input will later appear in the Chronicle.
 
 # Editing Rules
 
-While active:
+While the Operational Record is Active:
 
-- entries may be appended;
-- factual corrections may be made.
+- factual entries may be appended;
+- factual mistakes may be corrected.
 
-Past entries should not be rewritten merely for style.
+Historical entries should never be rewritten merely for style or narrative quality.
 
 ---
 
@@ -193,20 +183,21 @@ Past entries should not be rewritten merely for style.
 
 At the end of the operational day:
 
-1. CURRENT_WBT is finalized into WBTD.
-2. Operational Record status becomes Closed.
+1. CURRENT_WBT becomes WBTD.
+2. The Operational Record becomes Closed.
 3. Both artifacts are archived.
-4. Neither artifact is modified again.
 
-Morning Serpent uses the archived Operational Record and WBTD to initialize the next day.
+After archival, neither artifact is modified.
+
+Morning Serpent uses these archived artifacts to initialize the next operational day.
 
 ---
 
-# Immutability
+# Historical Integrity
 
 Once archived, the Operational Record is immutable.
 
-Errors discovered later should be corrected through new operational entries rather than rewriting history whenever practical.
+If a historical error is discovered later, correction should normally occur through a new factual entry rather than rewriting history.
 
 Historical integrity takes precedence over cosmetic perfection.
 
@@ -214,16 +205,14 @@ Historical integrity takes precedence over cosmetic perfection.
 
 # Guiding Principles
 
-Record facts.
-
-Avoid interpretation.
-
-Append rather than rewrite.
+Facts before interpretation.
 
 Chronology before narrative.
+
+Append rather than rewrite.
 
 The Operational Record remembers the day.
 
 The Chronicle remembers why the day mattered.
 
-WBT remembers what continues into tomorrow.
+CURRENT_WBT remembers what continues into tomorrow.
