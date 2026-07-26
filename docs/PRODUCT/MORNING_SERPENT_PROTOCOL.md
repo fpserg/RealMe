@@ -44,9 +44,9 @@ It must respond:
 >
 > Once they are available, I will continue from Phase 1.
 
-Morning Serpent must never reconstruct, approximate or infer missing historical artifacts from conversation history or memory when canonical artifacts are unavailable.
+Morning Serpent must never reconstruct, approximate or infer missing historical artifacts from conversation history or memory.
 
-Canonical repository artifacts always take precedence over conversation memory.
+Canonical repository artifacts always take precedence over conversational memory.
 
 ---
 
@@ -69,11 +69,18 @@ No modifications are permitted.
 
 Execute internally:
 
-Steward, Chronicles
+> Steward, Chronicles
 
-Generate the Chronicle in the canonical format.
+The Steward uses:
 
-The Chronicle becomes the permanent historical interpretation of the previous operational day.
+- Operational Record;
+- WBTD;
+- Chronicle Style Guide;
+- World Model.
+
+The Chronicle becomes the permanent historical interpretation of the completed day.
+
+No operational state may be modified during Chronicle generation.
 
 ---
 
@@ -81,40 +88,43 @@ The Chronicle becomes the permanent historical interpretation of the previous op
 
 Generate a new CURRENT_WBT.
 
-Carry forward:
+Carry forward only:
 
 - unfinished commitments from WBTD.
 
-Do not carry forward:
+Do **not** carry forward:
 
 - completed commitments;
 - historical events;
-- completed operational facts.
+- completed operational facts;
+- Chronicle content.
 
-CURRENT_WBT becomes the sole live operational state.
+CURRENT_WBT becomes the sole live operational state of the World.
 
 ---
 
 ## Phase 4 — Living Input Processing
 
-If Morning Serpent contains additional user comments, requests or observations, they are interpreted as today's first Living Inputs.
+If Morning Serpent contains additional comments, requests or observations, they become the first Living Inputs of the new operational day.
 
 For every Living Input:
 
-- update CURRENT_WBT where required;
+- update CURRENT_WBT where appropriate;
 - append the corresponding operational fact to today's Operational Record;
-- evaluate potential World Model updates according to the World Model Admission workflow.
+- evaluate whether the Living Input suggests an update to the World Model.
+
+Not every Living Input changes the World Model.
 
 ---
 
 ## Phase 5 — Morning Output
 
-Morning Serpent returns:
+Morning Serpent returns, in order:
 
-1. Chronicle.
-2. Steward observations.
-3. CURRENT_WBT.
-4. Confirmation that the new operational day has been initialized.
+1. Chronicle
+2. Steward observations
+3. CURRENT_WBT
+4. Confirmation that the new operational day has been initialized
 
 ---
 
@@ -125,50 +135,77 @@ Morning Serpent must never:
 - modify historical Operational Records;
 - modify historical WBTDs;
 - modify historical Chronicles;
-- reconstruct history from conversation memory when canonical artifacts are available;
+- reconstruct history from conversation memory;
 - carry completed commitments into CURRENT_WBT;
-- overwrite previous historical artifacts.
+- overwrite historical artifacts.
+
+Morning Serpent preserves continuity.
+
+It never rewrites history.
 
 ---
 
 # Artifact Lifecycle
 
-Previous day:
+## Previous Day
 
+```text
 CURRENT_WBT
-→ Operational Record
-→ WBTD
-→ Archive
-
-Morning:
-
+        │
+        ▼
 Operational Record
-+
+        │
+        ▼
 WBTD
-↓
-Morning Serpent
-↓
-Chronicle
-↓
-CURRENT_WBT
-
-Daytime:
-
-Living Inputs
-↓
-CURRENT_WBT
-+
-Operational Record
-
-Evening:
-
-CURRENT_WBT
-↓
-Operational Record (final)
-↓
-WBTD
-↓
+        │
+        ▼
 Archive
+```
+
+---
+
+## Morning
+
+```text
+Operational Record
+        +
+      WBTD
+        │
+        ▼
+Morning Serpent
+        │
+        ├── Chronicle
+        │
+        └── CURRENT_WBT
+```
+
+---
+
+## Daytime
+
+```text
+Living Inputs
+      │
+      ├── Operational Record
+      └── CURRENT_WBT
+```
+
+---
+
+## Evening
+
+```text
+CURRENT_WBT
+      │
+      ▼
+Operational Record
+      │
+      ▼
+WBTD
+      │
+      ▼
+Archive
+```
 
 ---
 
@@ -184,7 +221,9 @@ Priority:
 4. World Model
 5. Conversation memory
 
-Conversation memory may be used only as temporary context while canonical artifacts remain available. It must never replace missing historical artifacts.
+Conversation memory may provide temporary context.
+
+It must never replace missing canonical artifacts.
 
 ---
 
@@ -192,8 +231,28 @@ Conversation memory may be used only as temporary context while canonical artifa
 
 Morning Serpent completes successfully only when:
 
-- Chronicle has been generated.
-- CURRENT_WBT has been initialized.
-- All unfinished commitments have been carried forward.
-- Any supplied Living Inputs have been incorporated into CURRENT_WBT and the new Operational Record.
-- The new operational day is ready for Steward.
+- the Chronicle has been generated;
+- CURRENT_WBT has been initialized;
+- all unfinished commitments have been carried forward;
+- supplied Living Inputs have been incorporated into:
+  - CURRENT_WBT;
+  - today's Operational Record;
+- the World is ready for Stewardship.
+
+---
+
+# Philosophy
+
+Morning Serpent is the bridge between history and continuity.
+
+The Operational Record preserves what happened.
+
+The Chronicle preserves why it mattered.
+
+CURRENT_WBT preserves what now belongs to the World.
+
+Each morning, history becomes memory.
+
+Memory becomes continuity.
+
+Continuity becomes stewardship.
