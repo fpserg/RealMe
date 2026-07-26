@@ -49,9 +49,9 @@ It asks one question:
 
 > **What permanently changed because this day happened?**
 
-The Operational Record preserves the day.
+The Operational Record remembers the day.
 
-The Chronicle preserves why the day mattered.
+The Chronicle remembers why the day mattered.
 
 ---
 
@@ -137,7 +137,9 @@ The Chronicle follows the World rather than forcing equal attention to every Rea
 
 Separate text box containing only:
 
+```text
 Day XXX — Title.md
+```
 
 ---
 
