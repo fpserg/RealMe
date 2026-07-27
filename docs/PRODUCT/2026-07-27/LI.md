@@ -50,3 +50,7 @@ LI
 
 Owling was hit by a boy on bicycle when running after a ball. Fortunately no injuries and back to explorer mode soon after. Alisa and Sergey were fiercely arguing with the boy who hit Owling and made him apologize
 
+LI
+
+Saw a fox on our way to Stronghold. Was crossing the road and stopped in front of our car so we all could see it. Night is peaceful with full moon and full of stars.
+
