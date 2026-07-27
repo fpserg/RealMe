@@ -11,3 +11,9 @@ Coordinate Top-5 of the week
 Positive Technologies report 2Q26 today
 
 POSI Investor Day at 17. Will have to leave early at 18 for Oksi’s dentist appointment
+
+LI
+
+Top picks coordination done
+Yandex and Ozon previews done
+
