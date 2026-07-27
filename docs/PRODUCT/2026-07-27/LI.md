@@ -25,3 +25,12 @@ Yandex 2Q26 and 2026 estimates sent
 LI
 
 Follow up with Alexey meeting with Astra done. Mood is quite gloomy on market outlook. New follow up ahead: today Alexey speaks with VK.
+
+LI
+
+POSI 2Q26 review done
+
+Ad-hoc commitment: department coverage list updated
+
+Heading to Investor Day 
+
