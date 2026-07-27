@@ -34,3 +34,7 @@ Ad-hoc commitment: department coverage list updated
 
 Heading to Investor Day 
 
+LI
+
+Remote work observation: this day was busy in Career Realm, but I managed everything quite effectively. BUT! I was in coworking, which is closer to Career environment, not Household. Also this feels a bit like cheating to Household. Still hope remote is a one-off, not a new standard.
+
