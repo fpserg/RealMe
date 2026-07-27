@@ -42,3 +42,6 @@ LI
 
 Going to Stronghold after Oksi’s back from dentist. Tomorrow is beds delivery and assembly, also hope to advance Stronghold Gas Campaign while there. Visit to administrative entity required, high level of bureaucracy expected.
 
+LI
+
+Made it home on time after leaving Investor Day halfway. Oksi was exhausted by kids, and left for dentist visit. I’m in charge.
