@@ -1,3 +1,5 @@
+Day 034
+
 LI
 
 Today is another remote work for me. I had to look for a coworking as it is impossible to work from home in my case.
