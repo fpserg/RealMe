@@ -45,3 +45,8 @@ Going to Stronghold after Oksi’s back from dentist. Tomorrow is beds delivery 
 LI
 
 Made it home on time after leaving Investor Day halfway. Oksi was exhausted by kids, and left for dentist visit. I’m in charge.
+
+LI
+
+Owling was hit by a boy on bicycle when running after a ball. Fortunately no injuries and back to explorer mode soon after. Alisa and Sergey were fiercely arguing with the boy who hit Owling and made him apologize
+
