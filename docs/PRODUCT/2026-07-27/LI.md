@@ -18,3 +18,6 @@ Top picks coordination done
 
 Yandex and Ozon previews done
 
+LI
+
+Yandex 2Q26 and 2026 estimates sent
