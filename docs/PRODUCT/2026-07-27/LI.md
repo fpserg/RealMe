@@ -15,5 +15,6 @@ POSI Investor Day at 17. Will have to leave early at 18 for Oksi’s dentist app
 LI
 
 Top picks coordination done
+
 Yandex and Ozon previews done
 
