@@ -38,3 +38,7 @@ LI
 
 Remote work observation: this day was busy in Career Realm, but I managed everything quite effectively. BUT! I was in coworking, which is closer to Career environment, not Household. Also this feels a bit like cheating to Household. Still hope remote is a one-off, not a new standard.
 
+LI
+
+Going to Stronghold after Oksi’s back from dentist. Tomorrow is beds delivery and assembly, also hope to advance Stronghold Gas Campaign while there. Visit to administrative entity required, high level of bureaucracy expected.
+
