@@ -26,3 +26,7 @@ LI
 
 Skies turned extremely black, and I rushed to pick my brave explorers back from the playground, and met them halfway. Maybe we even get back until it rains.
 
+LI
+
+And we made it! Just before the first raindrop. And it was a heavy one. But it’s over, and bed assembly is not, so there I am heading for the playground again. I wonder whether I deserve a RealMe badge of Legendary Playground Roamer.
+
