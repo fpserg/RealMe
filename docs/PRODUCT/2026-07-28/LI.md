@@ -30,3 +30,6 @@ LI
 
 And we made it! Just before the first raindrop. And it was a heavy one. But it’s over, and bed assembly is not, so there I am heading for the playground again. I wonder whether I deserve a RealMe badge of Legendary Playground Roamer.
 
+LI
+
+On the way back Oksi was quiet and sad. She fell in love so much with the Stronghold, it keeps me motivated to try my best to make this place as good for her as possible, although it’s not easy to meet all of her demands.
