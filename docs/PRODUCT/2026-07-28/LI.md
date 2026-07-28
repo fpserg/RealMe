@@ -16,3 +16,9 @@ Completed Fuel Quest. Also bought Oksi some painkillers after yesterday’s dent
 
 Now waiting for furniture arrival.
 
+LI
+
+Walking kids while bed assembly at Stronghold. Had to take Owling home to change a diaper, Alisa and Sergey chose to stay at the playground on their own.
+
+Postponed Gas Campaign’s Paper Dragon Quest till next time. I’m still waiting for one of the documents potentially needed, so don’t want to risk a useless drive there and back until I get as many papers as possible.
+
