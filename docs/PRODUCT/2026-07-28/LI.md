@@ -22,3 +22,7 @@ Walking kids while bed assembly at Stronghold. Had to take Owling home to change
 
 Postponed Gas Campaign’s Paper Dragon Quest till next time. I’m still waiting for one of the documents potentially needed, so don’t want to risk a useless drive there and back until I get as many papers as possible.
 
+LI
+
+Skies turned extremely black, and I rushed to pick my brave explorers back from the playground, and met them halfway. Maybe we even get back until it rains.
+
