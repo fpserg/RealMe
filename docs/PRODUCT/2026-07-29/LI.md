@@ -42,3 +42,7 @@ Attention switch to Household.
 
 Oksi is unwell, so I took kids out. It’s raining, so we are at cafe, hopefully rain stops.
 
+LI
+
+Spoke to dad on phone today. We have been rarely in touch lately because there are tensions between Oksi and my parents (and her parents too). Told him progress on Stronghold development and about kids. I know my parents miss their grandchildren, but Oksi doesn’t let them see each other. Hope some day tensions ease and we can let kids go to grands for a weekend, this would also free up some energy for ourselves.
+
