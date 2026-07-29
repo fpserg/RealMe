@@ -12,3 +12,7 @@ Heading off to candidate analyst lunch soon. Conflicts with Yandex results confe
 
 Positive Technologies call at lunchtime
 
+LI
+
+Regular Tower dividends report today. Will have to squeeze it between Career commitments somehow
+
