@@ -16,3 +16,7 @@ LI
 
 Regular Tower dividends report today. Will have to squeeze it between Career commitments somehow
 
+LI
+
+Need to check Moscow Exchange initiation report
+
