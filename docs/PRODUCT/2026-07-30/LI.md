@@ -20,3 +20,7 @@ Send coverage list to exchange tomorrow morning.
 
 Off to Positive Technologies stream.
 
+LI
+
+Fabrica and brokerage call delegations went smooth. Fixed income analyst asked whether he could use our IPO report draft - I’m not sure, it has not been published. Agreed to check with Andrey.
+
