@@ -169,6 +169,61 @@ The Chronicle should describe evolution rather than activity.
 
 ---
 
+# Chronicle Formatting
+
+The Chronicle is produced as two separate Markdown blocks.
+
+## Block 1 — Filename
+
+The first block contains only the filename.
+
+Format:
+
+```text
+Day XXX — Chronicle Title.md
+```
+
+No heading, commentary or additional text is included.
+
+---
+
+## Block 2 — Chronicle
+
+The second block contains the complete Chronicle document.
+
+Its structure is:
+
+```markdown
+# 📖 Day XXX — Chronicle Title
+
+## <Emoji> Chapter Title
+
+...
+
+---
+
+## <Emoji> Chapter Title
+
+...
+
+---
+
+## 🌍 Closing Chapter
+
+...
+```
+
+Formatting principles:
+
+- The title always begins with the 📖 emoji.
+- Major sections use H2 headings (`##`) preceded by a thematic emoji.
+- Sections are separated by horizontal rules (`---`).
+- The final section concludes with a World-level reflection describing how the World changed because of the day.
+- The Chronicle is written as enduring historical prose rather than an operational report.
+- Both blocks are directly pasteable without modification.
+
+---
+
 # Tone
 
 The Chronicle is calm.
