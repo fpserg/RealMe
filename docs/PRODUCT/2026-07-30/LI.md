@@ -24,3 +24,11 @@ LI
 
 Fabrica and brokerage call delegations went smooth. Fixed income analyst asked whether he could use our IPO report draft - I’m not sure, it has not been published. Agreed to check with Andrey.
 
+LI
+
+Positive Technologies stream done, was nice and friendly talk
+
+VseInstrumenti report review - can be done tomorrow
+
+Heading home, switch to Household mode
+
