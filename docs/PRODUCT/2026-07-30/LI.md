@@ -32,3 +32,7 @@ VseInstrumenti report review - can be done tomorrow
 
 Heading home, switch to Household mode
 
+LI
+
+Found Oksi tired and angry when came home, so helped her get kids to bed early. Now struggling with Owling
+
