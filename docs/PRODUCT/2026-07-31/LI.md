@@ -16,3 +16,9 @@ Initiated process of Lisa relocation to a better seat by the window at the offic
 
 Approved vacation for Marat
 
+LI
+
+VseInstrumenti review half done, postponed until Monday
+
+Switching to weekend mode: driving to Stronghold tonight
+
