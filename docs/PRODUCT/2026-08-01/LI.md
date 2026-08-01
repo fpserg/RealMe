@@ -26,3 +26,7 @@ LI
 
 New set of plants delivered. Now waiting for land cultivators to come on Monday and prepare plot for planting
 
+LI
+
+Grabbed ice cream for everyone on our way back from playground together with Oksi. Now watching Owling rampaging the living room. I wonder how much energy he has, he never stops.
+
