@@ -22,3 +22,7 @@ LI
 
 Kids’ ball stuck in nettle bush. Trying to make them find solution themselves instead of immediately helping. They ultimately found solution although with my guidance
 
+LI
+
+New set of plants delivered. Now waiting for land cultivators to come on Monday and prepare plot for planting
+
