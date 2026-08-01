@@ -18,3 +18,7 @@ Now walking kids while Oksi rests.
 
 Done with RealMe development for today as hit quota. Already know some issues to improve when quota is reset
 
+LI
+
+Kids’ ball stuck in nettle bush. Trying to make them find solution themselves instead of immediately helping. They ultimately found solution although with my guidance
+
