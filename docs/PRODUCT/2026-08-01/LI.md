@@ -30,3 +30,9 @@ LI
 
 Grabbed ice cream for everyone on our way back from playground together with Oksi. Now watching Owling rampaging the living room. I wonder how much energy he has, he never stops.
 
+LI
+
+Kids were playing football and their ball came over someone’s fence. Digital generation ones came to mum asking whether she could ask in neighbourhood chat to get the ball back. But Oksi solved this old style, just going to the fence and finding someone who could throw the ball back. I observed it all from the upper terrace while rocking Owling in the stroller.
+
+Peaceful evening, Owling is asleep, Oksi reads about plants and furniture, kids were playing quizes, now watching The Spy Next Door.
+
