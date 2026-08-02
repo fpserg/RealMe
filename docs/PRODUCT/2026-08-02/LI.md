@@ -8,3 +8,7 @@ LI
 
 Call Kadyr to arrange construction market trip to buy missing materials for Bathroom Campaign
 
+LI
+
+Bazis 2Q26 report next Tuesday
+
