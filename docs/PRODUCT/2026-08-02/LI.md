@@ -12,3 +12,8 @@ LI
 
 Bazis 2Q26 report next Tuesday
 
+LI
+
+Sirius incident.
+
+Received a call from Nelly who walks Sirius while we are at Stronghold. She said that she can’t open the door because Oksi invoted our fellow cleaner Nadezhda to make apartment tidy while we are away, and she probably locked the door with a lock which Nelly doen’t have keys for. Called Nadezhda and found out that she stayed at our place overnight, so would walk Sirius. Incident solved.
