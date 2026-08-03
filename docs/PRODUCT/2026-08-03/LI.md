@@ -14,3 +14,8 @@ VseInstrumenti report checked, feedback provided
 
 Task to new junior: housekeeping of Basis model ahead of tomorrow’s report 
 
+LI
+
+Fixed old bed temporarily, waiting till new swing arrives tomorrow. Hope Oksi won’t destroy bed until swing comes. The new bed then goes to Stronghold, already loaded in car.
+
+Spent much of spare time on RealMe app development. Reached some progress with UX, although not all of valuable Architect comments have been implemented yet.
