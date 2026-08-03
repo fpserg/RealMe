@@ -5,3 +5,12 @@ Need to pick up swing mechanism for Owling’s bed from delivery point. He jumps
 LI
 
 Landscapers entered Stronghold, landscaping works starting
+
+LI
+
+Oksi broke the Owling bed and made scandal. Instead of just replacing swing mechanism I had to order a new bed. So my evening plans are now disassemble old bed and assemble new, most likely with Owling running around…
+
+VseInstrumenti report checked, feedback provided
+
+Task to new junior: housekeeping of Basis model ahead of tomorrow’s report 
+
