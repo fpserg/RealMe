@@ -13,3 +13,7 @@ Used work breaks to polish RealMe MVP app
 Accounts not yet unfrozen by bailiffs, found a workaround by sending money from credit card in frozen bank to a bank where I have a non-KYC account, so it’s not frozen. Paid mortgage from that account and still using crypto for lunches and small purchases.
 
 On my way home, ready to depart for Stronghold, weekend mode on
+
+LI
+
+Assembled new bed for Owling
