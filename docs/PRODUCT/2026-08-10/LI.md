@@ -6,3 +6,7 @@ Agenda for today:
 - drive back home from Stronghold
 - Gold report - read and provide feedback
 
+LI
+
+Drove to gas authority only to find out that one document is still missing. Good news is this one is hopefully last that is missing. It is the passport for the gas cooker which arrives together with the kitchen in about a month. If we can’t get the passport before the cooker itself, Gas Campaign is blocked until kitchen delivery.
+
