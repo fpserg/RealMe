@@ -14,3 +14,10 @@ LI
 
 Made it to the beach while still here at Stronghold. Kids absolutely love that place!
 
+LI
+Helped Oksi with some digging while Owling was asleep
+
+When we were packing for home we realized that left Owling’s shoes at the beach. I grabbed kids and we drove there and back while Oksi was packing and enjoying last 30 minites at her favourite place on her own. Kids were also happy to see their beloved lake once again and touch water before leaving. We also saw a large duck family swimming just by the stairs to water.
+
+Gold report review done, will provide feedback tomorrow.
+
