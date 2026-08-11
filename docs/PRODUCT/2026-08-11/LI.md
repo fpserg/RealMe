@@ -16,3 +16,13 @@ Agenda for today:
 - Denis briefing on sartups
 - Delegate Artem to Yandex B2B Tech presentation
 
+LI
+
+Done all of these:
+
+issuing VK 2Q26 Earnings Preview
+Lunch with Alexey of ECM
+Keep updating models
+Denis briefing on sartups
+Delegate Artem to Yandex B2B Tech presentation
+
