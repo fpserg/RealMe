@@ -1,258 +1,79 @@
 # Morning Serpent Protocol
 
+## Status
+
+Optional, read-only morning presentation.
+
+Morning Serpent is not required for operational continuity. It does not initialize a day, open a day, close a day, generate a Chronicle, or maintain state.
+
+---
+
 ## Purpose
 
-Morning Serpent is the canonical protocol that transitions RealMe from one operational day to the next.
+Morning Serpent may present the current operational landscape in a useful morning format without changing canonical repository state.
 
-It closes the historical context of the previous day, generates its historical narrative, initializes the new operational day, and resumes live operational tracking.
+It may read and present:
 
-Morning Serpent is the only protocol permitted to initialize a new operational day.
-
----
-
-# Inputs
-
-## Required
-
-- Latest Operational Record (OR)
-- Latest WBTD
-
-## Optional
-
-- New Living Inputs supplied together with the Morning Serpent invocation.
+- the latest completed WBTD;
+- the latest OR and Chronicle where useful;
+- today's verbatim `LI.md`, if it exists;
+- the derived live WBT;
+- Steward observations.
 
 ---
 
-# Historical Integrity Check
-
-Before execution, Morning Serpent verifies that the required historical artifacts are available.
-
-Required artifacts:
-
-- Latest Operational Record (OR)
-- Latest WBTD
-
-If either artifact is unavailable, incomplete, or cannot be identified with confidence, Morning Serpent MUST stop before Chronicle generation.
-
-It must respond:
-
-> Morning Serpent cannot initialize the new operational day because the latest historical artifacts are unavailable.
->
-> Please upload:
-> - the latest Operational Record (OR);
-> - the latest WBTD.
->
-> Once they are available, I will continue from Phase 1.
-
-Morning Serpent must never reconstruct, approximate or infer missing historical artifacts from conversation history or memory.
-
-Canonical repository artifacts always take precedence over conversational memory.
-
----
-
-# Execution
-
-## Phase 1 — Historical Reconstruction
-
-Load:
-
-- Operational Record
-- WBTD
-
-Treat both as immutable historical artifacts.
-
-No modifications are permitted.
-
----
-
-## Phase 2 — Chronicle Generation
-
-Execute internally:
-
-> Steward, Chronicles
-
-The Steward uses:
-
-- Operational Record;
-- WBTD;
-- Chronicle Style Guide;
-- World Model.
-
-The Chronicle becomes the permanent historical interpretation of the completed day.
-
-No operational state may be modified during Chronicle generation.
-
----
-
-## Phase 3 — Operational Continuity
-
-Generate a new CURRENT_WBT.
-
-Carry forward only:
-
-- unfinished commitments from WBTD.
-
-Do **not** carry forward:
-
-- completed commitments;
-- historical events;
-- completed operational facts;
-- Chronicle content.
-
-CURRENT_WBT becomes the sole live operational state of the World.
-
----
-
-## Phase 4 — Living Input Processing
-
-If Morning Serpent contains additional comments, requests or observations, they become the first Living Inputs of the new operational day.
-
-For every Living Input:
-
-- update CURRENT_WBT where appropriate;
-- append the corresponding operational fact to today's Operational Record;
-- evaluate whether the Living Input suggests an update to the World Model.
-
-Not every Living Input changes the World Model.
-
----
-
-## Phase 5 — Morning Output
-
-Morning Serpent returns, in order:
-
-1. Chronicle
-2. Steward observations
-3. CURRENT_WBT
-4. Confirmation that the new operational day has been initialized
-
----
-
-# Operational Guarantees
-
-Morning Serpent must never:
-
-- modify historical Operational Records;
-- modify historical WBTDs;
-- modify historical Chronicles;
-- reconstruct history from conversation memory;
-- carry completed commitments into CURRENT_WBT;
-- overwrite historical artifacts.
-
-Morning Serpent preserves continuity.
-
-It never rewrites history.
-
----
-
-# Artifact Lifecycle
-
-## Previous Day
+## Invocation
 
 ```text
-CURRENT_WBT
-        │
-        ▼
-Operational Record
-        │
-        ▼
-WBTD
-        │
-        ▼
-Archive
-```
-
----
-
-## Morning
-
-```text
-Operational Record
-        +
-      WBTD
-        │
-        ▼
 Morning Serpent
-        │
-        ├── Chronicle
-        │
-        └── CURRENT_WBT
 ```
+
+Invocation is optional.
+
+If today's `LI.md` exists, Morning Serpent presents the already open day. If it does not exist, Morning Serpent may present the latest completed state but must not create or open today's day.
+
+The first Living Input on a new calendar date opens that operational day.
 
 ---
 
-## Daytime
+## Derived Live WBT
 
 ```text
-Living Inputs
-      │
-      ├── Operational Record
-      └── CURRENT_WBT
+Live WBT =
+latest completed WBTD
++ new commitments in today's LIs
+- commitments closed by today's LIs
+± commitments changed by today's LIs
 ```
 
----
-
-## Evening
-
-```text
-CURRENT_WBT
-      │
-      ▼
-Operational Record
-      │
-      ▼
-WBTD
-      │
-      ▼
-Archive
-```
+Live WBT is calculated for presentation only. It is not persistent canonical state.
 
 ---
 
-# Canonical Artifact Hierarchy
+## Read-Only Guarantees
 
-Canonical repository artifacts always take precedence over conversational memory.
+Morning Serpent must not:
 
-Priority:
+- initialize or open a day;
+- generate, modify, or regenerate a Chronicle;
+- create or modify OR or WBTD;
+- create, update, or rely on `CURRENT_WBT`;
+- maintain canonical or persistent state;
+- alter `LI.md`;
+- perform repository writes;
+- reconstruct missing artifacts from conversational memory.
 
-1. Operational Record
-2. WBTD
-3. Chronicle
-4. World Model
-5. Conversation memory
-
-Conversation memory may provide temporary context.
-
-It must never replace missing canonical artifacts.
-
----
-
-# Completion Criteria
-
-Morning Serpent completes successfully only when:
-
-- the Chronicle has been generated;
-- CURRENT_WBT has been initialized;
-- all unfinished commitments have been carried forward;
-- supplied Living Inputs have been incorporated into:
-  - CURRENT_WBT;
-  - today's Operational Record;
-- the World is ready for Stewardship.
+Missing or inconsistent artifacts must be reported.
 
 ---
 
-# Philosophy
+## Optional Output
 
-Morning Serpent is the bridge between history and continuity.
+Morning Serpent may return:
 
-The Operational Record preserves what happened.
+1. current operational date and whether an open day exists;
+2. derived live WBT;
+3. relevant context from the latest OR, WBTD, or Chronicle;
+4. Steward observations.
 
-The Chronicle preserves why it mattered.
-
-CURRENT_WBT preserves what now belongs to the World.
-
-Each morning, history becomes memory.
-
-Memory becomes continuity.
-
-Continuity becomes stewardship.
+This output is a read-only presentation and has no canonical status.

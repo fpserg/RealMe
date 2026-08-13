@@ -104,7 +104,7 @@ The Steward safeguards continuity.
 
 The Steward is responsible for:
 
-- CURRENT_WBT;
+- derived live WBT;
 - WBTD;
 - Chronicles;
 - Morning Serpent;

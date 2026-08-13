@@ -1,74 +1,35 @@
-# 📋 CURRENT_WBT
+# CURRENT_WBT — Deprecated
 
-**Status:** Start of Day 031
+## Status
 
----
+This file contains no canonical operational state.
 
-# 💼 Career
+Live WBT is derived as:
 
-## 👥 Leadership
+```text
+Live WBT =
+latest completed WBTD
++ new commitments in today's LIs
+- commitments closed by today's LIs
+± commitments changed by today's LIs
+```
 
-### 📊 TMT Research
+The canonical inputs are:
 
-#### Active Commitments
+- the latest completed WBTD preceding the open day;
+- today's verbatim `LI.md`, if the day is open.
 
-- Continue updating the Yandex valuation/model.
-- Send the Yandex preview to consensus.
-- Send the Ozon preview to consensus.
+## Prohibited Uses
 
-### 📈 Strategy Research
+This file must not be used for:
 
-#### Active Commitments
+- initialization;
+- Freeze;
+- Chronicle generation;
+- commitment tracking;
+- state recovery;
+- operational reasoning.
 
-- Finalize Artem's dividend report.
-- Read the Fund Flows report.
+Completion must not be inferred from intention, scheduling, likelihood, or partial progress.
 
-### ⚙️ Management
-
-#### Active Commitments
-
-- Call Alexey (ECM) after the Astra CFO meeting.
-
----
-
-# 🏡 Household
-
-## 👨‍👩‍👧‍👦 Family
-
-_No active commitments._
-
----
-
-# 🏛️ Third Realm
-
-## 🗼 Tower
-
-_No active commitments._
-
-## 🎁 GIFTED
-
-_No active commitments._
-
----
-
-# 🤖 RealMe
-
-## 🏗️ Architecture
-
-_No active commitments._
-
----
-
-# Operational Focus
-
-## High Priority
-
-- Send the Yandex preview to consensus.
-- Send the Ozon preview to consensus.
-- Finalize Artem's dividend report.
-
-## Medium Priority
-
-- Continue updating the Yandex valuation/model.
-- Read the Fund Flows report.
-- Call Alexey (ECM) after the Astra CFO meeting.
+Live commitments must not be written into this file. Derived live WBT is recalculated from its canonical inputs and is not persisted here.

@@ -1,212 +1,85 @@
 # 09 — Application State
 
-# Purpose
+## Purpose
 
-Define the runtime state required for RealMe to operate.
-
-Application State represents temporary operational information used during execution.
-
-Unlike the World Model, Application State is not intended to persist indefinitely.
+Define RealMe's operational state and distinguish canonical daily artifacts from derived runtime views.
 
 ---
 
-# Architectural Principle
+## Operational State
 
-The World Model stores durable understanding.
+Current operational state is represented by a derived live WBT.
 
-Application State stores temporary execution context.
+Its canonical inputs are:
 
-The two serve different purposes and must remain separate.
+1. the latest completed WBTD preceding the open day;
+2. today's verbatim Living Inputs.
 
----
-
-# State Categories
-
-The MVP maintains four categories of runtime state.
-
-- Conversation State
-- Session State
-- Operational State
-- Processing State
-
----
-
-# Conversation State
-
-Represents the current conversation.
-
-Examples:
-
-- current user message;
-- conversation history;
-- active conversation mode;
-- temporary reasoning context.
-
-Conversation State exists only for the duration of the conversation.
-
-It should never become the source of durable knowledge.
-
----
-
-# Session State
-
-Represents information that exists while the application is open.
-
-Examples:
-
-- authenticated user;
-- active workspace;
-- current settings;
-- UI preferences.
-
-Session State may survive page refreshes but should not define user knowledge.
-
----
-
-# Operational State
-
-Represents the current execution of the Warden's day.
-
-Examples:
-
-- current WBT;
-- active commitments;
-- today's progress;
-- pending reminders.
-
-Operational State changes continuously as Living Inputs are reconciled.
-
-It may always be regenerated from the World Model.
-
----
-
-# Processing State
-
-Represents temporary internal execution.
-
-Examples:
-
-- current pipeline stage;
-- pending World Model updates;
-- reasoning requests;
-- validation results.
-
-Processing State exists only while an operation is executing.
-
-It should never be persisted.
-
----
-
-# Relationship to the World Model
-
-The World Model remains the single source of durable truth.
-
-Application State is derived from or operates upon the World Model.
-
-```
-World Model
-
-↓
-
-Application State
-
-↓
-
-Conversation
-
-↓
-
-Application State discarded
-
-↓
-
-World Model remains
+```text
+Live WBT =
+latest completed WBTD
++ new commitments in today's LIs
+- commitments closed by today's LIs
+± commitments changed by today's LIs
 ```
 
----
-
-# State Lifetime
-
-## Persistent
-
-Examples:
-
-- World Model
-- Commitments
-- Chronicles
+The derived live WBT contains no independent canonical information.
 
 ---
 
-## Daily
+## Lifecycle
 
-Examples:
-
-- WBT
-- Operational progress
-
----
-
-## Session
-
-Examples:
-
-- authentication;
-- current UI state;
-- active workspace.
+- The first Living Input on a new calendar date opens the day.
+- Each Living Input is appended verbatim to today's `LI.md`.
+- Live WBT is recalculated whenever a new Living Input arrives.
+- Live WBT may be discarded and regenerated from its canonical inputs.
+- Live WBT is not persistent canonical state.
+- Completion must not be inferred from intention, scheduling, likelihood, or partial progress.
 
 ---
 
-## Ephemeral
+## Persistent Canonical Daily Artifacts
 
-Examples:
+The persistent canonical daily artifacts are:
 
-- pipeline execution;
-- reasoning context;
-- validation.
+- verbatim LI for the open or completed day;
+- Frozen OR;
+- Frozen WBTD;
+- Frozen Chronicle.
 
-Ephemeral state should disappear after processing completes.
+For a completed day, OR, WBTD, and Chronicle are generated and committed together through Freeze.
 
----
-
-# Synchronization
-
-Application State should always remain consistent with the World Model.
-
-When reconciliation updates the World Model:
-
-- affected runtime state should be refreshed;
-- derived views should be regenerated when necessary;
-- obsolete operational state should be discarded.
+WBTD remains part of future operational reasoning because it is the preceding state input for the next open day.
 
 ---
 
-# Design Constraints
+## Deprecated CURRENT_WBT
 
-Application State should never:
+`docs/PRODUCT/CURRENT_WBT.md` is deprecated.
 
-- duplicate durable knowledge unnecessarily;
-- become the source of truth;
-- require manual synchronization by the Warden.
+It:
 
-Whenever possible, state should be derived rather than stored.
-
----
-
-# Future Evolution
-
-Future versions may introduce:
-
-- offline synchronization;
-- collaborative workspaces;
-- multiple concurrent sessions;
-- background processing.
-
-These extensions should preserve the same separation between durable knowledge and runtime execution.
+- is not manually synchronized;
+- contains no canonical operational state;
+- must not be used for initialization, state recovery, commitment tracking, Freeze, Chronicle generation, or reasoning;
+- must not receive live commitments.
 
 ---
 
-# Guiding Principle
+## Relationship to Durable Understanding
 
-Application State exists to execute the present.
+The World Model preserves durable understanding.
 
-The World Model exists to understand the past and improve the future.
+Daily operational continuity is reconstructed from WBTD and verbatim Living Inputs. The derived live WBT is a runtime view over those canonical artifacts; it does not replace the World Model or the daily historical record.
+
+---
+
+## Design Constraints
+
+Operational state must:
+
+- remain reproducible from canonical inputs;
+- distinguish plans and intentions from completed events;
+- preserve original Living Inputs verbatim;
+- expose missing or inconsistent artifacts rather than fill gaps from conversational memory;
+- avoid duplicate persistent state that requires manual synchronization.
