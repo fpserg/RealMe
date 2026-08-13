@@ -42,6 +42,21 @@ Documentation should explain concepts rather than implementation details.
 
 Additional documents may be introduced as the architecture evolves.
 
+Operational daily artifacts are stored separately from protocol documents:
+
+```text
+DAILY/
+└── YYYY/
+    └── MM/
+        └── YYYY-MM-DD/
+            ├── LI.md
+            ├── OR.md
+            ├── WBTD.md
+            └── Day NNN — Chronicle Title.md
+```
+
+The canonical root is `docs/PRODUCT/DAILY/`. Year and month partitions keep the Product directory compact while preserving chronological navigation.
+
 ---
 
 # Document Responsibilities

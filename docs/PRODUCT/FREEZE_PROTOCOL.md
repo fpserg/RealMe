@@ -29,7 +29,7 @@ Freeze applies to the currently open operational day.
 Freeze requires:
 
 - the latest completed WBTD preceding the open day;
-- the open day's complete `LI.md`.
+- the open day's complete `LI.md` at `docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/LI.md`.
 
 The original Living Inputs remain verbatim. Freeze must never alter, normalize, correct, or paraphrase `LI.md`.
 
@@ -73,7 +73,7 @@ Generate the Chronicle from the finalized OR and finalized WBTD, using the canon
 
 The Chronicle is part of the same Freeze closing set. It is not deferred until the following morning.
 
-Store one canonical Chronicle in the open day's dated folder. Do not create a duplicate Chronicle under `docs/CHRONICLES/`.
+Store one canonical Chronicle in the open day's directory at `docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/`. Do not create a duplicate Chronicle under `docs/CHRONICLES/`.
 
 Update `docs/CHRONICLES/README.md` with one chronological link to that canonical Chronicle. The index is a derived navigation artifact, not a second canonical Chronicle.
 

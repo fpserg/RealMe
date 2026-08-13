@@ -60,6 +60,14 @@ docs/
 
 Architecture decisions are recorded here.
 
+Operational daily artifacts use a partitioned archive:
+
+```text
+docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/
+```
+
+Each available daily package contains its verbatim LI and, once Frozen, OR, WBTD, and one canonical Chronicle. Historical gaps remain explicit and are never reconstructed.
+
 No knowledge should live only inside conversations.
 
 ---

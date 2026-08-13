@@ -21,7 +21,7 @@ No morning protocol is required.
 Every submitted Living Input is appended verbatim to:
 
 ```text
-docs/PRODUCT/YYYY-MM-DD/LI.md
+docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/LI.md
 ```
 
 Living Inputs must not be silently corrected, normalized, summarized, or rewritten in that file.

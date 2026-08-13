@@ -39,6 +39,7 @@ Implementation technologies are intentionally separated from architectural decis
 | **08_API.md** | Interfaces between architectural components |
 | **09_STATE.md** | Runtime application state |
 | **10_ROADMAP.md** | Long-term architectural evolution |
+| **DAILY/** | Canonical year/month-partitioned operational archive |
 
 ---
 

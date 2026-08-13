@@ -3,7 +3,7 @@
 This is the chronological reading index for all canonical RealMe Chronicles.
 
 - Earlier Chronicles remain canonically stored in this directory.
-- From Day 034 onward, the canonical Chronicle is stored with its daily `LI.md`, `OR.md`, and `WBTD.md` under `docs/PRODUCT/YYYY-MM-DD/`.
+- From Day 034 onward, the canonical Chronicle is stored with its daily `LI.md`, `OR.md`, and `WBTD.md` under `docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/`.
 - This index contains links only; Chronicle content is not duplicated.
 - Missing day numbers are reported by omission and are not reconstructed.
 
@@ -42,20 +42,20 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 031 | — | [Asymmetry](./Day%20031%20%E2%80%94%20Asymmetry.md) |
 | 032 | — | [Quiet Foundations](./Day%20032%20%E2%80%94%20Quiet%20Foundations.md) |
 | 033 | — | [Choosing the Garden](./Day%20033%20%E2%80%94%20Choosing%20the%20Garden.md) |
-| 034 | 2026-07-27 | [Where the World Was Meant to Stand](../PRODUCT/2026-07-27/Day%20034%20%E2%80%94%20Where%20the%20World%20Was%20Meant%20to%20Stand.md) |
-| 035 | 2026-07-28 | [When the Stronghold Became a Home](../PRODUCT/2026-07-28/Day%20035%20%E2%80%94%20When%20the%20Stronghold%20Became%20a%20Home.md) |
-| 036 | 2026-07-29 | [When Stewardship Began to Multiply](../PRODUCT/2026-07-29/%23%20%F0%9F%93%96%20Day%20036%20%E2%80%94%20When%20Stewardship%20Began%20to%20Multiply.md) |
-| 037 | 2026-07-30 | [The Day Delegation Became Trust](../PRODUCT/2026-07-30/Day%20037%20%E2%80%94%20The%20Day%20Delegation%20Became%20Trust.md) |
-| 038 | 2026-07-31 | [When the World Began to Build Itself](../PRODUCT/2026-07-31/Day%20038%20%E2%80%94%20When%20the%20World%20Began%20to%20Build%20Itself.md) |
-| 039 | 2026-08-01 | [When Stewardship Chose to Cultivate](../PRODUCT/2026-08-01/Day%20039%20%E2%80%94%20When%20Stewardship%20Chose%20to%20Cultivate.md) |
-| 040 | 2026-08-02 | [When the Stronghold Began to Belong](../PRODUCT/2026-08-02/Day%20040%20%E2%80%94%20When%20the%20Stronghold%20Began%20to%20Belong.md) |
-| 042 | 2026-08-03 | [Stewardship Through Adaptation](../PRODUCT/2026-08-03/Day%20042%20%E2%80%94%20Stewardship%20Through%20Adaptation.md) |
-| 043 | 2026-08-04 | [When Stewardship Became Maintenance](../PRODUCT/2026-08-04/Day%20043%20%E2%80%94%20When%20Stewardship%20Became%20Maintenance.md) |
-| 044 | 2026-08-05 | [Delegation and Quiet Burdens](../PRODUCT/2026-08-05/Day%20044%20%E2%80%94%20Delegation%20and%20Quiet%20Burdens.md) |
-| 045 | 2026-08-06 | [The World Becomes Tangible](../PRODUCT/2026-08-06/Day%20045%20%E2%80%94%20The%20World%20Becomes%20Tangible.md) |
-| 046 | 2026-08-07 | [Resilient Paths](../PRODUCT/2026-08-07/Day%20046%20%E2%80%94%20Resilient%20Paths.md) |
-| 047 | 2026-08-08 | [Places Becoming Home](../PRODUCT/2026-08-08/Day%20047%20%E2%80%94%20Places%20Becoming%20Home.md) |
-| 048 | 2026-08-09 | [The Stronghold Beyond Its Walls](../PRODUCT/2026-08-09/Day%20048%20%E2%80%94%20The%20Stronghold%20Beyond%20Its%20Walls.md) |
-| 049 | 2026-08-10 | [The Stronghold Becomes a Place](../PRODUCT/2026-08-10/Day%20049%20%E2%80%94%20The%20Stronghold%20Becomes%20a%20Place.md) |
-| 050 | 2026-08-11 | [The Obstacles Narrow](../PRODUCT/2026-08-11/Day%20050%20%E2%80%94%20The%20Obstacles%20Narrow.md) |
-| 051 | 2026-08-12 | [The Bottleneck Moves](../PRODUCT/2026-08-12/Day%20051%20%E2%80%94%20The%20Bottleneck%20Moves.md) |
+| 034 | 2026-07-27 | [Where the World Was Meant to Stand](../PRODUCT/DAILY/2026/07/2026-07-27/Day%20034%20%E2%80%94%20Where%20the%20World%20Was%20Meant%20to%20Stand.md) |
+| 035 | 2026-07-28 | [When the Stronghold Became a Home](../PRODUCT/DAILY/2026/07/2026-07-28/Day%20035%20%E2%80%94%20When%20the%20Stronghold%20Became%20a%20Home.md) |
+| 036 | 2026-07-29 | [When Stewardship Began to Multiply](../PRODUCT/DAILY/2026/07/2026-07-29/%23%20%F0%9F%93%96%20Day%20036%20%E2%80%94%20When%20Stewardship%20Began%20to%20Multiply.md) |
+| 037 | 2026-07-30 | [The Day Delegation Became Trust](../PRODUCT/DAILY/2026/07/2026-07-30/Day%20037%20%E2%80%94%20The%20Day%20Delegation%20Became%20Trust.md) |
+| 038 | 2026-07-31 | [When the World Began to Build Itself](../PRODUCT/DAILY/2026/07/2026-07-31/Day%20038%20%E2%80%94%20When%20the%20World%20Began%20to%20Build%20Itself.md) |
+| 039 | 2026-08-01 | [When Stewardship Chose to Cultivate](../PRODUCT/DAILY/2026/08/2026-08-01/Day%20039%20%E2%80%94%20When%20Stewardship%20Chose%20to%20Cultivate.md) |
+| 040 | 2026-08-02 | [When the Stronghold Began to Belong](../PRODUCT/DAILY/2026/08/2026-08-02/Day%20040%20%E2%80%94%20When%20the%20Stronghold%20Began%20to%20Belong.md) |
+| 042 | 2026-08-03 | [Stewardship Through Adaptation](../PRODUCT/DAILY/2026/08/2026-08-03/Day%20042%20%E2%80%94%20Stewardship%20Through%20Adaptation.md) |
+| 043 | 2026-08-04 | [When Stewardship Became Maintenance](../PRODUCT/DAILY/2026/08/2026-08-04/Day%20043%20%E2%80%94%20When%20Stewardship%20Became%20Maintenance.md) |
+| 044 | 2026-08-05 | [Delegation and Quiet Burdens](../PRODUCT/DAILY/2026/08/2026-08-05/Day%20044%20%E2%80%94%20Delegation%20and%20Quiet%20Burdens.md) |
+| 045 | 2026-08-06 | [The World Becomes Tangible](../PRODUCT/DAILY/2026/08/2026-08-06/Day%20045%20%E2%80%94%20The%20World%20Becomes%20Tangible.md) |
+| 046 | 2026-08-07 | [Resilient Paths](../PRODUCT/DAILY/2026/08/2026-08-07/Day%20046%20%E2%80%94%20Resilient%20Paths.md) |
+| 047 | 2026-08-08 | [Places Becoming Home](../PRODUCT/DAILY/2026/08/2026-08-08/Day%20047%20%E2%80%94%20Places%20Becoming%20Home.md) |
+| 048 | 2026-08-09 | [The Stronghold Beyond Its Walls](../PRODUCT/DAILY/2026/08/2026-08-09/Day%20048%20%E2%80%94%20The%20Stronghold%20Beyond%20Its%20Walls.md) |
+| 049 | 2026-08-10 | [The Stronghold Becomes a Place](../PRODUCT/DAILY/2026/08/2026-08-10/Day%20049%20%E2%80%94%20The%20Stronghold%20Becomes%20a%20Place.md) |
+| 050 | 2026-08-11 | [The Obstacles Narrow](../PRODUCT/DAILY/2026/08/2026-08-11/Day%20050%20%E2%80%94%20The%20Obstacles%20Narrow.md) |
+| 051 | 2026-08-12 | [The Bottleneck Moves](../PRODUCT/DAILY/2026/08/2026-08-12/Day%20051%20%E2%80%94%20The%20Bottleneck%20Moves.md) |

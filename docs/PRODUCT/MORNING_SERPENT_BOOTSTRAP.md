@@ -27,7 +27,7 @@ Manual uploads may be requested only when repository access is unavailable.
 1. Resolve the current default-branch HEAD.
 2. Load the canonical behavioral and Realm Role documents.
 3. Load the latest completed WBTD and the associated OR and Chronicle where available.
-4. Check for today's `docs/PRODUCT/YYYY-MM-DD/LI.md`.
+4. Check for today's `docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/LI.md`.
 5. If today's `LI.md` exists, resume that open operational day.
 6. If today's `LI.md` does not exist, report that today has not been opened.
 7. Derive live WBT from the latest completed WBTD plus today's verbatim Living Inputs, if any.
@@ -45,7 +45,7 @@ The first Living Input on a new calendar date opens that operational day.
 That Living Input is appended verbatim to:
 
 ```text
-docs/PRODUCT/YYYY-MM-DD/LI.md
+docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/LI.md
 ```
 
 No morning protocol is required.

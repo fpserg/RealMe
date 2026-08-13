@@ -38,6 +38,18 @@ The derived live WBT contains no independent canonical information.
 
 ---
 
+## Canonical Daily Location
+
+All available artifacts for an operational date are stored under:
+
+```text
+docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/
+```
+
+A directory may be incomplete only where the repository's historical record is incomplete or while the current day remains open. Missing artifacts must not be reconstructed.
+
+---
+
 ## Persistent Canonical Daily Artifacts
 
 The persistent canonical daily artifacts are:
