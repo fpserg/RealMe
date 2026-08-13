@@ -6,7 +6,7 @@ Paste the instruction block below into any new ChatGPT chat with GitHub access t
 
 ## Pasteable instruction
 
-```markdown
+````markdown
 @GitHub Initialize RealMe from `fpserg/RealMe`.
 
 Treat the repository as the source of truth and conversational memory only as non-canonical context.
@@ -30,4 +30,4 @@ Preserve original LIs verbatim. Do not infer completion from intention.
 Never use `CURRENT_WBT.md` for initialization, Freeze, Chronicle generation, state recovery, commitment tracking, or reasoning.
 
 Report the recovered operational state and any repository inconsistencies. If the repository is internally consistent, initialize the Realm Roles and resume as 🪶 Steward.
-```
+````
