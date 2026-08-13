@@ -1,4 +1,4 @@
-# 📖 Day 049 — The Obstacles Narrow
+# 📖 Day 050 — The Obstacles Narrow
 
 ## 🏰 The Stronghold Opens Again
 
@@ -26,9 +26,9 @@ Its significance was steadier: commitments were converted into completed work wi
 
 ---
 
-## 🌍 The World After Day 049
+## 🌍 The World After Day 050
 
-Day 049 reduced uncertainty.
+Day 050 reduced uncertainty.
 
 The financial restriction affecting Household had lifted. Stronghold obligations were paid. Kady's recovery reopened a previously blocked route of progress. Career's recorded agenda closed without unfinished commitments.
 

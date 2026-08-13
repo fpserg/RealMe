@@ -73,6 +73,10 @@ Generate the Chronicle from the finalized OR and finalized WBTD, using the canon
 
 The Chronicle is part of the same Freeze closing set. It is not deferred until the following morning.
 
+Store one canonical Chronicle in the open day's dated folder. Do not create a duplicate Chronicle under `docs/CHRONICLES/`.
+
+Update `docs/CHRONICLES/README.md` with one chronological link to that canonical Chronicle. The index is a derived navigation artifact, not a second canonical Chronicle.
+
 ### 4. Review and Commit
 
 Review OR, WBTD, and Chronicle together for:
@@ -83,7 +87,7 @@ Review OR, WBTD, and Chronicle together for:
 - unsupported completion claims;
 - missing or contradictory state transitions.
 
-Commit all three closing artifacts together. If only part of the set is committed, the day is not Frozen.
+Update the Chronicle index, then commit OR, WBTD, Chronicle, and the updated index together. The index does not enlarge the canonical closing set; it provides a single chronological reading path to the canonical Chronicle. If only part of the canonical closing set is committed, or its index entry is missing, the day is not Frozen.
 
 ---
 
@@ -121,8 +125,9 @@ An amendment requires an explicit factual correction or an approved amendment ba
 3. Preserve the original `LI.md` verbatim.
 4. Disclose which closing artifacts and later derived state are affected before changing them.
 5. Regenerate only the affected closing artifacts and any dependent later state required for consistency.
-6. Commit the change with an explicit amendment message identifying the amended date and basis.
-7. Re-fetch and verify every amended remote file and report the resulting commit.
+6. If the Chronicle title, filename, date, or location changes, update its entry in `docs/CHRONICLES/README.md` without duplicating Chronicle content.
+7. Commit the change with an explicit amendment message identifying the amended date and basis.
+8. Re-fetch and verify every amended remote file and report the resulting commit.
 
 If the amendment basis is missing, ambiguous, or unsupported, stop and request clarification.
 
@@ -134,7 +139,8 @@ Freeze completes only when:
 
 - OR, WBTD, and Chronicle exist for the open day;
 - all three were reviewed as one closing set;
-- all three were committed together;
-- the remote files were re-fetched and verified;
+- all three were committed together with a correct Chronicle index entry;
+- the Chronicle exists in exactly one canonical location;
+- the remote files and Chronicle index were re-fetched and verified;
 - no completion was inferred from intention;
 - the original Living Inputs remain unchanged.
