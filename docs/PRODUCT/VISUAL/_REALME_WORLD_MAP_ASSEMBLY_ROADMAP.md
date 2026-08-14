@@ -1,208 +1,69 @@
 # REALME_WORLD_MAP_ASSEMBLY_ROADMAP.md
 
-Version: 2.1  
-Status: VISUAL SYSTEM VALIDATION  
+Version: 2.2  
+Status: VISUAL SYSTEM v1.1 APPROVED / DOMAIN PRODUCTION  
 Canonical orientation: 9:16 PORTRAIT / MOBILE FIRST
 
 ---
 
 # PURPOSE
 
-This document defines the production roadmap for the RealMe Living World.
+This is the sole active production roadmap for the RealMe Living World.
 
-It incorporates the discoveries made during:
-
-- original World Skeleton development;
-- Stronghold Domain development;
-- Family Domain development;
-- Capital Domain development;
-- Household Realm assembly;
-- transition from 16:9 atlas composition to native 9:16 composition;
-- Stronghold A/B/C visual-system experiment;
-- Stronghold D structural experiment;
-- Stronghold D2 Playable Painterly refinement;
-- D2 real-semantics overlay validation.
-
-The objective is to create a coherent spatial system across:
-
-1. World View;
-2. Realm View;
-3. Domain View.
-
-RealMe is not a collection of fantasy illustrations.
+It consolidates the original World Skeleton and Household work with the later native-portrait experiments, TMT discovery, Capital B/B′/B″ work, Stronghold and Family cross-Domain validation, and the approved RealMe Visual System v1.1.
 
 RealMe is:
 
 # AN INTERACTIVE WORLD MODEL OF ONE LIFE.
 
-The visual World exists to make real-life structure:
-
-- spatial;
-- memorable;
-- emotionally meaningful;
-- navigable;
-- alive.
-
-The governing production principle is:
+The governing production principle remains:
 
 # DESIGN THE INTERACTIVE WORLD FIRST.
 # PAINT IT SECOND.
 
 ---
 
-# I. CORE HIERARCHY
+# I. AUTHORITY AND OVERRIDE
 
-The World is developed through the following hierarchy:
+When a later Warden-approved decision conflicts with an earlier roadmap, prompt, concept, conversational memory or generic fantasy convention, the latest approved canonical decision wins.
 
-WORLD DEFINES LAWS  
-↓  
-DOMAINS ESTABLISH IDENTITY  
-↓  
-REALMS ESTABLISH GEOGRAPHIC RELATIONSHIPS  
-↓  
-WORLD MAP ASSEMBLES COMPLETE GEOGRAPHY
-
-The World Map must not invent Domains.
-
-Realm Maps must not reinvent Domains.
-
-Once a Domain becomes canonical, later representations inherit it.
-
-A Domain seen from the World should remain recognizably the same place that appears when the Warden enters it.
-
----
-
-# II. CANONICAL OVERRIDE PRINCIPLE
-
-This rule is absolute.
-
-When a later Warden-approved canonical decision conflicts with:
-
-- an earlier roadmap;
-- an earlier prompt;
-- an earlier conceptual description;
-- conversational memory;
-- generic fantasy conventions;
-
-the latest approved canonical decision takes precedence.
-
-The hierarchy of visual authority is:
+Visual authority:
 
 1. latest Warden-approved canonical decision;
 2. latest Warden-approved canonical Domain image;
 3. latest Warden-approved Realm image;
-4. latest approved Domain prompt;
-5. current roadmap;
-6. older prompts and concepts.
+4. REALME_VISUAL_SYSTEM_V1_1.md for rendering grammar;
+5. latest approved Domain prompt;
+6. this roadmap;
+7. older prompts and concepts.
 
-Older concepts are retired once explicitly superseded.
-
-They must not silently reappear in later generations.
-
----
-
-# III. DOMAIN FREEZE PRINCIPLE
-
-Once the Warden freezes a Domain, its fundamental identity becomes fixed.
-
-A frozen Domain establishes:
-
-- dominant landmark;
-- architectural language;
-- geographic character;
-- major colour/material cues;
-- compositional identity;
-- emotional identity;
-- map-scale glyph.
-
-Later Realm and World images may:
-
-- simplify it;
-- reduce detail;
-- change apparent scale;
-- integrate surrounding geography;
-- adapt representation to semantic zoom.
-
-They may NOT:
-
-- replace its landmark;
-- change its architectural type;
-- change its fundamental geography;
-- resurrect discarded concepts;
-- invent a contradictory symbolic representation.
-
-Simplification is allowed.
-
-Redesign is not.
+Superseded concepts must not silently return.
 
 ---
 
-# IV. CANONICAL IMAGE ARCHITECTURE
+# II. CANONICAL IMAGE ARCHITECTURE
 
-RealMe is now designed:
+RealMe is designed:
 
 # 9:16 PORTRAIT FIRST.
 
-Preferred production resolution:
+Preferred production resolution: 2160 × 3840.  
+Minimum working resolution: 1080 × 1920.
 
-2160 × 3840.
+Portrait is not a crop, safe corridor or mobile derivative of a landscape master.
 
-Minimum working resolution:
+Landscape derivatives may later exist, but they do not determine primary composition.
 
-1080 × 1920.
+Retired principles:
 
-Portrait is not:
+- 16:9 master composition;
+- mobile-safe corridor inside a landscape image;
+- painting-first composition;
+- detail as an intrinsic measure of quality;
+- generator-native aesthetics as default;
+- atlas consistency as the primary goal.
 
-- a crop;
-- a safe corridor;
-- a secondary derivative;
-- a mobile adaptation of a landscape master.
-
-Portrait is the canonical composition.
-
-Landscape derivatives may later be created for:
-
-- desktop;
-- tablet;
-- presentations;
-- promotional material;
-- expanded exploration.
-
-They do not determine the primary composition.
-
----
-
-# V. RETIRED IMAGE ARCHITECTURE
-
-The following Version 1.x principles are retired.
-
-## RETIRED: 16:9 MASTER
-
-RealMe images are no longer designed primarily at 16:9 and subsequently cropped.
-
-## RETIRED: MOBILE-SAFE CORRIDOR
-
-There is no central portrait-safe corridor inside a landscape master.
-
-The entire composition is mobile-native.
-
-## RETIRED: PAINTING-FIRST COMPOSITION
-
-RealMe does not create a finished fantasy painting and subsequently search for places to put UI.
-
-## RETIRED: DETAIL AS QUALITY
-
-More detail does not automatically make an image better.
-
-## RETIRED: GENERATOR-NATIVE AESTHETICS AS DEFAULT
-
-A visual direction is not accepted because generative image systems produce it reliably or impressively.
-
-## RETIRED: ATLAS CONSISTENCY AS PRIMARY GOAL
-
-"SAME ARTIST. SAME ATLAS. SAME WORLD." remains useful stylistically.
-
-But it is subordinate to:
+The higher rule is:
 
 # SAME WORLD.
 # SAME SPATIAL LOGIC.
@@ -210,750 +71,142 @@ But it is subordinate to:
 
 ---
 
-# VI. VISUAL FORMULA
+# III. DOMAIN FREEZE PRINCIPLE
 
-The retired production model was:
+Once frozen, a Domain establishes its dominant landmark, architecture, geography, major colour/material cues, compositional identity, emotional identity and map-scale glyph.
 
-CONCEPT  
-↓  
-FANTASY PAINTING  
-↓  
-UI OVERLAY
+Later scales may simplify, reduce detail, change apparent scale, integrate surrounding geography and adapt representation to semantic zoom.
 
-The current production model is:
+They may not replace the landmark, change architectural type, change fundamental geography, resurrect discarded concepts or invent contradictory symbolism.
 
-LIFE STRUCTURE  
-↓  
-SPATIAL STRUCTURE  
-↓  
-INTERACTION STRUCTURE  
-↓  
-9:16 COMPOSITION  
-↓  
-VISUAL RENDERING  
-↓  
-UI INTEGRATION
-
-Or:
-
-# INTERACTIVE SPACE
-# ↓
-# PAINTERLY WORLD
-# ↓
-# REALME UI
+# SIMPLIFICATION IS ALLOWED.
+# REDESIGN IS NOT.
 
 ---
 
-# VII. PLAYABLE PAINTERLY
+# IV. CANONICAL VISUAL SYSTEM
 
-The selected visual direction is provisionally named:
+The overarching RealMe visual language is:
 
-# PLAYABLE PAINTERLY
+# PLAYABLE PAINTERLY.
 
-It emerged from the Stronghold A/B/C/D/D2 experiments.
+The canonical rendering grammar is now:
 
-It combines:
+# REALME VISUAL SYSTEM v1.1
 
-## FROM THE ORIGINAL REALME ATLAS
+as defined in:
 
-- mature fantasy atmosphere;
-- painterly texture;
-- warm natural light;
-- environmental storytelling;
-- geographic continuity;
-- restrained historical character;
-- atmospheric depth;
-- irregularity;
-- accumulated architecture;
-- sense of discovered place.
+`docs/PRODUCT/VISUAL/REALME_VISUAL_SYSTEM_V1_1.md`
 
-## FROM MOBILE GAME ENVIRONMENT DESIGN
+Its principal discovery is the:
 
-- strong silhouettes;
-- immediate readability;
-- controlled visual hierarchy;
-- interaction-aware composition;
-- readable environmental masses;
-- depth separation;
-- deliberate negative space;
-- clear landmarks;
-- screen-scale discipline;
-- strong portrait progression.
+# PAINTERLY FOCUS GRADIENT
 
-It does NOT attempt to make RealMe look like a conventional mobile game.
+Canonical progression:
 
-The objective is:
+SEMANTIC NUCLEUS  
+Material Painterly
 
-> learn from how successful mobile games make worlds readable without adopting their ontology or aesthetics.
+↓
 
----
+INTERACTIVE FIELD  
+Defined Painterly
 
-# VIII. PLAYABLE PAINTERLY D2 STATUS
+↓
 
-Stronghold D2 is currently:
+SUPPORTING WORLD  
+Loose Painterly
 
-# PLAYABLE PAINTERLY v1.0 CANDIDATE
+↓
 
-It is the strongest visual-system reference produced so far.
+WORLD CONTINUATION  
+Watercolor-Like Dissolution
 
-D2 successfully combines:
+This is not photographic depth-of-field.
 
-- native portrait composition;
-- strong vertical journey;
-- readable landmark hierarchy;
-- painterly atmosphere;
-- lived-in irregularity;
-- canonical Stronghold continuity;
-- environmental credibility;
-- UI-compatible geography.
+# EDGES DISSOLVE BEFORE IDENTITY DOES.
 
-D2 is NOT yet universal RealMe visual canon.
+Rendering resolution is governed jointly by semantic importance, navigational importance and physical depth. Semantic importance may override camera distance.
 
-It has been validated primarily against a highly physical Domain:
-
-Stronghold.
-
-Before RealMe Visual System v1.0 is frozen, the same grammar must survive a materially different Domain ontology.
-
-TMT is selected as the falsification test.
+Near and meaningful geography remains materially convincing. Watercolor-like dissolution belongs primarily to World Continuation; it is not a global filter.
 
 ---
 
-# IX. VISUAL DIRECTIONS RETIRED BY EXPERIMENT
+# V. ATTENTION, DETAIL AND GEOGRAPHY
 
-The A/B/C/D experiments remain historically useful but are not active visual directions.
+Every screen has a finite information budget shared by artwork and UI.
 
-## A — CURRENT ATLAS
+As semantic relevance decreases:
 
-Strengths:
+DETAIL ↓  
+EDGE DEFINITION ↓  
+LOCAL CONTRAST ↓  
+COLOUR SEPARATION ↓  
+MATERIAL SPECIFICITY ↓
 
-- atmosphere;
-- world credibility;
-- painterly richness;
-- sense of history.
+At Domain scale, structures may be recognizable. At Realm scale they become landmark masses embedded in geography. At World scale Domains become simplified glyphs.
 
-Weakness:
-
-- environment dominates interface;
-- excessive micro-detail;
-- weak interaction geography.
-
-Status:
-
-# RETIRED AS PRODUCT DIRECTION.
-
-Its atmospheric lessons remain active.
-
----
-
-## B — PLAYABLE PAINTERLY FIRST PASS
-
-Strengths:
-
-- better portrait hierarchy;
-- increased readability;
-- preserved maturity;
-- bridge between atlas and interface.
-
-Weakness:
-
-- insufficient departure from painting-first generation;
-- geography still not sufficiently interaction-aware.
-
-Status:
-
-# SUPERSEDED BY D2.
-
----
-
-## C — PREMIUM MOBILE FANTASY
-
-Strengths:
-
-- excellent mobile readability;
-- strong silhouettes;
-- clear regions;
-- strong hierarchy.
-
-Weaknesses:
-
-- too game-designed;
-- reduced world credibility;
-- increased risk of generic mobile-fantasy aesthetics;
-- excessive tendency toward purpose-built visual regions.
-
-Status:
-
-# RETIRED AS VISUAL DIRECTION.
-
-Its readability lessons remain active.
-
----
-
-## D — STRUCTURAL PROTOTYPE
-
-Strengths:
-
-- first strong implementation of vertical semantic geography;
-- strong spatial hierarchy;
-- clear interaction regions.
-
-Weaknesses:
-
-- overly monumental;
-- overly axial;
-- too purpose-built around mock semantic nodes;
-- drift toward palace / fantasy-level design.
-
-Status:
-
-# SUPERSEDED BY D2.
-
-Its structural discoveries remain active.
-
----
-
-## D2 — CURRENT CANDIDATE
-
-Strengths:
-
-- D's structural intelligence;
-- B's inhabitation;
-- A's world credibility;
-- reduced game-board literalism;
-- stronger canonical Stronghold continuity;
-- successful coexistence with mundane RealMe semantics.
-
-Status:
-
-# ACTIVE VISUAL-SYSTEM CANDIDATE.
-
----
-
-# X. EXPLICIT VISUAL EXCLUSIONS
-
-Avoid:
-
-- generic gacha aesthetics;
-- cartoon fantasy;
-- exaggerated magical VFX;
-- glowing buildings everywhere;
-- excessive saturation;
-- resource-game iconography;
-- oversized fantasy monuments without semantic reason;
-- glossy CGI;
-- Unreal Engine promotional aesthetics;
-- hyper-detailed AI concept-art texture;
-- uniform sharpness;
-- excessive architectural symmetry;
-- purpose-built visual regions merely to accommodate UI;
-- literal visual translation of abstract semantics.
-
----
-
-# XI. VERTICAL WORLD GRAMMAR
-
-Portrait composition is not landscape composition rotated or cropped.
-
-Verticality is part of geography.
-
-Use:
-
-- foreground → middle → distance;
-- bottom → top progression;
-- vertical landmarks;
-- layered terrain;
-- paths;
-- rivers;
-- stairs;
-- roads;
-- valleys;
-- terraces;
-- skyline;
-- atmospheric depth.
-
-A successful 9:16 environment should naturally lead the eye through the screen.
-
-The screen itself becomes a journey.
-
----
-
-# XII. VERTICAL SPATIAL JOURNEY
-
-Stronghold D and D2 established an important compositional principle.
-
-A Domain should possess an understandable vertical journey.
-
-For Stronghold:
-
-MOUNTAIN WILDERNESS  
-↓  
-HOME  
-↓  
-CULTIVATED TERRITORY  
-↓  
-WORKING TERRITORY  
-↓  
-FORTIFICATION / GATE  
-↓  
-OUTSIDE WORLD
-
-Other Domains should NOT copy this literal sequence.
-
-They should discover their own vertical spatial journey.
-
-The universal principle is:
-
-# PORTRAIT COMPOSITION SHOULD HAVE DIRECTION.
-
-Not merely:
-
-# PORTRAIT COMPOSITION SHOULD FIT THE SCREEN.
-
----
-
-# XIII. GEOGRAPHY OVER OBJECTS
-
-RealMe environments are primarily geography.
-
-At Domain scale:
-
-individual structures may be recognizable.
-
-At Realm scale:
-
-structures become landmark masses embedded within geography.
-
-At World scale:
-
-Domains become simplified glyphs.
-
-Therefore:
-
-FORESTS become canopy masses.
-
-FIELDS become cultivated geographic patches.
-
-CITY BLOCKS become urban masses.
-
-MOUNTAINS become major silhouettes.
-
-SETTLEMENTS become clustered forms.
-
-Do not fill empty space with individually resolved objects merely because generation allows it.
-
----
-
-# XIV. DETAIL BUDGET
-
-Every screen has a finite visual-information budget.
-
-RealMe UI consumes part of that budget.
-
-Therefore detail must be intentionally allocated.
-
-## PRIMARY LANDMARK
-
-High recognition.
-
-Moderate selective detail.
-
-Strong silhouette.
-
-## SECONDARY GEOGRAPHY
-
-Readable forms.
-
-Moderate contrast.
-
-Enough differentiation to support spatial anchors.
-
-## SUPPORTING GEOGRAPHY
-
-Simplified.
-
-## DISTANCE
-
-Broad masses.
-
-Atmospheric.
-
-## NON-SEMANTIC DECORATION
-
-Restrained.
-
-The principle is:
+Forests become canopy masses. Fields become cultivated geographic patches. City blocks become urban masses. Settlements become clustered forms. Mountains remain major silhouettes.
 
 # DETAIL WHERE MEANING LIVES.
 
-But artwork should not be artificially impoverished merely to accommodate every possible semantic label simultaneously.
-
-Semantic visibility is an interaction problem as well as an artwork problem.
+But artwork must not be artificially impoverished merely to fit every possible label simultaneously.
 
 ---
 
-# XV. NEGATIVE SPACE IS FUNCTIONAL
+# VI. ARTWORK / SEMANTICS SEPARATION
 
-Visually quiet areas are legitimate parts of RealMe composition.
+Artwork represents places, architecture, geography, terrain, atmosphere and spatial identity.
 
-Generation should not automatically fill them.
-
-Quiet areas may support:
-
-- labels;
-- Campaigns;
-- Notice Board;
-- navigation;
-- status;
-- selection;
-- future dynamic objects.
-
-Negative space may come from:
-
-- sky;
-- water;
-- forest masses;
-- lawn;
-- walls;
-- roofs;
-- shadow;
-- simplified terrain;
-- atmospheric distance.
-
-Do NOT draw obvious empty UI boxes into the environment.
-
-The World remains a place.
-
----
-
-# XVI. ARTWORK / SEMANTICS SEPARATION
-
-Artwork represents:
-
-- places;
-- architecture;
-- geography;
-- terrain;
-- atmosphere;
-- spatial identity.
-
-RealMe UI represents:
-
-- Realm names;
-- Domain names;
-- locations;
-- people;
-- companies;
-- Commitments;
-- Campaigns;
-- Today;
-- Horizons;
-- status;
-- progress;
-- navigation;
-- selections;
-- time.
-
-Therefore:
+RealMe UI represents Realm and Domain names, locations, people, companies, Commitments, Campaigns, Today, Horizons, state, progress, navigation, selection and time.
 
 # ARTWORK CREATES PLACE.
 # UI LOCATES SEMANTICS WITHIN PLACE.
 
-Artwork does not need to depict every semantic object literally.
+A semantic object requires a stable relationship to place, not necessarily a literal visual representation.
+
+Bathroom does not require a bathtub. Bedroom does not require a bed. YNDX does not require a corporate logo or Yandex castle.
+
+Generated canonical artwork contains no baked-in text, labels, Realm/Domain names, corporate logos, UI, map markers, progress indicators, legends or permanent semantic icons.
+
+# THE UI INHABITS THE WORLD.
+# THE WORLD DOES NOT ADVERTISE THE UI.
 
 ---
 
-# XVII. SEMANTIC ANCHOR PRINCIPLE
+# VII. SEMANTIC VISIBILITY
 
-A RealMe semantic object requires:
+Existence in the World Model does not imply permanent map visibility.
 
-# A STABLE RELATIONSHIP TO PLACE.
+Potential interaction models include progressive disclosure, contextual labels, zoom-dependent labels, selection-dependent labels, activity-dependent labels and commitment-dependent visibility.
 
-It does NOT necessarily require:
-
-# A LITERAL VISUAL REPRESENTATION.
-
-Examples:
-
-## STRONGHOLD
-
-The Home landmark may spatially anchor:
-
-- Kitchen;
-- Living Room;
-- Bathroom 1;
-- Sergey Jr Room;
-- Alisa Room;
-- Boiler Room;
-- Maksim Room;
-- Ivan Room;
-- Bedroom;
-- Bathroom 2.
-
-The artwork does not need to depict those rooms externally.
-
-Garden may anchor directly to visible garden territory.
-
-Terraces may anchor directly to visible terraces.
-
----
-
-## TMT
-
-A future TMT environment may spatially anchor:
-
-- YNDX;
-- VKCO;
-- OZON;
-- HEAD;
-- other covered companies.
-
-The environment must NOT respond by automatically creating:
-
-- a Yandex castle;
-- an Ozon tower;
-- a VK palace;
-- a HeadHunter fortress;
-- corporate logos embedded in geography.
-
-These are semantics located within a Domain.
-
-They are not necessarily architecture.
-
----
-
-# XVIII. CONTAINED AND GEOGRAPHIC SEMANTICS
-
-Stronghold validation revealed two useful forms of semantic relationship.
-
-## CONTAINED SEMANTICS
-
-A semantic object belongs conceptually inside a larger landmark.
-
-Example:
-
-STRONGHOLD  
-↓  
-HOME  
-↓  
-Kitchen / Bedroom / Bathroom / Boiler Room
-
-Its map anchor may relate to the Home without requiring external depiction.
-
-## GEOGRAPHIC SEMANTICS
-
-A semantic object corresponds naturally to visible territory.
-
-Example:
-
-STRONGHOLD  
-↓  
-Garden
-
-Its anchor may correspond directly to visible geography.
-
-Both relationships are valid.
-
-Neither requires the artwork to become a literal diagram.
-
----
-
-# XIX. SEMANTIC VISIBILITY PRINCIPLE — PROVISIONAL
-
-Existence in the World Model does not necessarily imply permanent visibility on the map.
-
-A Domain may contain many semantic anchors without displaying all of them simultaneously.
-
-Potential future interaction models include:
-
-- progressive disclosure;
-- contextual labels;
-- zoom-dependent labels;
-- selection-dependent labels;
-- activity-dependent labels;
-- commitment-dependent visibility.
-
-No specific model is canonical yet.
-
-Therefore:
+No single disclosure model is frozen yet.
 
 # DO NOT DEGRADE ARTWORK MERELY TO FIT EVERY POSSIBLE LABEL AT ONCE.
 
-Exact label density and disclosure behaviour remain product-design questions.
+---
+
+# VIII. ATMOSPHERIC IDEALIZATION
+
+RealMe need not reproduce the least attractive version of ordinary reality.
+
+Beautiful evening light, rain reflections, warm windows, dramatic clouds, snow and atmospheric haze are legitimate.
+
+# ATMOSPHERIC IDEALIZATION IS ALLOWED.
+# ONTOLOGICAL INFLATION IS NOT.
+
+A beautiful Capital Tuesday remains an ordinary urban Tuesday. Home does not become a palace merely because the atmosphere is picturesque.
+
+Light may guide attention through selective sunlight, inhabited windows, reflections and natural shadow.
+
+# LIGHT MAY GUIDE ATTENTION.
+# LIGHT MUST NOT MARK INTERACTIVITY.
 
 ---
 
-# XX. WARDEN-OWNED MYTHOLOGY PRINCIPLE
+# IX. SEMANTIC ZOOM
 
-RealMe does not automatically fantasy-rename ordinary life.
-
-Canonical semantics may remain ordinary:
-
-- Boiler Room;
-- Bathroom 1;
-- Ivan Room;
-- Kitchen;
-- YNDX;
-- OZON.
-
-The Warden may choose to interpret or rename them mythically.
-
-For example:
-
-Ivan Room  
-→  
-Owling's Nest
-
-Boiler Room  
-→  
-Great Boiler Hall
-
-Such names become part of RealMe because the Warden gives them meaning.
-
-They should not be automatically suggested merely to make RealMe appear more game-like.
-
-Therefore:
-
-# THE WORLD MAY BE MYTHIC.
-# REALITY DOES NOT NEED TO PRETEND TO BE.
-
-Gamification may emerge from the Warden's relationship with the World.
-
-It should not be imposed by AI or UI.
-
----
-
-# XXI. SEMANTIC CLEANLINESS OF ARTWORK
-
-Generated canonical artwork contains:
-
-NO TEXT.
-
-NO baked-in labels.
-
-NO Realm names.
-
-NO Domain names.
-
-NO fake fantasy names.
-
-NO corporate logos.
-
-NO UI.
-
-NO map markers.
-
-NO progress indicators.
-
-NO legends.
-
-NO permanent semantic icons.
-
-Artwork is geography.
-
-RealMe owns semantics.
-
----
-
-# XXII. DOMAIN VIEW
-
-A Domain View answers:
-
-> Where am I, and what parts of this place matter?
-
-A Domain is not merely a background.
-
-It is navigable territory.
-
-At Domain scale, the environment may support semantic anchors for:
-
-- locations;
-- people;
-- companies;
-- Commitments;
-- Campaigns;
-- routines;
-- projects;
-- resources;
-- other Domain-specific structures.
-
-The environment provides enough spatial differentiation for semantics to attach coherently.
-
-It does not need to illustrate every semantic object.
-
----
-
-# XXIII. DOMAIN COMPOSITION
-
-Each Domain should generally establish:
-
-1. one unmistakable primary landmark;
-2. readable secondary geography;
-3. natural visual routes;
-4. foreground, middle and distance;
-5. intentional quiet areas;
-6. environmental continuation beyond the visible screen;
-7. a coherent portrait spatial journey.
-
-The composition should not look like a labelled diagram.
-
-It should look like a place capable of receiving semantics.
-
----
-
-# XXIV. REALM VIEW
-
-A Realm View answers:
-
-> What are the major territories of this part of my life, and how do they relate?
-
-At Realm scale, Domains simplify.
-
-Their identities survive through:
-
-- silhouette;
-- terrain;
-- colour/material;
-- spatial position;
-- one dominant landmark;
-- one secondary motif.
-
-Realm View should be more geographically abstract than Domain View.
-
-It should not attempt to preserve Domain-level micro-detail.
-
----
-
-# XXV. WORLD VIEW
-
-World View answers:
-
-> What is the current shape of my life?
-
-Realm identity becomes dominant.
-
-Domains may become small landmarks or geographic concentrations.
-
-The World may communicate:
-
-- relative importance;
-- distance;
-- connection;
-- isolation;
-- prosperity;
-- dormancy;
-- activity;
-- change.
-
-The World is not necessarily static.
-
-Its geography may evolve as the Warden's life evolves.
-
----
-
-# XXVI. SEMANTIC ZOOM
-
-The central RealMe spatial principle remains:
+The central spatial hierarchy remains:
 
 WORLD  
 ↓  
@@ -961,1156 +214,375 @@ REALM
 ↓  
 DOMAIN
 
-Entering a place should feel like approaching it.
+Entering a place should feel like approaching the same place, not replacing one scene with another.
 
-Representation may simplify dramatically between scales.
+# ZOOM REVEALS INFORMATION.
+# ZOOM DOES NOT REINVENT IDENTITY.
 
-Identity may not change.
-
-Example:
-
-WORLD:
-
-snowy northern landmark.
-
-REALM:
-
-dark-red fortified home under mountains.
-
-DOMAIN:
-
-recognizable Stronghold with residence, gardens, walls and internal territories.
-
-This is:
-
-# SEMANTIC ZOOM.
-
-Not scene replacement.
+The Painterly Focus Gradient applies at Domain, Realm and World scale. Previously loose geography may resolve as the Warden approaches it.
 
 ---
 
-# XXVII. INTERACTION OVERLAY PRINCIPLE
+# X. HOUSEHOLD — CANONICAL STRUCTURE
 
-UI should reveal semantics without unnecessarily obscuring geography.
-
-Prefer:
-
-- restrained markers;
-- short labels;
-- contextual appearance;
-- adaptive placement;
-- selection-dependent emphasis;
-- collision avoidance.
-
-Avoid:
-
-- giant fantasy UI plaques;
-- heraldry without purpose;
-- permanent semantic pictograms everywhere;
-- excessive connector lines;
-- UI that attempts to explain the artwork;
-- UI that automatically mythologizes mundane semantics.
-
-The hierarchy should remain:
-
-WORLD  
-↓  
-LANDMARK  
-↓  
-SEMANTIC ANCHOR  
-↓  
-INTERACTION STATE
-
-Exact UI styling remains outside the frozen visual artwork system until separately validated.
-
----
-
-# XXVIII. HOUSEHOLD — CANONICAL STRUCTURE
-
-Household remains the first Realm whose Domain identities have been substantially discovered.
-
-Its three established Domains are:
+Household contains three equal Domains:
 
 1. Stronghold;
 2. Family;
 3. Capital.
 
-Their identities are NOT interchangeable.
+Equal means comparable conceptual readability, not identical physical size.
 
-Together they express different forms of belonging.
+Canonical Realm geography:
 
----
+N / NNW — STRONGHOLD  
+CENTRE — FAMILY  
+EAST — CAPITAL
 
-# XXIX. STRONGHOLD — CANONICAL IDENTITY
-
-## Geographic Position
-
-Stronghold is strictly northern in real life.
-
-At Household Realm scale place it:
-
-# NORTH TO NORTH-NORTHWEST
-
-It should remain the northernmost major Household Domain.
+The original Household assembly remains a geographic reference, but its landscape-first rendering architecture is retired.
 
 ---
 
-## Canonical Glyph
+# XI. STRONGHOLD — CANONICAL IDENTITY
+
+Position: NORTH / NNW.
+
+Glyph:
 
 SNOWY MOUNTAIN  
-+  
-DARK-RED HOME  
-+  
-GREY FORTIFICATIONS / CULTIVATED ENCLOSURE
++ DARK-RED HOME  
++ GREY FORTIFICATIONS / CULTIVATED ENCLOSURE
+
+Meaning:
+
+PROTECTION + STEWARDSHIP + BUILDING + CULTIVATION + HOME AT THE FRONTIER
+
+Stronghold is northern, rooted, lived-in, protected and increasingly cultivated. It is a home rather than primarily a military fortress.
+
+Preserve dramatic snowy mountains immediately behind, substantial dark-red/brown family residence, grey stone enclosure, gates/walls, gardens, stairs, paths, cultivated interior, utility structures and transition toward mountain wilderness.
+
+D2 established the approved Stronghold Playable Painterly direction. Later v1.1 testing established that its primary geography must remain material while supporting geography progressively quiets.
+
+Stronghold visual-system validation: PASS WITH CORRECTION. Background quieting and mountain simplification succeeded; global watercolorization did not. The lesson is now encoded in Visual System v1.1.
 
 ---
 
-## Meaning
+# XII. FAMILY — CANONICAL IDENTITY
 
-Stronghold represents:
+Position: CENTRAL HOUSEHOLD HEARTLAND.
 
-- protection;
-- stewardship;
-- building;
-- cultivation;
-- home at the frontier.
+Glyph:
 
----
+ANCIENT TREE  
++ GATHERED HOMES  
++ WATER
 
-## Canonical Character
+Meaning:
 
-Stronghold is:
+BELONGING + GENERATIONS + CONNECTION + CONTINUITY
 
-- northern;
-- rooted;
-- lived-in;
-- protected;
-- increasingly cultivated;
-- a home rather than primarily a military fortress.
+Family is organic, horizontal, accumulated rather than planned and intimately connected to countryside.
 
-It contains:
+Preserve one dominant ancient tree, modest gathered homes, paths, gardens, cultivated land, nearby water, bridges and broader countryside.
 
-- dramatic snowy mountains immediately behind;
-- substantial dark-red/brown family residence;
-- grey stone enclosure;
-- gates and walls;
-- gardens;
-- stairs;
-- paths;
-- bushes;
-- cultivated interior;
-- utility structures;
-- forest transitioning toward mountain wilderness.
+Do not replace the tree with a town hall, castle, church, giant settlement or formal plaza.
 
-The gardens are important.
+Native 9:16 development and Painterly Focus Gradient validation have been completed. Family 40D demonstrated successful cross-Domain replication: ancient tree dominant; settlement, water and paths navigable; countryside consolidated; horizon dissolved without disappearing.
 
-They communicate that Stronghold is not merely defended.
-
-It is actively being shaped and inhabited.
+40D is evidence for the visual system. It does not automatically replace every earlier canonical Family image unless separately frozen as the final master.
 
 ---
 
-# XXX. STRONGHOLD — D2 VISUAL DISCOVERY
+# XIII. CAPITAL — CANONICAL IDENTITY
 
-D2 currently provides the strongest native-portrait interpretation of Stronghold.
+Position: EAST.
 
-Preserve from D2:
-
-- native 9:16 composition;
-- strong mountain crown;
-- substantial dark-red Home;
-- vertical geographic journey;
-- cultivated central territory;
-- working perimeter;
-- grey fortification;
-- lived-in irregularity;
-- painterly atmosphere;
-- readable foreground/middle/distance;
-- ability to host semantic anchors without literalizing them.
-
-Avoid regression toward D:
-
-- excessive axial symmetry;
-- palace-like grandeur;
-- monumental gate dominance;
-- purpose-built semantic structures;
-- game-level composition.
-
-Avoid regression toward A:
-
-- excessive micro-detail;
-- weak interaction hierarchy;
-- painting-first composition.
-
-Stronghold D2 is:
-
-# APPROVED STRONGHOLD VISUAL DIRECTION.
-
-It remains the principal reference for the Playable Painterly v1.0 candidate.
-
----
-
-# XXXI. FAMILY — CANONICAL IDENTITY
-
-## Geographic Position
-
-Family occupies the geographic and conceptual middle of Household.
-
-Place it approximately:
-
-# CENTRAL HOUSEHOLD HEARTLAND
-
----
-
-## Canonical Glyph
-
-OLD TREE  
-+  
-GATHERED HOMES  
-+  
-WATER
-
----
-
-## Meaning
-
-Family represents:
-
-- belonging;
-- generations;
-- connection;
-- shared life;
-- continuity.
-
----
-
-## Canonical Character
-
-Family is:
-
-- organic;
-- horizontal;
-- accumulated rather than planned;
-- intimately connected to surrounding countryside.
-
-The canonical Domain contains:
-
-- one dominant ancient tree;
-- modest homes gathered around it;
-- paths;
-- gardens;
-- cultivated land;
-- nearby water;
-- bridges;
-- broader countryside.
-
-The tree remains the primary landmark.
-
-Do not replace it with:
-
-- town hall;
-- castle;
-- church;
-- giant settlement;
-- formal plaza.
-
-Family must eventually be reconciled with the native 9:16 Playable Painterly system without losing this identity.
-
----
-
-# XXXII. CAPITAL — CANONICAL IDENTITY
-
-Capital represents ordinary weekday urban Household life.
-
-All earlier descriptions of Capital as:
-
-- financial infrastructure;
-- treasury;
-- harbour;
-- commercial centre;
-- resource settlement;
-- docks;
-- warehouses;
-
-remain permanently RETIRED.
-
----
-
-## Geographic Position
-
-Capital is east in real life.
-
-Place it:
-
-# EAST
-
-within Household Realm.
-
----
-
-## Canonical Glyph
+Glyph:
 
 PALE / WHITE APARTMENT HOME  
-+  
-URBAN BLOCKS  
-+  
-CITY ARTERIES
++ URBAN BLOCKS  
++ CITY ARTERIES
 
----
+Meaning:
 
-## Meaning
-
-Capital represents:
-
-- daily life;
-- urban connection;
-- routine;
-- ordinary shared Household life.
+DAILY LIFE + URBAN CONNECTION + ROUTINE
 
 Capital is:
 
 # HOME INSIDE THE CITY.
 
----
+All descriptions of Capital as treasury, harbour, financial centre, docks, warehouses, commercial centre or royal capital remain retired.
 
-## Canonical Architecture
+The central landmark is the pale cream/off-white urban apartment building derived from the real Household apartment building.
 
-The central landmark is a pale cream / off-white urban apartment building derived from the real Household apartment building.
+Preserve approximately five to six storeys, pale façade, restrained early/mid-20th-century urban architecture, simple rectangular windows, solid masonry, modest balconies/projecting elements and ordinary residential proportions.
 
-It should read clearly as:
+Do not transform it into palace, ministry, luxury hotel, aristocratic residence, university or government building.
 
-# APARTMENT HOUSE.
+Its importance comes from: **This is our home**, not **this is the most important building in the city**.
 
-Preserve:
+Capital has no hard frontier:
 
-- approximately five to six storeys;
-- pale façade;
-- restrained early/mid-20th-century urban architecture;
-- simple rectangular windows;
-- solid masonry;
-- modest balconies / projecting elements;
-- ordinary residential proportions.
-
-Do not transform it into:
-
-- palace;
-- ministry;
-- luxury hotel;
-- aristocratic residence;
-- university;
-- government building.
-
-Its importance comes from:
-
-> This is our home.
-
-Not:
-
-> This is the most important building in the city.
-
----
-
-## Capital Geographic Rule
-
-Capital has no hard frontier.
-
-Its transition is:
-
-HOME  
-↓  
-COURTYARD  
-↓  
-NEIGHBOURHOOD  
-↓  
-CITY  
-↓  
-MORE CITY  
-↓  
-ATMOSPHERIC DISTANCE
-
-The city continues.
-
-Detail does not.
-
-Therefore:
+HOME → COURTYARD → NEIGHBOURHOOD → CITY → MORE CITY → ATMOSPHERIC DISTANCE
 
 # CITY EXTENT INCREASES WITH DISTANCE.
 # CITY DETAIL DECREASES WITH DISTANCE.
 
-Capital must eventually be reconciled with native 9:16 Playable Painterly composition.
+Capital B/B′/B″ established native portrait development. B″ accidentally revealed the Painterly Focus Gradient and is a principal validation case for Visual System v1.1.
+
+A picturesque rainy/evening Tuesday is legitimate Capital reality. An oversized fantasy skyline or palace-like Home is not.
 
 ---
 
-# XXXIII. HOUSEHOLD REALM GEOGRAPHY
+# XIV. CAREER — CANONICAL STRUCTURE
 
-The established Household geographic relationship remains canonical:
-
-NORTH / NNW:
-
-STRONGHOLD
-
-CENTRE:
-
-FAMILY
-
-EAST:
-
-CAPITAL
-
-The original Household Realm assembly remains an important geographic reference.
-
-Its geographic discoveries survive.
-
-Its 16:9 landscape-first rendering architecture does NOT remain canonical.
-
-The Realm will eventually be reassembled natively in 9:16.
-
----
-
-# XXXIV. HOUSEHOLD DOMAIN EQUAL-WEIGHT RULE
-
-Stronghold, Family and Capital are equal Domains.
-
-They do not need identical physical size.
-
-They need comparable conceptual readability.
-
-Stronghold should not dominate merely because mountains are dramatic.
-
-Family should not disappear because its architecture is modest.
-
-Capital should not disappear because urban geography merges into the horizon.
-
-At first inspection, the viewer should discover three distinct geographic anchors.
-
----
-
-# XXXV. CAREER REALM
-
-Career remains structurally defined as:
+Career contains:
 
 1. Leadership;
 2. Strategy;
 3. TMT.
 
-These Domains have not yet completed canonical visual discovery.
+Leadership and Strategy remain to complete canonical visual discovery.
 
-Earlier visual descriptions remain provisional unless explicitly preserved elsewhere as canon.
-
-The Household process remains the preferred general workflow:
-
-DISCOVER DOMAIN  
-↓  
-ITERATE  
-↓  
-VALIDATE SEMANTICS  
-↓  
-FREEZE  
-↓  
-ASSEMBLE REALM
+The Observatory concept is reserved for Strategy and must not be reused as TMT's primary landmark.
 
 ---
 
-# XXXVI. TMT — VISUAL-SYSTEM FALSIFICATION DOMAIN
+# XV. TMT — DISCOVERED DIRECTION
 
-TMT is moved forward temporarily in the production sequence.
+TMT has moved beyond the earlier falsification-only stage.
 
-This does NOT mean TMT is conceptually more important than Leadership or Strategy.
+Primary geographic landmark:
 
-Its purpose is experimental.
+# LIGHTHOUSE
 
-Stronghold is highly physical.
+The Lighthouse is a working geographic landmark, not a magical tower, corporate monument or literal representation of a company.
 
-Its semantics naturally relate to:
+Its professional semantics are located within the Domain through UI anchors rather than fantasy architecture.
 
-- Home;
-- rooms;
-- Garden;
-- Terraces;
-- physical structures.
+Current canonical coverage-anchor set:
 
-TMT provides a contrasting ontology.
+- YNDX
+- OZON
+- VKCO
+- HEAD
+- CIAN
+- POSI
+- ASTR
+- DIAS
+- DATA
+- BAZA
+- MTSS
+- PRMD
 
-Likely semantic anchors include companies such as:
+These must not become corporate-logo geography, company castles, towers or palaces.
 
-- YNDX;
-- VKCO;
-- OZON;
-- HEAD;
-- other covered companies.
-
-These objects must NOT automatically become literal fantasy architecture.
-
-The TMT experiment asks:
-
-> Can Playable Painterly create a meaningful, navigable Domain for abstract/professional semantics without turning them into literal fantasy buildings or corporate logos?
-
-If yes:
-
-Playable Painterly may be sufficiently general to freeze as RealMe Visual System v1.0.
-
-If no:
-
-the visual grammar must be revised before large-scale Domain production resumes.
+TMT remains subject to final reconciliation and freeze under Visual System v1.1, but the old question “can professional semantics exist without literal fantasy architecture?” has been answered sufficiently to proceed: yes.
 
 ---
 
-# XXXVII. TMT FALSIFICATION TEST
+# XVI. THIRD REALM
 
-The TMT prototype must test:
-
-## WORLD CREDIBILITY
-
-Does TMT still feel like a place rather than a diagram?
-
-## REALME CONTINUITY
-
-Could TMT and Stronghold plausibly exist within the same World?
-
-## NON-LITERAL SEMANTICS
-
-Can YNDX / VKCO / OZON / HEAD exist as stable anchors without literal architectural translation?
-
-## PORTRAIT READABILITY
-
-Does the Domain work natively at 9:16?
-
-## SEMANTIC CAPACITY
-
-Can multiple company anchors coexist without becoming a tag cloud?
-
-## MATURITY
-
-Does the environment remain appropriate for an adult professional life system?
-
-## GENERATOR-BIAS TEST
-
-Has the generator reverted to generic fantasy architecture merely because the semantics are abstract?
-
-## UI COEXISTENCE
-
-Can real professional semantics sit over the environment without breaking immersion?
-
----
-
-# XXXVIII. THIRD REALM
-
-Third Realm remains structurally defined as:
+Third Realm remains structurally:
 
 1. RealMe;
 2. Gifted;
 3. Tower.
 
-Their current visual descriptions remain provisional until individually discovered and frozen.
-
-The same Domain discovery process applies.
+Their visual descriptions remain provisional until individually discovered and frozen.
 
 ---
 
-# XXXIX. MAP-SCALE LANDMARK DERIVATION
+# XVII. CITADEL
 
-Once a Domain is frozen, derive its simplified Realm and World representation.
+The Citadel remains part of the developing World Model and must not be forgotten at World scale.
 
-Preserve:
+Its final geography, scale, function, relationship to Realms and visual identity remain to be discovered.
 
-1. dominant silhouette;
-2. primary colour/material cue;
-3. one secondary motif;
-4. immediate terrain association.
-
-For Household:
-
-## STRONGHOLD
-
-dark-red home  
-+  
-grey enclosure  
-+  
-snowy mountain
-
-## FAMILY
-
-ancient tree  
-+  
-gathered homes  
-+  
-water
-
-## CAPITAL
-
-pale apartment home  
-+  
-urban block mass  
-+  
-city arteries
-
-Do not reinterpret them.
+Do not invent these prematurely merely to place it on an early map.
 
 ---
 
-# XL. WORLD MAP CONTINUITY
+# XVIII. DYNAMIC WORLD READINESS
 
-At World scale, each Domain may become small.
+The final World is not assumed to remain static.
 
-Recognition should nevertheless survive through glyph hierarchy.
+Future systems may express light/darkness, prosperity/dormancy, active routes, changing Realm prominence, environmental change, newly discovered territory, Realm drift, relationships between Realms and Citadel development.
 
-For Household:
-
-Stronghold remains the northern mountain-associated red landmark.
-
-Family remains the central ancient-tree settlement.
-
-Capital remains the eastern pale landmark embedded in urban geography.
-
-Zooming:
-
-WORLD  
-→  
-HOUSEHOLD  
-→  
-DOMAIN
-
-should feel like approaching the same places.
+Do not prematurely bake these dynamic states into static canonical artwork.
 
 ---
 
-# XLI. DYNAMIC WORLD READINESS
-
-The final World is not assumed to remain static forever.
-
-Future systems may express:
-
-- light / darkness;
-- prosperity / dormancy;
-- active routes;
-- changing Realm prominence;
-- environmental change;
-- newly discovered territory;
-- Realm drift;
-- relationships between Realms;
-- Citadel development.
-
-These systems should not be prematurely encoded into static artwork.
-
-The visual system should merely remain capable of supporting them later.
-
----
-
-# XLII. THE CITADEL
-
-The Citadel remains part of the developing World Model.
-
-It must not be forgotten during future World-level visualization.
-
-Its final:
-
-- geography;
-- scale;
-- function;
-- relationship to Realms;
-- visual identity;
-
-remain to be discovered.
-
-Do not invent these prematurely merely to place the Citadel on an early map.
-
----
-
-# XLIII. VALIDATION FRAMEWORK
+# XIX. VALIDATION FRAMEWORK
 
 Never accept an image merely because it is beautiful.
 
-Validate function.
+Validate:
 
-## PLACE TEST
+1. **Identity** — canonical geographic identity survives.
+2. **Place** — it feels enterable and inhabitable.
+3. **Portrait** — composition is native to 9:16.
+4. **Material** — primary geography remains physically convincing.
+5. **Attention** — the eye prioritizes meaningful geography.
+6. **Dissolution** — information progressively retreats outside meaningful geography.
+7. **Geography** — distant terrain remains understandable after detail retreats.
+8. **Interaction** — semantics attach naturally.
+9. **Non-Literality** — semantics are not unnecessarily illustrated as objects.
+10. **UI Coexistence** — representative RealMe semantics can occupy the image.
+11. **Blur-vs-Paint** — simplification feels painted, not optically blurred.
+12. **Maturity** — the World remains suitable for an adult life operating system.
+13. **Longevity** — the environment remains comfortable after prolonged use.
+14. **Semantic Cleanliness** — no baked-in UI or semantic leakage.
+15. **Cross-Scale Continuity** — Domain/Realm/World feel like the same geography resolving.
+16. **Equal Weight** — peer Domains remain conceptually comparable.
+17. **Generator Bias** — the image would still be selected if all styles were equally easy to generate.
+18. **World Test** — it feels discovered rather than merely designed.
 
-Does this feel like somewhere the Warden can enter?
-
-## PORTRAIT TEST
-
-Does the composition feel native to 9:16?
-
-## READABILITY TEST
-
-Can the major environmental structure be understood quickly?
-
-## DOMAIN CONTINUITY TEST
-
-Does the image preserve canonical Domain identity?
-
-## INTERACTION TEST
-
-Can semantics attach naturally to the environment?
-
-## NON-LITERALITY TEST
-
-Does the artwork avoid unnecessarily depicting semantic objects literally?
-
-## UI COEXISTENCE TEST
-
-Can representative RealMe semantics coexist with the environment?
-
-## REALM IDENTITY TEST
-
-Can Realm identity survive without labels?
-
-## EQUAL-WEIGHT TEST
-
-Are peer Domains conceptually comparable in prominence?
-
-## GEOGRAPHY TEST
-
-Do Domains emerge naturally from distinct surrounding geography?
-
-## BLUR TEST
-
-Do major landmarks survive loss of detail?
-
-## MATURITY TEST
-
-Does the World remain suitable for an adult life operating system?
-
-## LONGEVITY TEST
-
-Could the environment remain comfortable after hundreds of hours of use?
-
-## SEMANTIC CLEANLINESS TEST
-
-Is canonical artwork free from baked-in UI and semantics?
-
-## GENERATOR-BIAS TEST
-
-Would this still be selected if all visual directions were equally easy to generate?
-
-## WORLD TEST
-
-Does this feel discovered rather than merely designed?
+Reject Global Watercolor, Photographic Blur, Uniform Detail, Foreground Noise, Landmark Inflation, Background Landmark, Storybook, Generic AI Fantasy and Semantic Leakage failures as defined in Visual System v1.1.
 
 ---
 
-# XLIV. UPDATED PRODUCTION SEQUENCE
-
-## VISUAL SYSTEM DISCOVERY — COMPLETE
+# XX. PRODUCTION HISTORY — COMPLETED DISCOVERY
 
 01. Stronghold portrait spatial skeleton — APPROVED
-
-02. Stronghold A — Current Atlas / native 9:16 — COMPLETE
-
-03. Stronghold B — Playable Painterly / native 9:16 — COMPLETE
-
-04. Stronghold C — Premium Mobile Fantasy / native 9:16 — COMPLETE
-
+02. Stronghold A / native 9:16 — COMPLETE
+03. Stronghold B / Playable Painterly — COMPLETE
+04. Stronghold C / Premium Mobile Fantasy — COMPLETE
 05. Identical UI comparison — COMPLETE
-
 06. A/B/C Realmers evaluation — COMPLETE
-
 07. D structural hybrid prototype — COMPLETE
-
 08. D Realmers evaluation — COMPLETE
-
 09. D2 Playable Painterly refinement — COMPLETE
-
 10. D2 Realmers evaluation — COMPLETE
-
 11. D2 real-semantics overlay test — COMPLETE
-
-12. D2 + real semantics Realmers evaluation — COMPLETE
-
+12. D2 + real semantics evaluation — COMPLETE
 13. Stronghold visual direction — APPROVED
+14. Playable Painterly candidate — ESTABLISHED
+15–22. TMT falsification/discovery branch — COMPLETED / SUPERSEDED BY LATER DISCOVERY
+23–38. Household native-portrait reconciliation branch — SUBSTANTIALLY EXECUTED THROUGH LATER ITERATION; individual final-master freezes remain where explicitly noted
+39. Capital / Household visual-system work leading into rendering divergence — COMPLETE
+40A. Capital Painterly Focus Gradient discovery — COMPLETE
+40B. Stronghold Painterly Focus Gradient falsification — COMPLETE / PARTIAL PASS
+40C. Stronghold correction analysis — COMPLETE
+40D. Family Painterly Focus Gradient replication — COMPLETE / PASS
+40E. Cross-Domain Realmers judgement — COMPLETE
+41. RealMe Visual System v1.1 — APPROVED AND COMMITTED
 
-14. Playable Painterly v1.0 Candidate — ESTABLISHED
-
----
-
-## VISUAL SYSTEM FALSIFICATION — CURRENT
-
-15. Define TMT spatial / conceptual skeleton
-
-16. Produce TMT Playable Painterly prototype
-
-17. Test real semantic anchors:
-    - YNDX
-    - VKCO
-    - OZON
-    - HEAD
-    - representative additional companies if useful
-
-18. Validate TMT without literal corporate architecture
-
-19. Compare TMT visual grammar against Stronghold D2
-
-20. Realmers visual-system judgement
-
-21. Correct Playable Painterly grammar if required
-
-22. RealMe Visual System v1.0 — FREEZE OR ITERATE
+The numbering above preserves actual development history rather than pretending the original linear sequence was followed unchanged.
 
 ---
 
-## HOUSEHOLD RECONCILIATION
+# XXI. CURRENT PRODUCTION SEQUENCE
 
-23. Reconcile Stronghold with frozen Visual System
+## VISUAL SYSTEM
 
-24. Stronghold final native 9:16 master
+41. RealMe Visual System v1.1 — **APPROVED / COMPLETE**
 
-25. Stronghold UI validation
+## HOUSEHOLD FINALIZATION
 
-26. Stronghold freeze
-
-27. Family native 9:16 Playable Painterly reconciliation
-
-28. Family real-semantics UI test
-
-29. Family freeze
-
-30. Capital native 9:16 Playable Painterly reconciliation
-
-31. Capital real-semantics UI test
-
-32. Capital freeze
-
-33. Household Realm native 9:16 reassembly
-
-34. Household Realm UI validation
-
-35. Household Domain continuity test
-
-36. Household semantic zoom test
-
-37. Household equal-weight test
-
-38. Household freeze
-
----
+42. Reconcile current Stronghold candidate against Visual System v1.1 and select/finalize canonical native 9:16 master
+43. Stronghold final semantic/UI validation
+44. Stronghold final freeze
+45. Select/finalize canonical Family native 9:16 master using 40D findings
+46. Family final semantic/UI validation
+47. Family final freeze
+48. Select/finalize canonical Capital native 9:16 master using B/B′/B″ findings
+49. Capital final semantic/UI validation
+50. Capital final freeze
+51. Household Realm native 9:16 reassembly from frozen Domain identities
+52. Household Realm UI validation
+53. Household Domain continuity test
+54. Household semantic zoom test
+55. Household equal-weight test
+56. Household freeze
 
 ## CAREER
 
-39. Leadership Domain discovery
-
-40. Leadership real-semantics validation
-
-41. Leadership freeze
-
-42. Strategy Domain discovery
-
-43. Strategy real-semantics validation
-
-44. Strategy freeze
-
-45. TMT final reconciliation with frozen Visual System
-
-46. TMT final real-semantics validation
-
-47. TMT freeze
-
-48. Career Realm native 9:16 assembly
-
-49. Career Realm UI validation
-
-50. Career Domain continuity test
-
-51. Career semantic zoom test
-
-52. Career freeze
-
----
+57. Leadership Domain discovery
+58. Leadership real-semantics validation
+59. Leadership freeze
+60. Strategy Domain discovery — Observatory reserved as candidate landmark
+61. Strategy real-semantics validation
+62. Strategy freeze
+63. TMT final reconciliation with Visual System v1.1 and Lighthouse direction
+64. TMT final real-semantics validation using canonical coverage anchors
+65. TMT freeze
+66. Career Realm native 9:16 assembly
+67. Career Realm UI validation
+68. Career Domain continuity test
+69. Career semantic zoom test
+70. Career equal-weight test
+71. Career freeze
 
 ## THIRD REALM
 
-53. RealMe Domain discovery
-
-54. RealMe real-semantics validation
-
-55. RealMe freeze
-
-56. Gifted Domain discovery
-
-57. Gifted real-semantics validation
-
-58. Gifted freeze
-
-59. Tower Domain discovery
-
-60. Tower real-semantics validation
-
-61. Tower freeze
-
-62. Third Realm native 9:16 assembly
-
-63. Third Realm UI validation
-
-64. Third Realm continuity test
-
-65. Third Realm semantic zoom test
-
-66. Third Realm freeze
-
----
+72. RealMe Domain discovery
+73. RealMe real-semantics validation
+74. RealMe freeze
+75. Gifted Domain discovery
+76. Gifted real-semantics validation
+77. Gifted freeze
+78. Tower Domain discovery
+79. Tower real-semantics validation
+80. Tower freeze
+81. Third Realm native 9:16 assembly
+82. Third Realm UI validation
+83. Third Realm continuity test
+84. Third Realm semantic zoom test
+85. Third Realm equal-weight test
+86. Third Realm freeze
 
 ## MAP-SCALE DERIVATIVES
 
-67. Household map-scale derivatives
-
-68. Career map-scale derivatives
-
-69. Third Realm map-scale derivatives
-
-70. Cross-scale landmark consistency validation
-
----
+87. Household map-scale derivatives
+88. Career map-scale derivatives
+89. Third Realm map-scale derivatives
+90. Cross-scale landmark consistency validation
 
 ## WORLD
 
-71. Reconcile original World Skeleton with frozen Realms
-
-72. Determine Citadel relationship without premature redesign
-
-73. Establish final global portrait geography
-
-74. World 9:16 composition
-
-75. World UI integration
-
-76. Realm identity test
-
-77. Domain continuity test
-
-78. Semantic zoom test
-
-79. Equal-weight test
-
-80. Dynamic-state readiness test
-
-81. Final corrections
-
-82. RealMe Living World v1.0
+91. Reconcile original World Skeleton with frozen Realms
+92. Determine Citadel relationship without premature redesign
+93. Establish final global portrait geography
+94. World 9:16 composition under Painterly Focus Gradient
+95. World UI integration
+96. Realm identity test
+97. Domain continuity test
+98. Semantic zoom test
+99. Equal-weight test
+100. Dynamic-state readiness test
+101. Final corrections
+102. RealMe Living World v1.0
 
 ---
 
-# XLV. CURRENT PRODUCTION STATE
+# XXII. CURRENT PRODUCTION STATE
 
 Current state:
 
-# STRONGHOLD VISUAL EXPERIMENT COMPLETE.
+# REALME VISUAL SYSTEM v1.1 APPROVED.
 
-Stronghold D2 is:
+Cross-Domain evidence:
 
-# APPROVED STRONGHOLD VISUAL DIRECTION.
-
-Playable Painterly is:
-
-# REALME VISUAL SYSTEM v1.0 CANDIDATE.
-
-It is NOT yet frozen as universal visual canon.
+- Capital B″ — PASS / discovery case;
+- Stronghold 40B — PARTIAL PASS / correction case;
+- Family 40D — PASS / replication case.
 
 The current production task is:
 
-# STEP 15 — DEFINE TMT SPATIAL / CONCEPTUAL SKELETON.
+# STEP 42 — RECONCILE CURRENT STRONGHOLD CANDIDATE AGAINST VISUAL SYSTEM v1.1 AND SELECT/FINALIZE CANONICAL NATIVE 9:16 MASTER.
 
-The purpose is to falsify or validate Playable Painterly against a Domain whose semantics are substantially less physical than Stronghold.
-
-Do not resume Household production before this test unless the Warden explicitly changes direction.
+The next objective is not further global style exploration. It is to use the now-approved visual grammar to finish and freeze Domain masters, then assemble Realms.
 
 ---
 
-# XLVI. CURRENT CANONICAL HOUSEHOLD SUMMARY
+# XXIII. REPOSITORY VERSIONING PRINCIPLE
 
-## STRONGHOLD
+The active repository contains one authoritative current roadmap:
 
-Position:
+`docs/PRODUCT/VISUAL/_REALME_WORLD_MAP_ASSEMBLY_ROADMAP.md`
 
-N / NNW
-
-Glyph:
-
-SNOWY MOUNTAIN  
-+  
-DARK-RED HOME  
-+  
-GREY FORTIFICATIONS / GARDENS
-
-Meaning:
-
-PROTECTION  
-+  
-STEWARDSHIP  
-+  
-BUILDING  
-+  
-HOME AT THE FRONTIER
-
-Visual status:
-
-PLAYABLE PAINTERLY D2 DIRECTION APPROVED.
-
----
-
-## FAMILY
-
-Position:
-
-CENTRE
-
-Glyph:
-
-ANCIENT TREE  
-+  
-GATHERED HOMES  
-+  
-WATER
-
-Meaning:
-
-BELONGING  
-+  
-GENERATIONS  
-+  
-CONNECTION
-
-Visual status:
-
-CANONICAL IDENTITY ESTABLISHED.
-
-NATIVE 9:16 RECONCILIATION PENDING.
-
----
-
-## CAPITAL
-
-Position:
-
-EAST
-
-Glyph:
-
-PALE APARTMENT HOME  
-+  
-URBAN BLOCKS  
-+  
-CITY ARTERIES
-
-Meaning:
-
-DAILY LIFE  
-+  
-URBAN CONNECTION  
-+  
-ROUTINE
-
-Capital is NOT:
-
-HARBOUR  
-TREASURY  
-FINANCIAL CENTRE  
-ROYAL CAPITAL
-
-Capital is:
-
-# HOME INSIDE THE CITY.
-
-Visual status:
-
-CANONICAL IDENTITY ESTABLISHED.
-
-NATIVE 9:16 RECONCILIATION PENDING.
-
----
-
-# XLVII. REPOSITORY VERSIONING PRINCIPLE
-
-The active Repository should contain:
-
-# ONE AUTHORITATIVE CURRENT ROADMAP.
-
-Its canonical filename is:
-
-REALME_WORLD_MAP_ASSEMBLY_ROADMAP.md
-
-The document itself records its current version.
-
-Older versions should not remain beside it as competing active roadmap documents.
-
-If historical preservation is desired, superseded versions may be:
-
-- retained through version-control history;
-- moved to a clearly separated Archive;
-- preserved as historical artifacts.
-
-Archived roadmaps have:
-
-# NO CANONICAL AUTHORITY.
-
-They exist to preserve development history only.
-
-When retrieving operational instructions, Realm Roles should use the current active roadmap.
-
-The principle is:
+Historical roadmaps are preserved by Git history. Superseded roadmap files elsewhere in the active product tree are retired rather than treated as competing authorities.
 
 # PRESERVE HISTORY.
 # DO NOT PRESERVE AMBIGUITY.
-
----
-
-# XLVIII. ACCEPTANCE PRINCIPLE
-
-Do not ask the World Map to invent the World.
-
-Do not ask Realm Maps to reinvent their Domains.
-
-Do not ask artwork to illustrate every semantic object.
-
-Do not ask UI to manufacture mythology for the Warden.
-
-Do not allow obsolete concepts to return merely because they remain in historical material.
-
-Discover places.
-
-Establish their identity.
-
-Determine how semantics belong within them.
-
-Validate the visual grammar against radically different Domains.
-
-Freeze what survives.
-
-Then assemble geography.
-
-Then map the World.
-
-RealMe should not look impressive because an image generator is good at fantasy paintings.
-
-It should not look like a game merely because games solve mobile interaction well.
-
-It should become its own visual system.
-
-Fantasy provides meaning.
-
-Geography provides memory.
-
-Game design provides readability.
-
-Painting provides atmosphere.
-
-UI provides semantics.
-
-The Warden provides mythology.
-
-Together they create:
-
-# A WORLD THAT CAN BE LIVED IN.
-
-The question for every future image is not merely:
-
-> Is this beautiful?
-
-Nor:
-
-> Does this look like the same atlas?
-
-It is:
-
-> Does this make the Warden's World more inhabitable?
-
-If not, reject it.
-
-Even if it is beautiful.
