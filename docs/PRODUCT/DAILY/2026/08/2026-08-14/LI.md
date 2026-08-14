@@ -25,3 +25,7 @@ Brokerage call done
 Short  briefing for Denis conference done
 
 Sergey apartment call postpone until more clarity on Capital Campaign
+
+LI
+
+Remind me on Monday: vote in MOEX IR contest
