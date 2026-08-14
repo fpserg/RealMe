@@ -60,3 +60,4 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 050 | 2026-08-11 | [The Obstacles Narrow](../PRODUCT/DAILY/2026/08/2026-08-11/Day%20050%20%E2%80%94%20The%20Obstacles%20Narrow.md) |
 | 051 | 2026-08-12 | [The Bottleneck Moves](../PRODUCT/DAILY/2026/08/2026-08-12/Day%20051%20%E2%80%94%20The%20Bottleneck%20Moves.md) |
 | 052 | 2026-08-13 | [The Cost of Movement](../PRODUCT/DAILY/2026/08/2026-08-13/Day%20052%20%E2%80%94%20The%20Cost%20of%20Movement.md) |
+| 053 | 2026-08-14 | [The Ledger at the Door](../PRODUCT/DAILY/2026/08/2026-08-14/Day%20053%20%E2%80%94%20The%20Ledger%20at%20the%20Door.md) |
