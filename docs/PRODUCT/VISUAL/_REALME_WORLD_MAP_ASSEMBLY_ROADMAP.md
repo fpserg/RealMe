@@ -1,7 +1,7 @@
 # REALME_WORLD_MAP_ASSEMBLY_ROADMAP.md
 
 Version: 2.2  
-Status: VISUAL SYSTEM v1.1 APPROVED / DOMAIN PRODUCTION  
+Status: VISUAL SYSTEM v1.1 APPROVED / STRONGHOLD FROZEN / DOMAIN PRODUCTION  
 Canonical orientation: 9:16 PORTRAIT / MOBILE FIRST
 
 ---
@@ -243,7 +243,11 @@ The original Household assembly remains a geographic reference, but its landscap
 
 ---
 
-# XI. STRONGHOLD — CANONICAL IDENTITY
+# XI. STRONGHOLD — FROZEN CANONICAL DOMAIN
+
+Status:
+
+# FROZEN — STRONGHOLD v1.0
 
 Position: NORTH / NNW.
 
@@ -257,13 +261,55 @@ Meaning:
 
 PROTECTION + STEWARDSHIP + BUILDING + CULTIVATION + HOME AT THE FRONTIER
 
+Canonical identity:
+
+> Dark-red Home within a grey fortified and cultivated enclosure, immediately beneath the northern snowy mountains.
+
 Stronghold is northern, rooted, lived-in, protected and increasingly cultivated. It is a home rather than primarily a military fortress.
 
 Preserve dramatic snowy mountains immediately behind, substantial dark-red/brown family residence, grey stone enclosure, gates/walls, gardens, stairs, paths, cultivated interior, utility structures and transition toward mountain wilderness.
 
-D2 established the approved Stronghold Playable Painterly direction. Later v1.1 testing established that its primary geography must remain material while supporting geography progressively quiets.
+The gardens are constitutive rather than decorative. Stronghold is a protected home being built, cultivated and inhabited.
 
-Stronghold visual-system validation: PASS WITH CORRECTION. Background quieting and mountain simplification succeeded; global watercolorization did not. The lesson is now encoded in Visual System v1.1.
+## Canonical interaction field
+
+The Home, enclosure, gardens, paths, stairs, terraces, gates and utility geography remain differentiated enough to support real semantic anchors.
+
+The validated current location set is:
+
+- Kitchen
+- Living room
+- Bathroom 1
+- Sergey Jr room
+- Alisa room
+- Boiler room
+- Maksim room
+- Ivan room
+- Bedroom
+- Bathroom 2
+- Terraces
+- Garden
+
+These semantics belong to UI. The artwork does not literally illustrate them and may survive renaming without regeneration.
+
+## Canonical rendering rule
+
+The approved canonical Stronghold artwork remains the Domain identity/compositional master.
+
+Visual System v1.1 governs future rendering and derivatives:
+
+- Stronghold Home / semantic nucleus — materially defined;
+- interactive grounds — defined painterly and spatially differentiated;
+- peripheral forest / terrain — progressively looser;
+- mountains / remote wilderness / sky — watercolor-like dissolution while preserving geographic identity.
+
+40B is not the replacement master. It is a rendering-system reference demonstrating successful background quieting and mountain simplification, while also demonstrating the failure mode of spreading watercolor treatment too strongly into primary geography.
+
+The exact pixels are not sacred. A future technically controlled repaint/edit may improve v1.1 compliance only if the frozen identity, architecture, geography, interaction logic and hierarchy are preserved. Such work is maintenance, not Domain rediscovery.
+
+Stronghold final semantic/UI validation: PASS.
+
+Stronghold final freeze: COMPLETE.
 
 ---
 
@@ -467,6 +513,9 @@ Reject Global Watercolor, Photographic Blur, Uniform Detail, Foreground Noise, L
 40D. Family Painterly Focus Gradient replication — COMPLETE / PASS
 40E. Cross-Domain Realmers judgement — COMPLETE
 41. RealMe Visual System v1.1 — APPROVED AND COMMITTED
+42. Stronghold master reconciliation — COMPLETE
+43. Stronghold final semantic/UI validation — COMPLETE / PASS
+44. Stronghold final freeze — COMPLETE / FROZEN v1.0
 
 The numbering above preserves actual development history rather than pretending the original linear sequence was followed unchanged.
 
@@ -480,10 +529,10 @@ The numbering above preserves actual development history rather than pretending 
 
 ## HOUSEHOLD FINALIZATION
 
-42. Reconcile current Stronghold candidate against Visual System v1.1 and select/finalize canonical native 9:16 master
-43. Stronghold final semantic/UI validation
-44. Stronghold final freeze
-45. Select/finalize canonical Family native 9:16 master using 40D findings
+42. Reconcile current Stronghold candidate against Visual System v1.1 and select/finalize canonical native 9:16 master — **COMPLETE**
+43. Stronghold final semantic/UI validation — **COMPLETE / PASS**
+44. Stronghold final freeze — **COMPLETE / FROZEN v1.0**
+45. Select/finalize canonical Family native 9:16 master using 40D findings — **CURRENT**
 46. Family final semantic/UI validation
 47. Family final freeze
 48. Select/finalize canonical Capital native 9:16 master using B/B′/B″ findings
@@ -561,18 +610,21 @@ The numbering above preserves actual development history rather than pretending 
 Current state:
 
 # REALME VISUAL SYSTEM v1.1 APPROVED.
+# STRONGHOLD v1.0 FROZEN.
 
-Cross-Domain evidence:
+Stronghold evidence:
 
-- Capital B″ — PASS / discovery case;
-- Stronghold 40B — PARTIAL PASS / correction case;
-- Family 40D — PASS / replication case.
+- canonical Stronghold artwork — Domain identity/compositional master;
+- 40B — rendering-system reference / partial pass;
+- Step 42 — reconciliation complete;
+- Step 43 — real semantic/UI validation pass;
+- Step 44 — final freeze complete.
 
 The current production task is:
 
-# STEP 42 — RECONCILE CURRENT STRONGHOLD CANDIDATE AGAINST VISUAL SYSTEM v1.1 AND SELECT/FINALIZE CANONICAL NATIVE 9:16 MASTER.
+# STEP 45 — SELECT/FINALIZE CANONICAL FAMILY NATIVE 9:16 MASTER USING 40D FINDINGS.
 
-The next objective is not further global style exploration. It is to use the now-approved visual grammar to finish and freeze Domain masters, then assemble Realms.
+The objective is not further global style exploration. It is to finish and freeze remaining Household Domain masters under the approved visual grammar, then reassemble Household Realm.
 
 ---
 
