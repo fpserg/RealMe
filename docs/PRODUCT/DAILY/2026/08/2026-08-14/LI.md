@@ -29,3 +29,9 @@ Sergey apartment call postpone until more clarity on Capital Campaign
 LI
 
 Remind me on Monday: vote in MOEX IR contest
+
+LI
+
+Validated and implemented exchange pairs for Tower
+
+Withdrew and transferred Tower revenues to Alex
