@@ -35,3 +35,12 @@ LI
 Validated and implemented exchange pairs for Tower
 
 Withdrew and transferred Tower revenues to Alex
+
+LI
+
+New drags on finance when I came home:
+- pay new armchairs delivery
+- pay Maksim and Sergey Jr English classes
+- Oksi and kids persuaded me to buy them tickets to some Gazan concert
+
+Feeling tired
