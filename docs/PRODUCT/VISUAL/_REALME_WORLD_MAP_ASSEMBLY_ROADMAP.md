@@ -1,7 +1,7 @@
 # REALME_WORLD_MAP_ASSEMBLY_ROADMAP.md
 
-Version: 3.0  
-Status: VISUAL SYSTEM v1.1 / HOUSEHOLD FROZEN / CAREER FROZEN / THIRD DISCOVERY NEXT  
+Version: 4.0  
+Status: VISUAL SYSTEM v1.1 / HOUSEHOLD FROZEN / CAREER FROZEN / THIRD FROZEN / WORLD GEOGRAPHY NEXT  
 Canonical orientation: 9:16 PORTRAIT / MOBILE FIRST
 
 ---
@@ -37,7 +37,7 @@ Superseded concepts must not silently return.
 
 # II. CANONICAL IMAGE ARCHITECTURE
 
-RealMe is designed 9:16 portrait first.
+RealMe is designed 9:16 portrait first at **all map scales: Domain, Realm and World**.
 
 Preferred production resolution: 2160 × 3840.  
 Minimum working resolution: 1080 × 1920.
@@ -92,6 +92,13 @@ Career validation adds:
 # PERSPECTIVE MAY REDUCE SCALE WITHOUT REDUCING MEANING.
 # DISTANCE REDUCES DETAIL BEFORE MEANING.
 # DIFFERENT GLYPHS MAY SURVIVE ZOOM BY DIFFERENT MECHANISMS.
+
+Third validation adds:
+
+# ENVIRONMENT CAN BE THE GLYPH.
+# SYMBOL IN THE WORLD, NOT SYMBOL ON THE WORLD.
+# DOMAIN EDGE DOES NOT EQUAL BIOME BORDER.
+# SEMANTIC PEERS DO NOT REQUIRE VISUAL SYMMETRY.
 
 At World scale not every Domain must remain individually legible. Realm macro-character may carry identity until semantic zoom reveals Domains.
 
@@ -287,29 +294,12 @@ Meaning: organizational position and professional relationship field — people 
 
 Canonical master: **Confluence v2, Step 66B**. v1 remains glyph-strength/discovery reference.
 
-Current discovered Loci include:
-
-- Igor
-- Marat
-- Lisa
-- Alex
-- Ivan
-- Artem
-- Kirill
-- Team
-- Andrey
-- Denis
-- ECM
-- Sales/Trading
-- …
+Current discovered Loci include Igor, Marat, Lisa, Alex, Ivan, Artem, Kirill, Team, Andrey, Denis, ECM, Sales/Trading and others as discovered.
 
 Connection itself is the landmark. Confluence has no Leadership Palace, HQ, Warden monument or required dominant building.
 
 # ORGANIZATIONAL RANK DOES NOT EQUAL GEOGRAPHIC ALTITUDE.
 # RELATIONAL CENTRALITY DOES NOT REQUIRE A MONUMENT.
-
-Confluence owns the relational view, not every work object that happens to involve people.
-
 # CONFLUENCE OWNS RELATIONSHIPS, NOT ALL WORK INVOLVING RELATIONSHIPS.
 
 ## Strategy / Observatory — FROZEN v1.0
@@ -356,45 +346,165 @@ Career mobile crop, Domain continuity, semantic zoom, relational-centre and equa
 
 # IX. CROSS-REALM RELATIONAL-CENTRE DISCOVERY
 
-A structural rhyme has emerged, but it is not a universal template:
+A structural rhyme emerged in Household and Career, but Third falsified it as a universal template:
 
-| Realm | Flank | Relational centre | Flank |
+| Realm | West / flank | Centre / north | East / flank |
 |---|---|---|---|
 | Household | Stronghold — places | **Family — living entities** | Capital — places |
 | Career | TMT — companies | **Confluence — professional relationships** | Strategy — systems/frameworks |
+| Third | Gifted — creation | **no relational centre** | Tower — participation |
 
 Family is a **rooted centre**: paths gather around belonging.
 
 Confluence is a **flowing centre**: paths intersect and continue.
 
-# CENTRALITY IS RELATIONAL, NOT HIERARCHICAL.
+Third has no relational middle. RealMe is geographically north/near the World centre, but this is geographic centrality, not relational or hierarchical centrality.
 
-Do not force this pattern, three-Domain symmetry or any equivalent onto Third Realm. Third must be allowed to confirm, modify or falsify it.
+# CENTRALITY IS RELATIONAL OR GEOGRAPHIC, NEVER AUTOMATICALLY HIERARCHICAL.
+# DO NOT FORCE STRUCTURAL RHYME INTO A TEMPLATE.
 
 ---
 
-# X. THIRD REALM — DISCOVERY STATE
+# X. THIRD — FROZEN REALM v1.0
+
+Status: **FROZEN**.
 
 World position: **SOUTH**.
+Realm colour: **PURPLE**.
+Canonical Realm master: **Third v3, Step 82E**.
 
-No Domain structure is currently frozen.
+Third is the Realm of self-chosen pursuits: things the Warden freely chose to enter, create or cultivate because they mattered personally, whose significance can persist independently of current attention or obligations they subsequently generate.
 
-Earlier provisional structure `RealMe / Gifted / Tower` is now treated as historical hypothesis only, not a production constraint. The Realm must be rediscovered from actual recurring life semantics before geography is assigned.
+Third is structurally more fluid than Household and Career, but fluidity does not mean short-term volatility. Attention does not equal significance.
 
-Do not assume:
+Domains:
 
-- exactly three Domains;
-- a relational centre;
-- the final Realm name "Third";
-- any inherited Household/Career topology;
-- any specific landmark or landscape;
-- that historical RealMe/Gifted/Tower concepts remain Domain-level entities.
+1. **Gifted** — creation that developed a life beyond its creator;
+2. **Tower** — an existing world voluntarily entered and later helped sustain/build;
+3. **RealMe** — experimental self-discovery through building.
 
-# DISCOVER SEMANTICS BEFORE GEOGRAPHY.
+Third has **no relational centre** and no central governing Domain.
+
+## Third geography
+
+- **N / northern promontory — RealMe**, approaching the World centre;
+- **W — Gifted**;
+- **E — Tower**;
+- **S — continuing Third terrain beyond the visible Realm viewport**.
+
+RealMe's near-central World position expresses origin of representation, not authority.
+
+# GEOGRAPHIC CENTRALITY DOES NOT EQUAL CONSTITUTIONAL SUPERIORITY.
+
+Third's internal connective tissue is ordinary living terrain: temperate woodland, meadow, streams, paths, scattered habitation and restrained purple wildflowers. Domains transition by density and material change, not hard borders.
+
+# NATURE BINDS THIRD TOGETHER.
+# DOMAIN EDGE DOES NOT EQUAL BIOME BORDER.
+
+## Gifted — FROZEN v1.0
+
+Canonical master: **Gifted v3, Step 78D**.
+
+Semantic nucleus: **CREATE → RELEASE**.
+
+Glyph / visual identity:
+
+PURPLE CRYSTAL FOREST / CRYSTALLINE ECOSYSTEM.
+
+Gifted demonstrates that an environment itself can be the glyph. Purple is structural and abundant through crystal, vegetation and atmosphere, balanced by cyan water, warm habitation and ordinary living terrain.
+
+Human presence suggests independent life rather than founder centrality.
+
+Avoid logos, typography, crypto symbols, treasure piles, crystal palaces, snowy-mountain identity and prominent tower landmarks.
+
+## Tower — FROZEN v1.0
+
+Canonical master: **Tower portrait master, Step 79D**.
+
+Semantic nucleus: **ENTER → CONTRIBUTE**.
+
+Glyph / visual identity:
+
+PALE FANTASY TOWER + INHABITED ADVENTURE WORLD.
+
+The Tower identifies the place; the Domain is the world around it. Perspective is approach/participation, never rulership. Roads, settlements, waterways, bridges, fields and travellers are part of the identity.
+
+Purple is restrained and primarily heraldic/natural. Tower owns Third's strongest singular architectural vertical.
+
+Avoid Warden-throne framing, giant foreground Tower, treasury/crypto imagery, snow-dominant alpine identity and purple filtering.
+
+## RealMe — FROZEN v1.0
+
+Canonical master: **RealMe v3, Step 80F**.
+
+Semantic nucleus: **DISCOVER BY BUILDING**.
+
+Glyph / visual identity:
+
+MEDIEVAL ALCHEMIST LABORATORY + MODEL BECOMING WORLD.
+
+RealMe is a low, intricate working laboratory rather than a tower or observatory. Its defining phenomenon is a constructed representation quietly transitioning into actual surrounding landscape: the model has stopped being only a model.
+
+Human grammar is experimenters/builders already at work, not a solitary hero approaching a destination.
+
+Purple belongs primarily to alchemy — liquids, glass, pigment, vapour and small experimental effects.
+
+The correct RealMe golden star/compass geometry may appear diegetically in instruments, diagrams, architecture or craft, never as pasted UI/signage.
+
+# SYMBOL IN THE WORLD, NOT SYMBOL ON THE WORLD.
+# SHOW THE CONSEQUENCE, NOT THE EXPLANATION.
+# THE STRANGENESS IS ONTOLOGICAL, NOT EXPLOSIVE.
+
+Avoid wizard-tower identity, Observatory dome dominance, giant glowing maps, portals, energy eruptions, crystal terrain, heraldic banners and explicit app-logo overlays.
+
+## Third equal-weight constitution
+
+Gifted carries identity through **environment/material**.  
+Tower carries identity through **architecture/silhouette**.  
+RealMe carries identity through **activity/process**.
+
+# SEMANTIC PEERS DO NOT REQUIRE VISUAL SYMMETRY.
+
+At Realm scale:
+
+- Gifted survives as the western crystalline forest mass;
+- Tower survives as the pale eastern vertical within inhabited terrain;
+- RealMe survives as the smaller northern alchemical compound on the promontory.
+
+Third native 9:16 assembly and mobile validation passed before freeze. Southern terrain remains open beyond the crop.
 
 ---
 
-# XI. CITADEL
+# XI. REALM GEOGRAPHY CONSTITUTION v1.0
+
+Major Realms are distinct continent-scale landmasses separated primarily by seas and straits. They need not be islands: Realm territory may continue beyond the visible World viewport.
+
+Domains within a Realm occupy continuous land and transition without hard borders.
+
+# SEA SEPARATES REALMS.
+# LAND CONNECTS DOMAINS.
+
+This preserves the conceptual clarity of the original island World while allowing the discovered World to extend beyond the visible frame.
+
+The central World space may be water / an irregular confluence of straits rather than a central landmass. Do not turn this into a symmetric blue triangle or logo-like geometry.
+
+Small islands may exist within inter-Realm seas without constituting Realms.
+
+Crossing within a Realm is expressed primarily by changing terrain. Crossing between Realms is expressed primarily by crossing water.
+
+World-level orientation remains:
+
+- Household — NW continental Realm;
+- Career — NE continental Realm;
+- Third — southern continental Realm;
+- RealMe — northern Third promontory approaching the central waters;
+- Lighthouse — NW Career coast facing the Household strait.
+
+Distant incidental land visible in Realm masters is not automatically another canonical Realm and must not be inherited blindly into World assembly.
+
+---
+
+# XII. CITADEL
 
 The Citadel remains part of the developing World Model and must not be forgotten at World scale.
 
@@ -402,7 +512,7 @@ Its final geography, scale, function, relationship to Realms and visual identity
 
 ---
 
-# XII. VALIDATION FRAMEWORK
+# XIII. VALIDATION FRAMEWORK
 
 Never accept an image merely because it is beautiful.
 
@@ -414,34 +524,25 @@ Reject Global Watercolor, Foreground Bleaching, Photographic Blur, Uniform Detai
 
 ---
 
-# XIII. PRODUCTION HISTORY — MAJOR MILESTONES
+# XIV. PRODUCTION HISTORY — MAJOR MILESTONES
 
 01–14. Stronghold visual discovery and Playable Painterly direction — COMPLETE.  
 15–22. TMT falsification/discovery branch — COMPLETE; Lighthouse concept survived later reconciliation.  
 23–40E. Household native-portrait reconciliation + Painterly Focus Gradient discovery/falsification — COMPLETE.  
 41. Visual System v1.1 — APPROVED / AMENDED.  
-42–44. Stronghold reconciliation, semantic validation and freeze — COMPLETE / FROZEN v1.0.  
-45–47. Family reconciliation, living-entity semantics and freeze — COMPLETE / FROZEN v1.0; original bright master retained.  
-48–50. Capital master, semantic validation and freeze — COMPLETE / FROZEN v1.0.  
-51–56. Household Realm assembly, UI/continuity/zoom/equal-weight validation and freeze — COMPLETE / FROZEN v1.0.  
-57. Career people/organizational semantics discovery; Leadership rejected as too narrow; **Confluence adopted**.  
-58A–58F. Strategy / Observatory discovery and visual reconciliation — COMPLETE.  
-59. Strategy semantic validation and cross-Domain work model — COMPLETE.  
-60. Strategy / Observatory final freeze — COMPLETE / FROZEN v1.0.  
-61–63. TMT / Lighthouse reconciliation, real-semantics validation and freeze — COMPLETE / FROZEN v1.0.  
-64–67. Confluence spatial constitution, v1/v2 testing, equal-weight test and freeze — COMPLETE / FROZEN v1.0.  
-68A. Career geography constitution amended by World topology: Lighthouse NW facing Household strait; Confluence central; Observatory SE inland — COMPLETE.  
-68B. Career Realm v1 assembly — COMPLETE / discovery reference.  
-68C. Realmers v1 judgment — topology passed; Observatory landmark inflation rejected.  
-68D. Career Realm v2 targeted correction — COMPLETE / canonical master.  
-68E. v2 vs v1 judgment — v2 wins.  
-69. Career mobile crop + Realm-scale glyph validation — COMPLETE / PASS.  
-70. Career semantic zoom + relational-centre validation — COMPLETE / PASS; map-as-index doctrine refined.  
-71. Career Realm final freeze — COMPLETE / FROZEN v1.0.
+42–56. Household finalization — COMPLETE / HOUSEHOLD REALM v1.0 FROZEN.  
+57–71. Career discovery, Domain reconciliation, assembly and validation — COMPLETE / CAREER REALM v1.0 FROZEN.  
+72–77. Third semantic discovery: self-chosen pursuits; Tower, Gifted and RealMe confirmed; topology RealMe N / Gifted W / Tower E; purple Realm signature — COMPLETE.  
+78–78E. Gifted visual discovery and correction — COMPLETE / Gifted v3 Step 78D FROZEN v1.0.  
+79–79E. Tower visual discovery; landscape-format drift detected and corrected; native 9:16 Step 79D — COMPLETE / FROZEN v1.0.  
+80–80G. RealMe visual discovery; Tower-composition inheritance and wrong logo use corrected; model-becomes-world phenomenon established in Step 80F — COMPLETE / FROZEN v1.0.  
+81. Third Realm assembly constitution — COMPLETE / FROZEN.  
+82–82F. Third native 9:16 assembly, calibration, RealMe Realm-scale fidelity, mobile validation and freeze — COMPLETE / Third v3 Step 82E FROZEN v1.0.  
+82C–82F. Realm geography principle discovered and frozen: **SEA SEPARATES REALMS; LAND CONNECTS DOMAINS.**
 
 ---
 
-# XIV. CURRENT PRODUCTION SEQUENCE
+# XV. CURRENT PRODUCTION SEQUENCE
 
 ## VISUAL SYSTEM
 
@@ -455,79 +556,59 @@ Reject Global Watercolor, Foreground Bleaching, Photographic Blur, Uniform Detai
 
 57–71. Career discovery and finalization — **COMPLETE / CAREER REALM v1.0 FROZEN**
 
-## THIRD REALM — CURRENT
+## THIRD
 
-72. **Third Realm semantic discovery from actual life activity — CURRENT / NEXT**
-73. Determine whether persistent Domains have emerged; name only after semantics
-74. Discover first persistent Domain / field if warranted
-75. Validate real semantics and Locus ontology
-76. Freeze first Domain if warranted
-77+. Repeat discovery/validation/freeze only for additional Domains actually supported by evidence
+72–82F. Third discovery, Domain masters, Realm assembly and validation — **COMPLETE / THIRD REALM v1.0 FROZEN**
 
-After Domain discovery stabilizes:
+## WORLD — CURRENT
 
-- Third Realm native 9:16 spatial constitution
-- Third Realm assembly
-- UI / semantic validation
-- continuity test
-- semantic zoom test
-- equal-weight test if multiple Domains exist
-- Third Realm freeze
+83. **World Geography Constitution — CURRENT / NEXT**
+84. Reconcile original World Skeleton with the three frozen Realm masters and the continental/sea constitution
+85. Determine Citadel relationship without premature redesign
+86. Freeze final 9:16 World spatial constitution: Household NW / Career NE / Third S; irregular inter-Realm seas/straits; RealMe approaching central waters
+87. World 9:16 assembly v1
+88. World Realm-identity / macro-character test
+89. Cross-scale landmark consistency validation
+90. World UI integration test
+91. Domain continuity / relational-centre legibility test where applicable
+92. Semantic zoom test
+93. Equal-weight test
+94. Dynamic-state readiness test
+95. Final corrections
+96. RealMe Living World v1.0 freeze
 
-## MAP-SCALE DERIVATIVES
-
-After all Realms freeze:
-
-- Household map-scale derivative
-- Career map-scale derivative
-- Third Realm map-scale derivative
-- cross-scale landmark consistency validation
-
-## WORLD
-
-Then:
-
-- reconcile original World Skeleton with frozen Realms;
-- determine Citadel relationship without premature redesign;
-- establish final portrait geography: Household NW / Career NE / Third S, subject to Third discovery;
-- World 9:16 composition under Visual System v1.1;
-- World UI integration;
-- Realm identity test;
-- Domain continuity / relational-centre legibility test where applicable;
-- semantic zoom test;
-- equal-weight test;
-- dynamic-state readiness test;
-- final corrections;
-- RealMe Living World v1.0.
+Step numbering after 83 may be amended as World discoveries require; discovery outranks schedule.
 
 ---
 
-# XV. CURRENT PRODUCTION STATE
+# XVI. CURRENT PRODUCTION STATE
 
 # REALME VISUAL SYSTEM v1.1 APPROVED / AMENDED.
 # HOUSEHOLD REALM v1.0 FROZEN.
 # CAREER REALM v1.0 FROZEN.
-# THIRD REALM SEMANTICS NOT YET FROZEN.
+# THIRD REALM v1.0 FROZEN.
 
-World-level orientation currently established:
+World-level orientation:
 
 - Household — NW;
 - Career — NE;
-- Third — South.
+- Third — South;
+- RealMe — northern Third promontory near central waters;
+- Lighthouse — NW Career coast facing Household strait.
 
-Career internal orientation frozen:
+World-level geography principle:
 
-- Lighthouse — NW Career, distant, facing the Household strait;
-- Confluence — central country;
-- Observatory — SE Career, extending into continuing inland terrain.
+# SEA SEPARATES REALMS. LAND CONNECTS DOMAINS.
 
 The current production task is:
 
-# STEP 72 — THIRD REALM DISCOVERY FROM ACTUAL RECURRING LIFE SEMANTICS, WITH NO PRESET DOMAIN TAXONOMY.
+# STEP 83 — WORLD GEOGRAPHY CONSTITUTION.
+
+No World image should be generated before Step 83 freezes coastline logic, central-sea geometry, Realm scale and World camera.
 
 ---
 
-# XVI. REPOSITORY VERSIONING PRINCIPLE
+# XVII. REPOSITORY VERSIONING PRINCIPLE
 
 The active repository contains one authoritative current roadmap:
 
