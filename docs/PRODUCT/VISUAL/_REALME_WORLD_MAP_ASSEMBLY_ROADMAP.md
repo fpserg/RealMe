@@ -1,7 +1,7 @@
 # REALME_WORLD_MAP_ASSEMBLY_ROADMAP.md
 
-Version: 2.2  
-Status: VISUAL SYSTEM v1.1 AMENDED / STRONGHOLD FROZEN / FAMILY FREEZE REOPENED  
+Version: 3.0  
+Status: VISUAL SYSTEM v1.1 / HOUSEHOLD FROZEN / CAREER FROZEN / THIRD DISCOVERY NEXT  
 Canonical orientation: 9:16 PORTRAIT / MOBILE FIRST
 
 ---
@@ -10,11 +10,7 @@ Canonical orientation: 9:16 PORTRAIT / MOBILE FIRST
 
 This is the sole active production roadmap for the RealMe Living World.
 
-RealMe is:
-
 # AN INTERACTIVE WORLD MODEL OF ONE LIFE.
-
-The governing production principle remains:
 
 # DESIGN THE INTERACTIVE WORLD FIRST.
 # PAINT IT SECOND.
@@ -30,8 +26,8 @@ Visual authority:
 1. latest Warden-approved canonical decision;
 2. latest Warden-approved canonical Domain image;
 3. latest Warden-approved Realm image;
-4. REALME_VISUAL_SYSTEM_V1_1.md for rendering grammar;
-5. latest approved Domain prompt;
+4. `REALME_VISUAL_SYSTEM_V1_1.md`;
+5. latest approved Domain/Realm prompt or canon note;
 6. this roadmap;
 7. older prompts and concepts.
 
@@ -41,28 +37,32 @@ Superseded concepts must not silently return.
 
 # II. CANONICAL IMAGE ARCHITECTURE
 
-RealMe is designed:
-
-# 9:16 PORTRAIT FIRST.
+RealMe is designed 9:16 portrait first.
 
 Preferred production resolution: 2160 × 3840.  
 Minimum working resolution: 1080 × 1920.
 
-Portrait is not a crop, safe corridor or mobile derivative of a landscape master.
+Portrait is not a crop or mobile derivative of a landscape master.
 
 # SAME WORLD.
 # SAME SPATIAL LOGIC.
 # SAME INTERACTION GRAMMAR.
 
+Realm edges are crops through a larger World, not necessarily geographic edges.
+
+# REALM EDGES ARE NOT WORLD EDGES.
+
 ---
 
-# III. DOMAIN FREEZE PRINCIPLE
+# III. DOMAIN / REALM FREEZE PRINCIPLE
 
-Once frozen, a Domain establishes its dominant landmark, architecture, geography, major colour/material cues, compositional identity, emotional identity and map-scale glyph.
+A frozen Domain establishes landmark/glyph, fundamental geography, material and colour identity, compositional character and semantic identity.
 
-Later scales may simplify, reduce detail, change apparent scale, integrate surrounding geography and adapt representation to semantic zoom.
+A frozen Realm establishes the spatial relationship among its Domains and their equal constitutional status.
 
-They may not replace the landmark, change architectural type, change fundamental geography, resurrect discarded concepts or invent contradictory symbolism.
+Later scales may simplify, integrate geography, reduce detail, alter apparent scale through perspective and semantic zoom, and strengthen a glyph enough to remain recognizable.
+
+They may not redesign frozen identity, resurrect discarded concepts or create contradictory symbolism.
 
 # SIMPLIFICATION IS ALLOWED.
 # REDESIGN IS NOT.
@@ -71,15 +71,9 @@ They may not replace the landmark, change architectural type, change fundamental
 
 # IV. CANONICAL VISUAL SYSTEM
 
-The overarching RealMe visual language is:
+Canonical language: **PLAYABLE PAINTERLY**.
 
-# PLAYABLE PAINTERLY.
-
-The canonical rendering grammar is **RealMe Visual System v1.1, amended**, defined in:
-
-`docs/PRODUCT/VISUAL/REALME_VISUAL_SYSTEM_V1_1.md`
-
-Canonical progression:
+Rendering grammar: `docs/PRODUCT/VISUAL/REALME_VISUAL_SYSTEM_V1_1.md`.
 
 SEMANTIC NUCLEUS — Vivid / Material Painterly  
 ↓  
@@ -91,172 +85,93 @@ WORLD CONTINUATION — Watercolor-Like Dissolution
 
 # EDGES DISSOLVE BEFORE IDENTITY DOES.
 # INFORMATION RETREATS BEFORE VITALITY DOES.
-
-Background quieting must reduce information demand without globally bleaching or desaturating the Semantic Nucleus and Interactive Field.
-
 # DO NOT BLEACH THE PLACE IN ORDER TO QUIET THE WORLD AROUND IT.
 
----
+Career validation adds:
 
-# V. ATTENTION, DETAIL AND GEOGRAPHY
+# PERSPECTIVE MAY REDUCE SCALE WITHOUT REDUCING MEANING.
+# DISTANCE REDUCES DETAIL BEFORE MEANING.
+# DIFFERENT GLYPHS MAY SURVIVE ZOOM BY DIFFERENT MECHANISMS.
 
-Every screen has a finite information budget shared by artwork and UI.
-
-As semantic relevance decreases, detail, edge definition, material specificity and texture resolution should normally retreat. Local contrast and colour separation may also decrease in supporting and distant geography, but are not mandatory global sliders.
-
-At Domain scale, structures may be recognizable. At Realm scale they become landmark masses embedded in geography. At World scale Domains become simplified glyphs.
-
-# DETAIL WHERE MEANING LIVES.
-
-Artwork must not be artificially impoverished merely to fit every possible label simultaneously.
+At World scale not every Domain must remain individually legible. Realm macro-character may carry identity until semantic zoom reveals Domains.
 
 ---
 
-# VI. ARTWORK / SEMANTICS SEPARATION
+# V. ARTWORK / SEMANTICS SEPARATION
 
-Artwork represents places, architecture, geography, terrain, atmosphere and spatial identity.
+Artwork creates place. UI locates semantics within place.
 
-RealMe UI represents Realm and Domain names, anchors, Commitments, Campaigns, Today, Horizons, state, progress, navigation, selection and time.
+Canonical artwork contains no baked-in labels, corporate logos, map markers, progress indicators, permanent semantic icons or UI.
 
-# ARTWORK CREATES PLACE.
-# UI LOCATES SEMANTICS WITHIN PLACE.
+A Locus is a persistent semantic entity within a Domain. An Anchor is its geographic/UI attachment. This distinction remains architectural rather than a frozen implementation schema.
 
-A semantic object requires a stable relationship to place, not necessarily a literal visual representation.
-
-Generated canonical artwork contains no baked-in text, labels, Realm/Domain names, corporate logos, UI, map markers, progress indicators, legends or permanent semantic icons.
+Existence in the World Model does not imply permanent map visibility. Progressive, contextual, zoom-, selection-, activity- or commitment-dependent disclosure remain valid candidates.
 
 # THE UI INHABITS THE WORLD.
 # THE WORLD DOES NOT ADVERTISE THE UI.
 
 ---
 
-# VII. SEMANTIC VISIBILITY
+# VI. SEMANTIC NAVIGATION
 
-Existence in the World Model does not imply permanent map visibility.
+The map is a semantic navigation layer, not a strict storage hierarchy.
 
-Potential interaction models include progressive disclosure, contextual labels, zoom-dependent labels, selection-dependent labels, activity-dependent labels and commitment-dependent visibility.
+# THE MAP IS AN INDEX, NOT A FILING CABINET.
+# CONTAINMENT DOES NOT EQUAL RELEVANCE.
 
-No single disclosure model is frozen yet.
+An object may have a primary semantic home when one naturally exists. RealMe must not invent one merely to satisfy hierarchy.
 
-# DO NOT DEGRADE ARTWORK MERELY TO FIT EVERY POSSIBLE LABEL AT ONCE.
+# PRIMARY HOME IS OPTIONAL, NOT MANDATORY.
 
----
+A single underlying work object may surface through several relevant Loci or Domains without duplication.
 
-# VIII. ATMOSPHERIC IDEALIZATION
+Semantic zoom means both visual approach and information disclosure:
 
-RealMe need not reproduce the least attractive version of ordinary reality.
+WORLD → REALM → DOMAIN → LOCUS → relevant activity/history/state.
 
-# ATMOSPHERIC IDEALIZATION IS ALLOWED.
-# ONTOLOGICAL INFLATION IS NOT.
-
-Light may guide attention. Light must not mark interactivity.
+# SEMANTIC ZOOM = VISUAL ZOOM + INFORMATION DISCLOSURE.
 
 ---
 
-# IX. SEMANTIC ZOOM
+# VII. HOUSEHOLD — FROZEN REALM v1.0
 
-WORLD → REALM → DOMAIN
+Status: **FROZEN**.
 
-Entering a place should feel like approaching the same place, not replacing one scene with another.
+World position: **NW**.
 
-# ZOOM REVEALS INFORMATION.
-# ZOOM DOES NOT REINVENT IDENTITY.
+Domains:
 
----
+1. **Stronghold** — places;
+2. **Family** — living entities;
+3. **Capital** — places.
 
-# X. HOUSEHOLD — CANONICAL STRUCTURE
+Realm geography:
 
-Household contains three equal Domains:
+- N / NNW — Stronghold;
+- Centre — Family;
+- East — Capital.
 
-1. Stronghold;
-2. Family;
-3. Capital.
+Family is Household's rooted relational centre. This is relational, not hierarchical centrality.
 
-Canonical Realm geography:
-
-N / NNW — STRONGHOLD  
-CENTRE — FAMILY  
-EAST — CAPITAL
-
-Current primary anchor ontology:
-
-- Stronghold — **places**;
-- Family — **living entities**;
-- Capital — **places**.
-
-Family is therefore the human/living relational centre of Household.
-
----
-
-# XI. STRONGHOLD — FROZEN CANONICAL DOMAIN
-
-Status:
-
-# FROZEN — STRONGHOLD v1.0
-
-Position: NORTH / NNW.
+## Stronghold — FROZEN v1.0
 
 Glyph:
 
-SNOWY MOUNTAIN  
-+ DARK-RED HOME  
-+ GREY FORTIFICATIONS / CULTIVATED ENCLOSURE
+SNOWY MOUNTAIN + DARK-RED HOME + GREY FORTIFICATIONS / CULTIVATED ENCLOSURE.
 
-Canonical identity:
+The approved original Stronghold artwork is the identity master. 40B remains rendering-system evidence, not replacement master.
 
-> Dark-red Home within a grey fortified and cultivated enclosure, immediately beneath the northern snowy mountains.
+Validated place anchors include Kitchen, Living room, Bathroom 1, Sergey Jr room, Alisa room, Boiler room, Maksim room, Ivan room, Bedroom, Bathroom 2, Terraces and Garden.
 
-Preserve dramatic snowy mountains, substantial dark-red/brown family residence, grey stone enclosure, gates/walls, gardens, stairs, paths, cultivated interior, utility structures and transition toward mountain wilderness.
-
-Validated current location anchors:
-
-- Kitchen
-- Living room
-- Bathroom 1
-- Sergey Jr room
-- Alisa room
-- Boiler room
-- Maksim room
-- Ivan room
-- Bedroom
-- Bathroom 2
-- Terraces
-- Garden
-
-The approved original canonical Stronghold artwork remains the Domain identity/compositional master. 40B is rendering-system evidence, not the replacement master. It demonstrated successful background quieting but also Foreground Bleaching / excessive painterly spread into primary geography.
-
-Stronghold final semantic/UI validation: PASS.  
-Stronghold final freeze: COMPLETE.
-
----
-
-# XII. FAMILY — CANONICAL IDENTITY / FREEZE REOPENED
-
-Status:
-
-# MASTER RECONCILED / SEMANTIC VALIDATION PASSED / FINAL FREEZE PENDING
-
-Position: CENTRAL HOUSEHOLD HEARTLAND.
+## Family — FROZEN v1.0
 
 Glyph:
 
-ANCIENT TREE  
-+ GATHERED HOMES  
-+ WATER
+ANCIENT TREE + GATHERED HOMES + WATER.
 
-Meaning:
+The original bright canonical Family artwork is the identity master. 40D remains a Painterly Focus Gradient reference / partial-pass correction case and is not the master.
 
-BELONGING + GENERATIONS + CONNECTION + CONTINUITY
-
-Family is organic, horizontal, accumulated rather than planned and intimately connected to countryside.
-
-Preserve one dominant ancient tree, modest gathered homes, paths, gardens, cultivated land, nearby water, bridges and broader countryside.
-
-The **original canonical Family image is the preferred master candidate** because its brighter, more vital focus areas are preferred to the paler 40D treatment.
-
-**40D is not the Family master.** It remains a Visual System reference demonstrating successful background consolidation and World Continuation dissolution, while also exposing the cost of allowing that treatment to reduce colour vitality in key focus areas.
-
-Current primary anchors are living entities:
+Current living-entity Loci:
 
 - Oksi
 - Maksim
@@ -268,89 +183,82 @@ Current primary anchors are living entities:
 - Bella
 - Parents
 
-Commitments should attach primarily to the living entity they concern rather than being displaced into generic administrative categories merely for taxonomy. Examples used in validation: “Vaccinate Owling” belongs to Ivan rather than Health; “Take Jr from football classes” belongs to Sergey Jr rather than Sports.
+Commitments attach to the living entity they concern when that is the truthful semantic coordinate rather than to generic administrative categories.
 
-This freezes neither exact UI coordinates nor a universal rule that Family can never contain another anchor type.
-
-Step 46 semantic/UI validation: **PASS**.  
-Step 47 final freeze: **REOPENED / PENDING**.
-
----
-
-# XIII. CAPITAL — CANONICAL IDENTITY
-
-Position: EAST.
+## Capital — FROZEN v1.0
 
 Glyph:
 
-PALE / WHITE APARTMENT HOME  
-+ URBAN BLOCKS  
-+ CITY ARTERIES
+PALE / WHITE APARTMENT HOME + URBAN BLOCKS + CITY ARTERIES.
 
-Capital is:
+Capital is **HOME INSIDE THE CITY**.
 
-# HOME INSIDE THE CITY.
+The home landmark is a normal approximately six-storey residential building, somewhat lower and wider than early generated variants. Capital has no hard frontier:
 
-The central landmark is the pale cream/off-white urban apartment building derived from the real Household apartment building. Preserve approximately five to six storeys and ordinary residential proportions.
+HOME → COURTYARD → NEIGHBOURHOOD → CITY → MORE CITY → ATMOSPHERIC DISTANCE.
 
-Capital has no hard frontier:
+B/B′/B″ remain development evidence; B″ revealed the watercolor-like Painterly Focus Gradient, while the preferred canonical treatment preserves stronger foreground vitality.
 
-HOME → COURTYARD → NEIGHBOURHOOD → CITY → MORE CITY → ATMOSPHERIC DISTANCE
+Current home-place Loci include Living room, Kitchen, Bathroom, Maksim room, Bedroom and Middles’ room. Their limited number is truthful rather than something the artwork should inflate.
 
-Capital B/B′/B″ established native portrait development. B″ accidentally revealed the Painterly Focus Gradient and remains the principal discovery case.
+## Household Realm
 
----
-
-# XIV. CAREER — CANONICAL STRUCTURE
-
-Career contains:
-
-1. TMT;
-2. Leadership;
-3. Strategy.
-
-Current primary anchor ontology:
-
-- TMT — **companies**;
-- Leadership — **people**;
-- Strategy — **frameworks**.
-
-Leadership is therefore the human relational centre of Career.
-
-The Observatory concept is reserved for Strategy and must not be reused as TMT's primary landmark.
+Household native 9:16 assembly, UI/semantic validation, Domain continuity, semantic zoom, equal-weight/relational-centre testing and final freeze are complete.
 
 ---
 
-# XV. CROSS-REALM HUMAN-CENTRE PATTERN
+# VIII. CAREER — FROZEN REALM v1.0
 
-An approved structural pattern is now visible across Household and Career:
+Status: **FROZEN**.
 
-| Realm | Flank | Centre | Flank |
-|---|---|---|---|
-| Household | Stronghold — places | **Family — living entities** | Capital — places |
-| Career | TMT — companies | **Leadership — people** | Strategy — frameworks |
+World position: **NE**.
 
-The flanking ontologies differ. The central relationship does not: both Realms place people/living entities at their relational centre.
+Canonical Realm master: **Career v2, Step 68D**. Career v1 remains assembly-discovery reference.
 
-At Realm and World scale, preserve this visually through composition, connection and relative placement.
+Domains:
 
-Do not literalize it through giant people, portraits, glowing centres, thrones or forced iconography.
+1. **TMT / Lighthouse** — company-level analytical coverage;
+2. **Confluence** — organizational relationships;
+3. **Strategy / Observatory** — research systems, allocation and cross-field thinking.
 
-This is an observed and approved pattern for Household and Career, **not yet a universal law**. Third Realm must be allowed to confirm, modify or falsify it.
+**Leadership is superseded by Confluence.**
 
-# PRESERVE THE HUMAN CENTRE WHERE THE WORLD ALREADY HAS ONE.
+Current primary Locus ontologies:
 
----
+- TMT — companies;
+- Confluence — people and organizational groups;
+- Strategy — strategic/research systems.
 
-# XVI. TMT — DISCOVERED DIRECTION
+## World-facing Career geography
 
-Primary geographic landmark:
+Within Career:
 
-# LIGHTHOUSE
+- **NW / far depth — TMT / Lighthouse**, on the coast facing the strait toward Household;
+- **Central country — Confluence**, broad inhabited network;
+- **SE / inland — Strategy / Observatory**, rising highlands continuing beyond the visible crop.
 
-The Lighthouse is a working geographic landmark, not a magical tower, corporate monument or literal representation of a company.
+Macro-geography:
 
-Current canonical coverage-anchor set:
+STRAIT / COAST → INHABITED INTERIOR → RISING INLAND HIGHLANDS.
+
+This describes terrain, not semantic flow.
+
+Career is not a line. Routes may connect Domains, bypass Confluence, leave laterally, continue south, approach the coast independently or continue inland beyond Observatory.
+
+# RELATIONAL CENTRALITY DOES NOT EQUAL TOPOLOGICAL MONOPOLY.
+# MAP CENTRALITY DOES NOT EQUAL DEFAULT ROUTING.
+
+## TMT / Lighthouse — FROZEN v1.0
+
+Glyph:
+
+LIGHTHOUSE + COAST / SEA.
+
+Meaning: orientation within a specialized external field.
+
+TMT is the Warden's company-level analytical coverage field, not a rigid external industry taxonomy. Membership follows actual coverage responsibility.
+
+Current company Loci:
 
 - YNDX
 - OZON
@@ -365,186 +273,261 @@ Current canonical coverage-anchor set:
 - MTSS
 - PRMD
 
-These must not become corporate-logo geography, company castles, towers or palaces.
+Companies are semantic Loci, not literal islands/buildings. Coverage membership may change without geography regenerating.
+
+The original Lighthouse artwork from the early discovery branch remains the Domain identity master. At Realm scale the Lighthouse is deliberately farther away in perspective; its small apparent size preserves meaning through silhouette, contrast and coastal context.
+
+## Confluence — FROZEN v1.0
+
+Glyph:
+
+BRIDGES + CROSSING ROUTES + INHABITED VALLEY.
+
+Meaning: organizational position and professional relationship field — people and organizational groups above, below and beside the Warden through whom work happens.
+
+Canonical master: **Confluence v2, Step 66B**. v1 remains glyph-strength/discovery reference.
+
+Current discovered Loci include:
+
+- Igor
+- Marat
+- Lisa
+- Alex
+- Ivan
+- Artem
+- Kirill
+- Team
+- Andrey
+- Denis
+- ECM
+- Sales/Trading
+- …
+
+Connection itself is the landmark. Confluence has no Leadership Palace, HQ, Warden monument or required dominant building.
+
+# ORGANIZATIONAL RANK DOES NOT EQUAL GEOGRAPHIC ALTITUDE.
+# RELATIONAL CENTRALITY DOES NOT REQUIRE A MONUMENT.
+
+Confluence owns the relational view, not every work object that happens to involve people.
+
+# CONFLUENCE OWNS RELATIONSHIPS, NOT ALL WORK INVOLVING RELATIONSHIPS.
+
+## Strategy / Observatory — FROZEN v1.0
+
+Glyph:
+
+OBSERVATORY + BROAD HIGHLAND.
+
+Meaning: breadth of view + selective attention + systemic thinking.
+
+Canonical master: **Observatory v2, Step 58E**. v1 remains landmark-strength reference.
+
+Current provisional Loci:
+
+- Equity Strategy
+- Brokerage Framework
+- Thematic Research
+- Coverage Universe
+
+These are an open discovered set, not a closed taxonomy.
+
+# ELEVATION = VIEW, NOT RANK.
+
+The Observatory is a modest working complex embedded in broad inhabited highlands. It is not a temple, palace, command centre or endpoint of Career.
+
+## Career equal-weight constitution
+
+TMT carries weight through **extent**.  
+Confluence carries weight through **connectivity**.  
+Strategy carries weight through **elevation / breadth**.
+
+# EQUAL WEIGHT DOES NOT EQUAL EQUAL LANDMARK SIZE.
+# EQUAL WEIGHT DOES NOT EQUAL EQUAL PIXELS.
+
+At reduced/mobile scale:
+
+- Lighthouse survives through contrast/silhouette;
+- Confluence survives through topology/density;
+- Observatory survives through dome/highland silhouette.
+
+Career mobile crop, Domain continuity, semantic zoom, relational-centre and equal-weight validation all passed before freeze.
 
 ---
 
-# XVII. THIRD REALM
+# IX. CROSS-REALM RELATIONAL-CENTRE DISCOVERY
 
-Third Realm remains structurally:
+A structural rhyme has emerged, but it is not a universal template:
 
-1. RealMe;
-2. Gifted;
-3. Tower.
+| Realm | Flank | Relational centre | Flank |
+|---|---|---|---|
+| Household | Stronghold — places | **Family — living entities** | Capital — places |
+| Career | TMT — companies | **Confluence — professional relationships** | Strategy — systems/frameworks |
 
-Their visual descriptions remain provisional until individually discovered and frozen. Do not force the Household/Career human-centre pattern onto Third Realm.
+Family is a **rooted centre**: paths gather around belonging.
+
+Confluence is a **flowing centre**: paths intersect and continue.
+
+# CENTRALITY IS RELATIONAL, NOT HIERARCHICAL.
+
+Do not force this pattern, three-Domain symmetry or any equivalent onto Third Realm. Third must be allowed to confirm, modify or falsify it.
 
 ---
 
-# XVIII. CITADEL
+# X. THIRD REALM — DISCOVERY STATE
 
-The Citadel remains part of the developing World Model and must not be forgotten at World scale. Its final geography, scale, function, relationship to Realms and visual identity remain to be discovered.
+World position: **SOUTH**.
+
+No Domain structure is currently frozen.
+
+Earlier provisional structure `RealMe / Gifted / Tower` is now treated as historical hypothesis only, not a production constraint. The Realm must be rediscovered from actual recurring life semantics before geography is assigned.
+
+Do not assume:
+
+- exactly three Domains;
+- a relational centre;
+- the final Realm name "Third";
+- any inherited Household/Career topology;
+- any specific landmark or landscape;
+- that historical RealMe/Gifted/Tower concepts remain Domain-level entities.
+
+# DISCOVER SEMANTICS BEFORE GEOGRAPHY.
 
 ---
 
-# XIX. VALIDATION FRAMEWORK
+# XI. CITADEL
+
+The Citadel remains part of the developing World Model and must not be forgotten at World scale.
+
+Its final geography, scale, function, relationship to Realms and visual identity remain to be discovered. Do not insert it merely to fill composition.
+
+---
+
+# XII. VALIDATION FRAMEWORK
 
 Never accept an image merely because it is beautiful.
 
 Validate identity, place, portrait composition, materiality, vitality, attention hierarchy, dissolution, geography, interaction, non-literality, UI coexistence, blur-vs-paint behaviour, maturity, longevity, semantic cleanliness, cross-scale continuity, equal weight, generator bias and the World Test.
 
-Where applicable also validate the Human-Centre pattern at Realm/World scale.
+Where applicable validate relational-centre behavior without imposing it universally.
 
-Reject Global Watercolor, **Foreground Bleaching**, Photographic Blur, Uniform Detail, Foreground Noise, Landmark Inflation, Background Landmark, Storybook, Generic AI Fantasy and Semantic Leakage failures as defined in Visual System v1.1.
-
----
-
-# XX. PRODUCTION HISTORY — COMPLETED DISCOVERY
-
-01. Stronghold portrait spatial skeleton — APPROVED
-02. Stronghold A / native 9:16 — COMPLETE
-03. Stronghold B / Playable Painterly — COMPLETE
-04. Stronghold C / Premium Mobile Fantasy — COMPLETE
-05. Identical UI comparison — COMPLETE
-06. A/B/C Realmers evaluation — COMPLETE
-07. D structural hybrid prototype — COMPLETE
-08. D Realmers evaluation — COMPLETE
-09. D2 Playable Painterly refinement — COMPLETE
-10. D2 Realmers evaluation — COMPLETE
-11. D2 real-semantics overlay test — COMPLETE
-12. D2 + real semantics evaluation — COMPLETE
-13. Stronghold visual direction — APPROVED
-14. Playable Painterly candidate — ESTABLISHED
-15–22. TMT falsification/discovery branch — COMPLETED / SUPERSEDED BY LATER DISCOVERY
-23–38. Household native-portrait reconciliation branch — SUBSTANTIALLY EXECUTED
-39. Capital / Household visual-system work leading into rendering divergence — COMPLETE
-40A. Capital Painterly Focus Gradient discovery — COMPLETE
-40B. Stronghold Painterly Focus Gradient falsification — COMPLETE / PARTIAL PASS / CORRECTION CASE
-40C. Stronghold correction analysis — COMPLETE
-40D. Family Painterly Focus Gradient replication — COMPLETE / PARTIAL PASS / CORRECTION CASE
-40E. Cross-Domain Realmers judgement — COMPLETE
-41. RealMe Visual System v1.1 — APPROVED / LATER AMENDED FOR FOREGROUND VITALITY
-42. Stronghold master reconciliation — COMPLETE
-43. Stronghold final semantic/UI validation — COMPLETE / PASS
-44. Stronghold final freeze — COMPLETE / FROZEN v1.0
-45. Family master selection — COMPLETE / CORRECTED: ORIGINAL FAMILY PREFERRED; 40D REFERENCE ONLY
-46. Family final semantic/UI validation — COMPLETE / PASS
-47. Family final freeze — REOPENED / PENDING
+Reject Global Watercolor, Foreground Bleaching, Photographic Blur, Uniform Detail, Foreground Noise, Landmark Inflation, Background Landmark, Storybook, Generic AI Fantasy and Semantic Leakage failures as defined in Visual System v1.1.
 
 ---
 
-# XXI. CURRENT PRODUCTION SEQUENCE
+# XIII. PRODUCTION HISTORY — MAJOR MILESTONES
+
+01–14. Stronghold visual discovery and Playable Painterly direction — COMPLETE.  
+15–22. TMT falsification/discovery branch — COMPLETE; Lighthouse concept survived later reconciliation.  
+23–40E. Household native-portrait reconciliation + Painterly Focus Gradient discovery/falsification — COMPLETE.  
+41. Visual System v1.1 — APPROVED / AMENDED.  
+42–44. Stronghold reconciliation, semantic validation and freeze — COMPLETE / FROZEN v1.0.  
+45–47. Family reconciliation, living-entity semantics and freeze — COMPLETE / FROZEN v1.0; original bright master retained.  
+48–50. Capital master, semantic validation and freeze — COMPLETE / FROZEN v1.0.  
+51–56. Household Realm assembly, UI/continuity/zoom/equal-weight validation and freeze — COMPLETE / FROZEN v1.0.  
+57. Career people/organizational semantics discovery; Leadership rejected as too narrow; **Confluence adopted**.  
+58A–58F. Strategy / Observatory discovery and visual reconciliation — COMPLETE.  
+59. Strategy semantic validation and cross-Domain work model — COMPLETE.  
+60. Strategy / Observatory final freeze — COMPLETE / FROZEN v1.0.  
+61–63. TMT / Lighthouse reconciliation, real-semantics validation and freeze — COMPLETE / FROZEN v1.0.  
+64–67. Confluence spatial constitution, v1/v2 testing, equal-weight test and freeze — COMPLETE / FROZEN v1.0.  
+68A. Career geography constitution amended by World topology: Lighthouse NW facing Household strait; Confluence central; Observatory SE inland — COMPLETE.  
+68B. Career Realm v1 assembly — COMPLETE / discovery reference.  
+68C. Realmers v1 judgment — topology passed; Observatory landmark inflation rejected.  
+68D. Career Realm v2 targeted correction — COMPLETE / canonical master.  
+68E. v2 vs v1 judgment — v2 wins.  
+69. Career mobile crop + Realm-scale glyph validation — COMPLETE / PASS.  
+70. Career semantic zoom + relational-centre validation — COMPLETE / PASS; map-as-index doctrine refined.  
+71. Career Realm final freeze — COMPLETE / FROZEN v1.0.
+
+---
+
+# XIV. CURRENT PRODUCTION SEQUENCE
 
 ## VISUAL SYSTEM
 
 41. RealMe Visual System v1.1 — **APPROVED / AMENDED**
 
-## HOUSEHOLD FINALIZATION
+## HOUSEHOLD
 
-42. Stronghold master reconciliation — **COMPLETE**
-43. Stronghold final semantic/UI validation — **COMPLETE / PASS**
-44. Stronghold final freeze — **COMPLETE / FROZEN v1.0**
-45. Family master selection/reconciliation — **COMPLETE / ORIGINAL FAMILY PREFERRED; 40D REFERENCE ONLY**
-46. Family final semantic/UI validation — **COMPLETE / PASS**
-47. Family final freeze — **CURRENT / REOPENED**
-48. Select/finalize canonical Capital native 9:16 master using B/B′/B″ findings
-49. Capital final semantic/UI validation
-50. Capital final freeze
-51. Household Realm native 9:16 reassembly from frozen Domain identities, preserving Family as relational centre
-52. Household Realm UI validation
-53. Household Domain continuity test
-54. Household semantic zoom test
-55. Household equal-weight + human-centre test
-56. Household freeze
+42–56. Household finalization — **COMPLETE / HOUSEHOLD REALM v1.0 FROZEN**
 
 ## CAREER
 
-57. Leadership Domain discovery
-58. Leadership real-semantics validation
-59. Leadership freeze
-60. Strategy Domain discovery — Observatory reserved as candidate landmark
-61. Strategy real-semantics validation
-62. Strategy freeze
-63. TMT final reconciliation with Visual System v1.1 and Lighthouse direction
-64. TMT final real-semantics validation using canonical coverage anchors
-65. TMT freeze
-66. Career Realm native 9:16 assembly, preserving Leadership as relational centre
-67. Career Realm UI validation
-68. Career Domain continuity test
-69. Career semantic zoom test
-70. Career equal-weight + human-centre test
-71. Career freeze
+57–71. Career discovery and finalization — **COMPLETE / CAREER REALM v1.0 FROZEN**
 
-## THIRD REALM
+## THIRD REALM — CURRENT
 
-72. RealMe Domain discovery
-73. RealMe real-semantics validation
-74. RealMe freeze
-75. Gifted Domain discovery
-76. Gifted real-semantics validation
-77. Gifted freeze
-78. Tower Domain discovery
-79. Tower real-semantics validation
-80. Tower freeze
-81. Third Realm native 9:16 assembly
-82. Third Realm UI validation
-83. Third Realm continuity test
-84. Third Realm semantic zoom test
-85. Third Realm equal-weight test
-86. Third Realm freeze
+72. **Third Realm semantic discovery from actual life activity — CURRENT / NEXT**
+73. Determine whether persistent Domains have emerged; name only after semantics
+74. Discover first persistent Domain / field if warranted
+75. Validate real semantics and Locus ontology
+76. Freeze first Domain if warranted
+77+. Repeat discovery/validation/freeze only for additional Domains actually supported by evidence
+
+After Domain discovery stabilizes:
+
+- Third Realm native 9:16 spatial constitution
+- Third Realm assembly
+- UI / semantic validation
+- continuity test
+- semantic zoom test
+- equal-weight test if multiple Domains exist
+- Third Realm freeze
 
 ## MAP-SCALE DERIVATIVES
 
-87. Household map-scale derivatives
-88. Career map-scale derivatives
-89. Third Realm map-scale derivatives
-90. Cross-scale landmark consistency validation
+After all Realms freeze:
+
+- Household map-scale derivative
+- Career map-scale derivative
+- Third Realm map-scale derivative
+- cross-scale landmark consistency validation
 
 ## WORLD
 
-91. Reconcile original World Skeleton with frozen Realms
-92. Determine Citadel relationship without premature redesign
-93. Establish final global portrait geography, preserving validated Realm relational structures
-94. World 9:16 composition under Painterly Focus Gradient
-95. World UI integration
-96. Realm identity test
-97. Domain continuity + human-centre legibility test
-98. Semantic zoom test
-99. Equal-weight test
-100. Dynamic-state readiness test
-101. Final corrections
-102. RealMe Living World v1.0
+Then:
+
+- reconcile original World Skeleton with frozen Realms;
+- determine Citadel relationship without premature redesign;
+- establish final portrait geography: Household NW / Career NE / Third S, subject to Third discovery;
+- World 9:16 composition under Visual System v1.1;
+- World UI integration;
+- Realm identity test;
+- Domain continuity / relational-centre legibility test where applicable;
+- semantic zoom test;
+- equal-weight test;
+- dynamic-state readiness test;
+- final corrections;
+- RealMe Living World v1.0.
 
 ---
 
-# XXII. CURRENT PRODUCTION STATE
+# XV. CURRENT PRODUCTION STATE
 
 # REALME VISUAL SYSTEM v1.1 APPROVED / AMENDED.
-# STRONGHOLD v1.0 FROZEN.
-# FAMILY SEMANTIC VALIDATION PASSED; FINAL FREEZE REOPENED.
+# HOUSEHOLD REALM v1.0 FROZEN.
+# CAREER REALM v1.0 FROZEN.
+# THIRD REALM SEMANTICS NOT YET FROZEN.
 
-Current Family state:
+World-level orientation currently established:
 
-- original canonical Family artwork — preferred master candidate;
-- 40D — rendering-system reference / partial pass / correction case;
-- Step 45 — corrected master selection complete;
-- Step 46 — actual living-entity semantic validation pass;
-- Step 47 — reopened and current.
+- Household — NW;
+- Career — NE;
+- Third — South.
 
-Cross-Realm discovery:
+Career internal orientation frozen:
 
-- Household centre — Family / living entities;
-- Career centre — Leadership / people;
-- preserve this relationship visually at Realm and World scales;
-- do not force it onto Third Realm.
+- Lighthouse — NW Career, distant, facing the Household strait;
+- Confluence — central country;
+- Observatory — SE Career, extending into continuing inland terrain.
 
 The current production task is:
 
-# STEP 47 — FAMILY FINAL FREEZE, USING THE ORIGINAL CANONICAL FAMILY MASTER AND THE AMENDED VISUAL SYSTEM.
+# STEP 72 — THIRD REALM DISCOVERY FROM ACTUAL RECURRING LIFE SEMANTICS, WITH NO PRESET DOMAIN TAXONOMY.
 
 ---
 
-# XXIII. REPOSITORY VERSIONING PRINCIPLE
+# XVI. REPOSITORY VERSIONING PRINCIPLE
 
 The active repository contains one authoritative current roadmap:
 
