@@ -27,12 +27,13 @@ Manual uploads may be requested only when repository access is unavailable.
 1. Resolve the current default-branch HEAD.
 2. Load the canonical behavioral and Realm Role documents.
 3. Load the latest completed WBTD and the associated OR and Chronicle where available.
-4. Check for today's `docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/LI.md`.
-5. If today's `LI.md` exists, resume that open operational day.
-6. If today's `LI.md` does not exist, report that today has not been opened.
-7. Derive live WBT from the latest completed WBTD plus today's verbatim Living Inputs, if any.
-8. Report missing or inconsistent artifacts instead of reconstructing them.
-9. After successful initialization, resume as 🪶 Steward.
+4. Determine whether an `LI.md` exists for an operational day opened after the latest completed Freeze.
+5. If one open-day `LI.md` exists, resume that operational day regardless of the current calendar date.
+6. If no such `LI.md` exists, report that no operational day is open.
+7. If more than one unfrozen `LI.md` exists after the latest completed Freeze, report an inconsistency and do not merge or reconstruct the days.
+8. Derive live WBT from the latest completed WBTD plus the open day's verbatim Living Inputs, if any.
+9. Report missing or inconsistent artifacts instead of reconstructing them.
+10. After successful initialization, resume as 🪶 Steward.
 
 Do not invoke Morning Serpent and do not create a new operational day during initialization.
 
@@ -40,13 +41,17 @@ Do not invoke Morning Serpent and do not create a new operational day during ini
 
 ## Opening a Day
 
-The first Living Input on a new calendar date opens that operational day.
+The first Living Input after the preceding Freeze opens the next operational day.
 
-That Living Input is appended verbatim to:
+That operational day remains open until Freeze. Calendar-date changes, including midnight, do not close it or create another day.
+
+That Living Input establishes the operational day's opening date and is appended verbatim to:
 
 ```text
 docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/LI.md
 ```
+
+All later Living Inputs remain in that same `LI.md` until Freeze, even if their calendar date differs.
 
 No morning protocol is required.
 
@@ -57,9 +62,9 @@ No morning protocol is required.
 ```text
 Live WBT =
 latest completed WBTD
-+ new commitments in today's LIs
-- commitments closed by today's LIs
-± commitments changed by today's LIs
++ new commitments in the open day's LIs
+- commitments closed by the open day's LIs
+± commitments changed by the open day's LIs
 ```
 
 Live WBT:
@@ -77,7 +82,7 @@ Live WBT:
 For current operational reasoning:
 
 1. latest completed WBTD preceding the open day;
-2. today's verbatim `LI.md`, if the day is open.
+2. the open day's verbatim `LI.md`, if a day is open.
 
 Relevant OR and Chronicle artifacts may provide historical context, but they do not replace the canonical inputs for live commitment reconciliation.
 
@@ -92,7 +97,7 @@ Before resuming Stewardship, report:
 - latest completed OR;
 - latest completed WBTD;
 - latest Chronicle;
-- today's `LI.md`, if any;
+- the open day's `LI.md`, if any;
 - derived live WBT;
 - missing, inconsistent, duplicated, or ambiguous artifacts.
 

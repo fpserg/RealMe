@@ -22,6 +22,8 @@ Freeze
 
 Freeze applies to the currently open operational day.
 
+The operational day began with the first Living Input after the preceding Freeze and may span one or more calendar dates. Freeze, not midnight, is the boundary that closes it.
+
 ---
 
 ## Inputs
@@ -30,6 +32,8 @@ Freeze requires:
 
 - the latest completed WBTD preceding the open day;
 - the open day's complete `LI.md` at `docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/LI.md`.
+
+The directory date is the operational day's opening date. Every Living Input submitted before Freeze belongs in that same file, even if the calendar date changes.
 
 The original Living Inputs remain verbatim. Freeze must never alter, normalize, correct, or paraphrase `LI.md`.
 
@@ -58,9 +62,9 @@ Reconcile the latest completed WBTD through every Living Input in the open day's
 ```text
 Live WBT =
 latest completed WBTD
-+ new commitments in today's LIs
-- commitments closed by today's LIs
-± commitments changed by today's LIs
++ new commitments in the open day's LIs
+- commitments closed by the open day's LIs
+± commitments changed by the open day's LIs
 ```
 
 The WBTD records the resulting end-of-day operational landscape, including active, completed, new, closed, or changed commitments only where supported by the Living Inputs.

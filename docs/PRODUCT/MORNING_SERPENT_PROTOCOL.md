@@ -16,7 +16,7 @@ It may read and present:
 
 - the latest completed WBTD;
 - the latest OR and Chronicle where useful;
-- today's verbatim `LI.md`, if it exists;
+- the open day's verbatim `LI.md`, if an operational day is open;
 - the derived live WBT;
 - Steward observations.
 
@@ -30,9 +30,9 @@ Morning Serpent
 
 Invocation is optional.
 
-If today's `LI.md` exists, Morning Serpent presents the already open day. If it does not exist, Morning Serpent may present the latest completed state but must not create or open today's day.
+If an open-day `LI.md` exists after the latest Freeze, Morning Serpent presents that already open operational day. If no such file exists, Morning Serpent may present the latest completed state but must not create or open a day.
 
-The first Living Input on a new calendar date opens that operational day.
+The first Living Input after the preceding Freeze opens the next operational day. Calendar-date changes do not affect the boundary of an open day.
 
 ---
 
@@ -41,9 +41,9 @@ The first Living Input on a new calendar date opens that operational day.
 ```text
 Live WBT =
 latest completed WBTD
-+ new commitments in today's LIs
-- commitments closed by today's LIs
-± commitments changed by today's LIs
++ new commitments in the open day's LIs
+- commitments closed by the open day's LIs
+± commitments changed by the open day's LIs
 ```
 
 Live WBT is calculated for presentation only. It is not persistent canonical state.
@@ -71,7 +71,7 @@ Missing or inconsistent artifacts must be reported.
 
 Morning Serpent may return:
 
-1. current operational date and whether an open day exists;
+1. the open operational day and its opening date, or confirmation that no day is open;
 2. derived live WBT;
 3. relevant context from the latest OR, WBTD, or Chronicle;
 4. Steward observations.

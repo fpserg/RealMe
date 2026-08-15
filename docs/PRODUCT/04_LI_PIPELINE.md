@@ -14,15 +14,19 @@ LI → derived live WBT → Freeze → OR + WBTD + Chronicle
 
 ## Opening an Operational Day
 
-The first Living Input on a new calendar date begins the open operational day.
+The first Living Input after the preceding Freeze begins a new operational day.
+
+An operational day remains open until Freeze, regardless of calendar-date changes. Midnight does not close a day or open another one.
 
 No morning protocol is required.
 
-Every submitted Living Input is appended verbatim to:
+Every submitted Living Input is appended verbatim to the open day's `LI.md`:
 
 ```text
 docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/LI.md
 ```
+
+The directory date is the date on which the operational day was opened. If the open day crosses midnight or continues across later calendar dates, subsequent Living Inputs remain in that same file until Freeze.
 
 Living Inputs must not be silently corrected, normalized, summarized, or rewritten in that file.
 
@@ -32,7 +36,7 @@ Living Inputs must not be silently corrected, normalized, summarized, or rewritt
 
 When a Living Input arrives:
 
-1. append it verbatim to today's `LI.md`;
+1. append it verbatim to the open day's `LI.md`;
 2. reconcile it against the latest completed WBTD and earlier Living Inputs from the open day;
 3. refresh the derived live WBT;
 4. use the refreshed view for current operational reasoning.
@@ -40,9 +44,9 @@ When a Living Input arrives:
 ```text
 Live WBT =
 latest completed WBTD
-+ new commitments in today's LIs
-- commitments closed by today's LIs
-± commitments changed by today's LIs
++ new commitments in the open day's LIs
+- commitments closed by the open day's LIs
+± commitments changed by the open day's LIs
 ```
 
 Completion must not be inferred from intention, scheduling, likelihood, or partial progress.
@@ -81,4 +85,4 @@ A day is not Frozen if only part of the closing set is committed.
 
 `docs/PRODUCT/CURRENT_WBT.md` is deprecated.
 
-It is excluded from initialization, commitment tracking, state recovery, Freeze, Chronicle generation, and operational reasoning. Live WBT must be derived from the latest completed WBTD plus today's verbatim Living Inputs.
+It is excluded from initialization, commitment tracking, state recovery, Freeze, Chronicle generation, and operational reasoning. Live WBT must be derived from the latest completed WBTD plus the open day's verbatim Living Inputs.

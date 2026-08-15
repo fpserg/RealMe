@@ -13,14 +13,14 @@ Current operational state is represented by a derived live WBT.
 Its canonical inputs are:
 
 1. the latest completed WBTD preceding the open day;
-2. today's verbatim Living Inputs.
+2. the open day's verbatim Living Inputs.
 
 ```text
 Live WBT =
 latest completed WBTD
-+ new commitments in today's LIs
-- commitments closed by today's LIs
-± commitments changed by today's LIs
++ new commitments in the open day's LIs
+- commitments closed by the open day's LIs
+± commitments changed by the open day's LIs
 ```
 
 The derived live WBT contains no independent canonical information.
@@ -29,8 +29,10 @@ The derived live WBT contains no independent canonical information.
 
 ## Lifecycle
 
-- The first Living Input on a new calendar date opens the day.
-- Each Living Input is appended verbatim to today's `LI.md`.
+- The first Living Input after the preceding Freeze opens a new operational day.
+- The operational day remains open until Freeze, even when calendar dates change.
+- Midnight neither closes the open day nor opens another one.
+- Each Living Input is appended verbatim to the open day's `LI.md`.
 - Live WBT is recalculated whenever a new Living Input arrives.
 - Live WBT may be discarded and regenerated from its canonical inputs.
 - Live WBT is not persistent canonical state.
@@ -40,13 +42,13 @@ The derived live WBT contains no independent canonical information.
 
 ## Canonical Daily Location
 
-All available artifacts for an operational date are stored under:
+All available artifacts for an operational day are stored under:
 
 ```text
 docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/
 ```
 
-A directory may be incomplete only where the repository's historical record is incomplete or while the current day remains open. Missing artifacts must not be reconstructed.
+The directory date is the date on which the operational day was opened. A directory may be incomplete only where the repository's historical record is incomplete or while that operational day remains open. Missing artifacts must not be reconstructed.
 
 ---
 
@@ -82,7 +84,7 @@ It:
 
 The World Model preserves durable understanding.
 
-Daily operational continuity is reconstructed from WBTD and verbatim Living Inputs. The derived live WBT is a runtime view over those canonical artifacts; it does not replace the World Model or the daily historical record.
+Daily operational continuity is reconstructed from WBTD and the open day's verbatim Living Inputs. The derived live WBT is a runtime view over those canonical artifacts; it does not replace the World Model or the daily historical record.
 
 ---
 
