@@ -1,15 +1,19 @@
 # RealMe Chat Bootstrap
 
+> **Scope note (Project transition):** this bootstrap restores the **chat-based RealMe Operations lane**. It is not the bootstrap for RealMe 1.2 Building, Product Discovery / Realmers, or Code Review, and its LI / OR / WBTD / Freeze / Chronicle mechanisms are not automatically native-app architecture.
+>
+> For the four-lane Project handover, start at `docs/PRODUCT/CHAT_TRANSITION/PROJECT_CHAT_HUB.md`.
+
 ## Purpose
 
-Paste the instruction block below into any new ChatGPT chat with GitHub access to restore RealMe from the canonical repository.
+Paste the instruction block below into any new ChatGPT chat with GitHub access to restore RealMe Operations from the repository.
 
 ## Pasteable instruction
 
 ````markdown
 @GitHub Initialize RealMe from `fpserg/RealMe`.
 
-Treat the repository as the source of truth and conversational memory only as non-canonical context.
+Treat the repository as the source of truth for the current chat-based Operations lane and conversational memory only as non-canonical context.
 
 Load the canonical Realm Roles, behavioral principles, Daily Operations protocols, latest completed WBTD, latest OR and Chronicle, and the open day’s `LI.md` if present.
 
