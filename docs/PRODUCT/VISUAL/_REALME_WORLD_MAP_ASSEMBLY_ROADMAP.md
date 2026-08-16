@@ -1,48 +1,50 @@
 # REALME_WORLD_MAP_ASSEMBLY_ROADMAP.md
 
-Version: 6.0  
-Status: VISUAL SYSTEM v1.1 / HOUSEHOLD FROZEN / CAREER FROZEN / THIRD FROZEN / WORLD v1.0 FROZEN / INTERACTION TECHNICAL CONSTITUTION v1.0 FROZEN / APP IMPLEMENTATION NEXT  
+Version: 7.0  
+Status: VISUAL/WORLD DISCOVERY FROZEN / REALME 1.1 FROZEN / REALME 1.2 FOUNDING ACTIVE  
 Canonical orientation: 9:16 PORTRAIT / MOBILE FIRST
 
 ---
 
 # PURPOSE
 
-This is the sole active production roadmap for the RealMe Living World.
+This remains the authoritative roadmap for the discovered RealMe Living World visual system.
 
 Detailed frozen World canon: `docs/PRODUCT/VISUAL/REALME_WORLD_V1_CANONICAL_FREEZE.md`.
-Interactive implementation contract: `docs/PRODUCT/VISUAL/REALME_INTERACTIVE_WORLD_TECHNICAL_CONSTITUTION_V1.md`.
+Interactive World contract: `docs/PRODUCT/VISUAL/REALME_INTERACTIVE_WORLD_TECHNICAL_CONSTITUTION_V1.md`.
 Rendering grammar: `docs/PRODUCT/VISUAL/REALME_VISUAL_SYSTEM_V1_1.md`.
-Historical roadmap detail is preserved by Git history.
 
-# AN INTERACTIVE WORLD MODEL OF ONE LIFE.
+The native application implementation has now moved to `fpserg/realme-1_2`.
+
 # DISCOVERY & WORLD ASSEMBLY ARE COMPLETE.
-# INTERACTION ARCHITECTURE IS FROZEN.
-# IMPLEMENTATION FOLLOWS CANON; IT DOES NOT REDESIGN IT.
+# REALME 1.1 IS A FROZEN PROTOTYPE.
+# REALME 1.2 SYNTHESIZES VALIDATED FINDINGS FROM BOTH PREDECESSOR REPOSITORIES.
 
 ---
 
 # I. AUTHORITY AND OVERRIDE
 
-When a later Warden-approved decision conflicts with an earlier roadmap, prompt, concept, conversational memory or generic fantasy convention, the latest approved canonical decision wins.
+For World visuals and interaction, latest Warden-approved decisions and frozen masters remain authoritative evidence.
 
-Visual/interaction authority:
+For native-app implementation, `fpserg/RealMe` is **not** an absolute software blueprint. It contains both durable product discoveries and operational scaffolding created to compensate for ChatGPT memory/time limitations.
 
-1. latest Warden-approved canonical decision;
-2. frozen canonical master at the relevant scale;
-3. `REALME_WORLD_V1_CANONICAL_FREEZE.md`;
-4. `REALME_INTERACTIVE_WORLD_TECHNICAL_CONSTITUTION_V1.md` for interaction/implementation;
-5. `REALME_VISUAL_SYSTEM_V1_1.md`;
-6. this roadmap;
-7. historical development evidence.
+Likewise, `fpserg/realme-mvp-1_1` is not implementation canon; it is the strongest record of what was actually built and tested.
 
-Superseded concepts must not silently return.
+RealMe 1.2 follows this synthesis rule:
+
+1. current explicit Warden decision;
+2. validated product truth from actual RealMe use;
+3. later discovery/falsification over earlier assumption;
+4. proven prototype evidence where compatible;
+5. implementation convenience last.
+
+# INHERIT DISCOVERIES, NOT CONSTRAINTS.
 
 ---
 
-# II. FROZEN CANONICAL HIERARCHY
+# II. FROZEN WORLD HIERARCHY
 
-All map scales are native **9:16 portrait / mobile-first**.
+All current canonical map masters are native **9:16 portrait / mobile-first**.
 
 9 DOMAIN MASTERS → 3 REALM MASTERS → 1 WORLD MASTER.
 
@@ -115,183 +117,136 @@ Third continues through the bottom of the viewport and must not read as an islan
 
 ---
 
-# III. FROZEN CROSS-SCALE RULES
+# III. FROZEN CROSS-SCALE / INTERACTION RULES
 
 # SAME WORLD. SAME SPATIAL LOGIC. SAME INTERACTION GRAMMAR.
 # REALM EDGES ARE NOT WORLD EDGES.
 # SIMPLIFICATION IS ALLOWED. REDESIGN IS NOT.
 # EDGES DISSOLVE BEFORE IDENTITY DOES.
 # INFORMATION RETREATS BEFORE VITALITY DOES.
-# PERSPECTIVE MAY REDUCE SCALE WITHOUT REDUCING MEANING.
 # ENVIRONMENT CAN BE THE GLYPH.
 # SYMBOL IN THE WORLD, NOT SYMBOL ON THE WORLD.
-# SEMANTIC PEERS DO NOT REQUIRE VISUAL SYMMETRY.
-# EQUAL WEIGHT DOES NOT EQUAL EQUAL LANDMARK SIZE OR EQUAL PIXELS.
 # GEOGRAPHIC CENTRALITY DOES NOT EQUAL CONSTITUTIONAL SUPERIORITY.
-
-Semantic zoom:
 
 WORLD → REALM → DOMAIN → LOCUS → relevant activity/history/state.
 
 # SEMANTIC ZOOM = VISUAL APPROACH + INFORMATION DISCLOSURE.
-
-World-scale recognition uses silhouette, isolation, terrain/material, network/density, colour/contrast, geographic position and modest semantic exaggeration rather than monumentality.
-
----
-
-# IV. FROZEN INTERACTION GRAMMAR
-
-Detailed authority: `REALME_INTERACTIVE_WORLD_TECHNICAL_CONSTITUTION_V1.md`.
-
 # THE PAINTING IS THE GEOGRAPHY. THE CODE IS THE SEMANTICS.
-# ONE TAP = ONE SEMANTIC SCALE INWARD.
-# TAP = APPROACH.
+# TAP = APPROACH ONE SEMANTIC LEVEL.
 # DOUBLE TAP = RETREAT ONE SEMANTIC LEVEL.
 # BACK = EXPLICIT RETREAT ONE SEMANTIC LEVEL.
 # OPTICAL ZOOM ≠ SEMANTIC ZOOM.
 # ANCHOR ≠ HIT REGION ≠ CAMERA TARGET.
 # CLICKABLE CENTRES REQUIRE BREATHING ROOM, NOT VISIBLE BORDERS.
-# LANDMARKS ARE TRANSITION ANCHORS.
 # CANONICAL GEOGRAPHY AND DYNAMIC STATE ARE SEPARATE LAYERS.
 
-Double tap is an intentional RealMe accelerator for outward semantic navigation, not the only Back mechanism. Initial implementation should avoid landmark single-tap/double-tap ambiguity and validate the gesture on real mobile devices.
+---
+
+# IV. CHATGPT OPERATIONS VS NATIVE APP
+
+The LI → OR → WBTD → Freeze → Chronicle mechanisms preserve important requirements but are not automatically the native-app runtime architecture.
+
+Their enduring requirements include:
+- durable memory;
+- chronology and timezone awareness;
+- recoverable state;
+- provenance/history;
+- commitment continuity;
+- reflection/synthesis;
+- no dependence on conversational-context reconstruction for correctness.
+
+RealMe 1.2 may satisfy these requirements through persistent database state, event/history models, native scheduling and other app-native mechanisms.
 
 ---
 
-# V. REALM COLOURS
+# V. CITADEL — RETIRED / SUPERSEDED
 
-Realm colours are signatures, not filters:
-- Household — GREEN;
-- Career — BLUE;
-- Third — PURPLE.
-
-Ordinary terrain colours overlap naturally. The sea belongs to the World, not Career.
-
-At World scale, localized blue supports Confluence recognition; localized purple experimental glow supports RealMe recognition without monumentalizing the Laboratory.
-
----
-
-# VI. CITADEL — RETIRED / SUPERSEDED
-
-The Citadel is no longer an unresolved World obligation.
-
-It was an early precursor intuition that RealMe itself was becoming a meaningful place before its semantics were understood.
-
+The Citadel is not a current World obligation.
 Its discovered successor is the **RealMe Laboratory** Domain.
 
-Do not place a Citadel in the World. A future Citadel-like entity would need to emerge independently from new evidence.
+A future Citadel-like entity would have to emerge independently from new evidence.
 
 ---
 
-# VII. PRODUCTION HISTORY — MAJOR MILESTONES
+# VI. PRODUCTION HISTORY — MAJOR MILESTONES
 
-01–14. Stronghold visual discovery and Playable Painterly direction — COMPLETE.  
-15–22. TMT falsification/discovery branch — COMPLETE; Lighthouse concept survived later reconciliation.  
-23–40E. Household native-portrait reconciliation + Painterly Focus Gradient discovery/falsification — COMPLETE.  
-41. Visual System v1.1 — APPROVED / AMENDED.  
-42–56. Household finalization — COMPLETE / HOUSEHOLD REALM v1.0 FROZEN.  
-57–71. Career discovery, Domain reconciliation, assembly and validation — COMPLETE / CAREER REALM v1.0 FROZEN.  
-72–82F. Third discovery, Domain masters, Realm assembly and validation — COMPLETE / THIRD REALM v1.0 FROZEN.  
-83. World Geography Constitution — COMPLETE / FROZEN.  
-84. Map-Scale Realm Derivatives Constitution — COMPLETE / FROZEN.  
-85A–85L. World assembly campaign — COMPLETE.  
-86. Final targeted World correction / canonical World master — COMPLETE.  
-87. World Master Freeze Judgment — COMPLETE / REALME WORLD v1.0 FROZEN.  
-88. Canonical Repository Freeze — COMPLETE.  
-89. Interactive World Implementation Constitution — COMPLETE / proposal reconciled with implementation.  
-90. Implementation Reality Check against `fpserg/realme-mvp-1_1` — COMPLETE.  
-91. Interactive World Technical Constitution — COMPLETE; Double-Tap Law amended by Warden before freeze.  
-92. Canonical Repository Freeze — COMPLETE / INTERACTION TECHNICAL CONSTITUTION v1.0 FROZEN.
+01–87. World visual discovery and assembly — COMPLETE / REALME WORLD v1.0 FROZEN.  
+88. World canon repository checkpoint — COMPLETE.  
+89–91. Interactive World architecture / implementation reality check / technical constitution — COMPLETE.  
+92. Interactive technical constitution repository freeze — COMPLETE.  
+
+Post-92 architectural review changed the implementation strategy:
+
+- `fpserg/realme-mvp-1_1` is frozen as prototype evidence;
+- native implementation is no longer an in-place migration of 1.1;
+- `fpserg/realme-1_2` is the active production implementation;
+- 1.2 synthesizes validated findings from `fpserg/RealMe` and frozen 1.1 rather than treating either as absolute software canon.
+
+Frozen 1.1 reference:
+`fpserg/realme-mvp-1_1:frozen/realme-mvp-1_1-final`
+commit `e3556d1c89b7df20fef4d7bf05f0fd9bed7db5eb`.
 
 ---
 
-# VIII. CURRENT PRODUCTION SEQUENCE
+# VII. CURRENT HANDOFF
 
-## DISCOVERY / VISUAL ASSEMBLY
+The World visual campaign is complete.
 
-01–87. **COMPLETE / REALME WORLD v1.0 FROZEN**
+Active native-app roadmap now begins in `fpserg/realme-1_2`:
 
-## CANONICAL CHECKPOINTS
+93. **RealMe 1.2 Founding Synthesis**
+- classify durable product truths from `fpserg/RealMe`;
+- classify working evidence from frozen 1.1;
+- distinguish native requirements from ChatGPT-specific workarounds;
+- establish TRANSPLANT / ADAPT / RETIRE / RE-DISCOVER decisions.
 
-88. **World Canon Repository Freeze — COMPLETE**
-89–91. **Interactive architecture discovery/reality check/technical constitution — COMPLETE**
-92. **Interactive Technical Constitution Repository Freeze — COMPLETE**
+94. **Native Architecture Constitution**
+- frontend/server/database/auth/AI/memory/time boundaries;
+- deployment and preview model;
+- security and persistence model.
 
-## WORKING-APP IMPLEMENTATION — NEXT
+95. **1.1 Salvage Map**
+- concrete component/module/file classification.
 
-93. **Implementation Phase 1 — Semantic Foundation**
-- freeze/migrate canonical IDs, display names and compatibility aliases;
-- introduce semantic artwork registry without archipelago/island ontology;
-- prepare normalized interaction metadata model: visual anchor / hit region / entry focus;
-- preserve existing persistence and non-map product surfaces.
+96. **Infrastructure Bootstrap**
+- clean app skeleton;
+- Git/CI/deploy-preview workflow;
+- database strategy;
+- secrets;
+- baseline tests.
 
-94. **Implementation Phase 2 — World → Realm**
-- install canonical World + 3 Realm masters;
-- install World Realm hit regions/entry focus;
-- remove pinch-threshold semantic navigation;
-- implement tap-in / Back-out / double-tap-out gesture grammar;
-- validate on mobile.
-
-95. **Implementation Phase 3 — Realm → Domain**
-- install 9 canonical Domain masters;
-- install Realm Domain hit regions/entry focus;
-- make Domain entry resolve to Domain master rather than Realm crop;
-- migrate Leadership → Confluence compatibility and stale Realm/Domain metadata.
-
-96. **Implementation Phase 4 — Domain → Locus / Activity**
-- reconnect commitments and current World Model data to canonical Domain/Locus geography;
-- preserve overlay/modal semantics where geography does not change;
-- validate outward navigation and persistence.
-
-97. **Legacy Retirement / Mobile Acceptance**
-- retire noncanonical procedural geography and obsolete assets only after replacement works;
-- validate all 13 masters on iPhone-sized viewport;
-- regression-test Today, Calendar, Chronicles, Living Input, WBT, World Model and commitments;
-- pass continuity acceptance test: THE WORLD FEELS CONTINUOUS.
-
-98+. **Living World Evolution**
-- dynamic state overlays;
-- discovery-driven structural change;
-- scoped master regeneration;
-- multi-user/generalized World-generation architecture.
+97+. **Product Reconstruction / Migration**
+- selectively transplant or rebuild approved product surfaces;
+- integrate the frozen World in the native architecture;
+- validate on mobile and against real use.
 
 ---
 
-# IX. CURRENT PRODUCTION STATE
+# VIII. CURRENT STATE
 
-# REALME VISUAL SYSTEM v1.1 APPROVED / AMENDED.
+# REALME VISUAL SYSTEM v1.1 FROZEN.
 # HOUSEHOLD REALM v1.0 FROZEN.
 # CAREER REALM v1.0 FROZEN.
 # THIRD REALM v1.0 FROZEN.
 # REALME WORLD v1.0 FROZEN — STEP 86 MASTER.
-# INTERACTIVE WORLD TECHNICAL CONSTITUTION v1.0 FROZEN — STEP 92.
+# INTERACTIVE WORLD TECHNICAL CONSTITUTION v1.0 FROZEN.
+# REALME 1.1 FROZEN AS PROTOTYPE.
+# REALME 1.2 FOUNDING ACTIVE.
 
-The current production task is:
+Current implementation repository:
 
-# STEP 93 — IMPLEMENTATION PHASE 1: SEMANTIC FOUNDATION.
+`fpserg/realme-1_2`
 
-Implementation repository: `fpserg/realme-mvp-1_1`.
-Canonical product/operations repository: `fpserg/RealMe`.
+Current implementation task:
 
-No implementation should silently alter frozen geography, Realm/Domain identity, semantic hierarchy or the Warden-approved gesture grammar.
+# STEP 93 — REALME 1.2 FOUNDING SYNTHESIS.
 
 ---
 
-# X. REPOSITORY VERSIONING PRINCIPLE
-
-The active repository contains one authoritative current roadmap:
-
-`docs/PRODUCT/VISUAL/_REALME_WORLD_MAP_ASSEMBLY_ROADMAP.md`
-
-Detailed frozen World canon:
-
-`docs/PRODUCT/VISUAL/REALME_WORLD_V1_CANONICAL_FREEZE.md`
-
-Interactive technical constitution:
-
-`docs/PRODUCT/VISUAL/REALME_INTERACTIVE_WORLD_TECHNICAL_CONSTITUTION_V1.md`
+# IX. VERSIONING PRINCIPLE
 
 Historical roadmaps are preserved by Git history.
 
 # PRESERVE HISTORY.
 # DO NOT PRESERVE AMBIGUITY.
+# INHERIT DISCOVERIES, NOT CONSTRAINTS.
