@@ -62,3 +62,4 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 052 | 2026-08-13 | [The Cost of Movement](../PRODUCT/DAILY/2026/08/2026-08-13/Day%20052%20%E2%80%94%20The%20Cost%20of%20Movement.md) |
 | 053 | 2026-08-14 | [The Ledger at the Door](../PRODUCT/DAILY/2026/08/2026-08-14/Day%20053%20%E2%80%94%20The%20Ledger%20at%20the%20Door.md) |
 | 054 | 2026-08-15 | [The World Moves at a Distance](../PRODUCT/DAILY/2026/08/2026-08-15/Day%20054%20%E2%80%94%20The%20World%20Moves%20at%20a%20Distance.md) |
+| 055 | 2026-08-16 | [The Work Outlives the Workshop](../PRODUCT/DAILY/2026/08/2026-08-16/Day%20055%20%E2%80%94%20The%20Work%20Outlives%20the%20Workshop.md) |
