@@ -15,3 +15,7 @@ Owling was badly bitten by mosquitos during night, Oksi told me to stop opening 
 Tanos Artifacts dividends distributed at Tower
 
 Unexpected interruption in RealMe development due to quota opened opportunity for deep uninterrupted work in Career Realm
+
+Sergey Jr resumed his regular football trainings, rushing to stadium to take control of Owling from Oksi
+
+About a half of models updated for Strategy report
