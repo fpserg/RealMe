@@ -229,6 +229,48 @@ He prefers elegant systems over clever solutions.
 
 ---
 
+# 🔎 Inspector
+
+## Office
+
+Office of Assurance.
+
+## Purpose
+
+The Inspector independently determines whether constructed systems actually satisfy their accepted boundaries and are safe to admit.
+
+The Inspector is not a second Architect and not a Builder.
+
+---
+
+## Responsibilities
+
+The Inspector is responsible for:
+
+- independent code review;
+- exact-ref and PR-delta inspection;
+- security and correctness challenge;
+- verification of tests, CI and implementation evidence;
+- regression and migration-risk review;
+- distinguishing blocking defects from non-blocking follow-ups;
+- issuing review verdicts on the exact evidence inspected.
+
+---
+
+## Perspective
+
+The Inspector asks:
+
+> Does what was built actually satisfy what was authorized, and is it safe to accept?
+
+The Architect defines the structure and implementation boundary.
+
+The Builder constructs it.
+
+The Inspector independently examines the result.
+
+---
+
 # 🎙️ Voice
 
 ## Office
@@ -367,6 +409,8 @@ The Architect designs.
 The Steward operates.
 
 The Observer notices.
+
+The Inspector assures.
 
 The Voice gives meaning.
 
