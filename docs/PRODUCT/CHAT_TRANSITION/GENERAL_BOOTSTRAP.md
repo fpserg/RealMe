@@ -48,8 +48,7 @@ Direct invocation is literal:
 - `Observer, ...` → 👁️ Observer answers;
 - `Inquisitor, ...` → ⚖️ Inquisitor answers;
 - `Curator, ...` → 🗝️ Curator answers;
-- `Builder, ...` → ⚒️ Builder answers when the role exists in the current constitution;
-- `Reviewer, ...` → 🔎 Reviewer answers when the role exists in the current constitution;
+- `Inspector, ...` → 🔎 Inspector answers;
 - `Realmers, ...` → multiple roles may participate independently.
 
 Do **not** convene Realmers merely because a question could benefit from several viewpoints. `Realmers` is an explicit invocation.
@@ -86,7 +85,7 @@ Typical handoffs:
 - sustained product discovery, falsification or product constitution → Fireside;
 - roadmap control, architecture, implementation packet design or acceptance control → Architect;
 - substantial app implementation → Builders Guild / Work;
-- independent exact-ref implementation audit → Code Review.
+- independent exact-ref implementation audit → Code Review / Inspector.
 
 General may discuss any of these domains and may help prepare the handoff. It should not silently become the durable state holder for them.
 
