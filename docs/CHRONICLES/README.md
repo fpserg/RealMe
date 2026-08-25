@@ -63,3 +63,11 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 053 | 2026-08-14 | [The Ledger at the Door](../PRODUCT/DAILY/2026/08/2026-08-14/Day%20053%20%E2%80%94%20The%20Ledger%20at%20the%20Door.md) |
 | 054 | 2026-08-15 | [The World Moves at a Distance](../PRODUCT/DAILY/2026/08/2026-08-15/Day%20054%20%E2%80%94%20The%20World%20Moves%20at%20a%20Distance.md) |
 | 055 | 2026-08-16 | [The Work Outlives the Workshop](../PRODUCT/DAILY/2026/08/2026-08-16/Day%20055%20%E2%80%94%20The%20Work%20Outlives%20the%20Workshop.md) |
+| 056 | 2026-08-17 | [The Opened Clearing](../PRODUCT/DAILY/2026/08/2026-08-17/Day%20056%20%E2%80%94%20The%20Opened%20Clearing.md) |
+| 057 | 2026-08-18 | [The Sequence Becomes Clear](../PRODUCT/DAILY/2026/08/2026-08-18/Day%20057%20%E2%80%94%20The%20Sequence%20Becomes%20Clear.md) |
+| 058 | 2026-08-19 | [From Models to Theses](../PRODUCT/DAILY/2026/08/2026-08-19/Day%20058%20%E2%80%94%20From%20Models%20to%20Theses.md) |
+| 059 | 2026-08-20 | [Securing Capacity](../PRODUCT/DAILY/2026/08/2026-08-20/Day%20059%20%E2%80%94%20Securing%20Capacity.md) |
+| 060 | 2026-08-21 | [The Argument Takes Shape](../PRODUCT/DAILY/2026/08/2026-08-21/Day%20060%20%E2%80%94%20The%20Argument%20Takes%20Shape.md) |
+| 061 | 2026-08-22 | [Beyond the Bathroom](../PRODUCT/DAILY/2026/08/2026-08-22/Day%20061%20%E2%80%94%20Beyond%20the%20Bathroom.md) |
+| 062 | 2026-08-23 | [When the House Pushed Back](../PRODUCT/DAILY/2026/08/2026-08-23/Day%20062%20%E2%80%94%20When%20the%20House%20Pushed%20Back.md) |
+| 063 | 2026-08-24 | [After the Flood, the Rainbow](../PRODUCT/DAILY/2026/08/2026-08-24/Day%20063%20%E2%80%94%20After%20the%20Flood%2C%20the%20Rainbow.md) |
