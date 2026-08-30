@@ -15,3 +15,5 @@ On the way back we had fuel running low and I was very anxious that we could run
 At home Oksi fell asleep before me, which is a clear indicator of how tired she was.
 
 Checked Lisa’s Banking report before sleep
+
+I also advanced with RealMe app development, current roadmap will take 1-2 days more
