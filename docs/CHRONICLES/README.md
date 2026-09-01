@@ -4,8 +4,17 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 
 - Earlier Chronicles remain canonically stored in this directory.
 - From Day 034 onward, the canonical Chronicle is stored with its daily `LI.md`, `OR.md`, and `WBTD.md` under `docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/`.
+- Monthly Chronicles are stored under `docs/CHRONICLES/MONTHLY/` and synthesize how the Realm changed across a completed operational month. They are not compilations of daily Chronicles.
 - This index contains links only; Chronicle content is not duplicated.
 - Missing day numbers are reported by omission and are not reconstructed.
+
+## Monthly Chronicles
+
+| Month | Chronicle |
+|:---:|---|
+| 2026-08 | [The Month the World Took Root](./MONTHLY/2026-08%20%E2%80%94%20The%20Month%20the%20World%20Took%20Root.md) |
+
+## Daily Chronicles
 
 | Day | Date | Chronicle |
 |---:|:---:|---|
