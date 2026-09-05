@@ -5,3 +5,5 @@ Owling woke at 5 AM, and it’s raining all over. Made him into another nap, but
 Not feeling well, I apparently caught a cold
 
 Owling broke Oksi’s clay pot just before she woke up
+
+Oksi went for more garden accessories and I finally managed to make Owling sleep and have some rest too
