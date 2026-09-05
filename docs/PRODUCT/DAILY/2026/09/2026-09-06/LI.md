@@ -7,3 +7,5 @@ Not feeling well, I apparently caught a cold
 Owling broke Oksi’s clay pot just before she woke up
 
 Oksi went for more garden accessories and I finally managed to make Owling sleep and have some rest too
+
+Owling woke in a bad mood and switched from reading to rampaging and yelling. Still raining heavily so no chance to get him out and extinguish his energy a bit 
