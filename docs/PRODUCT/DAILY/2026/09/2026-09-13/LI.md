@@ -21,3 +21,15 @@ LI
 Guess what arrived with kitchen? The cooker! And it should have a passport! That was the last missing piece of the Gas Campaign puzzle (at least at this stage). Next issue is carving a day between Strategy calls and Platform report to make another documents submission attempt.
 
 Tried to advance on the forest path with Owling on my shoulders. It was too damp, I need rubber boots for this.
+
+LI
+
+Came back and Oksi arrived soon with a set of new rose bushes
+
+Another playground trip with all kids before bedtime, leaving Oksi time for gardening
+
+Spoke to Alexey the Kadyr’s landlord, agreed to meet next week to decide on further work steps. But as I inderstand his primary intention  was to ask to pay outstanding Kadyr wage on Sep 15.
+
+Quiet evening. Oksi can’t stop saying how she loves this place and how it turns from construction site to dream house. I feel proud.
+
+Owling woke in the middle of the night. Working on RealMe development while trying to get him back to sleep - first time in a few days, as the week was intense.
