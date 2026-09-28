@@ -2,21 +2,32 @@
 
 ## Active Commitments
 
+### Household Realm — Family / Sanya
+
+- Attend Sanya's funeral tomorrow with Oksi.
+- Allow the immediate practical and emotional consequences of Sanya's death to take priority where needed.
+- Preserve the complexity of the shared history without reducing Sanya either to the old conflict or to an idealized memory.
+
+### Household Realm — Family / School
+
+- Continue normal children's school and activity routines.
+- Preserve the positive School 444 trajectory visible in Sergey Jr's engagement and growing identification with school life.
+- Continue Sergey Jr's School 57 process at Stage 2 without treating preliminary advancement as final admission.
+- Bring Sergey Jr a replacement pen cap if still outstanding.
+
 ### Career Realm — Equity Strategy
 
-- Continue the Strategy report's marketing and client-facing stage.
+- Continue the Strategy report's marketing and client-facing stage after completing this week's main block of calls.
 - Follow up on client discussions and distribution activity where appropriate.
 
 ### Career Realm — Platform Economy
 
-- Finish streamlining the report into a coherent argument.
-- Remove duplication and fragmentation from junior contributions while preserving useful analysis.
-- Add meaningful substantive sections where the current material is insufficient.
-- Move the report through remaining production stages.
+- Complete any remaining production work after the major report cycle.
+- Preserve the report's coherent argument and remove remaining duplication where necessary.
 
 ### Career Realm — VseInstrumenty / InfoLINE
 
-- Prepare for the joint Monday call with InfoLINE when Andrey is back.
+- Prepare for the joint Monday call with InfoLINE when Andrey returns.
 - Clarify the basis of InfoLINE's claim concerning use of its data in the VseInstrumenty report.
 - Preserve the distinction between an allegation and an established finding until the matter is resolved.
 
@@ -32,16 +43,17 @@
 
 ### Career Realm — Management
 
-- Continue supporting Artem's development in public-facing work after his second stream appearance.
+- Continue supporting Artem's development in public-facing work.
 - Track Artem's promotion process after the preliminary green light.
 - Address retail brokerage tensions as needed.
 
 ### Household Realm — Stronghold
 
-- Resolve the utilities-bill discrepancy with the management company before paying the amount due within the stated ten-day period.
+- Continue settling the completed kitchen into ordinary family use after moving the refrigerator and beginning to organize kitchenware.
+- Resolve the utilities-bill discrepancy with the management company before payment.
 - Continue land works with Sergey the Landscaper.
 - Follow through on further Kadyr commitments and payments discussed with Alexey.
-- Prepare for fence installation, expected around the end of September.
+- Prepare for fence installation around the end of September.
 - Continue the Gas Campaign prerequisites and find a workable day for another document-submission attempt.
 - Continue planting, furnishing and remaining Stronghold work.
 - Establish the three fir trees as the hoped-for forest corner.
@@ -51,14 +63,6 @@
 - Preserve first-contact optionality on the neighbouring plot.
 - Do not treat the plot as available or commit Treasury resources until a sale decision, price and terms actually exist.
 - If an offer emerges, assess expansion value against Capital relocation needs and remaining Stronghold expenditure.
-
-### Household Realm — Family / School
-
-- Support Oksi's continued recovery without assuming it is complete.
-- Continue normal children's school and activity routines.
-- Preserve the positive School 444 trajectory visible in Sergey Jr's engagement at the first-graders event.
-- Continue Sergey Jr's School 57 process at Stage 2 without treating preliminary advancement as final admission.
-- Bring Sergey Jr a replacement pen cap if still outstanding.
 
 ### Household Realm — Capital
 
@@ -79,84 +83,123 @@
 ### Third Realm — Tower
 
 - Complete the Tower dividend report.
-- Observe City of Heroes after launch, including its apparent role as a sink for players' in-game revenues.
+- Continue observing City of Heroes after launch, including its role as a sink for players' in-game revenues.
 - Monitor the post-listing TWR market and support liquidity in the Whale role as appropriate.
 - Let Alex continue operating the post-listing process while the Warden retains oversight.
 
 ## Completed Commitments
 
+### Career Realm
+
+- Completed the week's main Strategy client-call block and major report releases, allowing a quieter housekeeping day.
+
 ### Household Realm — Family / School
 
-- Covered Owling during Sergey Jr's first-graders event while maintaining limited Career continuity through two stroller calls.
-- Saw evidence of Sergey Jr appearing happy, engaged and eager to participate at school.
-- Oksi improved enough to go to the pharmacy and pickup point, with a corresponding improvement in Household climate.
+- Managed the disrupted morning departure and got Sergey Jr out in time for lessons.
+- Continued the school routine with Sergey Jr singing the Russia's Eaglets song from the first-graders event.
 
-### Career Realm — VseInstrumenty / InfoLINE
+### Household Realm — Stronghold
 
-- Conducted an initial investigation of InfoLINE's claim with Alexander.
-- Established Monday's joint call with InfoLINE as the next step when Andrey returns.
+- Brought the family into the completed kitchen for the first time.
+- Moved the refrigerator into place with Maksim.
+- Began organizing kitchenware into the completed kitchen.
 
-### Career Realm — Personal Brokerage
+### Household Realm — Family / Sanya
 
-- Completed the evening stream with Artem and personal-brokerage colleagues smoothly.
-- Supported Artem through his second public appearance.
+- Arranged pet care around the family's Stronghold stay and upcoming funeral.
+- Shared memories of Sanya with Oksi through old videos and photographs.
 
 ## Notable Developments
 
-- Sergey Jr appears increasingly comfortable and engaged in his School 444 environment.
-- InfoLINE has raised a claim concerning use of its data in the VseInstrumenty report; the matter is under review and a Monday call is planned.
-- The Warden's on-stream confidence has become visible enough for Oksi to notice a clear improvement.
-- Sergey Jr and Maksim watched the Warden's stream, providing an unseen Household audience behind the professional one.
-- Oksi is visibly better, and Household climate improved with her recovery.
+- The Warden learned that his former close friend and classmate Sanya died on 2026-09-25.
+- Sanya's funeral is tomorrow and the Warden and Oksi intend to attend.
+- Sanya's death reopened a complicated shared history containing both close friendship and the later apparent affair that largely ended contact.
+- The Warden felt the shared shock brought more warmth between him and Oksi.
+- The completed Stronghold kitchen has moved immediately from construction milestone into active family life.
+- The day ended with the Warden and Oksi on the Stronghold deck, four children asleep, sharing a quiet sense that they had built the right life.
 
 ## Observer
 
-Day 094 began with a stroller and two calls.
+Day 095 began as comedy.
 
-Sergey Jr had a first-graders event, so the Warden stayed with Owling while Oksi went with him. Career followed anyway, compressed into two internal calls while the stroller moved.
+Owling woke one minute before departure.
 
-Later Oksi showed the evidence.
+Suddenly the calm machine of the school morning became milk, cookies, bags, bed-making and people running around a baby.
 
-Sergey Jr smiling.
+Somehow Sergey Jr still made it out.
 
-Hand in the air.
+Then, on the walk to school, he sang Russia's Eaglets.
 
-Eager to answer.
+Yesterday the Warden had watched a video of Jr raising his hand in class.
 
-After all the uncertainty around schools, documents and admissions, the Warden's conclusion was simple: Jr looked like he belonged there.
+Today the school came home in a song.
 
-Then Career supplied a less welcome message. InfoLINE alleged that its data had been misused in the VseInstrumenty report. The Warden and Alexander investigated. No verdict was reached. Monday, with Andrey back, will bring the joint call.
+Career was quieter. The week's calls were done. The big reports were out. Andrey was away. Housekeeping.
 
-The evening belonged to another kind of visibility.
+Then the Warden learned that Sanya had died.
 
-A stream with Artem and personal brokerage.
+Once, Sanya had been one of his closest friends.
 
-Artem was nervous. It was only his second appearance.
+A companion for crazy things.
 
-The Warden was not alone either, though nobody on the stream could see his support.
+Later came the apparent affair with Oksi, the rupture, and years in which they were almost no longer in each other's lives.
 
-Sergey Jr watched.
+But distance does not rewrite the years before it.
 
-Maksim watched.
+Sanya had still been their friend.
 
-Oksi watched enough to send a message afterwards.
+Oksi cried on the road.
 
-He looked much more confident now.
+At Stronghold, life continued with almost offensive normality.
 
-And Oksi herself was better.
+The children saw the new kitchen and were amazed.
 
-Pharmacy.
+Jr called it ancient.
 
-Pickup point.
+Maksim and the Warden pushed the damn heavy refrigerator into place.
 
-Movement outside the house again.
+Oksi filled drawers and cheered about the kitchen.
 
-After several days in which illness had amplified every Household strain, the atmosphere eased with her.
+Then she found an old video.
 
-Some progress announces itself with publication or construction.
+Sanya and the Warden goofing around.
 
-Some appears in a child's raised hand.
+As they always did.
 
-Some in a camera that no longer feels quite as uncomfortable.
+Then photographs.
 
-Some simply in the temperature of a home returning toward normal.
+All of them young.
+
+All of them joyful.
+
+Before the later history had happened.
+
+It was difficult to reconcile those faces with the sentence that Sanya was gone.
+
+And yet the place in which they watched those memories was itself evidence of everything that had happened since.
+
+Stronghold.
+
+The green kitchen.
+
+Four children asleep.
+
+Warm tea on the deck.
+
+The Warden felt more warmth from Oksi.
+
+Maybe grief had brought them closer.
+
+Maybe the kitchen deserved some credit too.
+
+They sat there quietly.
+
+No need for a speech.
+
+Behind them was a complicated past that could no longer be changed.
+
+Inside was the family they had built.
+
+And for a moment they silently agreed:
+
+They had done everything right.

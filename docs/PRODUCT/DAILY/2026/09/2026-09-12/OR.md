@@ -1,48 +1,44 @@
 # Operational Record
 
-## Career Realm
-
-### Equity Strategy
-
-- Day 081 was the Strategy submission deadline.
-- Artem remained sick and worked from home.
-- The Warden passed Andrey's feedback to the team for implementation and coordinated the final preparation process.
-- A brokerage call took place amid the final Strategy preparations.
-- The Strategy draft was submitted to compliance and production.
-
-### Management / Best Analyst
-
-- The Warden supervised the team's sending of voting registration forms to IR contacts.
-
-### MTS
-
-- The day produced numerous headlines around 5G launches. The Warden verified the substance with MTS and concluded that there was nothing materially large in the announcements and that they were mostly PR, consistent with his prior view.
-- A separate development was judged much more important: MTS is scheduled to hold an offline/online meeting at the stock exchange next week, one day after a board meeting.
-- The Warden formed a high-conviction hypothesis that the meeting will concern dividend policy. This remains a hypothesis, not a confirmed agenda item.
-- The timing is inconvenient for the Warden's Strategy client-call sequence because his dividend view is contrarian to a crowd he believes expects an increase.
-- The Warden sent a note to Sales to surface the event and thesis.
-
 ## Household Realm
-
-### Family
-
-- Oksi remained unwell.
-- The family set out for Stronghold after short preparations.
-- Sergey Jr fell asleep in the car after his second school day.
-- The Warden ended the day exhausted after the Strategy deadline and the preceding sleepless night.
 
 ### Stronghold
 
-- Roman worked on connecting the bathtub and toilet before the family's arrival.
-- On arrival the Warden faced several immediate tasks simultaneously: putting Owling to sleep, carrying the sink from the car into the house, and switching on water and heating.
-- Toilet and bath work had progressed.
-- Oksi remained dissatisfied with Roman and pointed to small unfinished details, including packaging left behind.
-- The Warden believes Oksi's broader dissatisfaction with Roman is now persistent and is considering switching to local masters for at least routine Stronghold tasks.
+- The Stronghold morning began at 07:00, which the Warden considered acceptable.
+- The Warden took Owling on a supplies quest for water and apples, partly to move Owling's noise outside rather than because supplies were urgent.
+- The children saw the bathroom and liked it.
+- Oksi weeded the garden. The Warden later helped with garden treatment after Owling's daytime sleep.
+- Oksi went to the dentist and the Warden remained in charge at Stronghold.
+- The kitchen delivery arrived and was unloaded.
+- The cooker arrived with the kitchen. The Warden expects it to have the required passport, which would complete the currently missing prerequisite set for the Gas Campaign. The next stage is to find a day between Strategy calls and Platform Economy work for another document-submission attempt.
+- Oksi returned with new rose bushes.
+- The Warden spoke with Alexey, Kadyr's landlord. They agreed to meet next week to discuss further work steps. The Warden understood Alexey's primary immediate concern to be payment of Kadyr's outstanding wage on September 15; that motive remains the Warden's interpretation rather than a confirmed statement.
+- Oksi repeatedly said that she loves Stronghold and feels it is changing from a construction site into a dream house. The Warden felt proud.
+
+### Stronghold — Surroundings
+
+- Roma unexpectedly came to the door and invited the older children out. This surprised and pleased them because on their previous meeting he had said he would not return until next summer. They went to the football field.
+- During a rainy walk with Owling, the Warden saw people in rubber boots carrying baskets and inferred that they were heading to gather mushrooms.
+- The Warden attempted to advance toward the forest path with Owling on his shoulders but the ground was too damp. Rubber boots are needed before another attempt.
+- Finding the path into the nearby forest is now a possible future Stronghold exploration rather than an urgent task.
+
+### Family
+
+- The Warden took all the children to the playground before bedtime, giving Oksi additional time for gardening.
+- Owling woke during the night.
+
+## Third Realm
+
+### RealMe
+
+- During Owling's Night Watch, the Warden resumed RealMe development work for the first time in several days after an intensive Career week.
 
 ## Reflection
 
-Day 081 closed the immediate Equity Strategy production campaign. Despite Artem remaining sick, Andrey's feedback moved through the team, final preparation continued around a brokerage call, and the draft reached compliance and production. The project is not necessarily finished, but it crossed a clear submission boundary.
+Day 082 was almost entirely a Stronghold day. The kitchen arrived, and with it the cooker — potentially the last currently missing documentary object for the Gas Campaign. The bathroom received approval from the children, roses arrived for the garden, and a future meeting with Alexey was arranged.
 
-The day's more interesting market signal came not from the noisy 5G headlines, which the Warden checked directly with MTS and judged mostly promotional, but from the sequencing of an MTS stock-exchange meeting immediately after a board meeting. The Warden sees a strong possibility of a dividend-policy announcement and moved quickly to alert Sales, while recognizing that his own view sits against expectations of a dividend increase.
+The strongest development was less procedural. Oksi repeatedly described Stronghold as changing from a construction site into a dream house, and the Warden felt proud. After months in which the house often presented itself as a sequence of contractors, failures, costs and campaigns, the lived place is becoming more visible through the construction site.
 
-Stronghold then replaced report production with simultaneous physical tasks: Owling, sink, water and heating on arrival. Roman's bathroom work progressed, but confidence in him as the default contractor weakened further. By bedtime, exhaustion rather than another task defined the remaining state.
+The day also widened Stronghold's map. Roma unexpectedly returned, the children went to the football field, and a rainy walk revealed evidence of a forest route used by mushroom pickers. The Warden tried to follow it and learned the first requirement: rubber boots.
+
+The night returned to a familiar pattern — Owling awake — but this time it reopened the Third Realm too. With the Career week finally easing, the Warden used the Night Watch to return to RealMe development.

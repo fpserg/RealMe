@@ -2,61 +2,56 @@
 
 ## Household Realm
 
-### Family / School
+### Stronghold — Morning
 
-- The morning began as a normal school routine while Oksi slept.
-- Owling woke immediately before the Warden and Sergey Jr needed to leave, disrupting the routine.
-- Oksi woke to make Owling milk while the Warden and Alisa tried to calm him.
-- The Warden made Oksi's bed while Oksi prepared cookies for Sergey Jr; the school bag then had to be rearranged because the cookies did not fit.
-- Sergey Jr left in time for lessons, though possibly not in time for breakfast.
-- On the walk to school, Sergey Jr sang the Russia's Eaglets song from the previous day's first-graders event.
+- Owling woke the household at 07:30, giving the family a comparatively graceful start.
+- The morning included supplies, an Owling walk and some gardening during his daytime sleep.
+- The family then set off for Sanya's funeral.
 
-### Sanya
+### Family / Sanya
 
-- On the way home, the Warden learned that his former classmate and once-close friend Sanya had died the previous day.
-- The Warden remembers Sanya as a close companion for adventurous and reckless experiences when they were younger.
-- The friendship had largely ended after the Warden believed Sanya and Oksi had apparently had an affair after the Warden and Oksi were already in a relationship.
-- The Warden reports that Sanya regretted what had happened.
-- Despite the long distance that followed, Sanya remained part of the shared past of both the Warden and Oksi.
-- The funeral is tomorrow and the Warden and Oksi intend to attend.
-- Pet care was arranged for the family's time at Stronghold and the funeral-related period.
-- Oksi cried on the way to Stronghold; the Warden understood this as grief for an old friend who is now gone rather than a return to the old relationship conflict.
-- At Stronghold, Oksi showed the Warden an old video of Sanya and the Warden goofing around, followed by older photographs of all of them young and happy.
-- The Warden described Sanya's death as difficult to believe.
+- Sergey Jr asked to attend Sanya's funeral.
+- The Warden was initially reluctant, but agreed after Oksi suggested Jr could help look after Owling.
+- Approaching the funeral location, the Warden saw two teenagers kicking bags filled with leaves.
+- The sight reminded him of the kind of pointless, playful thing he and Sanya would certainly have done 25 years earlier, and perhaps would still have done together now.
+- The funeral brought the Warden into contact with people he had not seen for many years.
+- Among them was Sanya's older son Roma, now 14 and approximately the Warden's height. The Warden had last seen Roma when he was around Owling's current age.
+- Sergey Jr fulfilled the practical role anticipated by Oksi, running around with Owling and keeping him entertained so the Warden and Oksi could be more present at the funeral.
+- During the farewell ceremony, the Warden approached Sanya's coffin and looked at his face.
+- Sanya appeared less changed than the Warden had expected.
+- The Warden quietly told Sanya that he forgave him and asked Sanya to forgive him too.
+- He briefly touched Sanya's familiar hay-like hair.
+- The Warden stepped away before Sergey Jr approached, judging that witnessing that intimate moment might be too much for him.
+- The funeral therefore provided a final opportunity for the Warden to express forgiveness across a relationship that had remained unresolved in life.
 
-### Household Climate
+### Stronghold — Evening
 
-- The Warden felt that the shock and shared grief brought greater warmth between him and Oksi.
-- The Warden also humorously allowed that some of the warmer atmosphere might be attributable to the new kitchen.
-- The day ended with the Warden and Oksi sitting together on the Stronghold deck with warm tea while all four children slept, sharing a quiet sense that they had made the right choices in building their present life.
-
-### Stronghold — Kitchen
-
-- The children saw the completed kitchen for the first time and reacted strongly.
-- Sergey Jr described the kitchen as looking ancient.
-- Maksim and the Warden moved the very heavy refrigerator into its place.
-- Oksi began arranging kitchenware in the drawers and remained highly enthusiastic about the completed kitchen.
-- The kitchen is now being actively inhabited and organized by the family rather than merely inspected as completed construction.
+- Back at Stronghold, ordinary family life resumed.
+- The children held a late-night movie session in Maksim's room.
+- The adults briefly intervened in a conflict involving Alisa and Sergey Jr; it was resolved quickly.
+- The Warden had a prolonged bedtime struggle with Owling, eventually getting him to sleep but becoming exhausted himself.
+- The Warden then drove approximately 15 minutes to dispose of cardboard boxes remaining from the Kitchen and Basement campaigns.
+- The drive felt meditative after the intensity of the day.
+- A large bush that did not fit in the car required a separate disposal quest: the Warden loaded it into the wheelbarrow and took it beyond Neroschino's borders.
+- The return walk with the empty wheelbarrow under the full moon provided another quiet, meditative interval.
 
 ## Career Realm
 
-- The working day was more relaxed after the week's client calls had been completed and the major reports released.
-- Andrey was away on a business trip.
-- Work consisted mostly of housekeeping.
-- No new resolution of the InfoLINE claim was reported; the planned Monday call remains the next step.
+- No Career activity was reported for Day 096.
+- The Monday InfoLINE call remains pending from the prior operational state.
 
 ## Reflection
 
-Day 095 opened with ordinary family disorder and a school song.
+Day 096 moved between ordinary life and a past that had suddenly become final.
 
-Owling woke at exactly the wrong moment, turning a functioning departure routine into milk, cookies, bags, bed-making and people moving around one small child. Yet Sergey Jr still left for school, and on the way he sang the song from his first-graders event. School was already becoming part of his ordinary repertoire.
+Stronghold began gently: Owling at 07:30, supplies, a walk and some gardening. Then the family left for Sanya's funeral, with Sergey Jr unexpectedly joining and ultimately making himself useful by taking responsibility for Owling's entertainment.
 
-Career, unusually, receded. The week's calls were done, the big reports were out, Andrey was away and the Warden mostly handled housekeeping.
+On the approach, two teenagers kicking bags of leaves briefly restored Sanya as the Warden had known him decades earlier: the companion for exactly that kind of unnecessary fun. At the funeral, time became visible in another way. Roma, last seen at Owling's age, was now 14 and as tall as the Warden.
 
-Then the day changed.
+At the coffin, the Warden completed the conversation that years of distance had left unfinished. He forgave Sanya and asked for forgiveness in return, then touched the familiar hay hair and stepped away before Jr arrived.
 
-Sanya's death brought back a friendship that had effectively ended years ago under painful circumstances. The history remained complicated, but death did not erase the earlier friendship either. On the road to Stronghold, Oksi cried for someone who had once been their friend. Later, old videos and photographs returned all of them to a time when they were young and joyful and the later fracture had not yet happened.
+Stronghold received the family afterwards without ceremony. Children watched a movie. A small conflict was resolved. Owling fought sleep. Boxes from completed campaigns still needed disposal. A bush still needed moving.
 
-Stronghold held both timelines at once. The children discovered the new kitchen. Maksim and the Warden forced the refrigerator into place. Oksi happily filled drawers. Then came the old images of Sanya.
+After a day spent confronting what could no longer be changed, these mundane tasks had their own quiet usefulness. The Warden drove alone, then pushed a loaded wheelbarrow beyond Neroschino and returned with it empty under the full moon.
 
-The day ended on the deck, with warm tea and four sleeping children inside. The Warden felt more warmth from Oksi and a quiet shared conviction that, whatever the complicated road behind them, the life surrounding them now was the right one.
+Life went on, and for a while its weight was something that could literally be carried away.

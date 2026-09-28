@@ -4,44 +4,40 @@
 
 ### Equity Strategy
 
-- The Strategy report was published.
-- This marks completion of a major production milestone.
-- The next stage of the Strategy campaign is marketing and client-facing work.
+- The Warden coordinated preparation for the Strategy presentation as the published report moved into its marketing stage.
+- Strategy presentation work competed for attention with Platform Economy and broader task orchestration throughout a chaotic working day.
+- Work extended well beyond normal office hours.
 
 ### Platform Economy
 
-- The Warden continued cutting through the Platform Economy report.
-- A large volume of incoming material from junior analysts now needs to be consolidated and streamlined.
-- The remaining task is not only editorial reduction: the Warden also needs to add substantive material where the report remains incomplete.
+- The Warden continued finishing the Platform Economy report.
+- The report remained an active production priority alongside Strategy marketing.
+- The Warden also coordinated and orchestrated surrounding team tasks while working on the report.
 
 ## Household Realm
 
-### Stronghold — Administration
-
-- The Stronghold management company sent a utilities payment notice with a ten-day payment deadline.
-- The Warden is comfortable with the deadline but found that the stated numbers do not reconcile.
-- The Warden asked management to investigate and either provide the correct amount or explain the discrepancy.
-- Payment remains pending clarification of the amount.
-
 ### Family
 
-- Evening routine included Sergey Jr's football and the Warden supervising Owling at the playground.
-- Oksi was still not getting better.
-- After Owling's bedtime, the Warden went to the pharmacy to obtain medicines for Oksi.
-- The Warden also helped Oksi remove a splinter from her finger.
+- The Warden arrived home almost in time to allow Oksi to leave for her manicure.
+- Oksi remained displeased that the Warden had not replied to her during the workday; the Warden reported that workload made replying impractical.
+- The Warden managed the children's dinner and bedtime while Oksi was away.
+- Oksi returned still feeling unwell and angry.
+- During the night, Oksi woke the Warden because she felt very bad.
+- The Warden helped her find pills and helped calm her.
+- The interrupted night means the next day begins with both Oksi's illness and the Warden's lost sleep as live constraints.
 
-### Stronghold — Garden
+### Mobility
 
-- Oksi bought more plants.
-- Among them were three small fir trees, which the Warden likes.
-- The fir trees may finally create the forest corner the Warden has wanted within Oksi's increasingly flourishing garden.
+- The Fuel Quest became difficult again.
+- The Warden checked five fuel stations before finding one with fuel.
+- Fuel availability therefore remains an active logistical constraint rather than a resolved issue.
 
 ## Reflection
 
-Day 091 moved one large Career campaign across a visible threshold. Strategy is no longer a report being written, corrected or produced. It is published. The work now changes from making the product to taking it to clients.
+Day 092 had no single dramatic milestone. Its defining feature was simultaneous demand.
 
-That transition leaves Platform Economy as the main report under construction. Junior contributions are arriving in volume, but volume is not coherence. The Warden's role is now to compress, structure and supplement the material until it becomes one report rather than a stack of contributions.
+Career required the Warden to coordinate the Strategy presentation, finish Platform Economy and keep other work moving at the same time, well beyond normal office hours. Household then required a rapid handover: get home in time for Oksi's manicure, manage dinner, manage bedtime, and absorb the tension created by a day in which there had simply been no capacity to answer messages.
 
-At home, the day was less about milestones than maintenance. A utilities demand arrived with a deadline the Warden accepts but a number he does not; the correct response was neither refusal nor blind payment, but reconciliation. Oksi remained unwell, so the evening included football, Owling control, a pharmacy run and a splinter.
+Even the practical errand refused to be simple. Fuel required five stations.
 
-And in Stronghold's expanding garden, three small fir trees appeared. After months of pits, flowers and Captain Sparrow's botanical expansion, the Warden may finally be getting a small forest of his own.
+Then the day extended into the night. Oksi woke feeling very bad, and the Warden helped her find pills and settle somewhat. The next day therefore inherits not merely unfinished work but depleted people.

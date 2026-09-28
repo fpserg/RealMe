@@ -4,25 +4,22 @@
 
 ### Career Realm — Management
 
-- Approach Andrey directly if needed regarding Artem's promotion situation after Artem raised the issue himself; the Warden missed the intended joint conversation because of September 1 family commitments.
-- Help clarify Artem's realistic path among waiting, moving to ECM, or taking a similar role at a larger bank if the internal promotion constraint cannot be resolved.
-- Continue tracking Strategy progress after Artem discussed it directly with Andrey.
+- Await Andrey's feedback on Artem's promotion after Artem raised the issue directly; follow up with Andrey if needed.
+- Help clarify Artem's realistic internal career path if the promotion constraint cannot be resolved; his interview at a competing bank strengthened his preference for the current team's culture rather than creating an immediate external pull.
 - The Oil & Gas analyst position remains unfilled following the candidate interview.
 
 ### Career Realm — TMT Research
 
+- Deliver the Platform Economy report plan requested by Andrey during the next day, using the deep investigation begun before sleep.
 - Review and complete the delegated comparison of the Wildberries ecosystem effect with Nvidia and prepare the required Strategy slides by Friday.
-- Incorporate the completed thorough contrarian MTS case into the Strategy report.
+- Continue developing the Promomed case for the Strategy report, while recognizing low liquidity as a potentially decisive constraint for institutional investors.
+- Incorporate the completed MTS contrarian case into the Strategy report.
+- Use Artem's Growth Stock Index evidence to test and develop the thesis that the growth-stock valuation premium has compressed toward historical lows.
 - Advance Alexander's VseInstrumenti initiation through its remaining approval sequence: after editors, send it to Andrey, then show it to Denis.
-- Continue steering Artem's Growth vs Value relative-valuation contribution for Strategy; substantial work remains after redirection.
 - Assess and incorporate the new potential Astra investment-case changers learned during the CFO stream.
 - Complete the HeadHunter 2Q26 conference call.
 - Continue deep TMT modelling and translating Strategy-report work into coherent investment narratives.
-- Test the emerging preference for growth over value before treating it as an allocation conclusion; the Warden currently considers the shift plausible but potentially controversial and premature.
-- Continue developing the investment cases emerging from the deep-work sequence.
 - Continue assessing the potential impact of AI on valuations.
-- Continue developing and validating the thesis that growth and value valuations are currently inverted in the Russian market.
-- Track and assess the potential upcoming Promomed earnings surprise learned about during the IR meeting in light of the completed 2Q26 results work.
 - Have Sergey the Junior Analyst finish polishing the pharma-market template and, once ready, establish it as a regular research note.
 
 ### Career Realm — External Relations
@@ -31,26 +28,27 @@
 
 ### Household Realm — Family
 
+- Give weight to Oksi's reported physical discomfort and accumulated fatigue while managing Household demands.
 - Support Alisa and Maksim through their transition into new schools.
 - Support Sergey Jr through the start of first grade at his new school and his continuing football routine.
 - Continue cautiously exploring whether the recent softening can become a path toward the Warden's parents eventually seeing the children again, while preserving the Warden and Oksi's parenting boundaries.
 - Maintain a clear privacy boundary around Stronghold when the children's friends, including Roma, want to enter the house.
-- Give weight to accumulated Household fatigue; Oksi was again reported tired and angry ahead of the latest Capital Watch.
 
 ### Household Realm — Capital
 
-- Follow up on the latest Capital Watch and determine whether the new potential buyers show meaningful interest.
+- Conduct the next scheduled Capital Watch and assess whether either recent potential buyer develops into a real offer.
 - Continue handling potential buyers at the revised price and determine whether an acceptable offer emerges.
 - Reconcile the eventual Capital sale proceeds with the cost of the intended replacement apartment and continuing Stronghold expenditure.
+- Avoid accelerating Capital relocation and major new Stronghold spending simultaneously if doing so materially widens the relocation funding deficit.
 - Contact Sergey, owner of the apartment being pursued, after greater clarity emerges on the Capital Campaign; the call remains postponed.
-- The Warden prefers a temporary pause in additional spending to rebuild funds, but no agreed spending pause has been reported.
 - Pay for delivery of the new armchairs if still outstanding; the armchairs are physically at Stronghold, but payment completion has not been reported.
 - Pay for Maksim's and Sergey Jr's English classes.
 - Buy tickets for Oksi and the children to a Gazan concert.
 
 ### Household Realm — Stronghold
 
-- Assess the scope, timing and cost of the fence Oksi is pressing for; the Warden agrees it is needed but identifies it as another drag on finances.
+- Decide fence timing in conjunction with the Capital Campaign: the fence is needed but expensive, and paying for it now would widen the Capital relocation deficit if a genuine offer emerges.
+- Try to reach a shared sequencing decision with Oksi rather than rushing the fence and Capital relocation in parallel.
 - Plant or otherwise place the newly transported pear and peach trees.
 - Track the result of the water test submitted at the DIY outlet laboratory.
 - Use the newly purchased water hose and fertilizers as needed.
@@ -84,7 +82,7 @@
 
 ### Third Realm — RealMe
 
-- Continue the current RealMe app-development roadmap; the latest reported estimate was approximately one to two more days, but no completion has yet been reported in Operations.
+- Continue the current RealMe app-development roadmap; no completion has yet been reported in Operations.
 - Continue using the Architect / Builders Guild / Inspector workflow.
 - Optimize the development structure to reduce unnecessary Work-mode load and preserve quota capacity.
 - Continue RealMe World Map generation; substantial progress was previously reported, but completion was not.
@@ -100,31 +98,43 @@
 
 ### Career Realm — TMT Research
 
-- Completed a thorough contrarian case for MTS for the Strategy report.
-- Delegated preparation of the Wildberries ecosystem effect versus Nvidia comparison requested by Denis.
-
-### Household Realm — Family
-
-- Covered Owling while Sergey Jr attended football.
+- Met a client regarding Promomed and received positive feedback on the case, with low liquidity identified as a potential deal breaker.
+- Reviewed Artem's completed Growth Stock Index work, which supports the hypothesis that the growth-stock premium has compressed toward historical lows.
+- Began deep investigation into platform economy ahead of Andrey's requested report plan.
 
 ### Household Realm — Capital
 
-- Hosted another Capital Watch for potential buyers.
+- Completed a smooth Capital Watch in which the potential buyer appeared interested.
+
+### Household Realm — Family
+
+- Returned home for Oksi's manicure appointment and walked the children while she was away.
 
 ## Notable Developments
 
 ### Career Realm — Strategy
 
-- Denis introduced a new analytical comparison between Wildberries' ecosystem effect and Nvidia, with slides required by Friday. The Warden delegated execution, creating a short review-and-delivery cycle rather than another fully self-produced workstream.
-- The MTS Strategy work reached a substantial analytical milestone through completion of a thorough contrarian case.
+- Artem's Growth Stock Index supplied quantitative evidence in support of one of the Warden's central Strategy hypotheses: the valuation premium for growth stocks has compressed toward historical lows.
+- Promomed received positive client feedback, but liquidity emerged as a potentially decisive obstacle independent of the fundamental investment case.
+- Andrey imposed a near-term deadline for the Platform Economy report plan, prompting a deep investigation before sleep.
 
-### Household Realm — Capital / Family
+### Career Realm — Management
 
-- Another set of potential buyers viewed Capital, keeping the sale campaign active.
-- Oksi was tired and angry ahead of the viewing, adding another data point to the continuing Household capacity constraint after the intensive Stronghold campaign and the children's school transitions.
+- Artem's interview at a competing bank appears to have strengthened his appreciation for the current team's culture. The retention question therefore remains centered on internal promotion and Andrey's response rather than attraction to that competitor.
+
+### Household Realm — Capital / Stronghold
+
+- The latest Capital Watch was encouraging and another is scheduled, increasing the probability that the relocation campaign may become actionable.
+- This makes the Stronghold fence dilemma more acute: the fence is genuinely needed, but each ruble committed to it widens the relocation funding gap if Capital sells. Sequencing the two campaigns has become the core financial decision.
+
+### Household Realm — Family
+
+- Oksi reported feeling bad and aching throughout, while continuing with family logistics and her manicure appointment.
 
 ## Observer
 
-Day 072 was a day of argument and delegation. The Warden pushed the MTS case far enough to describe it as a thorough contrarian argument for Strategy, while Denis supplied a fresh question: compare the ecosystem effect of Wildberries with Nvidia. This time the first move was not to absorb the work personally but to delegate it, with Friday as the review horizon.
+Day 073 made several hypotheses more real. A client liked Promomed but exposed the practical boundary of the case: liquidity can defeat fundamentals. Artem's Growth Stock Index did the opposite for the Strategy thesis, providing evidence that the growth premium has compressed toward historical lows. His outside interview also clarified something about the promotion problem: the competing bank did not become more attractive; the unresolved question remains what the current institution will do with him.
 
-At home, ordinary family logistics resumed around Sergey Jr's football and Owling. Capital then opened again for potential buyers. The campaign is alive, but the human cost around it remains visible: Oksi entered another viewing tired and angry. No dramatic Household event occurred, yet capacity itself remains one of the operational constraints shaping what can be carried next.
+Capital supplied the day's most consequential uncertainty. A Watch went smoothly, another is coming, and an actual offer no longer feels purely hypothetical. That makes the Stronghold fence harder to decide, not easier. If Capital were stalled, the fence could simply be bought. If Capital moves, the same expenditure becomes a direct addition to the relocation deficit. The problem is now one of sequence and restraint between two legitimate Household goals.
+
+The day ended with the Warden covering the children while Oksi went to her manicure, then returning to Career for a deep investigation of platform economy before sleep. Andrey's requested plan gives that work an immediate deadline.

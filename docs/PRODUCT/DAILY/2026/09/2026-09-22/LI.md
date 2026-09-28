@@ -1,15 +1,11 @@
 LI
 
-Strategy report published, so one large campaign moved through important milestone, next is marketing
+Chaotic day navigating between coordinating Strategy presentation, finishing Platform report and orchestrating tasks, well until post-office hours
 
-Cutting through platforms report, I have a lot of incoming materials from juniors and need to streamline the report. This also include adding meaningful parts.
+Made it home almost on time for Oksi to get to manicure. She is still displeased with me for not replying her during the day - I simply couldn’t
 
-Stronghold utilities bill: management company sent me a notice to pay within 10 days which I’m ok with, but numbers don’t add. Asked management to investigate and provide the right number or explain the difference.
+Managed kids dinner and bed. Oksi came soon after, feeling bad and angry - as she always does - get angry with me when she is sick
 
-LI
+Fuel quest - this time not an easy one, had to check 5 stations until I found the one that had fuel.
 
-Evening: Sergey Jr football and Owling control at the playground
-
-Oksi not getting better, I ran to pharmacy to get her some medicines after Owling’s bedtime. Also helped her remove splinter from her finger
-
-Oksi bought more plants and now I like them - theee small fir trees. Hopefully I’ll finally have a forest corner amid the flourishing garden (and endless pits)
+Oksi woke me in the middle of the night saying that she feels very bad. Helped her find some pills and calmed her a bit. Tomorrow will be a tough day for both of us…

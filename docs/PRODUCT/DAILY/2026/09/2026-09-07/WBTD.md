@@ -2,9 +2,16 @@
 
 ## Active Commitments
 
-### Career Realm
+### Career Realm — Management
 
+- Protect progress on the two short Career deadlines despite reduced availability from Household demands.
+- Continue using Artem for manual execution where appropriate while retaining analytical and editorial control.
 - Track Artem's promotion process after the preliminary green light; the process is expected to take time.
+
+### Career Realm — TMT Research
+
+- Have Artem rework the Strategy report's ERP / earnings reasoning so the valuation argument accounts for the possibility that the market prices both elevated ERP and lower EPS expectations.
+- Review the revised Strategy section against likely investor objections before it is finalized.
 - Review the Platform Economy draft when Alexander and the juniors return it and develop the approved plan into the report.
 - Continue the Promomed, MTS, Growth Stock Index, VseInstrumenti, Astra, HeadHunter and broader Strategy/TMT work carried forward.
 - Continue assessing AI implications including Yandex AI.
@@ -13,11 +20,11 @@
 
 ### Household Realm — Family
 
-- Clarify and resolve Sergey Jr's formal School 444 admission after learning that his current age of 6 years 4 months is below the reported formal threshold of 6 years 6 months, despite acceptance by teachers and management.
-- Support Oksi through the additional anxiety created by the School 444 uncertainty.
-- Continue recovering from the illness reported across Days 075–076; Oksi was also reported ill on Day 076.
+- Wait for School 444 staff to resolve the current externally controlled step in Sergey Jr's formal admission and follow up when new action is required.
+- Support Oksi through the uncertainty without treating a step controlled by the school as something the Household can accelerate directly.
+- Continue accounting for Oksi's illness and the resulting impact on Household capacity.
 - Support the children through their school transitions and routines, including Maksim's first days at his new school.
-- Preserve room for calm recovery when Household demands accumulate.
+- Preserve room for recovery when Household demands accumulate.
 - Continue cautiously exploring the recent softening around the Warden's parents eventually seeing the children again while preserving parenting boundaries.
 - Maintain the established privacy boundary around Stronghold.
 
@@ -30,19 +37,16 @@
 
 ### Household Realm — Stronghold
 
-- Have Sergey the Landscaper inspect the drainage and basement-decoration situation next week.
+- Have Sergey the Landscaper inspect the drainage and basement-decoration situation when scheduled.
 - Continue trying to reach Roman regarding drainage and basement decoration.
 - Decide fence timing in conjunction with the Capital Campaign and Oksi.
-- Continue the planting campaign and remaining soil, materials, Bathroom, plumbing, kitchen-preparation and landscaping work where still outstanding.
-- Track the water-test result and remaining garden work.
+- Continue the planting campaign and remaining Stronghold work where still outstanding.
 - Reduce or better organize Stronghold procurement and logistics to protect Household capacity.
-- Continue developing a sustainable relationship with Stronghold alongside its continuing demands.
 
 ### Household Realm — Mobility
 
 - Obtain new winter tyres in the appropriate season.
 - Continue treating fuel availability as a live logistical constraint while the shortage persists.
-- Recognize that solitary driving has provided useful recovery time across Days 075–076, while avoiding unnecessary additional logistics where possible.
 
 ### Third Realm — RealMe
 
@@ -59,34 +63,33 @@
 
 ## Completed Commitments
 
-### Household Realm — Stronghold
+### Career Realm — TMT Research
 
-- Dug additional pits for flowers and trees during Day 076.
-- Retrieved Oksi's forgotten bag with documents from Stronghold after the family had returned to Capital.
+- Reviewed Artem's Strategy report draft.
+- Accepted the new part as fine and identified a vulnerability in the older ERP-based valuation reasoning.
+- Drafted an action plan for Artem to rework the vulnerable section.
 
 ### Household Realm — Family
 
-- Managed the rainy Stronghold day with the children while Oksi continued planting outside.
+- Covered Owling at home while Oksi handled the School Admission Quest during illness.
+- Took Owling and Sergey Jr outside and met Alisa and her classmate at the playground.
 
 ## Notable Developments
 
+### Career Realm
+
+- Household demands directly reduced the Warden's available Career time during a period with two short deadlines, increasing reliance on delegation through Artem.
+- The Strategy thesis requires refinement: elevated ERP alone is insufficient as an explanation if market pricing also embeds lower EPS expectations.
+
 ### Household Realm — Family
 
-- Sergey Jr's School 444 situation shifted from apparent acceptance to an unresolved formal-admission problem because of the reported minimum-age requirement. Teachers and management remain described as having accepted him; the obstacle is formal eligibility at his current age.
-- Both the Warden and Oksi were dealing with illness, although the Warden reported feeling somewhat better than on Day 075.
-
-### Household Realm — Stronghold
-
-- The planting campaign continued despite sustained rain, with Oksi planting and the Warden contributing additional digging while primarily managing the children.
-
-### Household Realm — Mobility
-
-- A forgotten document bag generated an unplanned 130 km / 2.5 hour Stronghold round trip. The Warden experienced the solitary drive as restorative rather than purely burdensome.
+- School 444 staff stated that the current admission step is their responsibility. Sergey Jr's formal admission remains unresolved, but no additional Household action was identified during Day 077.
+- Oksi remained anxious about the pace and lack of control over the process.
 
 ## Observer
 
-Day 076 repeated much of the weather and Household pressure of Day 075 but at lower intensity. Longer sleep for Owling and some improvement in the Warden's condition created more room. Oksi pushed the garden forward outside while the Warden held the interior, and even the planting pits advanced between those duties.
+Day 077 was a day of constrained agency. The Warden could not go to work when Career time was particularly valuable, because Household capacity required him at home. Yet Career did not stop: Artem carried execution while the Warden supplied judgment, and that judgment caught a material weakness in the Strategy argument before investors could.
 
-The new uncertainty is School 444. Sergey Jr appears wanted by the people at the school but, according to the information received, not yet formally eligible by age. That distinction matters: the problem is now a procedural barrier to clarify rather than a reported reversal by teachers or management.
+The School Admission Quest presented the opposite problem. There, more effort from the Household would not necessarily produce more progress because school staff said the current step belongs to them. The Warden described the appropriate response as behaving the RealMe way: recognize what is externally controlled, calm down and wait for the state to change.
 
-The final journey also continued an emerging pattern. For a second evening, an inconvenient Household errand became quiet time on the road. The 130-kilometre retrieval of Oksi's documents was objectively inefficient and subjectively restorative — duty converted into a small interval of solitude.
+Across both Realms the same distinction mattered. Where action remained possible, delegate and intervene precisely. Where control had passed elsewhere, preserve attention rather than spending it on motion that cannot change the outcome.

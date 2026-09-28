@@ -2,48 +2,46 @@
 
 ## Career Realm
 
-### Equity Strategy
+### Equity Strategy / MTS
 
-- The team received the latest Strategy feedback and incorporated it.
-- Strategy remains in its final correction / production cycle rather than requiring another broad analytical rebuild.
+- The Warden continued finalizing Equity Strategy.
+- After incorporating MTS's new shareholder-distribution policy, the Warden decided to keep MTS among the Strategy top picks.
+- The revised conclusion is that the change from an all-dividend distribution to a 70% dividend / 30% buyback split lowers DPS but does not change the Warden's fair value assessment.
+- The Warden therefore chose not to remove the stock simply because sentiment around the dividend policy had weakened.
 
 ### Platform Economy
 
-- The Warden consolidated the Platform Economy report and submitted it to Andrey.
-- Andrey returned constructive feedback.
-- The Warden began incorporating the requested changes, moving the report into another focused revision round.
+- The Warden continued finalizing the Platform Economy report after Andrey's feedback.
+- The report was handed to Artem for formatting over the weekend.
+
+### Analyst Rating / Broker Relations
+
+- A fellow broker was interested in FabricaONE bonds and Polyus following the dividend cancellation.
+- The Warden arranged a call with colleagues to help address those interests.
+- The Warden also asked the broker to vote for the team in the upcoming analyst contest, putting the previously agreed enrollment strategy into practice.
 
 ## Household Realm
 
 ### Stronghold
 
-- Kitchen assembly began at Stronghold.
-- Late in the day, the kitchen assembler reported that his car had broken down and he would not be able to return the following day.
-- The kitchen will therefore remain half-finished during the family's weekend stay. The Warden does not blame the assembler, but expects the incomplete kitchen to make the weekend materially less comfortable.
-- Existing Stronghold campaigns around drainage, basement works, fencing, gas documentation and remaining furnishing continue alongside the kitchen work.
+- The family travelled to Stronghold for the weekend after a tense departure from home.
+- The kitchen remains unfinished after the assembler's interruption.
+- The Warden cleaned the mess left after the kitchen assembly work.
+- After the cleanup, the evening gradually shifted toward a normal Stronghold rhythm.
+- A hare appeared directly by the family's plot.
 
-### Family — School
+### Family
 
-- Sergey Jr was refused permission to use the WC during a lesson, resulting in an accident at school.
-- Oksi investigated the incident through the class chat.
-- The School 444 teacher later called, and the issue appears mostly resolved.
-- Separately, Sergey Jr passed the School 57 preliminary stage and advanced to Stage 2. Oksi was happy about the result.
-- These are parallel school developments: Sergey Jr remains at School 444 while the School 57 process advances.
-
-### Capital
-
-- Potential buyers were scheduled to visit Capital.
-- The Warden walked with the children while Oksi prepared the apartment.
-- Owling became tired and scandalous, so they returned shortly before the viewing.
-- The visitors were a couple without children. They seemed to like the apartment, but no purchase outcome has yet been reported.
-- Oksi conducted the showing while the Warden rocked Owling.
+- Oksi was tired and in a bad mood at home, consistent with a difficult Friday transition rather than treated as a durable state.
+- The drive to Stronghold was nervous.
+- Once at Stronghold and after the initial cleanup, Oksi gradually calmed as the evening normalized.
 
 ## Reflection
 
-Day 087 kept several paths open at once. Strategy absorbed another round of feedback while Platform Economy reached Andrey, returned with constructive comments and immediately entered revision. Neither report was static; both were moving through the hands that now mattered.
+Day 088 separated two ideas that had briefly risked becoming one. The Warden had been wrong about MTS DPS, but that did not automatically mean the stock had become a bad investment. With total shareholder distribution unchanged, the revised policy altered the form of returns without changing the Warden's fair value. MTS therefore remained among the Strategy top picks despite weaker sentiment.
 
-Sergey Jr's school day carried two very different developments. An upsetting WC incident at School 444 required Oksi to investigate and was mostly resolved after the teacher called. At the same time, School 57 advanced him to Stage 2 of its preliminaries, giving the family another reason to keep that educational path open without changing his current School 444 status.
+The analyst contest also moved from planning into practice. A useful broker relationship created a natural opportunity: the Warden arranged access to colleagues on FabricaONE bonds and Polyus, then asked directly for support in the vote.
 
-Capital also received another viewing. The couple seemed to like the apartment, but the visit remains only a viewing until an offer or other next step appears.
+Platform Economy reached another handoff, this time to Artem for weekend formatting.
 
-Stronghold's kitchen finally began to take physical form, then stopped halfway when the assembler's car broke down. No blame was attached, but the timing matters: the family is heading into a weekend stay with the room that should improve everyday life temporarily caught between construction and completion.
+Stronghold began less smoothly. Oksi was tired and irritated, the drive was tense, and the unfinished kitchen had left a mess. The Warden cleaned it. Then the house slowly resumed its ordinary weekend character. A hare appeared at the plot, Oksi calmed, and the evening became less about what remained unfinished and more about simply being there.

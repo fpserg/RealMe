@@ -1,13 +1,13 @@
 LI
 
-Owling woke up in the middle of the night, I rocked him back into sleep and found myself sleeping on the floor next to his bed in a few hours
+Morning routine back to normal weekdays: brought kids to school, heading to the office. Oksi is still unwell, but Career can’t be sacrificed longer.
 
-Took kids to school, and when I came back Oksi told me that I have to stay home as she feels sick, and will not survive Jr’s School Admission Quest together with Owling. I had to, but that’s a serious drawback for Career as I have intense time with two short deadlines so every day counts.
+Deep work on finalizing Strategy Report before submitting draft to Andrey. Spent quite some time explaining Artem hypothesis of market assigning lower EPS rather than higher ERP to test. Then finalizing TMT part and joining parts together. Also reviewing Alexander and juniors’ work on platforms in the meantime. No lunch and late hours today.
 
-Managing Career through Artem, most manual work is on him.
+Kitchen is ready to be installed, but the bath is still in the middle of the future kitchen. High time for Roman to put bath in its place.
 
-Oddly, School Admission Quest didn’t require much Oksi’s effort. School staff told her it’s on them. She’s still anxious that it is moving not as fast as she wants and she can’t impact. I was telling her to (behave RealMe way) calm down and wait while this step is resolved externally.
+Oksi already put Owling to bed when I came home. She was tired and angry, initially because Sergey Jr is not yet accepted at School 444 and she can do nothing. Then of course it spilled over on me, Roman and who else. Disappointing end to a hard work day.
 
-Took Owling and Jr out. Met Alisa and her classmate at the playground as she asked to walk on her own after school.
+Alisa got two Fives and a Four today. I like it so much how she started the year, hope it lasts.
 
-Artem sent me a Strategy report draft. The new part is fine, but I found new reasoning in the old part where we argue that ERP is extremely high. This won’t hold: the market apparently prices in lower EPS apart from elevated ERP, so we’d be destroyed by investors. Drafted him action plan to rework this part.
+Owling recalled his earlier days and here I am on the Night Watch partying, reading kids books and watching cartoons.

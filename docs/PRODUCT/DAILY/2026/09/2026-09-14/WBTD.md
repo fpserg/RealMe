@@ -2,17 +2,21 @@
 
 ## Active Commitments
 
-### Career Realm — Equity Strategy
+### Career Realm — Equity Strategy / Platform Economy
 
-- Follow the Strategy draft through compliance and production and address any corrections that return.
-- Prepare for Strategy client calls once the report is cleared and ready.
-- Continue Platform Economy and broader Strategy/TMT work.
+- Complete final Equity Strategy work and follow the report through remaining production / client-call stages.
+- Continue compiling and developing the Platform Economy report.
 
 ### Career Realm — MTS
 
-- Track the MTS board meeting and the stock-exchange meeting scheduled for the following day next week.
-- Test the hypothesis that the stock-exchange event concerns dividend policy; do not treat the agenda as confirmed until MTS discloses it.
-- Prepare the contrarian dividend-policy view for Sales and eventual client discussions.
+- Track the MTS board meeting and subsequent stock-exchange event.
+- Test the dividend-policy thesis against the eventual company decision and market reaction rather than treating either the Warden's or market's view as settled in advance.
+- Continue using investor and client conversations to pressure-test the thesis where useful.
+
+### Career Realm — ECM / Promomed
+
+- Confirm exact October timing for Promomed's planned plant trip and the new IPO milestones.
+- Prefer a one-day Promomed visit if that is sufficient to avoid conflict with the IPO timetable.
 
 ### Career Realm — Management
 
@@ -21,20 +25,20 @@
 
 ### Household Realm — Stronghold
 
-- Prepare for kitchen assembly Thursday-Friday next week now that the kitchen has been delivered.
+- Receive the fence manufacturers on Sunday for plot measurement and use the result to advance the Fence Campaign toward scope and pricing.
+- Prepare for kitchen assembly Thursday-Friday now that the kitchen has been delivered.
 - Confirm that the cooker's passport is present and complete the current prerequisite set for the Gas Campaign.
 - Find a workable day between Strategy calls and Platform Economy work for another Gas Campaign document-submission attempt.
-- Meet Alexey next week to discuss further Stronghold work steps.
-- Address Kadyr's outstanding wage on September 15.
-- Follow up with Sergey the Landscaper on the basement cover and drainage after the latest discussion.
-- Decide whether routine Stronghold work should increasingly move toward local masters.
-- Continue fence, planting and remaining Stronghold work where still outstanding.
+- Meet Alexey to discuss further Stronghold work steps.
+- Address Kadyr's outstanding wage, expected on September 15 if still unpaid.
+- Follow up with Sergey the Landscaper on the basement cover and drainage.
+- Continue planting and remaining Stronghold work where still outstanding.
 - Obtain rubber boots before attempting the damp forest path again.
 
 ### Household Realm — Family
 
-- Support the children through their school routines and developing local friendships around Stronghold.
-- Preserve room for recovery after the intensive Career week and continuing Night Watches.
+- Support the children through their school and activity routines.
+- Protect opportunities for earlier sleep and recovery where possible after the recent intensive period.
 
 ### Household Realm — Capital
 
@@ -43,7 +47,7 @@
 
 ### Household Realm — Mobility
 
-- Continue treating fuel availability as a live logistical constraint despite the latest easy refill.
+- Continue treating fuel availability as a live logistical constraint despite recent easy refills.
 - Obtain new winter tyres in the appropriate season.
 
 ### Third Realm — RealMe
@@ -58,36 +62,34 @@
 
 ## Completed Commitments
 
+### Career Realm
+
+- Identified a potential collision between the October IPO and Promomed plant trip and checked it with Alexey of ECM; current indication is that a one-day trip may fit outside IPO milestones.
+- Pressure-tested the MTS dividend thesis in a conversation with a fellow investor, who found it useful.
+
 ### Household Realm — Stronghold
 
-- Discussed basement cover and drainage with Sergey the Landscaper; Oksi completed the discussion when Owling needed to be put to sleep.
-- Added soil and more plants to Stronghold supplies.
-- Dug additional flower pits during Owling's sleep window.
+- Contacted fence manufacturers and scheduled a Sunday visit to measure the Stronghold plot.
 
 ### Household Realm — Family
 
-- Supported Alisa after the upsetting football-field episode by bringing Sergey Jr home for lunch; both children later returned to the football field.
-- Returned the children home and prepared them for the next school day despite the long travel delay.
-- Maksim independently prepared salad, his first homemade pancakes and cut apples for the family.
-
-### Household Realm — Mobility
-
-- Completed a late-night fuel refill at a nearby station with no queue.
+- Sergey Jr received his own team's branded football shirt and began wearing it instead of the Ronaldo shirt.
+- The Warden and Oksi went to bed before midnight for the first time in a long while.
 
 ## Notable Developments
 
-- Sergey the Landscaper's latest visit returned the basement cover and drainage to active discussion, though his lateness remains part of the working pattern.
-- Alisa was upset by a social episode involving Roma and his older friends, but she and Sergey Jr chose to return to the football field after lunch.
-- Maksim made his first pancakes successfully and surprised the Warden with an independently prepared meal.
-- An attempted traffic detour backfired and cost nearly an hour at a railway crossing.
-- Fuel was readily available nearby without a queue.
+- The Fence Campaign moved from discussion toward execution with a scheduled plot measurement on Sunday.
+- The practical need for a fence is increasing as Stronghold accumulates more possessions and garden assets.
+- The potential Promomed / IPO schedule collision appears manageable based on the first ECM check, but exact dates remain unresolved.
+- The MTS thesis has now received a useful external investor reaction while its central question remains open.
+- Earlier sleep marked a small but meaningful recovery milestone after weeks of late nights and Night Watches.
 
 ## Observer
 
-Day 083 was not a milestone day. That may itself be a sign of Stronghold's progress. Soil runs, landscaper discussions, flower pits and children moving between the house and football field increasingly resemble the routine of living there rather than a special construction expedition.
+Day 084 was built around things being positioned for their next test. Strategy was being finalized. Platform Economy was being assembled. The Promomed trip was tested against an approaching IPO calendar before the conflict became real. The MTS thesis left the Warden's desk and met another investor, but the decisive verdict still belongs to the company and market.
 
-Not everything ran smoothly. The landscaper was late again. Alisa came home crying. A traffic workaround became worse than the original problem. Yet each disruption was absorbed: Oksi finished the contractor conversation, the Warden brought Sergey Jr home for Alisa, the children returned to play, and the family eventually reached home before school.
+Stronghold's fence followed the same pattern. Oksi has talked about it for a long time, but on Sunday someone will finally arrive with measurements. The boundary around Stronghold is beginning to move from idea to specification just as the house and garden contain more worth protecting.
 
-Then Maksim had food waiting. His first pancakes were good enough to genuinely surprise the Warden. Against a day of small logistical corrections, that independent act of competence stood out.
+Sergey Jr's new shirt offered a much smaller transition: from wearing a famous player's identity to wearing the colours of the team he actually plays for.
 
-Even the final fuel quest refused to become a campaign. The station nearby had fuel and no queue. Sometimes continuity is simply the absence of another problem.
+And at the end, no one needed another hour from the day. The Warden and Oksi were tired enough to go to bed before midnight. After the recent rhythm, that counted as progress too.

@@ -4,23 +4,23 @@
 
 ### Career Realm — Platform Economy
 
-- Make Platform Economy the primary active report while Equity Strategy moves through its final production and compliance stages.
 - Continue compiling, editing and developing the Platform Economy report for the Gazprom conference audience.
 
 ### Career Realm — Equity Strategy
 
-- Let Artem complete the final changes while production and compliance process the report.
-- Address any corrections that return and prepare for the remaining client-facing stages.
+- Complete the remaining Strategy corrections, including full incorporation of MTS's announced shareholder-distribution policy.
+- Follow the report through production and compliance and prepare for remaining client-facing stages.
+
+### Career Realm — MTS
+
+- Replace the disproved higher-DPS thesis with the announced policy: unchanged total shareholder distribution, split 70% dividends / 30% buybacks.
+- Incorporate useful clarifications from the stock-exchange presentation into analysis where relevant.
+- Assess the implications of lower DPS and the buyback component for valuation, shareholder returns and market expectations without carrying forward the old thesis.
 
 ### Career Realm — Analyst Rating
 
 - Execute the enrollment strategy agreed with Head of Sales Mikhail.
 - Complete remaining rating coordination and outreach as required.
-
-### Career Realm — MTS
-
-- Track the MTS board meeting and subsequent stock-exchange event.
-- Test the dividend-policy thesis against the eventual company decision and market reaction.
 
 ### Career Realm — ECM / Promomed
 
@@ -29,26 +29,27 @@
 
 ### Career Realm — Management
 
+- Address the current retail brokerage tensions as needed.
 - Track Artem's promotion process after the preliminary green light.
 
 ### Household Realm — Stronghold
 
 - Coordinate Kadyr's Thursday visit with the kitchen assemblers so kitchen items can be moved as required.
 - Receive and supervise kitchen assembly Thursday-Friday.
-- Begin and track drainage and basement works with Sergey the Landscaper as they move from planning toward execution.
+- Begin and track drainage and basement works with Sergey the Landscaper.
 - Receive the fence manufacturers on Sunday for plot measurement and advance the Fence Campaign toward scope and pricing.
 - Confirm that the cooker's passport is present and complete the current prerequisite set for the Gas Campaign.
 - Find a workable day between Career obligations for another Gas Campaign document-submission attempt.
 - Meet Alexey to discuss further Stronghold work steps if still outstanding.
 - Resolve Kadyr's outstanding wage if still unpaid.
-- Continue planting and remaining Stronghold work where outstanding.
+- Continue planting, furnishing and remaining Stronghold work where outstanding.
 - Obtain rubber boots before attempting the damp forest path again.
 
 ### Household Realm — Family
 
-- Support Oksi through the current tired / low-energy period without treating a single difficult evening as a durable state.
+- Support Oksi after another period of exhaustion.
 - Support the children through school and activity routines.
-- Protect opportunities for sleep and recovery where possible.
+- Prioritize recovery after the latest near-sleepless Night Watch where circumstances allow.
 
 ### Household Realm — Capital
 
@@ -72,36 +73,37 @@
 
 ## Completed Commitments
 
-### Career Realm
+### Career Realm — MTS
 
-- Shifted primary work from Equity Strategy to Platform Economy while Artem handles final Strategy changes and the report remains with production and compliance.
-- Agreed an analyst-rating enrollment strategy with Head of Sales Mikhail.
-
-### Household Realm — Stronghold
-
-- Arranged Kadyr's Thursday attendance to support the kitchen assembly by moving kitchen items as required.
-- Completed another evening plant delivery trip to Stronghold with Oksi.
-- Advanced drainage and basement work with Sergey the Landscaper to the point where execution is about to begin.
+- Received the definitive answer to the dividend-policy question: the Warden's higher-DPS thesis was disproved.
+- Attended the MTS stock-exchange presentation for clarification and networking.
+- Began rewriting the MTS section of Equity Strategy around the announced 70% dividend / 30% buyback split.
 
 ### Household Realm — Family
 
-- Took Owling and Sergey Jr for a walk when Oksi was tired and sad.
-- Completed the evening Stronghold trip with Oksi despite the Warden's headache.
+- Took Owling to collect Sergey Jr from football while Oksi was exhausted.
+- Discussed Amur tiger habitat with Sergey Jr on the return journey.
+
+### Household Realm — Stronghold
+
+- Oksi acquired a new garden table and chairs for Stronghold.
 
 ## Notable Developments
 
-- Equity Strategy has entered a lower-touch handoff phase: Artem, production and compliance now carry much of the immediate next work, freeing the Warden to switch focus to Platform Economy.
-- Analyst-rating preparations now have an enrollment strategy agreed with Sales leadership.
-- Thursday is becoming a concentrated Stronghold execution point around kitchen assembly and Kadyr's support.
-- Drainage and basement works are approaching actual commencement after a long period of planning and contractor uncertainty.
-- Oksi had a tired and sad evening; the Warden responded by taking Owling and Sergey Jr out before their later Stronghold expedition.
+- The MTS uncertainty that had occupied several recent days is now resolved against the Warden's thesis: total distribution is unchanged, but lower cash dividends follow from the new buyback allocation.
+- The Strategy report requires a factual MTS rewrite rather than further defense of the old scenario.
+- Retail brokerage tensions added another management demand during final Strategy corrections.
+- Stronghold's garden continues to acquire the infrastructure of ordinary use, now including a table and chairs.
+- Another severe Night Watch left the Warden with very little sleep before morning.
 
 ## Observer
 
-Day 085 was a day of handing the next move to someone else. Strategy moved into the hands of Artem, production and compliance while the Warden turned toward Platform Economy. The analyst-rating campaign acquired an agreed enrollment strategy rather than remaining an open coordination problem.
+Day 086 supplied a clean test of a live investment thesis, and the thesis failed. MTS kept total shareholder distribution unchanged but changed its composition: 70% dividends and 30% buybacks instead of the previous all-dividend structure. The consequence was lower DPS than the Warden had expected.
 
-At Stronghold, Thursday's kitchen work was prepared by putting Kadyr in the right place at the right time. Sergey the Landscaper's drainage and basement campaign also approached the point where discussion becomes physical work.
+There was no need to manufacture ambiguity around the result. The Warden went to the stock-exchange presentation, collected the available clarifications, returned to the office and rewrote the Strategy section. A forecast had met reality; reality won.
 
-The evening showed the same principle on a smaller scale. Oksi was tired and sad, so the Warden took Owling and Sergey Jr out. Later, the two adults still made the plant expedition to Stronghold. The Warden had a headache, but the road supplied no additional crisis.
+The day around that verdict remained demanding. Retail brokerage tensions competed with final Strategy work. Oksi was exhausted. Owling was wild enough to accompany the football pickup and later remained awake through the night.
 
-Progress today came less from personally completing campaigns than from arranging their next actors and allowing attention to move onward.
+Yet on the walk back from football, the Warden and Sergey Jr discussed where Amur tigers live. At home, new garden furniture waited for Stronghold. Even inside a day of failed theses and exhausted adults, the World continued acquiring knowledge and furniture.
+
+The durable lesson was not that the Warden had been wrong. It was that the thesis had been allowed to be falsifiable — and, once falsified, was rewritten.

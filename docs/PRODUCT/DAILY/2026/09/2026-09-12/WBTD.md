@@ -6,33 +6,35 @@
 
 - Follow the Strategy draft through compliance and production and address any corrections that return.
 - Prepare for Strategy client calls once the report is cleared and ready.
-- Continue coordinating team work while Artem remains sick and remote.
-- Continue Platform Economy and broader Strategy/TMT work carried forward.
+- Continue Platform Economy and broader Strategy/TMT work.
 
 ### Career Realm — MTS
 
 - Track the MTS board meeting and the stock-exchange meeting scheduled for the following day next week.
 - Test the hypothesis that the stock-exchange event concerns dividend policy; do not treat the agenda as confirmed until MTS discloses it.
-- Prepare the contrarian dividend-policy view for Sales and eventual client discussions, including the implications if market expectations are positioned for an increase.
-- Separate substantive MTS developments from promotional 5G headlines.
+- Prepare the contrarian dividend-policy view for Sales and eventual client discussions.
 
 ### Career Realm — Management
 
-- Complete remaining Best Analyst ranking coordination after the team sent voting registration forms to IR contacts.
+- Complete remaining Best Analyst ranking coordination.
 - Track Artem's promotion process after the preliminary green light.
-
-### Household Realm — Family
-
-- Support Oksi while she remains unwell.
-- Support Sergey Jr through the first days of School 444 and the children's continuing school routines.
-- Preserve room for recovery after the Strategy deadline and repeated sleep disruption.
 
 ### Household Realm — Stronghold
 
-- Receive the kitchen delivery as scheduled and prepare for assembly Thursday-Friday next week.
-- Verify that the bathtub, toilet and other kitchen prerequisites are fully ready before assembly.
-- Decide whether to shift routine Stronghold work from Roman toward local masters.
+- Prepare for kitchen assembly Thursday-Friday next week now that the kitchen has been delivered.
+- Confirm that the cooker's passport is present and complete the current prerequisite set for the Gas Campaign.
+- Find a workable day between Strategy calls and Platform Economy work for another Gas Campaign document-submission attempt.
+- Meet Alexey next week to discuss further Stronghold work steps.
+- Address Kadyr's outstanding wage on September 15.
+- Decide whether routine Stronghold work should increasingly move toward local masters.
 - Continue drainage, basement, fence, planting and remaining Stronghold work where still outstanding.
+- Obtain rubber boots before attempting the damp forest path again.
+
+### Household Realm — Family
+
+- Support Oksi's continuing recovery and dental care.
+- Support Sergey Jr and the other children through their school routines.
+- Preserve room for recovery after the intensive Career week and continuing Night Watches.
 
 ### Household Realm — Capital
 
@@ -56,31 +58,38 @@
 
 ## Completed Commitments
 
-### Career Realm
-
-- Passed Andrey's Strategy feedback to the team for implementation.
-- Supervised the team's voting-registration outreach to IR contacts.
-- Submitted the Strategy draft to compliance and production.
-- Verified the day's 5G headlines directly with MTS and concluded they were mostly PR rather than a major fundamental development.
-- Flagged the upcoming MTS stock-exchange meeting and dividend-policy hypothesis to Sales.
-
 ### Household Realm — Stronghold
 
-- Roman progressed the bathtub and toilet connections before the family's arrival.
-- The family arrived at Stronghold and the Warden restored immediate operating state: Owling to sleep, sink unloaded, water and heat switched on.
+- Kitchen delivery arrived and was unloaded.
+- The cooker arrived with the kitchen, resolving the previously missing physical prerequisite for the current Gas Campaign stage, subject to confirmation of its passport.
+- The children saw the bathroom and liked it.
+- Oksi and the Warden continued garden work; new rose bushes arrived.
+- The Warden arranged a meeting with Alexey for next week to discuss further work steps.
+
+### Household Realm — Family
+
+- The Warden handled Stronghold while Oksi attended her dentist appointment.
+- Roma unexpectedly returned and the older children went with him to the football field.
+- The Warden took all children to the playground before bedtime, leaving Oksi time for gardening.
+
+### Third Realm — RealMe
+
+- The Warden resumed RealMe development during Owling's Night Watch after several days focused heavily on Career.
 
 ## Notable Developments
 
-- Equity Strategy moved from deadline preparation into compliance / production.
-- The upcoming sequence of an MTS board meeting followed one day later by a stock-exchange event creates a potentially important near-term catalyst; dividend policy is the Warden's hypothesis but is not yet confirmed.
-- The Warden's confidence in using Roman for routine Stronghold work weakened further, with local masters emerging as a possible alternative.
-- Oksi remains unwell.
-- The Warden entered the night exhausted after a hard deadline day and the previous night's sleep disruption.
+- Stronghold's kitchen is now physically on site and the cooker may close the last currently missing documentary prerequisite for another Gas Campaign submission attempt.
+- Oksi repeatedly described Stronghold as turning from a construction site into a dream house; the Warden felt proud of the transition.
+- The nearby forest has become a new area for future exploration after the Warden observed apparent mushroom pickers and attempted the damp path with Owling.
+- Rubber boots are the practical prerequisite for another forest attempt.
+- Kadyr's outstanding wage is expected to require attention on September 15.
 
 ## Observer
 
-Day 081 was a day of filters and thresholds. Equity Strategy crossed the submission threshold into compliance and production. The loudest market story — 5G — failed the substance filter after direct verification with MTS. A quieter scheduling detail instead caught the Warden's attention: a stock-exchange meeting immediately after the board, potentially pointing toward dividend policy.
+Day 082 shifted Stronghold's center of gravity from construction toward inhabitation. The kitchen arrived. The bathroom was inspected by the children rather than contractors. Roses entered the garden. Roma knocked on the door and took the older children to the football field. A path toward the forest began to reveal itself.
 
-Stronghold offered its own version of filtering. Roman had completed meaningful bathroom work, yet the accumulation of dissatisfaction around smaller details pushed the Warden toward reconsidering who should handle ordinary jobs in the future.
+The cooker carried an unusually bureaucratic significance: its passport may complete the missing pieces for another Gas Campaign submission. Even that campaign now feels less like an endless search for prerequisites and more like a scheduling problem between Career obligations.
 
-By the end, the important thing was not to extract another hour from the day. The Strategy deadline had been met, the market signal had been flagged, Stronghold was operating, and the Warden was exhausted. Bedtime belonged to today too.
+Most important was Oksi's repeated description of the place as a dream house rather than a construction site, and the Warden's pride in hearing it. Stronghold still contains contractors, unpaid wages, wet paths and unfinished campaigns. But the house itself is becoming easier to see.
+
+The night ended with Owling awake and RealMe development returning after an intense Career week — a small reopening of the Third Realm inside another Night Watch.

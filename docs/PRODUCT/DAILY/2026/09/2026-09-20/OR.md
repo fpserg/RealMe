@@ -4,43 +4,46 @@
 
 ### Family
 
-- Owling's day began at 06:00, and the Warden's day began with him.
-- Oksi continued to feel unwell. During the morning Supplies Quest, the Warden bought lemon and sweets for her.
-- Sergey Jr had left his phone charger at Capital, so the Warden bought him another one.
-- Oksi pressed for clarity on when the kitchen assembler would return and then took the Warden's phone to handle the conversation herself.
-- Alisa met a new girl, Adelina, visited her home and had tea and sandwiches there. Sergey Jr joined later.
-- Alisa and Sergey Jr played peacefully at the football field and later helped watch Owling while the Warden dug more garden pits.
-- Evening showtime for Alisa and Sergey Jr was Pirates of the Caribbean, carrying an extra family association because Jack Sparrow is one of Oksi's RealMe nicknames.
+- Owling woke at 06:15, reinforcing an emerging early-morning rhythm, though earlier than the Warden would prefer on weekends.
+- Owling's noise woke the household, prompting the Warden to take him out on a Supplies Quest.
+- Oksi remained unwell. Owling developed a runny nose, and Alisa also began feeling unwell.
+- The Warden bought bananas for Owling, apples for Alisa and peaches because they looked good.
+- Oksi and the Warden disagreed over the Warden's next commitment after the contractors left: Oksi wanted more garden work, while the Warden wanted lunch and a nap.
+- The Warden attempted another garden pit, accidentally broke a shovel, then took the nap.
+- Later the family settled into an ordinary Stronghold Sunday: Oksi gardened, the children helped bag mown grass, and the Warden moved between Owling and garden work.
+- The family made the long drive back from Stronghold and arrived late and tired.
 
-### Stronghold — Land and Works
+### Stronghold — Supplies and Water
 
-- Sergey the Landscaper came to discuss the next stage of land works.
-- The drainage trench is now complete.
-- Alexey came to discuss further Kadyr commitments and related payments.
-- The Warden hired local lawnmowers to cut the grass.
-- Repeated mowing costs led the Warden to conclude that buying a lawn mower should be cheaper overall.
-- The Warden dug several more garden pits.
-- Completion timing for the unfinished kitchen remained an active issue.
+- The Warden and Owling completed the first actual Water Mission to the forest spring.
+- The route crossed a misty, hilly forest path with birch roots forming natural stairs; the Warden carried Owling on his shoulders and a canister by hand.
+- They returned with a full canister of spring water.
+- On the way to the next Supplies Quest mission, a man with a dog asked the Warden for a cigarette and had the dog wave its paw at Owling in exchange; Owling appeared puzzled.
 
-### Stronghold — Expeditions and Local World
+### Stronghold — Land and Fence
 
-- The Warden and Oksi made another nursery expedition.
-- Owling discovered a new Artifact: a piece of plastic pipe, which he fiercely refused to leave behind.
-- On the return journey, the family stopped at a forest spring the Warden had wanted to inspect for some time. The path was rough, but the water was refreshing enough to consider collecting spring water on a future Supplies Quest.
-- While walking Owling, the Warden finally met Mikhail, the previously mysterious owner of the Baba Yaga hut and Wooden Guardian. Mikhail carved the Wooden Guardian himself.
-- During their conversation, Mansur approached looking for work. The Warden took his number as a possible future helper for plumbing and water works.
-- Owling's soother later appeared to be lost. After an unsuccessful search, it was eventually found near the football field where Alisa and Sergey Jr had been playing.
+- Sergey the Landscaper arrived with his guild to build strawberry patches and dig pits for peach trees.
+- Konstantin the Fence Measurer measured the plot and calculated the fence installation.
+- Fence installation is expected to begin in about one week and be completed about one week after that.
+- The fence is a long-awaited Stronghold milestone, with the acknowledged drawback that the Hare will no longer be able to enter the plot once it is enclosed.
+- The Warden broke a shovel while attempting to dig another garden pit.
+
+### Stronghold — Adjacent Territory
+
+- A Day 089 development was recorded retrospectively: Oksi met Adelina's mother, Yulia, who is a neighbour.
+- Yulia said the plot directly beside the Stronghold belongs to her sister, who is considering selling it.
+- Oksi immediately saw the adjacent plot as a possible territorial expansion.
+- The family asked to be informed before anyone else if Yulia's sister decides to sell.
+- No sale decision, price or commitment to purchase has been reported.
 
 ## Career Realm
 
-- No new Career developments were recorded during Day 089. Existing Strategy, Platform Economy, MTS, analyst-rating and management commitments remain active where not otherwise completed.
+- No new Career developments were recorded during Day 090. Existing Strategy, Platform Economy, MTS, analyst-rating, Promomed and management commitments remain active where not otherwise completed.
 
 ## Reflection
 
-Day 089 was almost entirely a Stronghold day, and the world around the house became more populated and specific. The drainage trench moved from planned work to completed infrastructure. Sergey the Landscaper and Alexey both arrived to discuss what comes next. Grass maintenance produced a simple economic conclusion: repeated hired mowing is beginning to justify owning the machine.
+Day 090 turned several Stronghold possibilities into physical action. Yesterday's forest spring became today's Water Mission. The fence moved from a long-running dilemma to a measured project with an expected start and completion window. Sergey the Landscaper's guild began shaping strawberry patches and future peach-tree ground.
 
-The surrounding landscape also acquired names and routes. The forest spring was no longer a point of curiosity but a visited place. The owner of the Baba Yaga hut and Wooden Guardian became Mikhail rather than a mystery. Mansur appeared almost by accident and may become useful for future water and plumbing work.
+At the same time, Stronghold acquired a possible new frontier. Through Alisa's new friendship with Adelina came Oksi's acquaintance with Yulia, and through Yulia came the information that the neighbouring plot may eventually be sold. Captain Sparrow immediately recognized the expansion logic, while the Treasury implication arrived just as quickly. For now it is only optionality: the family has secured an early conversation if a sale becomes real.
 
-Owling contributed his own mapping system through Artifacts. A plastic pipe became non-negotiable treasure. His missing soother briefly looked like an offering to the day's new acquaintances or to the Wooden Guardian before turning up peacefully by the football field.
-
-Meanwhile the older children were building their own local world. Alisa met Adelina and visited her home, Sergey Jr joined them later, and both children helped with Owling while garden work continued. By evening, the day ended with Pirates of the Caribbean — appropriately enough for a household in which Oksi already carries the name Jack Sparrow.
+The rest was ordinary Stronghold Sunday in its increasingly familiar form: children, garden labour, disagreement over how much labour is enough, a broken shovel, a nap, bagged grass and a long tired drive home.

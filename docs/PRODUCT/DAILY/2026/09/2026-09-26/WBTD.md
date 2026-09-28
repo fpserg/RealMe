@@ -4,32 +4,32 @@
 
 ### Household Realm — Family / Sanya
 
-- Attend Sanya's funeral tomorrow with Oksi.
-- Allow the immediate practical and emotional consequences of Sanya's death to take priority where needed.
-- Preserve the complexity of the shared history without reducing Sanya either to the old conflict or to an idealized memory.
+- Allow the immediate aftermath of Sanya's death and funeral to settle without forcing a simpler interpretation of the relationship.
+- Preserve the final farewell as part of the shared history: the Warden expressed forgiveness and asked Sanya's forgiveness in return.
+- Maintain appropriate contact with people re-encountered through the funeral only where it arises naturally; no new obligation is inferred.
 
 ### Household Realm — Family / School
 
 - Continue normal children's school and activity routines.
-- Preserve the positive School 444 trajectory visible in Sergey Jr's engagement and growing identification with school life.
+- Preserve the positive School 444 trajectory visible in Sergey Jr's growing identification with school life.
 - Continue Sergey Jr's School 57 process at Stage 2 without treating preliminary advancement as final admission.
 - Bring Sergey Jr a replacement pen cap if still outstanding.
 
+### Career Realm — VseInstrumenty / InfoLINE
+
+- Hold the planned Monday call with InfoLINE when Andrey returns.
+- Clarify the basis of InfoLINE's claim concerning use of its data in the VseInstrumenty report.
+- Preserve the distinction between an allegation and an established finding until the matter is resolved.
+
 ### Career Realm — Equity Strategy
 
-- Continue the Strategy report's marketing and client-facing stage after completing this week's main block of calls.
+- Continue the Strategy report's marketing and client-facing stage after completing the week's main call block.
 - Follow up on client discussions and distribution activity where appropriate.
 
 ### Career Realm — Platform Economy
 
 - Complete any remaining production work after the major report cycle.
 - Preserve the report's coherent argument and remove remaining duplication where necessary.
-
-### Career Realm — VseInstrumenty / InfoLINE
-
-- Prepare for the joint Monday call with InfoLINE when Andrey returns.
-- Clarify the basis of InfoLINE's claim concerning use of its data in the VseInstrumenty report.
-- Preserve the distinction between an allegation and an established finding until the matter is resolved.
 
 ### Career Realm — Analyst Rating / Broker Relations
 
@@ -49,13 +49,12 @@
 
 ### Household Realm — Stronghold
 
-- Continue settling the completed kitchen into ordinary family use after moving the refrigerator and beginning to organize kitchenware.
+- Continue settling the completed kitchen and basement into ordinary use after clearing remaining cardboard waste.
+- Continue land and garden works after the day's gardening and disposal of the oversized bush.
 - Resolve the utilities-bill discrepancy with the management company before payment.
-- Continue land works with Sergey the Landscaper.
 - Follow through on further Kadyr commitments and payments discussed with Alexey.
 - Prepare for fence installation around the end of September.
 - Continue the Gas Campaign prerequisites and find a workable day for another document-submission attempt.
-- Continue planting, furnishing and remaining Stronghold work.
 - Establish the three fir trees as the hoped-for forest corner.
 
 ### Household Realm — Adjacent Plot
@@ -83,123 +82,160 @@
 ### Third Realm — Tower
 
 - Complete the Tower dividend report.
-- Continue observing City of Heroes after launch, including its role as a sink for players' in-game revenues.
+- Continue observing City of Heroes after launch.
 - Monitor the post-listing TWR market and support liquidity in the Whale role as appropriate.
 - Let Alex continue operating the post-listing process while the Warden retains oversight.
 
 ## Completed Commitments
 
-### Career Realm
+### Household Realm — Family / Sanya
 
-- Completed the week's main Strategy client-call block and major report releases, allowing a quieter housekeeping day.
+- Attended Sanya's funeral with Oksi and Sergey Jr.
+- Re-encountered people from the Warden's earlier life, including Sanya's older son Roma.
+- Said a personal farewell to Sanya at the coffin.
+- Expressed forgiveness to Sanya and asked for forgiveness in return.
+- Preserved an age-appropriate boundary for Sergey Jr by stepping away before he approached the coffin.
 
-### Household Realm — Family / School
+### Household Realm — Family
 
-- Managed the disrupted morning departure and got Sergey Jr out in time for lessons.
-- Continued the school routine with Sergey Jr singing the Russia's Eaglets song from the first-graders event.
+- Sergey Jr helped care for and entertain Owling during the funeral, giving the Warden and Oksi more room to be present.
+- Resolved the evening conflict involving Alisa and Sergey Jr quickly.
+- Got Owling to sleep after a difficult bedtime struggle.
 
 ### Household Realm — Stronghold
 
-- Brought the family into the completed kitchen for the first time.
-- Moved the refrigerator into place with Maksim.
-- Began organizing kitchenware into the completed kitchen.
-
-### Household Realm — Family / Sanya
-
-- Arranged pet care around the family's Stronghold stay and upcoming funeral.
-- Shared memories of Sanya with Oksi through old videos and photographs.
+- Completed some gardening during Owling's daytime sleep.
+- Removed cardboard waste left from the Kitchen and Basement campaigns.
+- Removed an oversized bush by wheelbarrow beyond Neroschino's borders.
 
 ## Notable Developments
 
-- The Warden learned that his former close friend and classmate Sanya died on 2026-09-25.
-- Sanya's funeral is tomorrow and the Warden and Oksi intend to attend.
-- Sanya's death reopened a complicated shared history containing both close friendship and the later apparent affair that largely ended contact.
-- The Warden felt the shared shock brought more warmth between him and Oksi.
-- The completed Stronghold kitchen has moved immediately from construction milestone into active family life.
-- The day ended with the Warden and Oksi on the Stronghold deck, four children asleep, sharing a quiet sense that they had built the right life.
+- Sanya's funeral transformed the previous day's shock into a final physical farewell.
+- The sight of teenagers kicking leaf bags recalled the playful friendship the Warden and Sanya had shared roughly 25 years earlier.
+- Roma's growth from Owling's age to a 14-year-old of the Warden's height made the years of distance physically visible.
+- The Warden told Sanya that he forgave him and asked for forgiveness in return.
+- Sergey Jr's presence at the funeral proved practically helpful rather than burdensome.
+- After the funeral, Stronghold's ordinary family routines resumed immediately.
+- The day's final image was the Warden returning through Neroschino with an empty wheelbarrow under the full moon.
 
 ## Observer
 
-Day 095 began as comedy.
+Day 096 began gently.
 
-Owling woke one minute before departure.
+Owling waited until 07:30.
 
-Suddenly the calm machine of the school morning became milk, cookies, bags, bed-making and people running around a baby.
+Supplies.
 
-Somehow Sergey Jr still made it out.
+A walk.
 
-Then, on the walk to school, he sang Russia's Eaglets.
+A little gardening while he slept.
 
-Yesterday the Warden had watched a video of Jr raising his hand in class.
+Then the family left for Sanya's funeral.
 
-Today the school came home in a song.
+Sergey Jr wanted to come.
 
-Career was quieter. The week's calls were done. The big reports were out. Andrey was away. Housekeeping.
+The Warden hesitated.
 
-Then the Warden learned that Sanya had died.
+Oksi found the practical answer: Jr could help with Owling.
 
-Once, Sanya had been one of his closest friends.
+He did.
 
-A companion for crazy things.
+At the funeral he ran around with his little brother, keeping him entertained and leaving the adults a little more space for what they had come to do.
 
-Later came the apparent affair with Oksi, the rupture, and years in which they were almost no longer in each other's lives.
+On the approach, two teenagers were kicking bags filled with leaves.
 
-But distance does not rewrite the years before it.
+The Warden smiled sadly.
 
-Sanya had still been their friend.
+Twenty-five years ago, he and Sanya would absolutely have done that.
 
-Oksi cried on the road.
+Maybe they would have done it now.
 
-At Stronghold, life continued with almost offensive normality.
+Then came the people from another life.
 
-The children saw the new kitchen and were amazed.
+Faces not seen for years.
 
-Jr called it ancient.
+Roma.
 
-Maksim and the Warden pushed the damn heavy refrigerator into place.
+Sanya's older son.
 
-Oksi filled drawers and cheered about the kitchen.
+Fourteen now.
 
-Then she found an old video.
+As tall as the Warden.
 
-Sanya and the Warden goofing around.
+The last time the Warden had seen him, Roma had been Owling's age.
 
-As they always did.
+Time had not merely passed.
 
-Then photographs.
+It was standing in front of him.
 
-All of them young.
+Then the coffin.
 
-All of them joyful.
+Sanya's face had changed less than expected.
 
-Before the later history had happened.
+The Warden looked at him.
 
-It was difficult to reconcile those faces with the sentence that Sanya was gone.
+Quietly, he said what years of distance had never resolved.
 
-And yet the place in which they watched those memories was itself evidence of everything that had happened since.
+I forgive you.
 
-Stronghold.
+Forgive me too.
 
-The green kitchen.
+Then the familiar hay hair.
 
-Four children asleep.
+One brief touch.
 
-Warm tea on the deck.
+And the Warden stepped away before Sergey Jr approached.
 
-The Warden felt more warmth from Oksi.
+That part belonged to him and Sanya.
 
-Maybe grief had brought them closer.
+Then Stronghold.
 
-Maybe the kitchen deserved some credit too.
+Because life goes on.
 
-They sat there quietly.
+A late movie in Maksim's room.
 
-No need for a speech.
+A brief intervention between Alisa and Jr.
 
-Behind them was a complicated past that could no longer be changed.
+Owling refusing sleep.
 
-Inside was the family they had built.
+The Warden brawling with him until he finally won and had almost nothing left himself.
 
-And for a moment they silently agreed:
+Then rubbish.
 
-They had done everything right.
+Cardboard from the Kitchen and Basement campaigns.
+
+Fifteen minutes alone in the car.
+
+Meditation.
+
+Then one more object that refused to cooperate.
+
+A bush too large for the car.
+
+Into the wheelbarrow.
+
+Beyond Neroschino's borders.
+
+Dispose.
+
+Turn around.
+
+The wheelbarrow was empty now.
+
+Above him, the full moon.
+
+Behind him was a day carrying twenty-five years of friendship, betrayal, distance, regret and forgiveness.
+
+Ahead was Stronghold.
+
+Children asleep or settling.
+
+The kitchen.
+
+Oksi.
+
+Tomorrow.
+
+The Warden walked back beneath the moon.
+
+Pushing nothing.

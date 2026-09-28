@@ -1,19 +1,11 @@
 LI
 
-Strategy feedback received and incorporated by the team
+Finalizing Strategy and Platform reports. Decided to keep MTS among top picks and not surrender to sentiment: change in dividend policy doesn’t impact fair value.
 
-Kitchen assembly started at Stronghold
+Arranged a call with colleagues for fellow broker who was interested in FabricaONE bonds and Polyus after dividend cancellation and asked to vote for us in upcoming analyst contest.
 
-Working on platform report - consolidated and submitted to Andrey, received constructive feedback and incorporating changes
+Left Platform report to Artem for formatting over the weekend. Sorry buddy, that’s IB.
 
-Accident at school: Jr was rejected to WC during lesson. Oksi investigates in class chat. 
+Home. Oksi tired and in a bad mood as it often happens on Fridays. Nervous drive to Stronghold.
 
-Capital: walking kids while Oksi prepares for potential buyers’ visit
-
-Jr accepted at School 57 preliminaries Stage 2, Oksi is happy. Also 444 teacher called and WC accident mostly resolved.
-
-Owling tired and scandalous so getting back home just before visit
-
-Visitors are a nice couple, no kids, seemed to like our place. Oksi was showing while I was rocking Owling
-
-Kitchen assembler called late to tell that his car broke and he won’t be able to come tomorrow. So the kitchen remains half-done during our weekend stay. Not blaming him, but that makes upcoming weekend potentially quite uncomfortable.
+Cleaned mess after kitchen assemblers which remains unfinished. Then slowly turning into normal Stronghold evening. Saw a hare right at our plot. Oksi slowly calms.

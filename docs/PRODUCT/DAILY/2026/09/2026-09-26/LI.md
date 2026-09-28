@@ -1,21 +1,19 @@
 LI
 
-Ordinary morning: I wake up, raise kids and help them get prepared to schools while Oksi peacefully sleeps. Buuut… Owling wakes up just a minute before Jr and I have to set off. And suddenly everything is a mess. Oksi has to jump wake and make Owling milk, Alisa and I running around Owling trying to calm him, then I make Oksi’s bed while Oksi gives Jr cookies that don’t fit into his school bag so we have to rearrange the bag… Finally out, Jr is not late for lessons but could be late for breakfast. Owling peacefully sucks milk. 
+A graceful wake up call from Owling at 7:30, then morning routine - supplies, Owling walk, some gardening when he’s at his day sleep.
 
-On the way to school Jr sings me a song Russia’s Eaglets which they sang at first graders day.
+Set off to funeral. Jr asked to come along. First I was reluctant but Oksi said he could help us look after Owling so I agreed.
 
 LI
 
-A more relaxed day at work as we are done with the calls for this week, big reports are released and Andrey is on a business trip. Mostly housekeeping.
+Approaching funeral location I saw 2 teenagers kicking bags with leaves. I sadly smiled: that’s what Sanya and I would absolutely do 25 years ago, and maybe even now if he was around. At the place I saw people I haven’t seen for ages including Sanya’s older son Roma who is now 14 and of my height, but I last saw him when he was Owling’s age.
 
-On the way home learned shocking news: my classmate Sanya died yesterday. We were great friends long ago, he was always best companion for crazy things, but then I left him behind as he and Oksi apparently had an affair when we were already in relationship, so we almost were not in touch since. I know he was regretting it. Funeral is tomorrow and we gotta go.
+LI
 
-Sorted out pet care while we are at Stronghold and set off. Oksi cries on the way. Not because of the affair, Sanya was our friend after all and now he is gone.
+Jr plays his part: he is the one running around with Owling and keeping him entertained, so Oksi and I are less busy with that. 
 
-At Stronghold kids first saw our new kitchen and had a wow effect. Jr said it looked ancient. 
+During farewell ceremony I come to the coffin and look at Sanya’s face. He didn’t change as much as I had expected. I quietly said that I forgive him and asked him to forgive me too, briefly waved his hay hair and left just before Jr approached as I thought that would be a bit too much for him.
 
-Maksim and I pushed damn heavy fridge to its place. Oksi puts kitchenry in drawers and can’t stop cheering about our new kitchen. 
+LI
 
-Then she shows me an old video of Sanya and me goofing around as we always did, then found older photos of all of us young and joyful. Hard to believe he is no more.
-
-But I feel this shock made us closer, I feel more warmth from Oksi. Maybe its partially kitchen-driven though. Sitting at the Stronghold deck with warm tea, our 4 kids peacefully sleeping we silently agree that we did everything right.
+Back at Stronghold and life goes on. Kids on a late night movie show at Maksim room. We had to briefly interrupt as Alisa was predating Jr, but this was quickly resolved. I’m brawling with Owling for sleep and finally win this battle but totally exhausted. Then a 15 minutes drive to throw away carton boxes left from kitchen and basement campaigns feels like meditation. After that I get a large bush that didn’t fit in car, put it in the wheelbarrow and make another quest to throw it away beyond Neroschino borders. Another round of meditation on my way back with an empty wheelbarrow and under full moon.

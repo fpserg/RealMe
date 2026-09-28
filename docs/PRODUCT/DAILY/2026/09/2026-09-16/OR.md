@@ -2,37 +2,38 @@
 
 ## Career Realm
 
-### Equity Strategy / Platform Economy
+### MTS
 
-- Primary attention shifted from Equity Strategy toward the Platform Economy report.
-- Equity Strategy remains with production and compliance while Artem handles final changes.
-- The shift marks a practical handoff rather than final completion of Strategy; remaining production, compliance and client-facing stages still need to run.
+- MTS announced its new shareholder-distribution policy.
+- The Warden's prior dividend thesis proved wrong: total shareholder distribution remains unchanged, but the split changes from 100% dividends to 70% dividends and 30% buybacks, implying lower DPS.
+- The Warden attended the MTS presentation at the stock exchange. It added some clarifications and networking opportunities but little substantive information beyond the earlier announcement.
+- Back at the office, the Warden rewrote the MTS section of Equity Strategy to incorporate the new policy.
 
-### Management — Analyst Rating
+### Equity Strategy / Management
 
-- The Warden continued preparations for the analyst rating.
-- An enrollment strategy was agreed with Head of Sales Mikhail, moving the campaign from general preparation toward a defined approach.
+- Final Strategy corrections continued after the MTS announcement.
+- The Warden also dealt with tensions involving retail brokerage alongside the report corrections.
 
 ## Household Realm
 
-### Stronghold
-
-- The Warden arranged for Kadyr to come to Stronghold on Thursday when the kitchen assemblers arrive, so he can move kitchen items as required around the assembly work.
-- A new set of plants was waiting at home, creating another evening Stronghold delivery expedition.
-- The Warden and Oksi travelled to Stronghold after the children's bedtime and returned the same night. The Warden had a headache on the way, but the trip itself went smoothly.
-- Drainage and basement works with Sergey the Landscaper are now close to starting, moving those long-running Stronghold issues from discussion toward execution.
-
 ### Family
 
-- Oksi was tired and sad after the Warden returned home.
-- The Warden took Owling and Sergey Jr for a walk, giving Oksi some space before the later Stronghold trip.
+- Oksi was exhausted and Owling was in a wild mood.
+- The Warden took Owling along to collect Sergey Jr from football.
+- On the way back, the Warden and Sergey Jr discussed the habitat of Amur tigers.
+- Owling remained awake through much of the night, leaving the Warden only a very short sleep before morning.
+
+### Stronghold
+
+- Oksi brought home a new set of garden furniture: a table and chairs.
+- The furniture adds another element of ordinary inhabitation to Stronghold's garden as the property continues to move beyond its construction-site phase.
 
 ## Reflection
 
-Day 085 was built around handoffs. Strategy was no longer consuming the Warden's primary attention: Artem was making final changes while production and compliance carried the report forward, allowing the Warden to switch to Platform Economy. The analyst-rating campaign also acquired a defined enrollment strategy through Mikhail.
+Day 086 delivered the verdict that Day 084 had left open. The Warden's MTS dividend thesis was wrong. The company preserved total shareholder distribution but redirected 30% toward buybacks, reducing the dividend component and therefore DPS. The immediate response was not to defend the old thesis but to attend the presentation, gather clarification and rewrite the Strategy section around the new facts.
 
-Stronghold followed the same pattern. Kadyr was positioned to support the kitchen assemblers on Thursday, while drainage and basement work with Sergey the Landscaper approached an actual start after a long period of discussion and delay.
+The rest of Career remained crowded: final Strategy corrections continued while retail brokerage tensions demanded attention. At home, reserves were similarly low. Oksi was exhausted and Owling highly energetic, so the Warden carried him along to retrieve Sergey Jr from football.
 
-The evening still required another plant expedition. Oksi was tired and sad, so the Warden first took Owling and Sergey Jr out, then later travelled with Oksi to Stronghold after bedtime. A headache accompanied the drive, but not another logistical failure: the expedition was completed smoothly.
+Inside that difficult evening was a small, quiet conversation about Amur tigers. Stronghold gained a garden table and chairs. Then Owling converted the night into another Night Watch, leaving almost no sleep before the next day.
 
-Several campaigns were therefore moving not because the Warden was personally doing every next step, but because the next person had been put in position to act.
+The most consequential event was a thesis being disproved. The operational response was simple: update the model of reality and continue.

@@ -4,56 +4,56 @@
 
 ### Career Realm — Platform Economy
 
-- Continue compiling, editing and developing the Platform Economy report for the Gazprom conference audience.
+- Incorporate Andrey's constructive feedback into the consolidated Platform Economy report.
+- Continue moving the report toward a conference-ready version for the Gazprom audience.
 
 ### Career Realm — Equity Strategy
 
-- Complete the remaining Strategy corrections, including full incorporation of MTS's announced shareholder-distribution policy.
-- Follow the report through production and compliance and prepare for remaining client-facing stages.
+- Follow the latest incorporated Strategy corrections through production and compliance.
+- Address any remaining corrections and prepare for client-facing stages.
 
 ### Career Realm — MTS
 
-- Replace the disproved higher-DPS thesis with the announced policy: unchanged total shareholder distribution, split 70% dividends / 30% buybacks.
-- Incorporate useful clarifications from the stock-exchange presentation into analysis where relevant.
-- Assess the implications of lower DPS and the buyback component for valuation, shareholder returns and market expectations without carrying forward the old thesis.
+- Keep the Strategy and investment case aligned with MTS's announced shareholder-distribution policy: unchanged total distribution, split 70% dividends / 30% buybacks.
+- Assess implications of lower DPS and the buyback component for valuation and shareholder returns.
 
 ### Career Realm — Analyst Rating
 
 - Execute the enrollment strategy agreed with Head of Sales Mikhail.
-- Complete remaining rating coordination and outreach as required.
+- Complete remaining rating coordination and outreach.
 
 ### Career Realm — ECM / Promomed
 
 - Confirm exact October timing for Promomed's planned plant trip and the new IPO milestones.
-- Prefer a one-day Promomed visit if that is sufficient to avoid conflict with the IPO timetable.
+- Prefer a one-day Promomed visit if sufficient to avoid conflict with the IPO timetable.
 
 ### Career Realm — Management
 
-- Address the current retail brokerage tensions as needed.
+- Address retail brokerage tensions as needed.
 - Track Artem's promotion process after the preliminary green light.
 
 ### Household Realm — Stronghold
 
-- Coordinate Kadyr's Thursday visit with the kitchen assemblers so kitchen items can be moved as required.
-- Receive and supervise kitchen assembly Thursday-Friday.
-- Begin and track drainage and basement works with Sergey the Landscaper.
+- Replan completion of the kitchen assembly after the assembler's car breakdown; manage the weekend stay with the kitchen temporarily half-finished.
+- Continue drainage and basement works with Sergey the Landscaper.
 - Receive the fence manufacturers on Sunday for plot measurement and advance the Fence Campaign toward scope and pricing.
 - Confirm that the cooker's passport is present and complete the current prerequisite set for the Gas Campaign.
-- Find a workable day between Career obligations for another Gas Campaign document-submission attempt.
-- Meet Alexey to discuss further Stronghold work steps if still outstanding.
-- Resolve Kadyr's outstanding wage if still unpaid.
-- Continue planting, furnishing and remaining Stronghold work where outstanding.
+- Find a workable day for another Gas Campaign document-submission attempt.
+- Resolve any remaining Kadyr work / payment matters if still outstanding.
+- Continue planting, furnishing and other remaining Stronghold work.
 - Obtain rubber boots before attempting the damp forest path again.
 
-### Household Realm — Family
+### Household Realm — Family / School
 
-- Support Oksi after another period of exhaustion.
+- Treat the School 444 WC incident as mostly resolved following the teacher's call, while watching for any recurrence or unresolved practical issue.
+- Continue Sergey Jr's School 57 process now that he has advanced to Stage 2, without treating preliminary advancement as final admission.
 - Support the children through school and activity routines.
-- Prioritize recovery after the latest near-sleepless Night Watch where circumstances allow.
+- Protect recovery opportunities after recent exhaustion and Night Watches.
 
 ### Household Realm — Capital
 
-- Continue handling potential buyers and determine whether an acceptable offer emerges.
+- Await any follow-up from the latest potential buyers; do not infer an offer from their positive-seeming viewing.
+- Continue handling other potential buyers and determine whether an acceptable offer emerges.
 - Reconcile eventual Capital sale proceeds, the intended replacement apartment and continuing Stronghold expenditure.
 
 ### Household Realm — Mobility
@@ -73,37 +73,37 @@
 
 ## Completed Commitments
 
-### Career Realm — MTS
+### Career Realm
 
-- Received the definitive answer to the dividend-policy question: the Warden's higher-DPS thesis was disproved.
-- Attended the MTS stock-exchange presentation for clarification and networking.
-- Began rewriting the MTS section of Equity Strategy around the announced 70% dividend / 30% buyback split.
-
-### Household Realm — Family
-
-- Took Owling to collect Sergey Jr from football while Oksi was exhausted.
-- Discussed Amur tiger habitat with Sergey Jr on the return journey.
+- The team incorporated the latest Strategy feedback.
+- Consolidated the Platform Economy report, submitted it to Andrey, received constructive feedback and began incorporating changes.
 
 ### Household Realm — Stronghold
 
-- Oksi acquired a new garden table and chairs for Stronghold.
+- Kitchen assembly started.
+- Received notice that the assembler cannot return the following day because his car broke down; the kitchen will remain half-finished for the weekend unless circumstances change.
+
+### Household Realm — Family / School
+
+- Oksi investigated the School 444 WC incident; the teacher subsequently called and the matter was mostly resolved.
+- Sergey Jr passed the School 57 preliminary stage and advanced to Stage 2.
+
+### Household Realm — Capital
+
+- Prepared Capital for another potential-buyer viewing.
+- Hosted the viewing: Oksi showed the apartment while the Warden cared for Owling. The visitors seemed to like the apartment, with no further outcome yet reported.
 
 ## Notable Developments
 
-- The MTS uncertainty that had occupied several recent days is now resolved against the Warden's thesis: total distribution is unchanged, but lower cash dividends follow from the new buyback allocation.
-- The Strategy report requires a factual MTS rewrite rather than further defense of the old scenario.
-- Retail brokerage tensions added another management demand during final Strategy corrections.
-- Stronghold's garden continues to acquire the infrastructure of ordinary use, now including a table and chairs.
-- Another severe Night Watch left the Warden with very little sleep before morning.
+- Platform Economy reached Andrey as a consolidated report and returned with constructive feedback, marking a clear review-and-revision stage.
+- Sergey Jr's educational paths moved in opposite emotional directions on the same day: a difficult incident at School 444 was mostly resolved, while School 57 advanced him to Stage 2.
+- Capital received another apparently positive viewing, but no offer or commitment has been reported.
+- Kitchen assembly finally began at Stronghold but was interrupted by the assembler's car breakdown, leaving the family facing a potentially uncomfortable weekend with a half-finished kitchen.
 
 ## Observer
 
-Day 086 supplied a clean test of a live investment thesis, and the thesis failed. MTS kept total shareholder distribution unchanged but changed its composition: 70% dividends and 30% buybacks instead of the previous all-dividend structure. The consequence was lower DPS than the Warden had expected.
+Day 087 repeatedly opened one door while leaving another unfinished. Strategy feedback was incorporated just as Platform Economy returned from Andrey with its next set of changes. Sergey Jr had a difficult incident at School 444 on the same day that School 57 advanced him to Stage 2. Potential buyers seemed to like Capital, but liking is not yet an offer.
 
-There was no need to manufacture ambiguity around the result. The Warden went to the stock-exchange presentation, collected the available clarifications, returned to the office and rewrote the Strategy section. A forecast had met reality; reality won.
+Stronghold made the most literal version of the pattern. Kitchen assembly began — a major step toward ordinary life in the house — and then stopped halfway because the assembler's car broke down. Nobody needed to be blamed for the inconvenience to be real.
 
-The day around that verdict remained demanding. Retail brokerage tensions competed with final Strategy work. Oksi was exhausted. Owling was wild enough to accompany the football pickup and later remained awake through the night.
-
-Yet on the walk back from football, the Warden and Sergey Jr discussed where Amur tigers live. At home, new garden furniture waited for Stronghold. Even inside a day of failed theses and exhausted adults, the World continued acquiring knowledge and furniture.
-
-The durable lesson was not that the Warden had been wrong. It was that the thesis had been allowed to be falsifiable — and, once falsified, was rewritten.
+The day therefore ended with several promising processes still between states: a report under revision, a second school path advancing, buyers considering, and a kitchen visibly becoming a kitchen but not yet usable as intended.

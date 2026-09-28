@@ -2,117 +2,83 @@
 
 ## Active Commitments
 
-### Career Realm — Management
+### Career Realm
 
-- Track Artem's promotion process after Andrey approached Denis and received a preliminary green light; the process is expected to take time.
-- The Oil & Gas analyst position remains unfilled following the candidate interview.
-
-### Career Realm — TMT Research
-
+- Track Artem's promotion process after the preliminary green light; the process is expected to take time.
 - Review the Platform Economy draft when Alexander and the juniors return it and develop the approved plan into the report.
-- Follow up as needed on the NVIDIA-Wildberries flywheel slides now submitted to DCM.
-- Continue developing the Promomed case for the Strategy report, while recognizing low liquidity as a potentially decisive constraint for institutional investors.
-- Incorporate the completed MTS contrarian case into the Strategy report.
-- Use Artem's Growth Stock Index evidence to develop the thesis that the growth-stock valuation premium has compressed toward historical lows.
-- Advance Alexander's VseInstrumenti initiation through its remaining approval sequence.
-- Assess and incorporate the new potential Astra investment-case changers learned during the CFO stream.
-- Complete the HeadHunter 2Q26 conference call.
-- Continue deep TMT modelling and translating Strategy-report work into coherent investment narratives.
-- Continue assessing the potential impact of AI on valuations, including Yandex AI.
-- Have Sergey the Junior Analyst finish polishing the pharma-market template and establish it as a regular research note once ready.
-
-### Career Realm — External Relations
-
+- Continue the Promomed, MTS, Growth Stock Index, VseInstrumenti, Astra, HeadHunter and broader Strategy/TMT work carried from Day 074.
+- Continue assessing AI implications including Yandex AI.
+- Have Sergey the Junior Analyst finish polishing the pharma-market template when ready.
 - Vote in the MOEX IR contest; completion has not been reported.
 
 ### Household Realm — Family
 
-- Give weight to Oksi's recently reported physical discomfort and accumulated fatigue while managing Household demands.
-- Support the children through their school transitions and routines.
-- Continue cautiously exploring whether the recent softening can become a path toward the Warden's parents eventually seeing the children again, while preserving parenting boundaries.
+- Recover from the cold reported on Day 075 and account for reduced capacity if symptoms continue.
+- Support the children through their school transitions and routines, including Maksim's first days at his new school.
+- Preserve room for calm recovery when Household demands accumulate.
+- Continue cautiously exploring the recent softening around the Warden's parents eventually seeing the children again while preserving parenting boundaries.
 - Maintain the established privacy boundary around Stronghold.
 
 ### Household Realm — Capital
 
-- Determine the outcome of the two Capital Watches scheduled for Day 074; no result was reported before Freeze.
+- Determine the outcome of the two Capital Watches scheduled for Day 074; no result has yet been reported.
 - Continue handling potential buyers and determine whether an acceptable offer emerges.
-- Reconcile eventual Capital sale proceeds with the intended replacement apartment and continuing Stronghold expenditure.
+- Reconcile eventual Capital sale proceeds, the intended replacement apartment and continuing Stronghold expenditure.
 - Avoid accelerating Capital relocation and major new Stronghold spending simultaneously if this materially widens the relocation funding deficit.
-- Contact Sergey, owner of the apartment being pursued, after greater clarity emerges on the Capital Campaign.
-- Complete outstanding Household payments and purchases previously recorded if still pending.
 
 ### Household Realm — Stronghold
 
-- Have Sergey the Landscaper inspect the drainage and basement-decoration situation next week and determine what work should be done.
+- Have Sergey the Landscaper inspect the drainage and basement-decoration situation next week.
 - Continue trying to reach Roman regarding drainage and basement decoration.
-- Decide fence timing in conjunction with the Capital Campaign and seek a shared sequencing decision with Oksi.
-- Complete remaining planting, materials, Bathroom, plumbing, kitchen-preparation and landscaping work previously recorded where still outstanding.
-- Track the submitted water-test result and use the purchased hose and fertilizers as needed.
-- Resolve the hydrangea-cage installation and placement of remaining plants and artifacts where still outstanding.
+- Decide fence timing in conjunction with the Capital Campaign and Oksi.
+- Continue remaining planting, soil, materials, Bathroom, plumbing, kitchen-preparation and landscaping work where still outstanding.
+- Track the water-test result and remaining garden work.
 - Reduce or better organize Stronghold procurement and logistics to protect Household capacity.
+- Preserve the Day 075 distinction between frustration with Stronghold during overloaded moments and the broader effort to build a positive, sustainable relationship with the place.
 
 ### Household Realm — Mobility
 
 - Obtain new winter tyres in the appropriate season.
 - Continue treating fuel availability as a live logistical constraint while the shortage persists.
 
-### Household Realm
-
-- Household responsibilities continue.
-- Preserve elements that make Stronghold enjoyable for the children while managing accumulated workload and fatigue.
-
 ### Third Realm — RealMe
 
 - Continue the current RealMe app-development roadmap through the Architect / Builders Guild / Inspector workflow.
-- Resolve the current development blockage around databases and Netlify through the Architect and his team; the Warden is explicitly relying on their technical navigation.
-- Maintain sufficient Warden-level visibility over decisions and acceptance boundaries even when implementation details become difficult to follow.
-- Optimize the development structure to preserve quota capacity.
+- Resolve the current database/Netlify blockage through the Architect and team.
+- Maintain Warden-level visibility over decisions and acceptance boundaries.
 - Continue RealMe World Map generation; completion has not been reported.
 
 ### Third Realm — Tower
 
-- Continue preparations for the TWR listing, including accumulation of funds.
-- Resolve TWR listing timing and City of Heroes launch timing.
+- Continue preparations for the TWR listing and resolve listing / City of Heroes timing.
 - Keep referrer payments postponed in accordance with the vote while funds are accumulated for the listing.
-- Track implementation of the requested addition to the game's new exchange mechanics.
+- Track the requested addition to the game's new exchange mechanics.
 
 ## Completed Commitments
 
-### Career Realm — TMT Research
+### Household Realm
 
-- Completed the Platform Economy report plan and obtained Andrey's approval.
-- Handed the approved Platform Economy plan to Alexander and the juniors for preparation of a draft.
-- Submitted the NVIDIA-Wildberries flywheel slides to DCM.
-- Completed a brokerage call including discussion of Yandex AI.
-
-### Household Realm — Stronghold
-
-- Re-established contact with Sergey the Landscaper regarding drainage and basement decoration; he agreed to inspect next week.
-- Made an evening drive to Stronghold.
+- Completed the Day 075 fuel quest with almost no queue.
+- Obtained medicine and water during the extended evening trip.
+- Managed the difficult rainy day with Owling through repeated indoor and outdoor periods until he eventually fell asleep in the stroller.
+- Ended the day with a warm evening with Oksi after earlier disagreements.
 
 ## Notable Developments
 
-### Career Realm — Management
-
-- Artem's promotion received a preliminary green light from Denis after Andrey approached him. The issue has moved from waiting for management feedback into a process that may take time.
-
-### Career Realm — Strategy
-
-- The Platform Economy project crossed from exploratory work into an approved production phase: Andrey approved the plan and drafting was delegated to Alexander and the juniors.
-- The NVIDIA-Wildberries flywheel comparison reached DCM, closing the immediate delivery requirement.
-
 ### Household Realm — Stronghold
 
-- Drainage and basement decoration emerged as the next Stronghold workfront. Roman was unreachable, while Sergey the Landscaper agreed to inspect next week.
+- Day 075 exposed a contrast in the Warden's relationship with Stronghold: intense frustration during overloaded family moments, followed by a childhood memory triggered by the autumn setting and a stated intention to learn to love the place despite its hardships.
+- Oksi explicitly described how much she loves Stronghold and its garden.
 
-### Third Realm — RealMe
+### Household Realm — Family
 
-- The Warden reported becoming somewhat lost in the current database/Netlify development complexity and relying fully on the Architect and team. Clear role structure and acceptance checkpoints therefore matter increasingly.
+- Heavy rain, the Warden's cold and Owling's high energy combined into unusually constrained conditions and contributed to disagreements over immediate help and competing Household demands.
+- A quiet walk while Owling slept triggered a positive memory of the Warden's childhood at his parents' country house.
 
 ## Observer
 
-Day 074 moved several things from the Warden's hands into other hands without removing his responsibility for them. The Platform Economy plan was approved and handed off for drafting. The NVIDIA-Wildberries slides reached DCM. Artem's promotion moved upward through the institution and received a preliminary green light.
+Day 075 did not advance the larger campaigns. It showed what Stronghold feels like when ordinary Household demands collide: illness, rain, a child with nowhere to spend his energy, garden work and simultaneous needs.
 
-Stronghold showed the physical version of the same dependence. The next questions concern drainage and basement decoration. Roman did not answer; Sergey the Landscaper did and will inspect next week. The evening drive kept the Warden connected to the Realm while the work awaits others.
+The day also supplied its own counterweight. The same wet weather later produced the smell of autumn, puddles under rubber boots and a memory of childhood at another country house. A routine fuel and pharmacy trip became a rare interval of solitude and recovery.
 
-RealMe made delegated trust explicit. The database and Netlify state has become difficult for the Warden to hold personally, so Architect and team now carry much of the technical navigation. The important boundary is therefore not whether the Warden understands every implementation detail, but whether decisions, risks and acceptance remain legible enough for him to exercise authority.
+By night, acute frustration with the place stood beside Oksi's declaration that she loves it. The Warden's closing thought did not deny the hardship: he wants to learn to love Stronghold despite it. The unresolved work is therefore whether life there can become sustainable enough for affection to coexist with its demands.

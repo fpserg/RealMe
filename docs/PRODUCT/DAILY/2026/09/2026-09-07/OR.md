@@ -1,35 +1,42 @@
 # Operational Record
 
+## Career Realm
+
+### Management
+
+- Household demands prevented the Warden from going to work during an intense period with two short deadlines.
+- Career operations continued through Artem, who carried most of the manual work while the Warden managed remotely.
+
+### Strategy / TMT Research
+
+- Artem sent a Strategy report draft.
+- The Warden assessed the new section as fine.
+- In an older section, the Warden identified a new reasoning problem in the argument that the equity risk premium is extremely high.
+- The Warden concluded that the argument would not withstand investor scrutiny because the market apparently prices in lower EPS as well as elevated ERP.
+- The Warden drafted an action plan for Artem to rework that part of the Strategy report.
+
 ## Household Realm
 
 ### Family
 
-- Another rainy day at Stronghold, but Owling slept longer and the Warden reported feeling somewhat better.
-- Oksi continued the planting campaign in the rain despite being ill, while the Warden stayed inside with the children and managed Owling's high energy.
-- New uncertainty emerged around Sergey Jr's School 444 admission. Although teachers and management accepted him, the Warden reported that formal acceptance is currently prevented because Sergey Jr is 6 years 4 months old and the formal threshold is 6 years 6 months.
-- The School 444 issue became another source of anxiety for Oksi.
+- Owling woke in the middle of the night. The Warden rocked him back to sleep and later found himself sleeping on the floor beside Owling's bed.
+- The Warden took the children to school in the morning.
+- Oksi reported feeling too sick to manage Sergey Jr's School Admission Quest together with Owling, so the Warden stayed home with Owling instead of going to work.
+- School staff told Oksi that the admission process is now on them and apparently required little additional effort from her during the day.
+- Oksi remained anxious because the process was moving more slowly than she wanted and she could not directly influence it.
+- The Warden encouraged her, in his words, to "behave RealMe way": calm down and wait while the externally controlled step is resolved.
+- The Warden later took Owling and Sergey Jr outside and met Alisa and her classmate at the playground after Alisa had asked to walk independently after school.
 
-### Stronghold
+### School 444
 
-- Oksi continued planting under the rain despite illness.
-- The Warden found time between rain and caring for Owling to dig additional pits for flowers and trees.
-- After the family returned to Capital, Oksi discovered that her bag containing documents had been left at Stronghold.
-- The Warden made an additional round trip to Stronghold to retrieve it: approximately 130 km and 2.5 hours there and back.
-
-### Capital
-
-- The family returned from Stronghold to Capital in the evening and put Owling to bed before the forgotten bag was discovered.
-
-### Mobility
-
-- The unplanned Stronghold document-retrieval trip added approximately 130 km and 2.5 hours of driving.
-- The Warden described the trip playfully as a noble knight's treasure quest for his fair lady.
-- As on Day 075, necessary driving also provided restorative solitude: 2.5 quiet hours alone that the Warden experienced as a good distraction.
+- Sergey Jr's admission remained unresolved but shifted further into an externally controlled process.
+- School staff told Oksi that responsibility for the current step rests with them.
+- No final formal admission outcome was reported before Freeze.
 
 ## Reflection
 
-Day 076 was still governed by rain, illness and Owling's energy, but it was gentler than Day 075. Owling slept longer and the Warden felt somewhat better. The Household divided its work naturally: Oksi advanced the garden outside despite the weather and illness, while the Warden maintained the interior with the children and still carved out enough time to dig more planting pits.
+Day 077 made the Career–Household trade-off unusually explicit. The Warden was in an intense Career period with two short deadlines, yet Oksi's illness and the practical demands around Owling required him to remain home. Career therefore operated through delegation: Artem carried much of the manual load while the Warden preserved the parts that required judgment.
 
-The difficult new development concerned Sergey Jr. The reported age threshold means that acceptance by teachers and management has not yet translated into formal admission to School 444. The immediate operational fact is uncertainty rather than rejection, but it adds another school-related anxiety for Oksi.
+That arrangement produced a concrete result. Reviewing Artem's Strategy draft, the Warden found that an apparently convenient valuation explanation — extremely high ERP — had become too simple. If the market is also discounting lower EPS, presenting the valuation gap mainly as ERP would invite an obvious investor challenge. The Warden redirected the work before that weakness reached the audience.
 
-The day ended with an absurdly large errand for a forgotten bag: 130 kilometres back to Stronghold and home again. Yet, like the previous day's fuel and pharmacy trip, the obligation contained its own relief. The Warden turned it into a knightly quest in the telling, and the road supplied 2.5 quiet hours alone. Across two consecutive Household-heavy days, solitary driving has unexpectedly become a small recovery space.
+Meanwhile, the School Admission Quest became less actionable but not yet less anxious. School staff said the current step belongs to them. The Warden's RealMe framing was therefore apt operationally: when control has passed outside the Household, further internal agitation does not accelerate the process. The task is to wait without mistaking waiting for inaction.

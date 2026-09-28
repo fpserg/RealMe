@@ -35,20 +35,28 @@
 ### Household Realm — Stronghold
 
 - Establish when the kitchen assembler will return and complete the unfinished kitchen.
-- Continue the next stage of land works with Sergey the Landscaper now that the drainage trench is complete.
+- Continue land works with Sergey the Landscaper following the drainage trench, strawberry-patch work and peach-tree pit preparation.
 - Follow through on further Kadyr commitments and payments discussed with Alexey.
-- Receive the fence manufacturers for plot measurement and advance the Fence Campaign toward scope and pricing if still outstanding.
+- Prepare for fence installation, expected to start in about one week and finish about one week later.
 - Confirm that the cooker's passport is present and complete the current prerequisite set for the Gas Campaign.
 - Find a workable day for another Gas Campaign document-submission attempt.
 - Consider Mansur for upcoming plumbing and water works if his skills fit the required jobs.
 - Buy a lawn mower if the economics continue to make ownership preferable to repeated hired mowing.
+- Replace the broken shovel as needed for continuing garden work.
 - Continue planting, furnishing and remaining Stronghold work.
 - Obtain rubber boots before difficult forest paths where needed.
-- Consider adding spring water to a future Supplies Quest if practical.
+- Decide whether spring-water collection is useful enough to become a recurring Supplies Quest mission.
+
+### Household Realm — Adjacent Plot
+
+- Preserve first-contact optionality on the neighbouring plot: Yulia has agreed to let the family know before others if her sister decides to sell.
+- Do not treat the plot as available or commit Treasury resources until a sale decision, price and terms actually exist.
+- If an offer emerges, assess expansion value against Capital relocation needs and remaining Stronghold expenditure.
 
 ### Household Realm — Family / School
 
-- Support Oksi while she remains unwell and tired.
+- Support Oksi while she remains unwell.
+- Monitor the children's current illnesses and routines without assuming severity beyond what is reported.
 - Continue Sergey Jr's School 57 process at Stage 2 without treating preliminary advancement as final admission.
 - Treat the School 444 WC incident as mostly resolved unless new information emerges.
 - Support the children's growing local friendships and routines at Stronghold.
@@ -79,42 +87,42 @@
 
 ### Household Realm — Stronghold
 
-- Completed the drainage trench.
-- Discussed further land works with Sergey the Landscaper.
-- Discussed further Kadyr commitments and related payments with Alexey.
-- Had the grass mowed by local workers and identified purchasing a mower as a likely cheaper long-term solution.
-- Made another nursery expedition with Oksi.
-- Visited the forest spring the Warden had been curious about.
-- Met Mikhail, owner of the Baba Yaga hut and creator of the Wooden Guardian.
-- Took Mansur's number as a possible future plumbing / water-work helper.
-- Dug several more garden pits.
+- Completed the first spring-water Supplies Quest and brought back a full canister.
+- Advanced landscaping with strawberry patches and pits for peach trees.
+- Had Konstantin measure the plot and calculate the fence installation.
+- Established an expected Fence Campaign schedule: start in about one week, completion about one week later.
+- Continued ordinary garden work and bagged the recently mown grass with help from the children.
 
 ### Household Realm — Family
 
-- Bought lemon and sweets for Oksi while she remains unwell.
-- Bought Sergey Jr a phone charger after his was left at Capital.
-- Alisa met Adelina, visited her home and shared tea and sandwiches; Sergey Jr joined later.
-- Alisa and Sergey Jr helped watch Owling while the Warden worked in the garden.
-- Recovered Owling's apparently lost soother near the football field.
-- Held an evening Pirates of the Caribbean screening for Alisa and Sergey Jr.
+- Bought fruit while Oksi remained unwell and Owling and Alisa showed signs of being unwell.
+- Preserved some recovery time through a nap after the morning Stronghold work.
+- Completed the weekend return from Stronghold despite another late and tiring drive.
 
 ## Notable Developments
 
-- The drainage trench is complete, moving the Stronghold land campaign into its next stage.
-- Stronghold's local social map expanded substantially: Mikhail is now known as the owner of the Baba Yaga hut and maker of the Wooden Guardian, while Mansur became a possible future worker.
-- The forest spring moved from curiosity to a potentially useful source of water despite its rough access.
-- Lawn maintenance now has an emerging ownership decision: buying a mower appears likely to be cheaper than repeated hired mowing.
-- Alisa established a new local friendship with Adelina.
-- Owling's collection of Stronghold Artifacts expanded with a fiercely defended piece of plastic pipe.
+- The Fence Campaign crossed from planning into scheduled execution.
+- Once installed, the fence will prevent the Hare from entering the plot, an acknowledged trade-off of enclosing Stronghold.
+- The neighbouring plot may eventually become available: Yulia's sister is considering selling, and the family has asked for first notice if that happens.
+- The adjacent plot is currently only an option, not an active purchase.
+- The forest spring proved practically accessible enough to supply a full canister, though the Warden's verdict remained pragmatic: water is water.
+- Stronghold landscaping advanced from general digging into defined strawberry and peach-tree areas.
+- The household entered the new week with Oksi still unwell, Owling with a runny nose and Alisa beginning to feel unwell.
 
 ## Observer
 
-Day 089 made Stronghold's surroundings less anonymous. The drainage trench was complete. Sergey the Landscaper and Alexey came to discuss what follows. A recurring service — mowing — began turning into a household asset decision.
+Day 090 began with Owling at 06:15 and the rest of Stronghold wishing he had chosen a different schedule. The solution was extraction: Owling onto the Warden's shoulders and out into the morning.
 
-Beyond the plot, places and people acquired names. The forest spring became somewhere the family had actually visited. The mysterious owner of the Baba Yaga hut and Wooden Guardian became Mikhail, who had carved the Guardian himself. Mansur appeared during that conversation and may become useful when plumbing and water work arrive.
+Yesterday's discovered spring became today's Water Mission. Through mist, hills and birch-root stairs, the Warden carried Owling and a canister to the water and returned with the canister full. The quest was picturesque. The verdict was deliberately less so: water is water.
 
-The children were building their own map at the same time. Alisa met Adelina and entered another local home for tea and sandwiches. Sergey Jr joined later. Both middles then watched Owling while the Warden continued shaping the garden.
+Back at Stronghold, more consequential infrastructure moved. Sergey the Landscaper's guild worked on strawberries and future peach trees. Konstantin measured for the fence and supplied a timetable. The fence that had spent weeks as a financial and practical dilemma now has an expected start and finish.
 
-Owling conducted his own version of exploration. A plastic pipe became an Artifact. His soother seemed briefly sacrificed to the day's new acquaintances or perhaps to the Wooden Guardian, only to reappear by the football field.
+It will also close the border to the Hare.
 
-The day began at six and ended with Pirates of the Caribbean. For a household where Oksi is already Jack Sparrow, that was perhaps the correct film for a day full of expeditions, artifacts and newly discovered inhabitants.
+A second border question appeared from the opposite direction. Yulia, Adelina's mother and the family's neighbour, revealed that her sister owns the adjacent plot and may sell it. Captain Sparrow immediately saw the possibility of expanding her territories. The Warden saw the corresponding threat to Treasury. Nothing has been bought, offered or priced; only a useful first position has been secured.
+
+Then Stronghold returned to the ordinary. Oksi wanted more garden work. The Warden wanted lunch and sleep. A shovel broke in the course of demonstrating that garden work was indeed occurring. The nap followed anyway.
+
+Afterwards there was grass, children, Owling, garden work and finally the long road home.
+
+The large milestones are arriving now — drainage, kitchen, fence, planted ground. Yet the shape of Stronghold is increasingly defined by ordinary Sundays between them.

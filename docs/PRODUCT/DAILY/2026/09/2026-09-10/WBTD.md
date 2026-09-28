@@ -4,29 +4,38 @@
 
 ### Career Realm
 
-- Address Andrey's corrections to the Sectors / Companies part of the Equity Strategy report.
-- Continue refining Equity Strategy and the Platform Economy report.
-- Continue the broader Strategy/TMT work carried forward.
+- Continue incorporating Andrey's Equity Strategy feedback and coordinate completion of team corrections.
+- Account for Artem being sick and working remotely while maintaining progress on the Strategy report.
+- Develop the Ozon idea further when sufficient time is available after the brief brokerage-call discussion.
+- Continue Platform Economy work, incorporating relevant input from Alexey of ECM and the team.
+- Coordinate Best Analyst ranking requests from team members to their familiar IR contacts.
+- Continue broader Strategy/TMT work carried forward.
 - Track Artem's promotion process after the preliminary green light.
 
 ### Household Realm — Family
 
-- Transition Sergey Jr from the School 444 admission campaign into normal school routines now that acceptance is confirmed.
-- Support Oksi's recovery after the illness, admission campaign and reported exhaustion.
-- Complete remaining school logistics, including books and other materials where still outstanding.
-- Support the children's school and activity routines.
-- Preserve room for recovery after the recent sequence of illness, Night Watches and intensive Career days.
+- Support Sergey Jr through his first days at School 444 as the Household transitions from admission logistics to ordinary school life.
+- Keep communication with the teacher proportionate when new concerns arise, following the successful resolution of the first-day “I'm unwell” message.
+- Support Alisa's positive school start without turning strong early marks into pressure.
+- Support Oksi's recovery after the recent illness and admission campaign.
+- Preserve room for recovery after repeated Night Watches and intensive Career days.
 
 ### Household Realm — Stronghold
 
-- Have Roman move the bath from the future kitchen into its proper place so kitchen installation can proceed.
-- Have Sergey the Landscaper inspect the drainage and basement-decoration situation when scheduled.
-- Continue the remaining Stronghold work where still outstanding.
+- Receive the Stronghold kitchen delivery on Saturday.
+- Prepare for kitchen assembly on Thursday-Friday next week.
+- Ensure remaining prerequisites for kitchen installation, including correct bath placement, are resolved before assembly.
+- Continue drainage, basement, fence, planting and remaining Stronghold work where still outstanding.
 
 ### Household Realm — Capital
 
 - Continue handling potential buyers and determine whether an acceptable offer emerges.
 - Reconcile eventual Capital sale proceeds, the intended replacement apartment and continuing Stronghold expenditure.
+
+### Household Realm — Mobility
+
+- Continue treating fuel availability as a live logistical constraint after another trip required searching multiple gas stations for petrol.
+- Obtain new winter tyres in the appropriate season.
 
 ### Third Realm — RealMe
 
@@ -36,37 +45,41 @@
 ### Third Realm — Tower
 
 - Monitor the post-listing TWR market and support liquidity in the Whale role as appropriate.
-- Let Alex continue operating the listing / market process while the Warden retains oversight.
+- Let Alex continue operating the post-listing process while the Warden retains oversight.
 - Continue remaining Tower work after the listing.
 
 ## Completed Commitments
 
 ### Household Realm — Family
 
-- Sergey Jr was accepted at School 444 after Oksi's final documents push, completing the School Admission Quest.
-- The Warden took over Owling at the stadium while Sergey Jr attended football so Oksi could shop for school books.
+- Sergey Jr completed his first day at School 444 and reported being excited to return.
+- The first-day health concern was checked with the teacher and resolved as everything being fine.
+- The Warden marked the first school day privately with a chocolate bar and soft drink for Sergey Jr.
 
-### Third Realm — Tower
+### Household Realm — Stronghold
 
-- The long-awaited TWR token listing took place.
-- Alex operated the listing while the Warden monitored and supported liquidity in the Whale role.
-- Price held during the reported period.
+- Kitchen delivery scheduled for Saturday.
+- Kitchen assembly scheduled for Thursday-Friday next week.
+- The Warden completed a Night Stronghold expedition to move accessories ahead of the family trip.
 
 ### Career Realm
 
-- Equity Strategy reached Andrey for feedback.
-- The general part received broadly positive, if characteristically phrased, feedback; the Sectors / Companies section returned with corrections.
+- Continued deep work on Andrey's Strategy corrections and coordinated team revisions.
+- Consulted Alexey of ECM on Platform Economy.
+- Participated in a retail brokerage call and briefly discussed Ozon.
 
 ## Notable Developments
 
-- The multi-day uncertainty around Sergey Jr's formal School 444 acceptance is resolved positively.
-- TWR moved from listing preparation into the post-listing phase.
-- Equity Strategy moved from draft assembly into senior-review revision while Platform Economy remained a simultaneous major project.
+- Sergey Jr's first day suggests a fast initial adaptation to School 444: he navigated the environment independently, participated actively in lessons, found familiar social connections and expressed enthusiasm about returning.
+- Artem's illness adds friction to the Strategy revision process.
+- Stronghold kitchen work now has concrete delivery and assembly dates.
+- Fuel availability remains unreliable enough to affect Household logistics.
+- Owling's 4 AM wake-up extended Day 080 into the next morning, reinforcing the need for an explicit operational boundary.
 
 ## Observer
 
-Day 079 resolved two long-running campaigns while leaving Career deliberately unfinished. Sergey Jr's School Admission Quest ended with acceptance after Oksi's final documents push. Tower's long-awaited TWR listing also happened, with Alex operating while the Warden moved between Career work, oversight and liquidity support.
+Day 080 turned the School Admission Quest into lived school experience. Sergey Jr did not merely arrive at School 444; he quickly began building a map of the place and its people. The day contained English, correct answers, old and new acquaintances, lunch negotiations, a confrontation and, most importantly, enthusiasm about returning.
 
-Career produced a different kind of milestone: external judgment. Andrey's “you are not so useless as I thought” on the general Strategy section qualifies, in the local dialect, as meaningful approval. But the corrections to Sectors / Companies ensure the report remains work rather than victory lap.
+Career meanwhile stayed under revision pressure. Andrey's corrections were being incorporated while Artem's illness made coordination harder, and Platform Economy continued to gather perspectives. Stronghold gained something Career people appreciate: dates. Kitchen delivery and assembly are now scheduled rather than merely anticipated.
 
-The day therefore changed several states at once. School 444 moves from admission uncertainty to ordinary school logistics. Tower moves from preparing a listing to managing what comes after it. Equity Strategy moves from construction to revision.
+The operational day itself demonstrated why the Book of Life needs boundaries. A Night Stronghold expedition became a fuel quest, then Owling woke at 4 AM and stayed awake until the morning school routine began. Without the Warden's explicit Freeze, one chapter would simply run into the next.

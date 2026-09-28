@@ -4,8 +4,8 @@
 
 ### Career Realm — Equity Strategy
 
-- Shift the published Strategy report into its marketing and client-facing stage.
-- Prepare and execute relevant client discussions and other distribution activity.
+- Coordinate and deliver the Strategy presentation and continue the report's marketing and client-facing stage.
+- Execute relevant client discussions and distribution activity following publication.
 
 ### Career Realm — MTS
 
@@ -15,10 +15,10 @@
 
 ### Career Realm — Platform Economy
 
-- Streamline the large volume of incoming junior material into a coherent report.
-- Remove duplication and fragmentation while preserving useful analysis.
+- Finish streamlining the report into a coherent argument.
+- Remove duplication and fragmentation from junior contributions while preserving useful analysis.
 - Add meaningful substantive sections where the current material is insufficient.
-- Complete remaining changes following Andrey's feedback and move the report toward production.
+- Move the report through remaining production stages.
 
 ### Career Realm — Analyst Rating / Broker Relations
 
@@ -32,6 +32,7 @@
 
 ### Career Realm — Management
 
+- Continue orchestrating team tasks across concurrent Strategy and Platform Economy demands.
 - Address retail brokerage tensions as needed.
 - Track Artem's promotion process after the preliminary green light.
 
@@ -39,7 +40,7 @@
 
 - Resolve the utilities-bill discrepancy with the management company before paying the amount due within the stated ten-day period.
 - Establish when the kitchen assembler will return and complete the unfinished kitchen.
-- Continue land works with Sergey the Landscaper following the drainage trench, strawberry-patch work and peach-tree pit preparation.
+- Continue land works with Sergey the Landscaper.
 - Follow through on further Kadyr commitments and payments discussed with Alexey.
 - Prepare for fence installation, expected to start around the end of September and finish roughly a week later.
 - Confirm that the cooker's passport is present and complete the current prerequisite set for the Gas Campaign.
@@ -49,22 +50,20 @@
 - Replace the broken shovel as needed for continuing garden work.
 - Continue planting, furnishing and remaining Stronghold work.
 - Develop the three new fir trees into the Warden's hoped-for forest corner.
-- Obtain rubber boots before difficult forest paths where needed.
 
 ### Household Realm — Adjacent Plot
 
-- Preserve first-contact optionality on the neighbouring plot: Yulia has agreed to let the family know before others if her sister decides to sell.
+- Preserve first-contact optionality on the neighbouring plot.
 - Do not treat the plot as available or commit Treasury resources until a sale decision, price and terms actually exist.
 - If an offer emerges, assess expansion value against Capital relocation needs and remaining Stronghold expenditure.
 
 ### Household Realm — Family / School
 
-- Support Oksi while she remains unwell and follow the medicines obtained from the pharmacy as appropriate.
-- Monitor the children's recent illnesses and routines without assuming severity beyond what is reported.
+- Support Oksi while she remains unwell, especially after the more difficult overnight episode.
+- Preserve capacity for both Oksi and the Warden after interrupted sleep where possible.
+- Continue normal children's meals, bedtime, school and activity routines.
 - Continue Sergey Jr's School 57 process at Stage 2 without treating preliminary advancement as final admission.
 - Treat the School 444 WC incident as mostly resolved unless new information emerges.
-- Support Sergey Jr's football and the children's other routines.
-- Protect opportunities for rest after repeated early starts and Night Watches.
 
 ### Household Realm — Capital
 
@@ -74,7 +73,7 @@
 
 ### Household Realm — Mobility
 
-- Continue treating fuel availability as a live logistical constraint despite recent easy refills.
+- Continue treating fuel availability as a live logistical constraint after needing five stations to find fuel.
 - Obtain new winter tyres in the appropriate season.
 
 ### Third Realm — RealMe
@@ -89,49 +88,47 @@
 
 ## Completed Commitments
 
-### Career Realm — Equity Strategy
+### Career Realm
 
-- Published the Strategy report, completing the report-production stage of the campaign.
+- Continued coordinating the Strategy presentation as the published report entered its marketing stage.
+- Continued finishing Platform Economy while orchestrating parallel team tasks.
 
 ### Household Realm — Family
 
-- Took Sergey Jr to his football routine while supervising Owling at the playground.
-- Obtained medicines for Oksi after Owling's bedtime.
-- Helped Oksi remove a splinter from her finger.
+- Made it home nearly in time for Oksi's manicure despite work running beyond office hours.
+- Managed the children's dinner and bedtime.
+- Helped Oksi find pills and calm somewhat when she woke feeling very bad during the night.
 
-### Household Realm — Stronghold
+### Household Realm — Mobility
 
-- Challenged the unexplained utilities-bill discrepancy and asked management for a corrected amount or reconciliation.
-- Added three small fir trees to the garden through Oksi's latest plant purchases.
+- Completed a difficult Fuel Quest after checking five stations before finding fuel.
 
 ## Notable Developments
 
-- Strategy crossed from production into marketing.
-- Platform Economy is now the principal active report-building campaign and requires both consolidation of junior work and additional substantive writing.
-- The Stronghold utilities payment itself is not disputed, but the amount is; management has been asked to reconcile it before payment.
-- Oksi remains unwell.
-- Three small fir trees may establish the forest corner the Warden has wanted amid the larger flowering garden.
+- Strategy marketing and Platform Economy production are now running concurrently and competing directly for the Warden's time.
+- The working day extended well beyond normal office hours and reduced the Warden's ability to respond to Household communication.
+- Oksi's illness worsened enough during the night for her to wake the Warden seeking help.
+- The next day begins with both Oksi's illness and interrupted sleep as immediate constraints.
+- Fuel scarcity remains practically relevant after a five-station search.
 
 ## Observer
 
-Day 091 contained a clean professional state change: Strategy was published.
+Day 092 was a day of simultaneous demands.
 
-For weeks it had existed as drafts, corrections, arguments, sector sections, company sections, feedback and production. Now that part is over. The report exists outside the team. The next task is to make people read it.
+Career did not offer a clean sequence. Strategy needed a presentation coordinated. Platform Economy still needed to be finished. Other tasks still needed someone to orchestrate them. The Warden moved among all three well beyond normal office hours.
 
-Platform Economy immediately filled the space. Junior analysts have produced plenty of material, but the Warden's job is not to reward volume. It is to turn the pieces into one argument, remove what does not belong and write what is still missing.
+That made the transition home difficult before it even happened. Oksi wanted replies during the day. The Warden reports that there simply had not been room to provide them. He still made it home almost in time for her manicure and then took over dinner and bedtime.
 
-Stronghold supplied a smaller version of the same principle. The management company sent a bill with a ten-day deadline. The Warden accepts the obligation, but the numbers do not reconcile. So the payment waits for the explanation, not because the commitment is rejected but because the underlying figure needs to be right.
+Oksi returned feeling bad and angry. The evening did not resolve much.
 
-The evening was more personal. Sergey Jr had football. Owling had playground control. Oksi was still unwell, so after Owling slept the Warden went for medicines and later removed a splinter from her finger.
+Even the Fuel Quest resisted becoming routine. Five stations were required before fuel appeared.
 
-Then there were three fir trees.
+Then the night broke too.
 
-Captain Sparrow has filled Stronghold with flowers, bushes and endless pits. This time her expansion included something the Warden immediately recognized as his own preference.
+Oksi woke the Warden because she felt very bad. He found pills and helped calm her somewhat.
 
-A small forest corner.
+The next day therefore does not begin from zero. Career remains crowded. Oksi remains unwell. Sleep has been interrupted.
 
-Not much yet.
+Some days end by closing their tasks.
 
-Three trees.
-
-But forests have to start somewhere.
+Day 092 ended by handing its load directly to tomorrow.

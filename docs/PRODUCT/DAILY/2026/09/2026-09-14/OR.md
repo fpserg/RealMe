@@ -1,33 +1,39 @@
 # Operational Record
 
+## Career Realm
+
+### Equity Strategy / Platform Economy
+
+- The Warden continued finalizing Equity Strategy and compiling the Platform Economy report.
+
+### ECM / Promomed
+
+- A potential October scheduling collision emerged between a new IPO and Promomed's planned one-to-two-day plant trip.
+- The Warden checked the conflict with Alexey of ECM. Current understanding is that the Promomed trip likely does not coincide with an IPO milestone, so a one-day plant visit may be feasible. Exact dates remain to be confirmed.
+
+### MTS
+
+- The Warden called a fellow investor and discussed the MTS dividend thesis.
+- The investor found the thesis useful.
+- The Warden remains interested in the unresolved empirical question of whether his view or prevailing market expectations will prove correct.
+
 ## Household Realm
 
 ### Stronghold
 
-- The morning followed an increasingly regular Stronghold pattern: time with Owling followed by a supplies quest when his noise level became difficult indoors.
-- On returning, the Warden joined Oksi and Owling on another supplies trip for soil and additional plants.
-- Sergey the Landscaper arrived late again. The Warden discussed the basement cover and drainage with him. Owling became tired and protested strongly, forcing the Warden to leave the discussion to put him to sleep; Oksi completed the conversation.
-- Owling's sleep created a work window, which the Warden used to dig new flower pits.
+- The Warden called fence manufacturers. They are scheduled to visit Stronghold on Sunday to measure the land plot.
+- This is a meaningful Fence Campaign milestone: Oksi has wanted the fence for some time, while the growing amount of property inside the house and garden increases the practical case for securing the plot.
 
 ### Family
 
-- Alisa and Sergey Jr were playing with Roma at the football field. Roma's older friends arrived and made fun of him for playing with girls. Alisa asked whether she should leave and Roma said yes; she returned home in tears.
-- The Warden called Sergey Jr home for lunch so Alisa would not feel alone. After lunch, both children chose to return to the football field.
-- The trip home from Stronghold was delayed. Heavy traffic on the usual route led the Warden to take a detour, but the family then spent almost an hour waiting at a railway crossing.
-- Because the family arrived home late before a school day, the Warden rushed the children through showers and bedtime.
-- Maksim had stayed home and prepared a surprise: salad, homemade pancakes and neatly cut apples. They were his first pancakes and the Warden found them genuinely good and was impressed that Maksim had made something the Warden could not do at the same age and still does not make himself.
-
-### Mobility
-
-- Fuel was running low, prompting a late-night fuel quest.
-- Fuel was available at a nearby station with no queue, so the quest was completed without the delays seen in earlier fuel shortages.
+- Sergey Jr attended football and received a branded shirt from his own team. He now wears his personal team shirt instead of the Ronaldo shirt.
+- During football, Owling was absorbed by a plastic pipe protruding from the fence.
+- The Warden and Oksi were both tired and went to bed before midnight, the first time in a long while.
 
 ## Reflection
 
-Day 083 showed how quickly yesterday's emerging dream house can become ordinary life. Stronghold morning routines now include Owling noise-management expeditions, soil and plant runs, contractor discussions and digging during sleep windows. The unfinished work remains, particularly drainage and the basement cover, but it sits increasingly inside family life rather than replacing it.
+Day 084 was a day of positioning rather than resolution. Strategy approached completion while Platform Economy moved through compilation. A potential collision between Promomed and an October IPO was identified early enough to test rather than discover at the last moment. The MTS thesis also moved outside the Warden's own analysis and into a peer conversation, while the underlying question — Warden or market — remained deliberately unresolved.
 
-The football-field episode briefly hurt Alisa and complicated the children's local social world. The Warden responded by bringing Sergey Jr home so she would not be alone. The important subsequent fact is that both children chose to return after lunch.
+Stronghold's Fence Campaign crossed a more visible threshold. The fence had long been discussed; now manufacturers have a date to measure the plot. As Stronghold accumulates finished rooms, equipment, plants and garden objects, its boundary is becoming a practical requirement as well as an old wish of Oksi's.
 
-The return journey supplied the day's failed tactical decision: avoiding traffic produced nearly an hour at a railway crossing. Yet home contained an unexpected counterweight. Maksim had independently prepared food for the family, including his first pancakes, and the Warden was genuinely impressed.
-
-The final fuel quest, unlike several recent ones, was almost uneventful: nearby fuel, no queue. A day full of small household frictions ended with one system simply working.
+The smallest identity marker belonged to Sergey Jr: his football shirt now carries his own team's identity rather than Ronaldo's. And the day ended with a rarer achievement than many campaigns — the Warden and Oksi were asleep before midnight.

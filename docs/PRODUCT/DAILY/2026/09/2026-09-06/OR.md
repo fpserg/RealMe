@@ -4,36 +4,32 @@
 
 ### Family
 
-- Owling woke at 5 AM during heavy rain. A second attempt at sleep was brief, after which the Warden read to him, something Owling has been insistently requesting for roughly a week.
-- The Warden reported feeling unwell and apparently having caught a cold.
-- Owling broke Oksi's clay pot shortly before she woke.
-- Oksi went out for more garden accessories; during that interval the Warden eventually got Owling to sleep and rested as well.
-- After waking, Owling became agitated, yelling and rampaging; persistent heavy rain limited opportunities to take him outside and expend energy.
-- Oksi returned while finishing a phone conversation with her ex about Maksim's first days at his new school. The Warden stated that the conversation itself normally causes no problem, but at that moment he urgently needed help with Owling. A disagreement followed after Oksi saw his dissatisfaction and criticized his "unhappy face."
-- The Warden later went outside with the children. Alisa played at being a Martian who could not speak. Renewed rain forced them home.
-- At home Owling again became highly energetic. A second conflict with Oksi followed around her need for help moving heavy bags of soil while the Warden was trying to manage Owling. The Warden then took Owling outside again.
-- Owling eventually fell asleep in the stroller on the way back from the playground, giving the Warden a short quiet interval.
-- The autumn setting — wet grass or leaves, distant smoke, rubber boots and puddles — reminded the Warden of childhood at his parents' country house and improved his mood.
-- By the time the Warden returned from the evening errands, all children were in bed.
-- The day ended with a warm evening between the Warden and Oksi.
+- Another rainy day at Stronghold, but Owling slept longer and the Warden reported feeling somewhat better.
+- Oksi continued the planting campaign in the rain despite being ill, while the Warden stayed inside with the children and managed Owling's high energy.
+- New uncertainty emerged around Sergey Jr's School 444 admission. Although teachers and management accepted him, the Warden reported that formal acceptance is currently prevented because Sergey Jr is 6 years 4 months old and the formal threshold is 6 years 6 months.
+- The School 444 issue became another source of anxiety for Oksi.
 
 ### Stronghold
 
-- Oksi continued acquiring garden accessories and moving soil for the garden.
-- During an acute moment of frustration after the second disagreement, the Warden recorded: "I genuinely hate this place at those moments!"
-- Later, Oksi spoke repeatedly about how much she loves Stronghold, its garden and life there.
-- The Warden concluded that he wants to learn to love the place despite the hardships he experiences there.
+- Oksi continued planting under the rain despite illness.
+- The Warden found time between rain and caring for Owling to dig additional pits for flowers and trees.
+- After the family returned to Capital, Oksi discovered that her bag containing documents had been left at Stronghold.
+- The Warden made an additional round trip to Stronghold to retrieve it: approximately 130 km and 2.5 hours there and back.
+
+### Capital
+
+- The family returned from Stronghold to Capital in the evening and put Owling to bed before the forgotten bag was discovered.
 
 ### Mobility
 
-- The planned fuel quest was completed unexpectedly quickly because the gas station had almost no line.
-- At Oksi's request, the Warden extended the trip to find a pharmacy and obtain medicine and water.
-- The longer solo trip provided useful recovery time after the difficult day.
+- The unplanned Stronghold document-retrieval trip added approximately 130 km and 2.5 hours of driving.
+- The Warden described the trip playfully as a noble knight's treasure quest for his fair lady.
+- As on Day 075, necessary driving also provided restorative solitude: 2.5 quiet hours alone that the Warden experienced as a good distraction.
 
 ## Reflection
 
-Day 075 stayed almost entirely inside the Household Realm and exposed two very different experiences of Stronghold within the same day. It began at 5 AM with rain, illness, an energetic Owling and mounting pressure. The rain repeatedly removed the simplest outlet — going outside — and disagreements with Oksi arose precisely where simultaneous demands exceeded available capacity.
+Day 076 was still governed by rain, illness and Owling's energy, but it was gentler than Day 075. Owling slept longer and the Warden felt somewhat better. The Household divided its work naturally: Oksi advanced the garden outside despite the weather and illness, while the Warden maintained the interior with the children and still carved out enough time to dig more planting pits.
 
-Yet the later hours did not simply reverse the earlier ones. A sleeping Owling, autumn smells and puddles unexpectedly connected the Warden to his own childhood at his parents' country house. The fuel errand then became restorative time alone rather than merely another logistical burden.
+The difficult new development concerned Sergey Jr. The reported age threshold means that acceptance by teachers and management has not yet translated into formal admission to School 444. The immediate operational fact is uncertainty rather than rejection, but it adds another school-related anxiety for Oksi.
 
-The strongest contrast came at the end. Earlier the Warden genuinely hated the place "at those moments." Later Oksi described how much she loves it, and the Warden formed a different thought: perhaps his relationship with Stronghold is not settled by whether it is easy, but by whether he can gradually learn to love it alongside the hardships. Both states belong to the same day and neither needs to erase the other.
+The day ended with an absurdly large errand for a forgotten bag: 130 kilometres back to Stronghold and home again. Yet, like the previous day's fuel and pharmacy trip, the obligation contained its own relief. The Warden turned it into a knightly quest in the telling, and the road supplied 2.5 quiet hours alone. Across two consecutive Household-heavy days, solitary driving has unexpectedly become a small recovery space.

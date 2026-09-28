@@ -2,25 +2,27 @@
 
 ## Active Commitments
 
-### Career Realm — Platform Economy
-
-- Incorporate Andrey's constructive feedback into the consolidated Platform Economy report.
-- Continue moving the report toward a conference-ready version for the Gazprom audience.
-
 ### Career Realm — Equity Strategy
 
-- Follow the latest incorporated Strategy corrections through production and compliance.
-- Address any remaining corrections and prepare for client-facing stages.
+- Complete final Strategy production and remaining corrections.
+- Prepare for remaining client-facing stages.
 
 ### Career Realm — MTS
 
-- Keep the Strategy and investment case aligned with MTS's announced shareholder-distribution policy: unchanged total distribution, split 70% dividends / 30% buybacks.
-- Assess implications of lower DPS and the buyback component for valuation and shareholder returns.
+- Maintain the revised distinction between dividend disappointment and fair value: the 70% dividend / 30% buyback structure lowers DPS but, in the Warden's current analysis, does not change fair value.
+- Keep MTS among the Strategy top picks unless new fundamental evidence changes the investment case rather than reacting mechanically to sentiment.
+- Continue assessing market reaction and the practical value of the buyback component.
 
-### Career Realm — Analyst Rating
+### Career Realm — Platform Economy
 
-- Execute the enrollment strategy agreed with Head of Sales Mikhail.
-- Complete remaining rating coordination and outreach.
+- Let Artem complete weekend formatting of the report.
+- Review the formatted version and complete any remaining changes needed after Andrey's feedback.
+
+### Career Realm — Analyst Rating / Broker Relations
+
+- Continue executing the enrollment strategy agreed with Head of Sales Mikhail.
+- Follow up on analyst-contest voting outreach where appropriate.
+- Support the arranged colleague call for the broker interested in FabricaONE bonds and Polyus.
 
 ### Career Realm — ECM / Promomed
 
@@ -34,21 +36,22 @@
 
 ### Household Realm — Stronghold
 
-- Replan completion of the kitchen assembly after the assembler's car breakdown; manage the weekend stay with the kitchen temporarily half-finished.
+- Arrange completion of the unfinished kitchen assembly after the assembler's car breakdown.
+- Manage the weekend stay with the kitchen temporarily incomplete.
 - Continue drainage and basement works with Sergey the Landscaper.
 - Receive the fence manufacturers on Sunday for plot measurement and advance the Fence Campaign toward scope and pricing.
 - Confirm that the cooker's passport is present and complete the current prerequisite set for the Gas Campaign.
 - Find a workable day for another Gas Campaign document-submission attempt.
 - Resolve any remaining Kadyr work / payment matters if still outstanding.
-- Continue planting, furnishing and other remaining Stronghold work.
+- Continue planting, furnishing and remaining Stronghold work.
 - Obtain rubber boots before attempting the damp forest path again.
 
 ### Household Realm — Family / School
 
-- Treat the School 444 WC incident as mostly resolved following the teacher's call, while watching for any recurrence or unresolved practical issue.
 - Continue Sergey Jr's School 57 process now that he has advanced to Stage 2, without treating preliminary advancement as final admission.
+- Treat the School 444 WC incident as mostly resolved unless new information emerges.
 - Support the children through school and activity routines.
-- Protect recovery opportunities after recent exhaustion and Night Watches.
+- Protect opportunities for Oksi and the Warden to recover after repeated periods of exhaustion.
 
 ### Household Realm — Capital
 
@@ -75,35 +78,35 @@
 
 ### Career Realm
 
-- The team incorporated the latest Strategy feedback.
-- Consolidated the Platform Economy report, submitted it to Andrey, received constructive feedback and began incorporating changes.
+- Reassessed MTS after the new dividend policy and decided to retain it among the Strategy top picks because the Warden's fair value is unchanged.
+- Continued finalizing both Strategy and Platform Economy.
+- Handed the Platform Economy report to Artem for weekend formatting.
+- Arranged a colleague call for a broker interested in FabricaONE bonds and Polyus and asked for support in the upcoming analyst contest.
 
 ### Household Realm — Stronghold
 
-- Kitchen assembly started.
-- Received notice that the assembler cannot return the following day because his car broke down; the kitchen will remain half-finished for the weekend unless circumstances change.
+- Cleaned the mess left by the interrupted kitchen assembly.
+- Settled into the weekend at Stronghold despite the unfinished kitchen.
+- Saw a hare directly by the plot.
 
-### Household Realm — Family / School
+### Household Realm — Family
 
-- Oksi investigated the School 444 WC incident; the teacher subsequently called and the matter was mostly resolved.
-- Sergey Jr passed the School 57 preliminary stage and advanced to Stage 2.
-
-### Household Realm — Capital
-
-- Prepared Capital for another potential-buyer viewing.
-- Hosted the viewing: Oksi showed the apartment while the Warden cared for Owling. The visitors seemed to like the apartment, with no further outcome yet reported.
+- The initially tense Friday transition and drive to Stronghold gradually eased; Oksi calmed as the evening normalized.
 
 ## Notable Developments
 
-- Platform Economy reached Andrey as a consolidated report and returned with constructive feedback, marking a clear review-and-revision stage.
-- Sergey Jr's educational paths moved in opposite emotional directions on the same day: a difficult incident at School 444 was mostly resolved, while School 57 advanced him to Stage 2.
-- Capital received another apparently positive viewing, but no offer or commitment has been reported.
-- Kitchen assembly finally began at Stronghold but was interrupted by the assembler's car breakdown, leaving the family facing a potentially uncomfortable weekend with a half-finished kitchen.
+- The Warden separated the failed MTS DPS forecast from the broader investment thesis: the new distribution mix does not, in his current analysis, change fair value, so MTS remains a top pick.
+- Analyst-rating enrollment moved into direct relationship execution through broker outreach.
+- Platform Economy moved to Artem for weekend formatting after the Warden's substantive revision work.
+- Stronghold's unfinished kitchen created an uncomfortable arrival, but the family evening gradually returned to normal.
+- The hare at the plot became a small marker of Stronghold's increasingly familiar natural surroundings.
 
 ## Observer
 
-Day 087 repeatedly opened one door while leaving another unfinished. Strategy feedback was incorporated just as Platform Economy returned from Andrey with its next set of changes. Sergey Jr had a difficult incident at School 444 on the same day that School 57 advanced him to Stage 2. Potential buyers seemed to like Capital, but liking is not yet an offer.
+Day 088 was partly about refusing the wrong conclusion. The Warden had been wrong about MTS dividends, but being wrong about DPS did not require abandoning the stock. Total distribution remained unchanged; the form of shareholder return changed. After revisiting the valuation, the Warden kept MTS among the top picks rather than letting disappointment or sentiment substitute for the investment case.
 
-Stronghold made the most literal version of the pattern. Kitchen assembly began — a major step toward ordinary life in the house — and then stopped halfway because the assembler's car broke down. Nobody needed to be blamed for the inconvenience to be real.
+Career then moved through handoffs and relationships. Platform Economy went to Artem for weekend formatting. A broker received useful access on FabricaONE bonds and Polyus and, in the same relationship, a direct request to support the team in the analyst contest.
 
-The day therefore ended with several promising processes still between states: a report under revision, a second school path advancing, buyers considering, and a kitchen visibly becoming a kitchen but not yet usable as intended.
+The transition to Stronghold was tense. Oksi was tired and in a bad mood, the drive was nervous, and the half-finished kitchen greeted the family with construction mess. The Warden cleaned it. Then the house slowly did what it has begun to do more often: it became ordinary again.
+
+A hare appeared beside the plot. Oksi calmed. The unfinished kitchen remained unfinished, but it no longer defined the whole evening.

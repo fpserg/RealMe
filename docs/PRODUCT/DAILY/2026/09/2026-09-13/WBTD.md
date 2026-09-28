@@ -26,14 +26,14 @@
 - Find a workable day between Strategy calls and Platform Economy work for another Gas Campaign document-submission attempt.
 - Meet Alexey next week to discuss further Stronghold work steps.
 - Address Kadyr's outstanding wage on September 15.
+- Follow up with Sergey the Landscaper on the basement cover and drainage after the latest discussion.
 - Decide whether routine Stronghold work should increasingly move toward local masters.
-- Continue drainage, basement, fence, planting and remaining Stronghold work where still outstanding.
+- Continue fence, planting and remaining Stronghold work where still outstanding.
 - Obtain rubber boots before attempting the damp forest path again.
 
 ### Household Realm — Family
 
-- Support Oksi's continuing recovery and dental care.
-- Support Sergey Jr and the other children through their school routines.
+- Support the children through their school routines and developing local friendships around Stronghold.
 - Preserve room for recovery after the intensive Career week and continuing Night Watches.
 
 ### Household Realm — Capital
@@ -43,7 +43,7 @@
 
 ### Household Realm — Mobility
 
-- Continue treating fuel availability as a live logistical constraint.
+- Continue treating fuel availability as a live logistical constraint despite the latest easy refill.
 - Obtain new winter tyres in the appropriate season.
 
 ### Third Realm — RealMe
@@ -60,36 +60,34 @@
 
 ### Household Realm — Stronghold
 
-- Kitchen delivery arrived and was unloaded.
-- The cooker arrived with the kitchen, resolving the previously missing physical prerequisite for the current Gas Campaign stage, subject to confirmation of its passport.
-- The children saw the bathroom and liked it.
-- Oksi and the Warden continued garden work; new rose bushes arrived.
-- The Warden arranged a meeting with Alexey for next week to discuss further work steps.
+- Discussed basement cover and drainage with Sergey the Landscaper; Oksi completed the discussion when Owling needed to be put to sleep.
+- Added soil and more plants to Stronghold supplies.
+- Dug additional flower pits during Owling's sleep window.
 
 ### Household Realm — Family
 
-- The Warden handled Stronghold while Oksi attended her dentist appointment.
-- Roma unexpectedly returned and the older children went with him to the football field.
-- The Warden took all children to the playground before bedtime, leaving Oksi time for gardening.
+- Supported Alisa after the upsetting football-field episode by bringing Sergey Jr home for lunch; both children later returned to the football field.
+- Returned the children home and prepared them for the next school day despite the long travel delay.
+- Maksim independently prepared salad, his first homemade pancakes and cut apples for the family.
 
-### Third Realm — RealMe
+### Household Realm — Mobility
 
-- The Warden resumed RealMe development during Owling's Night Watch after several days focused heavily on Career.
+- Completed a late-night fuel refill at a nearby station with no queue.
 
 ## Notable Developments
 
-- Stronghold's kitchen is now physically on site and the cooker may close the last currently missing documentary prerequisite for another Gas Campaign submission attempt.
-- Oksi repeatedly described Stronghold as turning from a construction site into a dream house; the Warden felt proud of the transition.
-- The nearby forest has become a new area for future exploration after the Warden observed apparent mushroom pickers and attempted the damp path with Owling.
-- Rubber boots are the practical prerequisite for another forest attempt.
-- Kadyr's outstanding wage is expected to require attention on September 15.
+- Sergey the Landscaper's latest visit returned the basement cover and drainage to active discussion, though his lateness remains part of the working pattern.
+- Alisa was upset by a social episode involving Roma and his older friends, but she and Sergey Jr chose to return to the football field after lunch.
+- Maksim made his first pancakes successfully and surprised the Warden with an independently prepared meal.
+- An attempted traffic detour backfired and cost nearly an hour at a railway crossing.
+- Fuel was readily available nearby without a queue.
 
 ## Observer
 
-Day 082 shifted Stronghold's center of gravity from construction toward inhabitation. The kitchen arrived. The bathroom was inspected by the children rather than contractors. Roses entered the garden. Roma knocked on the door and took the older children to the football field. A path toward the forest began to reveal itself.
+Day 083 was not a milestone day. That may itself be a sign of Stronghold's progress. Soil runs, landscaper discussions, flower pits and children moving between the house and football field increasingly resemble the routine of living there rather than a special construction expedition.
 
-The cooker carried an unusually bureaucratic significance: its passport may complete the missing pieces for another Gas Campaign submission. Even that campaign now feels less like an endless search for prerequisites and more like a scheduling problem between Career obligations.
+Not everything ran smoothly. The landscaper was late again. Alisa came home crying. A traffic workaround became worse than the original problem. Yet each disruption was absorbed: Oksi finished the contractor conversation, the Warden brought Sergey Jr home for Alisa, the children returned to play, and the family eventually reached home before school.
 
-Most important was Oksi's repeated description of the place as a dream house rather than a construction site, and the Warden's pride in hearing it. Stronghold still contains contractors, unpaid wages, wet paths and unfinished campaigns. But the house itself is becoming easier to see.
+Then Maksim had food waiting. His first pancakes were good enough to genuinely surprise the Warden. Against a day of small logistical corrections, that independent act of competence stood out.
 
-The night ended with Owling awake and RealMe development returning after an intense Career week — a small reopening of the Third Realm inside another Night Watch.
+Even the final fuel quest refused to become a campaign. The station nearby had fuel and no queue. Sometimes continuity is simply the absence of another problem.

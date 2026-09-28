@@ -1,11 +1,13 @@
 LI
 
-Another rainy day at Stronghold, but with longer Owling sleep and me feeling a bit better
+Owling woke up in the middle of the night, I rocked him back into sleep and found myself sleeping on the floor next to his bed in a few hours
 
-Oksi heroically advances planting campaign under the rain and despite illness. I maintain defence inside with the kids. Owling is a storm himself.
+Took kids to school, and when I came back Oksi told me that I have to stay home as she feels sick, and will not survive Jr’s School Admission Quest together with Owling. I had to, but that’s a serious drawback for Career as I have intense time with two short deadlines so every day counts.
 
-Unpleasant knowledge: Sergey Jr can’t be formally accepted at School 444 although he was accepted by teachers and management, because he is 6 years 4 months old and formally he can only be accepted when he is 6 and 6 mths. Another source of anxiety for Oksi.
+Managing Career through Artem, most manual work is on him.
 
-I carved some time between rain and Owling to dig more flowers and trees pits
+Oddly, School Admission Quest didn’t require much Oksi’s effort. School staff told her it’s on them. She’s still anxious that it is moving not as fast as she wants and she can’t impact. I was telling her to (behave RealMe way) calm down and wait while this step is resolved externally.
 
-In the evening when we came back to Capital and put Owling to bed Oksi said she left her bag with documents at Stronghold. So there I went, 130 km and 2,5 hours there and back like a noble knight on a treasures quest for my fair lady. But that was also a good distraction for me - 2,5 quiet hours on my own.
+Took Owling and Jr out. Met Alisa and her classmate at the playground as she asked to walk on her own after school.
+
+Artem sent me a Strategy report draft. The new part is fine, but I found new reasoning in the old part where we argue that ERP is extremely high. This won’t hold: the market apparently prices in lower EPS apart from elevated ERP, so we’d be destroyed by investors. Drafted him action plan to rework this part.

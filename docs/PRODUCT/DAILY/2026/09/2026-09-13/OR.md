@@ -4,41 +4,30 @@
 
 ### Stronghold
 
-- The Stronghold morning began at 07:00, which the Warden considered acceptable.
-- The Warden took Owling on a supplies quest for water and apples, partly to move Owling's noise outside rather than because supplies were urgent.
-- The children saw the bathroom and liked it.
-- Oksi weeded the garden. The Warden later helped with garden treatment after Owling's daytime sleep.
-- Oksi went to the dentist and the Warden remained in charge at Stronghold.
-- The kitchen delivery arrived and was unloaded.
-- The cooker arrived with the kitchen. The Warden expects it to have the required passport, which would complete the currently missing prerequisite set for the Gas Campaign. The next stage is to find a day between Strategy calls and Platform Economy work for another document-submission attempt.
-- Oksi returned with new rose bushes.
-- The Warden spoke with Alexey, Kadyr's landlord. They agreed to meet next week to discuss further work steps. The Warden understood Alexey's primary immediate concern to be payment of Kadyr's outstanding wage on September 15; that motive remains the Warden's interpretation rather than a confirmed statement.
-- Oksi repeatedly said that she loves Stronghold and feels it is changing from a construction site into a dream house. The Warden felt proud.
-
-### Stronghold — Surroundings
-
-- Roma unexpectedly came to the door and invited the older children out. This surprised and pleased them because on their previous meeting he had said he would not return until next summer. They went to the football field.
-- During a rainy walk with Owling, the Warden saw people in rubber boots carrying baskets and inferred that they were heading to gather mushrooms.
-- The Warden attempted to advance toward the forest path with Owling on his shoulders but the ground was too damp. Rubber boots are needed before another attempt.
-- Finding the path into the nearby forest is now a possible future Stronghold exploration rather than an urgent task.
+- The morning followed an increasingly regular Stronghold pattern: time with Owling followed by a supplies quest when his noise level became difficult indoors.
+- On returning, the Warden joined Oksi and Owling on another supplies trip for soil and additional plants.
+- Sergey the Landscaper arrived late again. The Warden discussed the basement cover and drainage with him. Owling became tired and protested strongly, forcing the Warden to leave the discussion to put him to sleep; Oksi completed the conversation.
+- Owling's sleep created a work window, which the Warden used to dig new flower pits.
 
 ### Family
 
-- The Warden took all the children to the playground before bedtime, giving Oksi additional time for gardening.
-- Owling woke during the night.
+- Alisa and Sergey Jr were playing with Roma at the football field. Roma's older friends arrived and made fun of him for playing with girls. Alisa asked whether she should leave and Roma said yes; she returned home in tears.
+- The Warden called Sergey Jr home for lunch so Alisa would not feel alone. After lunch, both children chose to return to the football field.
+- The trip home from Stronghold was delayed. Heavy traffic on the usual route led the Warden to take a detour, but the family then spent almost an hour waiting at a railway crossing.
+- Because the family arrived home late before a school day, the Warden rushed the children through showers and bedtime.
+- Maksim had stayed home and prepared a surprise: salad, homemade pancakes and neatly cut apples. They were his first pancakes and the Warden found them genuinely good and was impressed that Maksim had made something the Warden could not do at the same age and still does not make himself.
 
-## Third Realm
+### Mobility
 
-### RealMe
-
-- During Owling's Night Watch, the Warden resumed RealMe development work for the first time in several days after an intensive Career week.
+- Fuel was running low, prompting a late-night fuel quest.
+- Fuel was available at a nearby station with no queue, so the quest was completed without the delays seen in earlier fuel shortages.
 
 ## Reflection
 
-Day 082 was almost entirely a Stronghold day. The kitchen arrived, and with it the cooker — potentially the last currently missing documentary object for the Gas Campaign. The bathroom received approval from the children, roses arrived for the garden, and a future meeting with Alexey was arranged.
+Day 083 showed how quickly yesterday's emerging dream house can become ordinary life. Stronghold morning routines now include Owling noise-management expeditions, soil and plant runs, contractor discussions and digging during sleep windows. The unfinished work remains, particularly drainage and the basement cover, but it sits increasingly inside family life rather than replacing it.
 
-The strongest development was less procedural. Oksi repeatedly described Stronghold as changing from a construction site into a dream house, and the Warden felt proud. After months in which the house often presented itself as a sequence of contractors, failures, costs and campaigns, the lived place is becoming more visible through the construction site.
+The football-field episode briefly hurt Alisa and complicated the children's local social world. The Warden responded by bringing Sergey Jr home so she would not be alone. The important subsequent fact is that both children chose to return after lunch.
 
-The day also widened Stronghold's map. Roma unexpectedly returned, the children went to the football field, and a rainy walk revealed evidence of a forest route used by mushroom pickers. The Warden tried to follow it and learned the first requirement: rubber boots.
+The return journey supplied the day's failed tactical decision: avoiding traffic produced nearly an hour at a railway crossing. Yet home contained an unexpected counterweight. Maksim had independently prepared food for the family, including his first pancakes, and the Warden was genuinely impressed.
 
-The night returned to a familiar pattern — Owling awake — but this time it reopened the Third Realm too. With the Career week finally easing, the Warden used the Night Watch to return to RealMe development.
+The final fuel quest, unlike several recent ones, was almost uneventful: nearby fuel, no queue. A day full of small household frictions ended with one system simply working.

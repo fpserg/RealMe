@@ -2,38 +2,48 @@
 
 ## Career Realm
 
-### MTS
+### Equity Strategy
 
-- MTS announced its new shareholder-distribution policy.
-- The Warden's prior dividend thesis proved wrong: total shareholder distribution remains unchanged, but the split changes from 100% dividends to 70% dividends and 30% buybacks, implying lower DPS.
-- The Warden attended the MTS presentation at the stock exchange. It added some clarifications and networking opportunities but little substantive information beyond the earlier announcement.
-- Back at the office, the Warden rewrote the MTS section of Equity Strategy to incorporate the new policy.
+- The team received the latest Strategy feedback and incorporated it.
+- Strategy remains in its final correction / production cycle rather than requiring another broad analytical rebuild.
 
-### Equity Strategy / Management
+### Platform Economy
 
-- Final Strategy corrections continued after the MTS announcement.
-- The Warden also dealt with tensions involving retail brokerage alongside the report corrections.
+- The Warden consolidated the Platform Economy report and submitted it to Andrey.
+- Andrey returned constructive feedback.
+- The Warden began incorporating the requested changes, moving the report into another focused revision round.
 
 ## Household Realm
 
-### Family
-
-- Oksi was exhausted and Owling was in a wild mood.
-- The Warden took Owling along to collect Sergey Jr from football.
-- On the way back, the Warden and Sergey Jr discussed the habitat of Amur tigers.
-- Owling remained awake through much of the night, leaving the Warden only a very short sleep before morning.
-
 ### Stronghold
 
-- Oksi brought home a new set of garden furniture: a table and chairs.
-- The furniture adds another element of ordinary inhabitation to Stronghold's garden as the property continues to move beyond its construction-site phase.
+- Kitchen assembly began at Stronghold.
+- Late in the day, the kitchen assembler reported that his car had broken down and he would not be able to return the following day.
+- The kitchen will therefore remain half-finished during the family's weekend stay. The Warden does not blame the assembler, but expects the incomplete kitchen to make the weekend materially less comfortable.
+- Existing Stronghold campaigns around drainage, basement works, fencing, gas documentation and remaining furnishing continue alongside the kitchen work.
+
+### Family — School
+
+- Sergey Jr was refused permission to use the WC during a lesson, resulting in an accident at school.
+- Oksi investigated the incident through the class chat.
+- The School 444 teacher later called, and the issue appears mostly resolved.
+- Separately, Sergey Jr passed the School 57 preliminary stage and advanced to Stage 2. Oksi was happy about the result.
+- These are parallel school developments: Sergey Jr remains at School 444 while the School 57 process advances.
+
+### Capital
+
+- Potential buyers were scheduled to visit Capital.
+- The Warden walked with the children while Oksi prepared the apartment.
+- Owling became tired and scandalous, so they returned shortly before the viewing.
+- The visitors were a couple without children. They seemed to like the apartment, but no purchase outcome has yet been reported.
+- Oksi conducted the showing while the Warden rocked Owling.
 
 ## Reflection
 
-Day 086 delivered the verdict that Day 084 had left open. The Warden's MTS dividend thesis was wrong. The company preserved total shareholder distribution but redirected 30% toward buybacks, reducing the dividend component and therefore DPS. The immediate response was not to defend the old thesis but to attend the presentation, gather clarification and rewrite the Strategy section around the new facts.
+Day 087 kept several paths open at once. Strategy absorbed another round of feedback while Platform Economy reached Andrey, returned with constructive comments and immediately entered revision. Neither report was static; both were moving through the hands that now mattered.
 
-The rest of Career remained crowded: final Strategy corrections continued while retail brokerage tensions demanded attention. At home, reserves were similarly low. Oksi was exhausted and Owling highly energetic, so the Warden carried him along to retrieve Sergey Jr from football.
+Sergey Jr's school day carried two very different developments. An upsetting WC incident at School 444 required Oksi to investigate and was mostly resolved after the teacher called. At the same time, School 57 advanced him to Stage 2 of its preliminaries, giving the family another reason to keep that educational path open without changing his current School 444 status.
 
-Inside that difficult evening was a small, quiet conversation about Amur tigers. Stronghold gained a garden table and chairs. Then Owling converted the night into another Night Watch, leaving almost no sleep before the next day.
+Capital also received another viewing. The couple seemed to like the apartment, but the visit remains only a viewing until an offer or other next step appears.
 
-The most consequential event was a thesis being disproved. The operational response was simple: update the model of reality and continue.
+Stronghold's kitchen finally began to take physical form, then stopped halfway when the assembler's car broke down. No blame was attached, but the timing matters: the family is heading into a weekend stay with the room that should improve everyday life temporarily caught between construction and completion.

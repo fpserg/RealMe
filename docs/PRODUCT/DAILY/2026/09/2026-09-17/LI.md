@@ -1,15 +1,19 @@
 LI
 
-MTS announced dividend policy - and - alas - I was wrong: they kept total shareholder distribution unchanged, but changed split to 70% dividends and 30% buyback instead of 100% dividends before, so DPS is now lower.
+Strategy feedback received and incorporated by the team
 
-Wen to stock exchange for MTS presentation. Not much more beyond statements announced earlier, just some clarifications and networking.
+Kitchen assembly started at Stronghold
 
-Back to the office, sorting out things - retail brokerage tensions, final strategy corrections, including rewriting MTS part. 
+Working on platform report - consolidated and submitted to Andrey, received constructive feedback and incorporating changes
 
-Picked Owling to get Sergey Jr from football. He was in a wild mood and Oksi was totally exhausted.
+Accident at school: Jr was rejected to WC during lesson. Oksi investigates in class chat. 
 
-Discussed Amur tigers habitat with Jr on our way back from football.
+Capital: walking kids while Oksi prepares for potential buyers’ visit
 
-Oksi brought home a new set of garden furniture - table and chairs.
+Jr accepted at School 57 preliminaries Stage 2, Oksi is happy. Also 444 teacher called and WC accident mostly resolved.
 
-Night - and Owling decided it to be day. A very short nap remained for me until morning.
+Owling tired and scandalous so getting back home just before visit
+
+Visitors are a nice couple, no kids, seemed to like our place. Oksi was showing while I was rocking Owling
+
+Kitchen assembler called late to tell that his car broke and he won’t be able to come tomorrow. So the kitchen remains half-done during our weekend stay. Not blaming him, but that makes upcoming weekend potentially quite uncomfortable.

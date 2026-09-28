@@ -1,31 +1,23 @@
 LI
 
-Owling’s morning started at 6 AM and so did mine
+Morning starts at 6:15 AM. Owling becomes somewhat scheduled, although I’d love weekend mornings to start a bit later.
 
-Supplies quest. Bought lemon and sweets for Oksi as she still feels unwell and phone charger for Jr as he left his at Capital
+Owling makes too much noise, wakes everyone and they angrily stare at me, so I have to grab the little troublemaker and retreat for Supplies Quest
 
 LI
 
-Oksi insisted that I call kitchen assembler and find out when he comes to finish the job. Then took my phone herself - she wants to be in charge of everything.
+Supplies Quest - Water Mission. Walking through misty hilly forest path with stairs formed by birch roots with Owling on my shoulders and canister in hand towards the forest spring. We made it and got a full canister. Hope the water is worth this quest, but… Water is water.
 
-Sergey the Landscaper came to discuss further land works (drainage trench done btw) and Alexey to discuss further Kadyr commitments (and my payments of course)
+Canister loaded in car, we are ready to set off to next mission of Supplies Quest. Some boozer with a dog waves me and I stop wondering what he wanted. He asks me for a spare cigarette and makes his dog wave to Owling with its paw in exchange. Owling looks puzzled.
 
-Asked local lawnmowers to mow grass. I need to buy myself a mower - it will be cheaper all in all.
+Next mission - fruits as Oksi is still unwell, Owling has nose running and Alisa also started being unwell. I got bananas (Owling’s current favourite), apples (Alisa’s) and peaches - just because they looked good.
 
-Nursery expedition with Oksi. Owling found an artifact - piece of plastic pipe and fiercely refused to leave it behind, so we took it with us.
+LI
 
-Stopped by a spring in the forest on the way back from nursery - I was curious to see it for some time already. Rough path, but the water was nice and refreshing. Maybe tomorrow supplies quest will include spring water.
+Sergey the Landscaper came with his guild to make strawberry patches and dig pits for peach trees. Almost simultaneously came Konstantin the Fence Measurer to measure and calculate the fence installation. It starts in a week and should be completed a week after. This is a long-awaited milestone, but one drawback: the Hare will not be able to enter our plot after the fence is installed.
 
-Walking Owling. Finally met the mysterious owner of Baba Yaga hut and Wooden Guardian and got acquainted - Mikhail. Small talk on kids. While talking a guy approached asking whether I have a job for him. Said that soon I’ll need help with plumbing and water works and took his number. Mansur.
+Important finding from yesterday, I just missed recording: Oksi got acquainted with Adelina’s mum Yulia, who is our neighbour. She said that the plot just beside ours is her sister’s, and she is thinking of selling it. It immediately clicked for Captain Sparrow as an opportunity to expand her territories (and another potential hit on Treasury of course). Agreed that if they decide to sell they let us know before anyone else.
 
- LI
+After guilds are gone and Owling asleep, Oksi and I had an argument on my further commitments: she insisted I have to work in the garden while my prefence was a nap and a lunch maybe. To illustrate my effort with the garden - I broke a shovel (by accident of course) when trying to dig another pit. And then left for a deserved nap.
 
-Halfway to playground I found out that Owling’s soother is missing. Strolled there and back but couldn’t find it. Perhaps it was a sacrifice to 2 helpful acquaintances (or to Wooden Guardian who was carved by Mikhail himself btw).
-
-On the way back passing by football field where Alisa and Jr were playing peacefully lied Owling’s soother.
-
-Alisa got acquainted today with a new girl Adelina, came to her house and had tea and sandwiches. Sergey joined later.
-
-Few more garden pits before Owling bedtime while middles look after him
-
-Evening showtime for Alisa and Jr: Pirates of the Caribbean! Recall that one of Oksi’s RealMe nicknames is Jack Sparrow.
+After the nap and the lunch - ordinary Stronghold Sunday. Oksi in the garden, kids helped her with putting mown grass in the bags, me running between Owling and garden. Then a long drive back home, came late, tired as always.

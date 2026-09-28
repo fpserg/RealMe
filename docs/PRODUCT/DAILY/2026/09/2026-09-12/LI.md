@@ -1,23 +1,35 @@
 LI
 
-Strategy submission deadline. Artem is still sick and working from home
+Stronghold morning starts at 7 AM (acceptable)
 
-Roman connects bathtub and toilet today before we arrive at Stronghold by night
+Regular supplies quest with Owling - water and apples, but mostly to keep Owling’s noise out rather than urgency
 
-Passed Andrey’s feedback to the team for implementation
+Kids saw the bathroom and liked it
 
-Supervised voting registration form sending to IRs by the team
+Oksi weeding after waking up. I helped her also put insecticides after Owling’s day sleep.
 
-Day full of headlines on 5G launches. Verified with MTS - nothing really big, just as I thought, mostly PR. But another thing was important: next week MTS holds an offline/online meeting at stock exchange just the day after board meeting. I’m sure it’ll be dividend policy! I wish they announced it later, after we made client calls on strategy, as I’m contrarian to crowd expecting raise. Sent note to sales.
+Oksi off to dentist, I’m in charge at Stronghold
 
-Brokerage call amid strategy final preparations.
+Kitchen delivery arrived and unloaded
 
-Strategy draft submitted to compliance and production
+Someone knocking at the door. I opened - it’s Roma asking kids out. Last time they met he told them he doesn’t come here till next summer. They are surprised and happy, off to football field.
 
-Arrived home. Oksi is still unwell. Set out to Stronghold after short preparations. Sergey Jr fell asleep in car after his second school day.
+I’m on the walk with Owling. It starts and ends raining. Saw a group of people in rubber boots and with baskets, apparently heading to pick mushrooms. I need to find the path to the forest another day…
 
-At Stronghold. Immediate tasks: take Owling to sleep, carry sink from car to home, switch on water and heat, all at once. Typical Stronghold.
+LI
 
-Toilet and bath work. Oksi is still dissatisfied with Roman, points at small things, like they didn’t remove packaging before leaving. She’s simply annoyed with Roman and I know that she’ll keep on nitpicking no matter what. Think I’ll switch to local masters at least for regular tasks.
+Guess what arrived with kitchen? The cooker! And it should have a passport! That was the last missing piece of the Gas Campaign puzzle (at least at this stage). Next issue is carving a day between Strategy calls and Platform report to make another documents submission attempt.
 
-Exhausted after hard day and yesterday’s sleepless night, bedtime.
+Tried to advance on the forest path with Owling on my shoulders. It was too damp, I need rubber boots for this.
+
+LI
+
+Came back and Oksi arrived soon with a set of new rose bushes
+
+Another playground trip with all kids before bedtime, leaving Oksi time for gardening
+
+Spoke to Alexey the Kadyr’s landlord, agreed to meet next week to decide on further work steps. But as I inderstand his primary intention  was to ask to pay outstanding Kadyr wage on Sep 15.
+
+Quiet evening. Oksi can’t stop saying how she loves this place and how it turns from construction site to dream house. I feel proud.
+
+Owling woke in the middle of the night. Working on RealMe development while trying to get him back to sleep - first time in a few days, as the week was intense.

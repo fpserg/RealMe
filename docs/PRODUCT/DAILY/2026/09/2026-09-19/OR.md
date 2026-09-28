@@ -1,47 +1,46 @@
 # Operational Record
 
-## Career Realm
-
-### Equity Strategy / MTS
-
-- The Warden continued finalizing Equity Strategy.
-- After incorporating MTS's new shareholder-distribution policy, the Warden decided to keep MTS among the Strategy top picks.
-- The revised conclusion is that the change from an all-dividend distribution to a 70% dividend / 30% buyback split lowers DPS but does not change the Warden's fair value assessment.
-- The Warden therefore chose not to remove the stock simply because sentiment around the dividend policy had weakened.
-
-### Platform Economy
-
-- The Warden continued finalizing the Platform Economy report after Andrey's feedback.
-- The report was handed to Artem for formatting over the weekend.
-
-### Analyst Rating / Broker Relations
-
-- A fellow broker was interested in FabricaONE bonds and Polyus following the dividend cancellation.
-- The Warden arranged a call with colleagues to help address those interests.
-- The Warden also asked the broker to vote for the team in the upcoming analyst contest, putting the previously agreed enrollment strategy into practice.
-
 ## Household Realm
-
-### Stronghold
-
-- The family travelled to Stronghold for the weekend after a tense departure from home.
-- The kitchen remains unfinished after the assembler's interruption.
-- The Warden cleaned the mess left after the kitchen assembly work.
-- After the cleanup, the evening gradually shifted toward a normal Stronghold rhythm.
-- A hare appeared directly by the family's plot.
 
 ### Family
 
-- Oksi was tired and in a bad mood at home, consistent with a difficult Friday transition rather than treated as a durable state.
-- The drive to Stronghold was nervous.
-- Once at Stronghold and after the initial cleanup, Oksi gradually calmed as the evening normalized.
+- Owling's day began at 06:00, and the Warden's day began with him.
+- Oksi continued to feel unwell. During the morning Supplies Quest, the Warden bought lemon and sweets for her.
+- Sergey Jr had left his phone charger at Capital, so the Warden bought him another one.
+- Oksi pressed for clarity on when the kitchen assembler would return and then took the Warden's phone to handle the conversation herself.
+- Alisa met a new girl, Adelina, visited her home and had tea and sandwiches there. Sergey Jr joined later.
+- Alisa and Sergey Jr played peacefully at the football field and later helped watch Owling while the Warden dug more garden pits.
+- Evening showtime for Alisa and Sergey Jr was Pirates of the Caribbean, carrying an extra family association because Jack Sparrow is one of Oksi's RealMe nicknames.
+
+### Stronghold — Land and Works
+
+- Sergey the Landscaper came to discuss the next stage of land works.
+- The drainage trench is now complete.
+- Alexey came to discuss further Kadyr commitments and related payments.
+- The Warden hired local lawnmowers to cut the grass.
+- Repeated mowing costs led the Warden to conclude that buying a lawn mower should be cheaper overall.
+- The Warden dug several more garden pits.
+- Completion timing for the unfinished kitchen remained an active issue.
+
+### Stronghold — Expeditions and Local World
+
+- The Warden and Oksi made another nursery expedition.
+- Owling discovered a new Artifact: a piece of plastic pipe, which he fiercely refused to leave behind.
+- On the return journey, the family stopped at a forest spring the Warden had wanted to inspect for some time. The path was rough, but the water was refreshing enough to consider collecting spring water on a future Supplies Quest.
+- While walking Owling, the Warden finally met Mikhail, the previously mysterious owner of the Baba Yaga hut and Wooden Guardian. Mikhail carved the Wooden Guardian himself.
+- During their conversation, Mansur approached looking for work. The Warden took his number as a possible future helper for plumbing and water works.
+- Owling's soother later appeared to be lost. After an unsuccessful search, it was eventually found near the football field where Alisa and Sergey Jr had been playing.
+
+## Career Realm
+
+- No new Career developments were recorded during Day 089. Existing Strategy, Platform Economy, MTS, analyst-rating and management commitments remain active where not otherwise completed.
 
 ## Reflection
 
-Day 088 separated two ideas that had briefly risked becoming one. The Warden had been wrong about MTS DPS, but that did not automatically mean the stock had become a bad investment. With total shareholder distribution unchanged, the revised policy altered the form of returns without changing the Warden's fair value. MTS therefore remained among the Strategy top picks despite weaker sentiment.
+Day 089 was almost entirely a Stronghold day, and the world around the house became more populated and specific. The drainage trench moved from planned work to completed infrastructure. Sergey the Landscaper and Alexey both arrived to discuss what comes next. Grass maintenance produced a simple economic conclusion: repeated hired mowing is beginning to justify owning the machine.
 
-The analyst contest also moved from planning into practice. A useful broker relationship created a natural opportunity: the Warden arranged access to colleagues on FabricaONE bonds and Polyus, then asked directly for support in the vote.
+The surrounding landscape also acquired names and routes. The forest spring was no longer a point of curiosity but a visited place. The owner of the Baba Yaga hut and Wooden Guardian became Mikhail rather than a mystery. Mansur appeared almost by accident and may become useful for future water and plumbing work.
 
-Platform Economy reached another handoff, this time to Artem for weekend formatting.
+Owling contributed his own mapping system through Artifacts. A plastic pipe became non-negotiable treasure. His missing soother briefly looked like an offering to the day's new acquaintances or to the Wooden Guardian before turning up peacefully by the football field.
 
-Stronghold began less smoothly. Oksi was tired and irritated, the drive was tense, and the unfinished kitchen had left a mess. The Warden cleaned it. Then the house slowly resumed its ordinary weekend character. A hare appeared at the plot, Oksi calmed, and the evening became less about what remained unfinished and more about simply being there.
+Meanwhile the older children were building their own local world. Alisa met Adelina and visited her home, Sergey Jr joined them later, and both children helped with Owling while garden work continued. By evening, the day ended with Pirates of the Caribbean — appropriately enough for a household in which Oksi already carries the name Jack Sparrow.

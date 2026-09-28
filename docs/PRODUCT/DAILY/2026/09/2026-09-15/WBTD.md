@@ -2,16 +2,25 @@
 
 ## Active Commitments
 
-### Career Realm — Equity Strategy / Platform Economy
+### Career Realm — Platform Economy
 
-- Complete final Equity Strategy work and follow the report through remaining production / client-call stages.
-- Continue compiling and developing the Platform Economy report.
+- Make Platform Economy the primary active report while Equity Strategy moves through its final production and compliance stages.
+- Continue compiling, editing and developing the Platform Economy report for the Gazprom conference audience.
+
+### Career Realm — Equity Strategy
+
+- Let Artem complete the final changes while production and compliance process the report.
+- Address any corrections that return and prepare for the remaining client-facing stages.
+
+### Career Realm — Analyst Rating
+
+- Execute the enrollment strategy agreed with Head of Sales Mikhail.
+- Complete remaining rating coordination and outreach as required.
 
 ### Career Realm — MTS
 
 - Track the MTS board meeting and subsequent stock-exchange event.
-- Test the dividend-policy thesis against the eventual company decision and market reaction rather than treating either the Warden's or market's view as settled in advance.
-- Continue using investor and client conversations to pressure-test the thesis where useful.
+- Test the dividend-policy thesis against the eventual company decision and market reaction.
 
 ### Career Realm — ECM / Promomed
 
@@ -20,25 +29,26 @@
 
 ### Career Realm — Management
 
-- Complete remaining Best Analyst ranking coordination.
 - Track Artem's promotion process after the preliminary green light.
 
 ### Household Realm — Stronghold
 
-- Receive the fence manufacturers on Sunday for plot measurement and use the result to advance the Fence Campaign toward scope and pricing.
-- Prepare for kitchen assembly Thursday-Friday now that the kitchen has been delivered.
+- Coordinate Kadyr's Thursday visit with the kitchen assemblers so kitchen items can be moved as required.
+- Receive and supervise kitchen assembly Thursday-Friday.
+- Begin and track drainage and basement works with Sergey the Landscaper as they move from planning toward execution.
+- Receive the fence manufacturers on Sunday for plot measurement and advance the Fence Campaign toward scope and pricing.
 - Confirm that the cooker's passport is present and complete the current prerequisite set for the Gas Campaign.
-- Find a workable day between Strategy calls and Platform Economy work for another Gas Campaign document-submission attempt.
-- Meet Alexey to discuss further Stronghold work steps.
-- Address Kadyr's outstanding wage, expected on September 15 if still unpaid.
-- Follow up with Sergey the Landscaper on the basement cover and drainage.
-- Continue planting and remaining Stronghold work where still outstanding.
+- Find a workable day between Career obligations for another Gas Campaign document-submission attempt.
+- Meet Alexey to discuss further Stronghold work steps if still outstanding.
+- Resolve Kadyr's outstanding wage if still unpaid.
+- Continue planting and remaining Stronghold work where outstanding.
 - Obtain rubber boots before attempting the damp forest path again.
 
 ### Household Realm — Family
 
-- Support the children through their school and activity routines.
-- Protect opportunities for earlier sleep and recovery where possible after the recent intensive period.
+- Support Oksi through the current tired / low-energy period without treating a single difficult evening as a durable state.
+- Support the children through school and activity routines.
+- Protect opportunities for sleep and recovery where possible.
 
 ### Household Realm — Capital
 
@@ -64,32 +74,34 @@
 
 ### Career Realm
 
-- Identified a potential collision between the October IPO and Promomed plant trip and checked it with Alexey of ECM; current indication is that a one-day trip may fit outside IPO milestones.
-- Pressure-tested the MTS dividend thesis in a conversation with a fellow investor, who found it useful.
+- Shifted primary work from Equity Strategy to Platform Economy while Artem handles final Strategy changes and the report remains with production and compliance.
+- Agreed an analyst-rating enrollment strategy with Head of Sales Mikhail.
 
 ### Household Realm — Stronghold
 
-- Contacted fence manufacturers and scheduled a Sunday visit to measure the Stronghold plot.
+- Arranged Kadyr's Thursday attendance to support the kitchen assembly by moving kitchen items as required.
+- Completed another evening plant delivery trip to Stronghold with Oksi.
+- Advanced drainage and basement work with Sergey the Landscaper to the point where execution is about to begin.
 
 ### Household Realm — Family
 
-- Sergey Jr received his own team's branded football shirt and began wearing it instead of the Ronaldo shirt.
-- The Warden and Oksi went to bed before midnight for the first time in a long while.
+- Took Owling and Sergey Jr for a walk when Oksi was tired and sad.
+- Completed the evening Stronghold trip with Oksi despite the Warden's headache.
 
 ## Notable Developments
 
-- The Fence Campaign moved from discussion toward execution with a scheduled plot measurement on Sunday.
-- The practical need for a fence is increasing as Stronghold accumulates more possessions and garden assets.
-- The potential Promomed / IPO schedule collision appears manageable based on the first ECM check, but exact dates remain unresolved.
-- The MTS thesis has now received a useful external investor reaction while its central question remains open.
-- Earlier sleep marked a small but meaningful recovery milestone after weeks of late nights and Night Watches.
+- Equity Strategy has entered a lower-touch handoff phase: Artem, production and compliance now carry much of the immediate next work, freeing the Warden to switch focus to Platform Economy.
+- Analyst-rating preparations now have an enrollment strategy agreed with Sales leadership.
+- Thursday is becoming a concentrated Stronghold execution point around kitchen assembly and Kadyr's support.
+- Drainage and basement works are approaching actual commencement after a long period of planning and contractor uncertainty.
+- Oksi had a tired and sad evening; the Warden responded by taking Owling and Sergey Jr out before their later Stronghold expedition.
 
 ## Observer
 
-Day 084 was built around things being positioned for their next test. Strategy was being finalized. Platform Economy was being assembled. The Promomed trip was tested against an approaching IPO calendar before the conflict became real. The MTS thesis left the Warden's desk and met another investor, but the decisive verdict still belongs to the company and market.
+Day 085 was a day of handing the next move to someone else. Strategy moved into the hands of Artem, production and compliance while the Warden turned toward Platform Economy. The analyst-rating campaign acquired an agreed enrollment strategy rather than remaining an open coordination problem.
 
-Stronghold's fence followed the same pattern. Oksi has talked about it for a long time, but on Sunday someone will finally arrive with measurements. The boundary around Stronghold is beginning to move from idea to specification just as the house and garden contain more worth protecting.
+At Stronghold, Thursday's kitchen work was prepared by putting Kadyr in the right place at the right time. Sergey the Landscaper's drainage and basement campaign also approached the point where discussion becomes physical work.
 
-Sergey Jr's new shirt offered a much smaller transition: from wearing a famous player's identity to wearing the colours of the team he actually plays for.
+The evening showed the same principle on a smaller scale. Oksi was tired and sad, so the Warden took Owling and Sergey Jr out. Later, the two adults still made the plant expedition to Stronghold. The Warden had a headache, but the road supplied no additional crisis.
 
-And at the end, no one needed another hour from the day. The Warden and Oksi were tired enough to go to bed before midnight. After the recent rhythm, that counted as progress too.
+Progress today came less from personally completing campaigns than from arranging their next actors and allowing attention to move onward.

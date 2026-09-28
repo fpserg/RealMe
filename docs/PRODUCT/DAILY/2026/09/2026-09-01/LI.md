@@ -1,13 +1,17 @@
 LI
 
-2Q26 earnings of Promomed and Arenadata. Reports and calls done with the help of Artem.
+September 1 - first school day. Went with Alisa, Sergey Jr and Owling to escort Alisa to school. Now Oksi takes Maksim, as he starts this year at a new school, same with Alisa.
 
-Lunch with Artem and Ivan, discussed the upcoming launch of GTA VI (I’m not keen on, but the guys are).
+Sergey Jr starts first grade this year. He was accepted to the best school in neighborhood, but normally he shouldn’t have been, as it is not the closest to our home. So he didn’t have a proper first Sep 1 in his life. But he wore nice clothes, stood with Alisa and took photo with a book, so still some smell of festive day.
 
-Feedback on banking sector report provided to Lisa.
+Comments to media on interim dividends done by Artem
 
-Capital: grabbed boys to get flowers for September 1 while Oksi and Alisa were getting school clothes.
+Sergey the Junior Analyst (not to be confused with Sergey Jr) polishes pharma market template. When he is done we’ll make it a regular note.
 
-Congratulated parents on their wedding anniversary. Oksi seems to be less harsh on them to eventually see kids.
+Artem told me he approached Andrey both on Strategy progress and his personal theme of promotion. I should have been present at this talk, but was busy with September 1. Perhaps I’ll have to approach Andrey myself.
 
-Night Watch with Owling who preferred playing tonight.
+Oksi ordered sweets and balloons to make kids’ day. Sergey Jr also got a long-craved replica of Football World Cup. Oksi sent me photos and he was shining as bright as the cup itself. Owling highly appreciated balloons, his face was so happy on photos!
+
+Capital evening: walked Owling and Sergey while Oksi was helping Maksim and Alisa prepare for tomorrow’s school.
+
+After that guess what - night drive to Stronghold to carry pear and peach trees and water some plants as a bonus. On the way back Oksi started talking insistingly about the fence that we need, another drag on finance, although we do need it indeed.

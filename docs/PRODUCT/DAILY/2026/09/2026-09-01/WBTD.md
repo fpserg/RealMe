@@ -4,8 +4,9 @@
 
 ### Career Realm — Management
 
-- Speak more bluntly with Andrey about Artem's career path when Andrey returns from vacation; Artem is performing well but promotion is blocked by lack of budget.
+- Approach Andrey directly if needed regarding Artem's promotion situation after Artem raised the issue himself; the Warden missed the intended joint conversation because of September 1 family commitments.
 - Help clarify Artem's realistic path among waiting, moving to ECM, or taking a similar role at a larger bank if the internal promotion constraint cannot be resolved.
+- Continue tracking Strategy progress after Artem discussed it directly with Andrey.
 - The Oil & Gas analyst position remains unfilled following the candidate interview.
 
 ### Career Realm — TMT Research
@@ -19,7 +20,8 @@
 - Continue developing the investment cases emerging from the deep-work sequence.
 - Continue assessing the potential impact of AI on valuations.
 - Continue developing and validating the thesis that growth and value valuations are currently inverted in the Russian market.
-- Track and assess the potential upcoming Promomed earnings surprise learned about during the IR meeting in light of the now-completed 2Q26 results work.
+- Track and assess the potential upcoming Promomed earnings surprise learned about during the IR meeting in light of the completed 2Q26 results work.
+- Have Sergey the Junior Analyst finish polishing the pharma-market template and, once ready, establish it as a regular research note.
 
 ### Career Realm — External Relations
 
@@ -27,12 +29,11 @@
 
 ### Household Realm — Family
 
+- Support Alisa and Maksim through their transition into new schools.
+- Support Sergey Jr through the start of first grade at his new school after his unusual admission path and non-standard September 1 start.
 - Continue cautiously exploring whether the recent softening can become a path toward the Warden's parents eventually seeing the children again, while preserving the Warden and Oksi's parenting boundaries.
-- Await and assess the outcome of Sergey Jr's School 57 admission exam; no outcome has yet been reported.
-- Continue supporting Oksi and Sergey Jr through the School 57 admission process.
-- Help Sergey Jr transition into School 444 if that remains the chosen path; Oksi remains strongly positive about the school and teacher.
 - Maintain a clear privacy boundary around Stronghold when the children's friends, including Roma, want to enter the house.
-- Give weight to accumulated Household fatigue after the intensive Stronghold landscaping campaign.
+- Give weight to accumulated Household fatigue after the intensive Stronghold landscaping campaign and continuing school-transition logistics.
 
 ### Household Realm — Capital
 
@@ -47,12 +48,14 @@
 
 ### Household Realm — Stronghold
 
+- Assess the scope, timing and cost of the fence Oksi is pressing for; the Warden agrees it is needed but identifies it as another drag on finances.
+- Plant or otherwise place the newly transported pear and peach trees.
 - Track the result of the water test submitted at the DIY outlet laboratory.
 - Use the newly purchased water hose and fertilizers as needed.
 - Finish the remaining planting after most of the accumulated job was completed; the prior backlog was substantially reduced but not reported fully cleared.
 - Avoid rebuilding the landscaping backlog through additional nursery acquisition faster than planting capacity can absorb it.
 - Use and place the seven sacks of soil delivered to Stronghold if any remain unused.
-- Place the newly transported Stronghold artifacts: Angel garden statue, clay vase and carved ox skull, if not already placed; completion has not been reported.
+- Place the previously transported Stronghold artifacts if not already placed; completion has not been reported.
 - Obtain the small amount of additional material Kadyr says is still required so work can continue without another materials interruption.
 - Complete Kadyr's remaining Bathroom work.
 - Await Roman's follow-up after he speaks with his co-worker about special pricing treatment for Stronghold.
@@ -93,31 +96,47 @@
 
 ## Completed Commitments
 
-### Career Realm — TMT Research
+### Household Realm — Family
 
-- Completed Promomed 2Q26 earnings report and call with Artem's help.
-- Completed Arenadata 2Q26 earnings report and call with Artem's help.
-- Provided feedback to Lisa on the banking-sector report.
-
-### Household Realm — Family / Capital
-
-- Bought September 1 flowers with the boys while Oksi and Alisa handled school-clothes shopping.
-- Congratulated the Warden's parents on their wedding anniversary.
-
-## Notable Developments
+- Escorted Alisa to her first day at her new school with Sergey Jr and Owling.
+- Oksi escorted Maksim as he began at his new school.
+- Marked Sergey Jr's first-grade start with festive clothes, a photograph with Alisa and a book, sweets, balloons and his long-desired World Cup replica despite the absence of a conventional September 1 ceremony.
+- Managed the Capital evening around school preparation, with the Warden walking Owling and Sergey while Oksi helped Maksim and Alisa prepare for the following day.
 
 ### Career Realm
 
-- Artem supported both Promomed and Arenadata earnings work, showing active contribution across two reporting cycles in one day.
+- Artem completed media comments on interim dividends.
+- Artem approached Andrey directly regarding Strategy progress and his promotion question.
+
+### Household Realm — Stronghold
+
+- Transported pear and peach trees to Stronghold during another night drive.
+- Watered plants during the Stronghold visit.
+
+## Notable Developments
 
 ### Household Realm — Family
 
-- Oksi appeared less harsh toward the Warden's parents and potentially more open to them eventually seeing the children. This is the first reported softening after Mother's message reopened the conflict on Day 069.
-- September 1 preparations divided naturally across the family: flowers with the boys and school clothes with Oksi and Alisa.
-- Night Watch extended because Owling preferred playing rather than sleeping.
+- September 1 marked three school transitions at once: Alisa and Maksim started at new schools, while Sergey Jr began first grade.
+- Sergey Jr's admission to the neighborhood's best school came through a non-standard route because it is not the closest school to the family home, leaving him without a conventional first-grade September 1 ceremony.
+- Oksi deliberately recreated a festive atmosphere with sweets, balloons and the World Cup replica; both Sergey Jr and Owling appeared exceptionally happy in the photographs.
+
+### Career Realm — Management
+
+- Artem did not wait for the planned joint conversation and raised both Strategy progress and his promotion directly with Andrey. The Warden may still need a separate management conversation with Andrey.
+
+### Career Realm — Research
+
+- The pharma-market template is moving toward becoming a recurring research product once Sergey the Junior Analyst finishes polishing it.
+
+### Household Realm — Stronghold
+
+- A fence emerged as another significant Stronghold requirement. The Warden agrees on the need but immediately identified the financial burden, extending the tension between necessary Stronghold completion work and the desire to rebuild Household funds.
 
 ## Observer
 
-Day 070 returned operational weight to Career. Promomed and Arenadata earnings work were both completed with Artem's help, and Lisa's banking-sector report moved from review to delivered feedback. Around that, September 1 preparations took over Capital.
+Day 071 was a threshold day for the children. Alisa and Maksim entered new schools, and Sergey Jr entered first grade. His unusual admission route meant the classic September 1 ceremony was missing, but the family reconstructed the feeling around it: good clothes, a photograph with Alisa and a book, sweets, balloons and the World Cup replica he had wanted for so long. The photographs appear to have preserved what procedure did not.
 
-The quieter development may matter more over time. One day after the grandparents' separation from the children returned explicitly to the surface, the Warden congratulated his parents on their anniversary and saw Oksi soften somewhat toward the possibility of renewed contact. Nothing is resolved, and the parenting boundaries remain important, but the family system moved a small distance away from confrontation rather than deeper into it.
+Career meanwhile showed the team acting with more independence. Artem handled the media comments and took both Strategy and his own promotion question to Andrey without waiting for the Warden; Sergey the Junior Analyst is turning a pharma template toward a repeatable product. Yet delegation does not eliminate management responsibility, and Artem's promotion may still require the Warden's intervention.
+
+Then Stronghold reclaimed the night. Pear and peach trees crossed from Capital to the garden, watering followed, and on the road home the next piece of unfinished perimeter appeared: the fence. It is needed. It will also cost money. The physical completion of Stronghold continues to compete directly with the Household's need to restore financial capacity.

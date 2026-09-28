@@ -1,35 +1,17 @@
 LI
 
-Stronghold morning starts at 7 AM (acceptable)
+Regular Stronghold morning - playing with Owling and off to supplies quest when he becomes too noisy.
 
-Regular supplies quest with Owling - water and apples, but mostly to keep Owling’s noise out rather than urgency
+Oksi woke when we were on the way back. So had to go with her and Owling on another quest - soil and few more plants
 
-Kids saw the bathroom and liked it
+Sergey the Landscaper came late again. We discussed basement cover and drainage. Owling was tired and protested wildly, so I had to take him to sleep in the middle of conversation. Oksi sorted out.
 
-Oksi weeding after waking up. I helped her also put insecticides after Owling’s day sleep.
+Middles playing with Roma at the football field. Alisa csme back in tears. The reason was: old Roma’s friends came and started making fun of him for playing with girls. Alisa asked whether she should leave and he said yes. I called Sergey home for lunch for her not to feel too sad and lonely. But after linch they both went back.
 
-Oksi off to dentist, I’m in charge at Stronghold
+Owling bedtime opened opportunity for digging new flower pits, so I did.
 
-Kitchen delivery arrived and unloaded
+Trip back home. Heavy traffic on our regular way, so I decided to make a curve. This was wrong: we spent almost an hour at train crossing.
 
-Someone knocking at the door. I opened - it’s Roma asking kids out. Last time they met he told them he doesn’t come here till next summer. They are surprised and happy, off to football field.
+Came home late. Rushed to take kids to shower and bed before tomorrow’s school. Maksim stayed home and made us a surprise: salad, self-made pancakes and nicely cut apples. These were his first pancakes and they were good, I was genuinely surprised, I couldn’t do it at his age and still can’t.
 
-I’m on the walk with Owling. It starts and ends raining. Saw a group of people in rubber boots and with baskets, apparently heading to pick mushrooms. I need to find the path to the forest another day…
-
-LI
-
-Guess what arrived with kitchen? The cooker! And it should have a passport! That was the last missing piece of the Gas Campaign puzzle (at least at this stage). Next issue is carving a day between Strategy calls and Platform report to make another documents submission attempt.
-
-Tried to advance on the forest path with Owling on my shoulders. It was too damp, I need rubber boots for this.
-
-LI
-
-Came back and Oksi arrived soon with a set of new rose bushes
-
-Another playground trip with all kids before bedtime, leaving Oksi time for gardening
-
-Spoke to Alexey the Kadyr’s landlord, agreed to meet next week to decide on further work steps. But as I inderstand his primary intention  was to ask to pay outstanding Kadyr wage on Sep 15.
-
-Quiet evening. Oksi can’t stop saying how she loves this place and how it turns from construction site to dream house. I feel proud.
-
-Owling woke in the middle of the night. Working on RealMe development while trying to get him back to sleep - first time in a few days, as the week was intense.
+Late night fuel quest as it was running low. Luckily, it was available at the station nearby and with no queue.
