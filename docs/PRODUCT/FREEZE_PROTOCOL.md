@@ -33,7 +33,7 @@ Freeze requires:
 - the latest completed WBTD preceding the open day;
 - the open day's complete `LI.md` at `docs/PRODUCT/DAILY/YYYY/MM/YYYY-MM-DD/LI.md`.
 
-The directory date is the operational day's opening date. Every Living Input submitted before Freeze belongs in that same file, even if the calendar date changes.
+The directory date is the operational day's opening date. It must be established from the first Living Input after the preceding Freeze; it must never be derived by incrementing the previous operational-day directory date. Before creating a new operational-day directory, verify that its date matches the calendar date on which that first Living Input was submitted. Every Living Input submitted before Freeze belongs in that same file, even if the calendar date changes.
 
 The original Living Inputs remain verbatim. Freeze must never alter, normalize, correct, or paraphrase `LI.md`.
 

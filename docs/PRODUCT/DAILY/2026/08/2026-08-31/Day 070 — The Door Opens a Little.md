@@ -4,7 +4,7 @@
 
 ## 📊 Two Reporting Cycles
 
-September opened at work with earnings.
+August closed at work with earnings.
 
 Promomed.
 

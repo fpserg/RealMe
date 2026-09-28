@@ -4,7 +4,9 @@
 
 August began with a car full of flowers.
 
-It ended with Oksi planting in the rain until she was soaked and exhausted, Sergey digging another fifteen holes into the earth, children ranging around Stronghold, fuel again running low, a banking report waiting to be checked before sleep, and RealMe still advancing somewhere in the remaining cracks of the day.
+On its final weekend, Oksi planted in the rain until she was soaked and exhausted, Sergey dug another fifteen holes into the earth, children ranged around Stronghold, fuel again ran low, a banking report waited to be checked before sleep, and RealMe still advanced somewhere in the remaining cracks of the day.
+
+August then closed with Promomed and Arenadata earnings, feedback on Lisa's banking report, September 1 preparations, a wedding-anniversary message to Sergey's parents, and another Night Watch with Owling.
 
 Between those two scenes, surprisingly much changed.
 
@@ -42,7 +44,7 @@ The management layer moved too.
 
 Much routine model maintenance passed to Kirill. Artem took delegated calls, contributed to Strategy and repeatedly raised the unresolved question of his own advancement. Sergey tried first to remind Andrey about the old promotion discussion, then accepted that a more explicit conversation would be necessary. The Realm was becoming less about doing every piece of analysis personally and more about directing other analysts without surrendering intellectual ownership.
 
-By month's end, Alexander's VseInstrumenti initiation was approaching the editorial finish line and Lisa's banking report was being checked before sleep.
+By month's end, Alexander's VseInstrumenti initiation was approaching the editorial finish line. On August 31, Promomed and Arenadata moved through reports and calls with Artem's help, while Lisa's banking report moved from review to delivered feedback.
 
 The machinery of Research had kept moving.
 
@@ -170,6 +172,8 @@ What he wanted was simpler than adjudicating them:
 
 he wanted the confrontation to end.
 
+On August 31 the family was already preparing for September 1, splitting flowers and school-clothes shopping across the household. Sergey congratulated his parents on their wedding anniversary and observed that Oksi seemed somewhat less harsh about the possibility of them eventually seeing the children.
+
 So Family entered September with new schools opening ahead and an old bridge still waiting to be repaired behind.
 
 ---
@@ -292,7 +296,7 @@ Yet the World was unmistakably different from the one that entered the month.
 
 At the beginning of August, Oksi brought home a car full of plants for land that had barely been prepared.
 
-Thirty operational days later, she stood in the rain planting them into ground Sergey and the children had helped open.
+By the thirtieth operational day, she stood in the rain planting them into ground Sergey and the children had helped open. On the thirty-first, the family was already buying flowers and school clothes for September 1.
 
 The garden in her head still seemed larger than the land.
 
@@ -310,6 +314,6 @@ A monthly Chronicle must look farther.
 
 It should not reward activity by counting it, nor combine daily chapters into a larger transcript. Its task is to reveal movement that was too slow to see from inside any one day: a place becoming home, a thesis taking shape, a family approaching a threshold, a system discovering its own laws.
 
-August's reward for careful record-keeping is precisely this: the month can now be seen not as thirty crowded days, but as a coherent change in the Realm.
+August's reward for careful record-keeping is precisely this: the month can now be seen not as thirty-one crowded days, but as a coherent change in the Realm.
 
 The World took root.
