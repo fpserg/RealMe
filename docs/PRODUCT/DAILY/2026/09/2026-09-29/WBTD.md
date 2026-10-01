@@ -20,7 +20,8 @@
 - Continue land and garden works, including remaining material movement and cleanup.
 - Resolve the utilities-bill discrepancy with the management company before payment.
 - Follow through on further Kadyr commitments and payments discussed with Alexey.
-- Prepare for fence installation around the end of September.
+- Continue and complete the fence installation now that physical installation has started.
+- Resolve installation questions as they arise.
 - Continue the Gas Campaign prerequisites and find a workable day for another document-submission attempt.
 - Establish the three fir trees as the hoped-for forest corner.
 
@@ -92,9 +93,13 @@
 - Continue handling other potential buyers and determine whether an acceptable offer emerges.
 - Reconcile eventual Capital sale proceeds, the intended replacement apartment and continuing Stronghold expenditure.
 
+### Household Realm — Deliveries
+
+- Collect the already ordered “butter squishies” for Alisa and Sergey Jr from delivery.
+
 ### Household Realm — Mobility
 
-- Continue treating fuel availability as a live logistical constraint.
+- Continue treating fuel availability as a live logistical constraint despite the latest quick successful refill.
 - Obtain new winter tyres in the appropriate season.
 
 ### Third Realm — RealMe
@@ -110,6 +115,20 @@
 - Let Alex continue operating the post-listing process while the Warden retains oversight.
 
 ## Completed Commitments
+
+### Household Realm — Stronghold / Fence
+
+- Moved the fence campaign from preparation into physical installation.
+
+### Career Realm — Equity Strategy
+
+- Continued through a workday fully booked with Strategy calls.
+
+### Household Realm — Family / Mobility
+
+- Already ordered the “butter squishies” Alisa and Sergey Jr requested, with delivery awaiting collection.
+- Completed another Fuel Quest quickly and successfully.
+
 
 ### Household Realm — Stronghold / Plumbing and Basement
 
@@ -138,6 +157,12 @@
 
 ## Notable Developments
 
+- Strategy marketing occupied the workday with client calls.
+- Fence installation physically began while the Warden was simultaneously handling Strategy calls.
+- Oksi was feeling better but remained tired.
+- The latest Fuel Quest was unusually easy: a nearly deserted, old-fashioned station among the trees.
+
+
 - The InfoLINE issue moved from a general dispute into a defined containment and investigation process.
 - The Warden acknowledges that the team used InfoLINE data without permission while separately disputing InfoLINE's chosen escalation.
 - Alisa's two mathematics marks of 2 triggered an unexpectedly strong emotional reaction.
@@ -153,12 +178,12 @@
 
 ## Observer
 
-Day 098 had no empty spaces.
+Day 099 ran on parallel tracks.
 
-Morning Serpent fixed the next Stronghold steps: Navruz for Saturday, basement feedback to Sergey the Landscaper, and what looked like a workable solution awaiting the next arrival.
+Strategy calls filled the workday while the fence campaign moved into physical installation. At home, Oksi was recovering but still tired, and an ordinary walk began with the familiar disorder of getting children ready.
 
-Then three Strategy calls filled the office day. InfoLINE arrived in parallel. The Warden acknowledged the team's mistake in using data without permission while objecting to the way the dispute was being pursued. The immediate response became concrete: remove the report, investigate further use, and have Alexander reconstruct what could be sourced publicly.
+Outside, Alisa and Jr urgently wanted butter squishies because their classmates had them. The Warden kept the small secret that the squishies were already waiting at delivery.
 
-Home brought two different maths questions. Alisa's two poor marks unexpectedly mattered enough to make her cry; Oksi comforted her and turned the moment into a multiplication-table plan. With Jr, the question was how much more difficulty to add on top of School 57 preliminaries. No decision was made.
+While everyone walked, Oksi somehow produced pasta with meatballs. Even Owling approved.
 
-Owling's bedtime battle ended with a bump against the wall, brief tears, and finally peaceful sleep. The day closed with steak, an overripe watermelon, Sirius, and a quiet parental disagreement left unresolved.
+The night ended with another Fuel Quest. This time the station was nearly deserted, old-fashioned, surrounded by trees — and the quest simply ended when the tank was filled.

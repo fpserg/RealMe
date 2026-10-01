@@ -15,17 +15,3 @@ Owling walk, then the Great Battle by the Bed. I won, but in a sad way: Owling h
 Late dinner: Oksi made a steak and we also had a huge watermelon which tasted overripe though.
 
 Sirius walk, then pre-sleep conversation. Oksi is willing to push Jr into harder Olympiad maths with courses far away from home. He is already enrolled at School 57 preliminaries for this year, so she is apparently going for another year of crazy schedule for him. I’m trying to reason her, but lightly as I don’t want confrontation. She always pushes herself to the limits and trying to make everyone else do the same - I’m just not sure this is right.
-
-LI
-
-Work day fully booked witj strategy calls
-
-Fence installation has started, trying to sort out amid calls
-
-Home: Oksi feels better, but still tired, shouts at kids for turning routine walk preparation into a mess
-
-During the walk Alisa and Jr beg me to buy “butter squishies” as all of their classmates have it. I silently smile as I’ve already ordered them and they are waiting at delivery.
-
-During our walk Oksi smh magically managed to prepare a proper dinner - pasta with meatballs - even Owling appreciated.
-
-Night fuel quest - this time a quick one - at seemingly deserted station in the park - looking like an old fashioned station amidst the forest. 
