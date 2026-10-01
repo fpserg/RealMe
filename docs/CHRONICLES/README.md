@@ -13,6 +13,7 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | Month | Chronicle |
 |:---:|---|
 | 2026-08 | [The Month the World Took Root](./MONTHLY/2026-08%20%E2%80%94%20The%20Month%20the%20World%20Took%20Root.md) |
+| 2026-09 | [The Month the Quests Became Life](./MONTHLY/2026-09%20%E2%80%94%20The%20Month%20the%20Quests%20Became%20Life.md) |
 
 ## Daily Chronicles
 
