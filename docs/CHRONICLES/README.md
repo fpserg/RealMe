@@ -120,3 +120,4 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 100 | 2026-09-30 | [The Wasteland Is a Stadium](../PRODUCT/DAILY/2026/09/2026-09-30/Day%20100%20%E2%80%94%20The%20Wasteland%20Is%20a%20Stadium.md) |
 | 101 | 2026-10-01 | [Find Birch](../PRODUCT/DAILY/2026/10/2026-10-01/Day%20101%20%E2%80%94%20Find%20Birch.md) |
 | 102 | 2026-10-02 | [It Simply Stands There](../PRODUCT/DAILY/2026/10/2026-10-02/Day%20102%20%E2%80%94%20It%20Simply%20Stands%20There.md) |
+| 103 | 2026-10-03 | [What Was Left Behind](../PRODUCT/DAILY/2026/10/2026-10-03/Day%20103%20%E2%80%94%20What%20Was%20Left%20Behind.md) |
