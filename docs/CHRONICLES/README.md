@@ -126,3 +126,4 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 106 | 2026-10-06 | [Another Audience](../PRODUCT/DAILY/2026/10/2026-10-06/Day%20106%20%E2%80%94%20Another%20Audience.md) |
 | 107 | 2026-10-07 | [Flowers and a Ceasefire](../PRODUCT/DAILY/2026/10/2026-10-07/Day%20107%20%E2%80%94%20Flowers%20and%20a%20Ceasefire.md) |
 | 108 | 2026-10-08 | [The Hatchet Is Buried](../PRODUCT/DAILY/2026/10/2026-10-08/Day%20108%20%E2%80%94%20The%20Hatchet%20Is%20Buried.md) |
+| 109 | 2026-10-09 | [The Hare Shows the Way](../PRODUCT/DAILY/2026/10/2026-10-09/Day%20109%20%E2%80%94%20The%20Hare%20Shows%20the%20Way.md) |
