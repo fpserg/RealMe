@@ -15,3 +15,13 @@ Another set of clothes delivery, then off to Stronghold.
 LI
 
 The route is nervous: Comandante pulls Jr by his hair and Jr cries. Oksi shouts and tells Alisa to sit between the boys. Last minutes of drive tension is in the air.
+
+LI
+
+Arrived. Alisa was silly enough to grab her phone immediately after we enter home and gets a fierce pushback from Oksi.
+
+We’re out of water so I rush to the shop while its still open. Just off Stronghold I see our old friend hare who like shows me the way.
+
+On time, get water and some more food and sweets for Stronghold. Shopkeepers tell me angrily that the shop closes so I just grab what I found and head back.
+
+Kids asleep, Oksi tired but says she feels better with every minute here
