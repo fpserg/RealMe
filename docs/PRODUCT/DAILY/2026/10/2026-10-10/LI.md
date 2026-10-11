@@ -5,3 +5,11 @@ Middles asked to take them along on supplies quest, so I drove them on hike to f
 LI
 
 Being unwilling to carry over last weekend’s failure I immediately rush to dig flower and tree pits and do quite a lot. Then Comandante sleep and a deserved Warden nap beside
+
+LI
+
+Oksi left for soil quest and returned with a huge oak (I’m not surprised at all). Then I tell her we should get ready fast for another trip to DIY hypermarket for paint and some more stuff which makes her explode with fury.
+
+Silent road to hyper. At hyper - Oksi making scenes. Yet we manage to get what we needed and get home. Comandante sleeps at the back seat.
+
+Home. Quick snacks for kids and beds. Oksi says she is sorry and perhaps she often (often?!) overreacts.
