@@ -132,3 +132,4 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 112 | 2026-10-12 | [The Key One](../PRODUCT/DAILY/2026/10/2026-10-12/Day%20112%20%E2%80%94%20The%20Key%20One.md) |
 | 113 | 2026-10-13 | [The Same Formula](../PRODUCT/DAILY/2026/10/2026-10-13/Day%20113%20%E2%80%94%20The%20Same%20Formula.md) |
 | 114 | 2026-10-14 | [The Artichoke](../PRODUCT/DAILY/2026/10/2026-10-14/Day%20114%20%E2%80%94%20The%20Artichoke.md) |
+| 115 | 2026-10-15 | [The Small Room and the Guardian](../PRODUCT/DAILY/2026/10/2026-10-15/Day%20115%20%E2%80%94%20The%20Small%20Room%20and%20the%20Guardian.md) |
