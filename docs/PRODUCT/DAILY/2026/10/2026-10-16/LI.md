@@ -13,3 +13,11 @@ Also working on an inaugural regular pharma market overview with Junior Sergey. 
 Cian announced dividens above guidance, although share price doesn’t react in a logical way. Still I think my recent trading call long CIAN - short HEAD was very timely.
 
 I share my finding on Promomed potential guidance beat with different ppl including Head of Sales Mikhail. He agrees with my arguments but then calls Promomed “illiquid shit” so uninvestable for his portfolio and shares anecdotal evidence from fellow cosmetologist on Tirzetta hair loss effect.
+
+Home. Oksi asks whether she could go to home accesories shop before Stronghold. I eagerly let her go as I know this would lift her spirits after hard week.
+
+Due to late departure Stronghold commute is shorter than normal, and Comandante is asleep. Downside - thick fog, I can hardly see the road when approaching Stronghold.
+
+Kids bedtime then unpacking newly acquired Stronghold artifacts. Oksi seems immediately settled an calm. I’m thinking to myself that I can tolerate Stronghold hardships for this effect.
+
+Garbage drive in the fog. When I arrive at litter plot a tall human-like shadow blinks in front of me in the field. I briefly hesitate to get out of car to throw out litter. But it surely turns out to be just a fog mirage.
