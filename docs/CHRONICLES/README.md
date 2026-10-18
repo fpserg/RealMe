@@ -134,3 +134,4 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 114 | 2026-10-14 | [The Artichoke](../PRODUCT/DAILY/2026/10/2026-10-14/Day%20114%20%E2%80%94%20The%20Artichoke.md) |
 | 115 | 2026-10-15 | [The Small Room and the Guardian](../PRODUCT/DAILY/2026/10/2026-10-15/Day%20115%20%E2%80%94%20The%20Small%20Room%20and%20the%20Guardian.md) |
 | 116 | 2026-10-16 | [The Shape in the Fog](../PRODUCT/DAILY/2026/10/2026-10-16/Day%20116%20%E2%80%94%20The%20Shape%20in%20the%20Fog.md) |
+| 117 | 2026-10-17 | [The Ice Cracks](../PRODUCT/DAILY/2026/10/2026-10-17/Day%20117%20%E2%80%94%20The%20Ice%20Cracks.md) |
