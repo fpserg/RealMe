@@ -137,3 +137,4 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 117 | 2026-10-17 | [The Ice Cracks](../PRODUCT/DAILY/2026/10/2026-10-17/Day%20117%20%E2%80%94%20The%20Ice%20Cracks.md) |
 | 118 | 2026-10-18 | [Roots and a Tooth](../PRODUCT/DAILY/2026/10/2026-10-18/Day%20118%20%E2%80%94%20Roots%20and%20a%20Tooth.md) |
 | 119 | 2026-10-20 | [The Second Shift](../PRODUCT/DAILY/2026/10/2026-10-20/Day%20119%20%E2%80%94%20The%20Second%20Shift.md) |
+| 120 | 2026-10-22 | [A Degree in Finance](../PRODUCT/DAILY/2026/10/2026-10-22/Day%20120%20%E2%80%94%20A%20Degree%20in%20Finance.md) |
