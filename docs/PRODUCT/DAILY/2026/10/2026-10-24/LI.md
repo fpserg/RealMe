@@ -25,3 +25,7 @@ I look at the balcony. Somewhere over there is a little me rocking to Alisa and 
 The concert doesn’t last long, just an hour maybe. We have VIP tickets that include photos with Gazan and his autograph, so we wait, perhaps a bit too long for a non-rockstar guy after an hour gig.
 
 He finally comes out and we get our photos and autographs. Kids submit their posters. Then we get back to the car, kids seem absolutely happy with this experience.
+
+LI
+
+Home: Oksi is still in awful mood. Kids to beds and she starts her hysteria and attacking me for “having fun” while she works 24/7. I argue with her in my head that Gazan gig was her idea and initially she was supposed to go and we swapped because thought this would be more exhausting than Comandante Evening Watch. We actually both knew why this happened: Friday is normally a Stronghold day, and this week it’s missed. We get to beds in a cold war condition. 
