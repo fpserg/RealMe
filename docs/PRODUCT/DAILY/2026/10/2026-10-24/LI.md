@@ -13,3 +13,15 @@ LI
 Rushing home to pick up kids and then Gazan. Oksi is already in bad temper because both Maksim and Alisa didn’t respond to her calls and were barrly on time to leave for concert.
 
 We arrived earlier as my memories of Gorbushka included long lines for entrance among drunk fans. But this wasn’t this time: the entrance was clear and we even had time for softs and crisps inside.
+
+LI
+
+We get to our seats in parter - where dancing pit was in the past (guess they still remove seats for rock concerts though). The place is crowded with schoolkids who chant “Gazan!” - some things don’t change.
+
+Then Gazan appears and the place explodes with kids yells. Alisa and Maksim record the entire event on their phones and Jr rocks around with hand drawn pencil poster.
+
+I look at the balcony. Somewhere over there is a little me rocking to Alisa and then moving to dancing pit to get dissolved in crowd.
+
+The concert doesn’t last long, just an hour maybe. We have VIP tickets that include photos with Gazan and his autograph, so we wait, perhaps a bit too long for a non-rockstar guy after an hour gig.
+
+He finally comes out and we get our photos and autographs. Kids submit their posters. Then we get back to the car, kids seem absolutely happy with this experience.
