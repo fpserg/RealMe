@@ -17,3 +17,7 @@ Rush hour, so cutting through traffic… only to realize that we left Comandante
 LI
 
 Capital, grabbing milk bottle and setting off again. Now another issue: both middles need a toilet. Badly. We stop at a gas station, no toilet, another one, same, third - it’s closed. Told them to do their things behind the station. Mission finally completed.
+
+LI
+
+Finally at Stronghold. Homemade roast waits and is still warm. Oksi is not very pleased - she expected a more perfect setting for the first proper family dinner. But roast is fantastic, and I thank her for turning The Brick into Sir Home.
