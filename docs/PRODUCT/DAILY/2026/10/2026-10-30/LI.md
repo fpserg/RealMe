@@ -15,3 +15,9 @@ Back home. Dinner, then a huge cake. Jr finishes his outsized portion and craves
 New Spiderman for middles, Warden walking Sirius after Comandante bedtime.
 
 Arguments about Halloween in village chat. We have our house fully decorated so belong to supporters camp. Watching it we decide to get candies for trick or treat and costumes for middles to take active part.
+
+---
+
+**Post-Freeze addition to Day 129 (verbatim; original Freeze retained):**
+
+During the morning shop trip Comandante grabs a huge apple which keeps him busy for entire morning. Evening shop trip - another apple.
