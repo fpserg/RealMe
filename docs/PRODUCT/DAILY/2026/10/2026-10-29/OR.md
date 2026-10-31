@@ -1,6 +1,6 @@
 # Operational Record — Day 128
 
-**Operational date:** Friday, 2026-10-30. **Closure:** Explicit Freeze.
+**Operational date:** Thursday, 2026-10-29. **Closure:** Explicit Freeze.
 
 ## Provenance
 Original Day 128 LI disappeared before repository preservation. This record is derived from a reconstructed LI explicitly approved by the Warden. Details and precise sequence not present in the surviving trace are unknown. Do not present reconstructed wording as verbatim testimony.
