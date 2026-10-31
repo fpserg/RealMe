@@ -73,7 +73,7 @@ Completion is never inferred from intention, scheduling, likelihood, or partial 
 
 ### 3. Chronicle
 
-Generate the Chronicle from the finalized OR and finalized WBTD, using the canonical Chronicle style guidance and World Model where applicable.
+Generate the Chronicle from the finalized OR and finalized WBTD, using the canonical Chronicle style guidance and World Model where applicable. **Mandatory:** follow the early-August 2026 visual/literary benchmark (especially Days 046–048) and the pre-commit style gate in `docs/PRODUCT/CHRONICLES_STYLE_GUIDE.md`: `# 📖 Day XXX — Title`, emoji-led thematic subchapters, coherent prose paragraphs, and a concluding reflection. Do not substitute continuous diary-style narration.
 
 The Chronicle is part of the same Freeze closing set. It is not deferred until the following morning.
 
@@ -89,7 +89,8 @@ Review OR, WBTD, and Chronicle together for:
 - consistency between the three artifacts;
 - correct commitment reconciliation;
 - unsupported completion claims;
-- missing or contradictory state transitions.
+- missing or contradictory state transitions;
+- **Chronicle style gate PASS:** inspect the actual Chronicle Markdown against all mandatory checks in `docs/PRODUCT/CHRONICLES_STYLE_GUIDE.md` and revise before committing if any fail.
 
 Update the Chronicle index, then commit OR, WBTD, Chronicle, and the updated index together. The index does not enlarge the canonical closing set; it provides a single chronological reading path to the canonical Chronicle. If only part of the canonical closing set is committed, or its index entry is missing, the day is not Frozen.
 

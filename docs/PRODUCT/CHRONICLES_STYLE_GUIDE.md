@@ -131,48 +131,40 @@ The Chronicle follows the World rather than forcing equal attention to every Rea
 
 ---
 
-# Output Format
+# Canonical August Chronicle Format — Mandatory
 
-## Box 1 — Filename
+The **early-August 2026 Chronicles, especially Days 046–048**, are the durable visual and literary benchmark. This requirement is not an optional stylistic preference. Follow it for every newly generated Chronicle, including those created during Freeze, regardless of conversational memory or model transition.
 
-Separate text box containing only:
+## Repository artifact format
 
-```text
-Day XXX — Title.md
-```
+- Filename: `Day XXX — Title.md`, with the canonical day number and a discovery-centered title.
+- First line of the Chronicle Markdown: `# 📖 Day XXX — Title`.
+- Use **3–5 meaningful thematic subchapters** in the usual case, each as a level-two heading beginning with an appropriate emoji, e.g. `## 🏡 From Repairs to Stewardship`, `## 🌱 A Place Begins to Grow`, `## 🌍 What Became True`. Vary headings to fit the day; never force equal Realm coverage.
+- Write in **coherent prose paragraphs**, normally several sentences each. Avoid diary-style line-by-line fragments, single-sentence stacks, or an event-by-event transcript.
+- Separate subchapters with `---`, as in the August examples.
+- End with a **concluding thematic subchapter** that articulates the central discovery and serves as the Steward's Reflection. It may carry a natural thematic title and emoji; the closing reflection is mandatory, but the literal heading `📚 Steward's Reflection` is optional to preserve the August presentation.
+- The Chronicle preserves meaning, not an exhaustive list of tasks. OR preserves facts; WBTD preserves operational commitments.
 
----
+The older example header `# 📜 Chronicle of Day XXX` / `## Chapter: Title` is **superseded for repository daily Chronicles** by the August `# 📖 Day XXX — Title` convention. If a user explicitly requests two pasteable output boxes, present the filename separately from the Markdown; this does not change the stored file's first line.
 
-## Box 2 — Markdown
+## Pre-commit style gate
 
-Repository-ready Markdown beginning with:
+Before any new Chronicle is committed, the Steward MUST verify:
 
-```markdown
-# 📜 Chronicle of Day XXX
+1. The first heading matches `# 📖 Day XXX — Title`, with the correct day and matching filename title.
+2. The narrative contains emoji-led `##` thematic subchapters (normally 3–5), separated by horizontal rules.
+3. Paragraphs read as continuous literary prose, **not** fragmented diary notes or a chronological LI paraphrase.
+4. The final subchapter expresses the day's enduring meaning (Steward's Reflection).
+5. Facts and interpretations remain grounded in the OR/LI; no invented symbolism or events.
+6. The Chronicle is recognizably consistent with Days 046–048 in the canonical repository.
 
-## Chapter: Title
-```
-
-The filename does not appear inside the document.
+**If any check fails, revise the Chronicle before committing Freeze.** Do not rely on having read this guide; inspect the actual generated Markdown. Existing Frozen Chronicles are not retroactively rewritten by this rule.
 
 ---
 
 # Chronicle Structure
 
-Chronicles are built from scenes rather than reports.
-
-Typical flow:
-
-- 🌅 Morning (optional)
-- thematic scenes
-- 🌙 Evening / Resolution (optional)
-- 📚 Steward's Reflection
-
-Realm headings are optional.
-
-Use them only when they arise naturally.
-
-A Chronicle should feel like chapters of one lived day, not departments of an organization.
+Chronicles are built from thematic scenes rather than reports. Realm headings are optional and should arise naturally. The day must read as one lived World, not an organizational status report.
 
 ---
 
