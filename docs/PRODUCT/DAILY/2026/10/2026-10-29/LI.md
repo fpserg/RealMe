@@ -1,6 +1,6 @@
 # Day 128 — Reconstructed Living Input
 
-**Operational date:** 2026-10-30.
+**Operational date:** 2026-10-29.
 
 **Provenance:** This entry is a reconstruction, not a verbatim recovery of the original LI, which disappeared from the chat before it could be saved. Reconstructed from the factual trace supplied in the conversation and explicitly authorized by the Warden for Day 128 and Freeze. Exact wording and event sequence are not recoverable.
 
