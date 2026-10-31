@@ -1,6 +1,6 @@
 # What Belongs to Today — Day 128
 
-**Operational date:** 2026-10-30. **Provenance:** Reconstructed LI approved by Warden; exact original lost.
+**Operational date:** 2026-10-29. **Provenance:** Reconstructed LI approved by Warden; exact original lost.
 
 ## Household — Active
 - **Gas Campaign:** Day 127 documents corrected at gas authority and *hopefully* correct. Follow online documentation ladder, confirm acceptance, complete electronic signatures/cooker details and any remaining steps. Final authorization and connection not confirmed; no Day 128 update.
