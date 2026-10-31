@@ -8,6 +8,10 @@ The Warden's awakening is not gentle.
 
 There is another shop expedition, undertaken for no grander purpose than keeping the little commander occupied.
 
+There, Comandante claims a huge apple.
+
+For the entire morning, the apple succeeds where more elaborate plans might have failed: it keeps him busy.
+
 At Stronghold, they are attempting something ambitious.
 
 A quiet day.
@@ -35,6 +39,10 @@ They head to the fresh-food store by the Warden's favourite road through the hil
 The road itself is part of the pleasure.
 
 Oksi buys plenty.
+
+Comandante finds another apple.
+
+Two shopping trips. Two apples. A small, unexpectedly effective answer to a very energetic day.
 
 The Warden makes a mental note: never take a hungry person grocery shopping.
 
@@ -83,3 +91,6 @@ The costumes have not yet been chosen.
 But the decision has been made.
 
 Sir Home is preparing to open its door.
+
+
+*Archival note: The two apples were added retrospectively after the original Freeze, from the Warden's post-Freeze LI addition.*
