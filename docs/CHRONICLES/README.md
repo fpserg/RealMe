@@ -137,12 +137,12 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 117 | 2026-10-17 | [The Ice Cracks](../PRODUCT/DAILY/2026/10/2026-10-17/Day%20117%20%E2%80%94%20The%20Ice%20Cracks.md) |
 | 118 | 2026-10-18 | [Roots and a Tooth](../PRODUCT/DAILY/2026/10/2026-10-18/Day%20118%20%E2%80%94%20Roots%20and%20a%20Tooth.md) |
 | 119 | 2026-10-20 | [The Second Shift](../PRODUCT/DAILY/2026/10/2026-10-20/Day%20119%20%E2%80%94%20The%20Second%20Shift.md) |
-| 120 | 2026-10-22 | [A Degree in Finance](../PRODUCT/DAILY/2026/10/2026-10-22/Day%20120%20%E2%80%94%20A%20Degree%20in%20Finance.md) |
-| 121 | 2026-10-23 | [The Short List](../PRODUCT/DAILY/2026/10/2026-10-23/Day%20121%20%E2%80%94%20The%20Short%20List.md) |
-| 122 | 2026-10-24 | [The Balcony and the Pit](../PRODUCT/DAILY/2026/10/2026-10-24/Day%20122%20%E2%80%94%20The%20Balcony%20and%20the%20Pit.md) |
-| 123 | 2026-10-25 | [The Softer Light](../PRODUCT/DAILY/2026/10/2026-10-25/Day%20123%20%E2%80%94%20The%20Softer%20Light.md) |
-| 124 | 2026-10-26 | [Under the Stars](../PRODUCT/DAILY/2026/10/2026-10-26/Day%20124%20%E2%80%94%20Under%20the%20Stars.md) |
-| 125 | 2026-10-27 | [Papers and Pumpkins](../PRODUCT/DAILY/2026/10/2026-10-27/Day%20125%20%E2%80%94%20Papers%20and%20Pumpkins.md) |
-| 126 | 2026-10-28 | [Sir Home](../PRODUCT/DAILY/2026/10/2026-10-28/Day%20126%20%E2%80%94%20Sir%20Home.md) |
-| 127 | 2026-10-29 | [The Pumpkin Standoff](../PRODUCT/DAILY/2026/10/2026-10-29/Day%20127%20%E2%80%94%20The%20Pumpkin%20Standoff.md) |
-| 128 | 2026-10-30 | [The Visitor Beneath the Fence](../PRODUCT/DAILY/2026/10/2026-10-30/Day%20128%20%E2%80%94%20The%20Visitor%20Beneath%20the%20Fence.md) |
+| 120 | 2026-10-21 | [A Degree in Finance](../PRODUCT/DAILY/2026/10/2026-10-21/Day%20120%20%E2%80%94%20A%20Degree%20in%20Finance.md) |
+| 121 | 2026-10-22 | [The Short List](../PRODUCT/DAILY/2026/10/2026-10-22/Day%20121%20%E2%80%94%20The%20Short%20List.md) |
+| 122 | 2026-10-23 | [The Balcony and the Pit](../PRODUCT/DAILY/2026/10/2026-10-23/Day%20122%20%E2%80%94%20The%20Balcony%20and%20the%20Pit.md) |
+| 123 | 2026-10-24 | [The Softer Light](../PRODUCT/DAILY/2026/10/2026-10-24/Day%20123%20%E2%80%94%20The%20Softer%20Light.md) |
+| 124 | 2026-10-25 | [Under the Stars](../PRODUCT/DAILY/2026/10/2026-10-25/Day%20124%20%E2%80%94%20Under%20the%20Stars.md) |
+| 125 | 2026-10-26 | [Papers and Pumpkins](../PRODUCT/DAILY/2026/10/2026-10-26/Day%20125%20%E2%80%94%20Papers%20and%20Pumpkins.md) |
+| 126 | 2026-10-27 | [Sir Home](../PRODUCT/DAILY/2026/10/2026-10-27/Day%20126%20%E2%80%94%20Sir%20Home.md) |
+| 127 | 2026-10-28 | [The Pumpkin Standoff](../PRODUCT/DAILY/2026/10/2026-10-28/Day%20127%20%E2%80%94%20The%20Pumpkin%20Standoff.md) |
+| 128 | 2026-10-29 | [The Visitor Beneath the Fence](../PRODUCT/DAILY/2026/10/2026-10-29/Day%20128%20%E2%80%94%20The%20Visitor%20Beneath%20the%20Fence.md) |

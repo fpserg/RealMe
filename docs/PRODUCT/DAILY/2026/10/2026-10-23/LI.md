@@ -1,19 +1,31 @@
 LI
 
-First thing after taking Jr to school: transfer Oksi money for the sofa.
+Oksi wakes because of my alarm clock which I didn’t hear and shakes me annoyingly - not a wakeup I was dreaming of.
 
-Office: housekeeping, regular brokerage call, Ozon modelling, pharma market review preparation. Sergey the Junior made a tg bot which sends price monitoring for GLP-1’s.
+On the way to school with Jr he tells me that Alisa and he want to make a poster for the Gazan gig. The whole event looks important for them, and I try to find something positive in this for me too except making kids happy. And I do: the gig takes place at iconic Gorbushka where I used to go to punk concerts at my youth. And I attended my first rock concert of Alisa band with my parents also there, when I was of age somewhere between Maksim and Alisa. And yes, Alisa is secretly named after Alisa band. When I was taking her and Oksi from maternity hospital I decorated our car with black flag with A letter on it - symbol of Alisa band.
 
-Andrey called me and Alexander to discuss another round of struggle with brokers. He always wants us to meet kpis although sometimes they contradict one another: for example we have a kpi for the amount of short/pair recommendations, but our compliance-approved list of shorts is, hm, short, so there is always a tradeoff between quantity and quality. He says we need to “meet kpis” (so quantity), but the ideas should be good (quality), which is sometimes absurd. After the meeting I quietly trll Alexander that we should better stick to good shorts/pairs and not rush to close them for good performance but rather keep for kpis.
+LI
 
-Platform economy stream with Alexander. This is not a live stream, so we have time and can make mistakes as they will be edited, but I have another hard deadline - pick up Jr from 57.
+Finishing stuff before vacations. Yandex preview checked with IR. Oil and gas models for adjacent dept handed over to Artem. Pharma market review is good, but Andrey is reluctant to issue it and finds reasons not to do so: he asks to check whether we can safely use data from DSM Group consulting after we messed up with Infoline. I leave it to Alexander and juniors.
 
-Jr picked and taken home. Oksi meets us in a bad mood. Trying to figure out what happened.
+LI
 
-Reason found: she impulsively bought more decorations for Stronghold and wasted all her savings which were intended for, well, other Stronghold decorations.
+Rushing home to pick up kids and then Gazan. Oksi is already in bad temper because both Maksim and Alisa didn’t respond to her calls and were barrly on time to leave for concert.
 
-Tomorrow is last school day before autumn break and Oksi has tickets for Gazan concert. I don’t know who he is, guess he makes meme songs and isextremely popular with schoolkids.
+We arrived earlier as my memories of Gorbushka included long lines for entrance among drunk fans. But this wasn’t this time: the entrance was clear and we even had time for softs and crisps inside.
 
-And I’m facing the fact that I take them to the gig. That’s unexpected. Surely none of us wants to, but that’s a parental obligation, someone has to and looks like its me. On the other hand, the other stays with Comandante till late, so it’s a fair tradeoff.
+LI
 
-Kids not sleeping and whispering in their room till late, likely excited with the coming school break and a deserved reward
+We get to our seats in parter - where dancing pit was in the past (guess they still remove seats for rock concerts though). The place is crowded with schoolkids who chant “Gazan!” - some things don’t change.
+
+Then Gazan appears and the place explodes with kids yells. Alisa and Maksim record the entire event on their phones and Jr rocks around with hand drawn pencil poster.
+
+I look at the balcony. Somewhere over there is a little me rocking to Alisa and then moving to dancing pit to get dissolved in crowd.
+
+The concert doesn’t last long, just an hour maybe. We have VIP tickets that include photos with Gazan and his autograph, so we wait, perhaps a bit too long for a non-rockstar guy after an hour gig.
+
+He finally comes out and we get our photos and autographs. Kids submit their posters. Then we get back to the car, kids seem absolutely happy with this experience.
+
+LI
+
+Home: Oksi is still in awful mood. Kids to beds and she starts her hysteria and attacking me for “having fun” while she works 24/7. I argue with her in my head that Gazan gig was her idea and initially she was supposed to go and we swapped because thought this would be more exhausting than Comandante Evening Watch. We actually both knew why this happened: Friday is normally a Stronghold day, and this week it’s missed. We get to beds in a cold war condition. 

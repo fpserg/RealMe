@@ -1,20 +1,22 @@
-# Operational Record — Day 126
+# Operational Record — Day 127
 
-**Operational date:** Wednesday, 2026-10-28. **Source:** four verbatim LI entries. Closed upon explicit Freeze.
+**Operational date:** Thursday, 2026-10-29. **Source:** two verbatim LI entries. Closed by explicit Freeze.
 
-## Household / Stronghold
-- Oksi needed several bags of soil; Captain Sparrow, Comandante and Warden went on a nursery expedition. Purchase quantity and delivery not explicitly reported.
-- On return, Mosoblgaz called to say that gas papers previously believed submitted were actually missing, contradicting the assurance received Day 125.
-- Warden took children to Capital to search for the gas documents. Children behaved on the outward drive.
-- Initial folder search failed. Warden found the gas documents in an unfamiliar folder decorated like a museum picture. Physical possession confirmed; delivery or acceptance by Mosoblgaz not reported.
-- Warden bought soft drinks for himself and the Middles to celebrate. He estimated two hours back to Stronghold and asked Oksi to prepare their first homemade dinner for arrival.
-- In rush-hour traffic, Warden realized Comandante's milk bottle had been left at Capital; family returned and retrieved it. This added about an hour to the journey. Warden called Oksi about the delay.
-- Both Middles urgently needed a toilet. Two petrol stations had no toilet, and a third had a closed one. Warden directed them to use the area behind the station; need resolved.
-- Family eventually reached Stronghold. Oksi's homemade meat-and-potato roast was still warm and was excellent in Warden's assessment.
-- Oksi was disappointed because she had hoped for a more perfect setting for the first proper family dinner. Warden thanked her for turning “The Brick into Sir Home.”
-- First proper homemade family dinner at Stronghold completed. No other developments in Career or Third reported.
+## Gas Campaign
+- After Day 126's extended driving, Comandante was awake for much of the night and developed cold symptoms: sneezing and a runny nose. Warden began the morning already tired.
+- Warden returned to the gas authority despite fatigue. After several corrections, the documents appeared to be in order, **with the Warden explicitly uncertain** (“hopefully!”).
+- Remaining steps were described as online, following the documentation sequence. Final acceptance, completed online steps, authorization and gas connection **not reported**.
+
+## Stronghold / Household
+- Back at Stronghold, Comandante resisted sleep; Warden kept him indoors because he was unwell.
+- Kadyr arrived to hang shelves and decorations, including in Comandante's room, making a nap there impractical while work was underway.
+- The decorations were completed. Comandante eventually slept, and Warden took a short nap too.
+- Oksi prepared pumpkin stew late into the evening. Tired and hungry, Warden made an irritated remark suggesting they could eat it on Halloween. Oksi reacted coldly and removed it from the oven, saying it was not ready.
+- The children did not finish their portions. Oksi attributed this to Warden's remark; Warden believed they simply disliked pumpkin. Record both interpretations without determining the cause.
+- Warden expressed strain about life at Stronghold, despite the previous day's “Sir Home” milestone.
+- Children went to bed. Warden completed evening litter duty and walked Sirius despite exhaustion.
+- At bedtime, Oksi was warmer and said she hoped they would not quarrel so much at Stronghold. This is a hopeful statement, not proof of full reconciliation.
 
 ## Evidence boundaries
-- Gas documents found, but submission, signatures, gas authorization and connection remain unconfirmed.
-- Nursery expedition occurred; soil acquisition not explicitly confirmed.
-- Dinner served and enjoyed; do not erase Oksi's expressed disappointment about the delayed arrival.
+- No medical diagnosis beyond Warden's description of Comandante catching a cold.
+- No Career or Third Realm developments reported.

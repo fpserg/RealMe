@@ -1,29 +1,24 @@
-# Operational Record — Day 122
+# Operational Record — Day 123
 
-**Operational date:** 2026-10-24. **Source:** five verbatim Living Inputs. Closed by explicit Freeze.
+**Operational date:** Sunday, 2026-10-25. **Source:** one verbatim LI. Closed on explicit Freeze.
 
-## Family and memories
-- Warden missed his alarm, which woke Oksi; she woke him irritably.
-- On the school journey, Jr described plans with Alisa for a Gazan concert poster.
-- Warden remembered punk concerts at Gorbushka and his first rock concert there: Alisa, attended with his parents when he was between Maksim's and Alisa's present ages.
-- Warden disclosed that his daughter Alisa was secretly named after the band. He decorated the car with the band's black A flag when bringing newborn Alisa and Oksi home from the maternity hospital.
+## Family and Stronghold
+- Oksi woke in a better mood on a planned Stronghold day; Warden connected the improvement with the anticipated visit.
+- Alisa had a classmate's birthday party. Warden took her to the venue with Comandante; Oksi planned to collect her, but preparations and collection took longer than expected.
+- While waiting, Warden collected an angry plush bear previously ordered for Oksi from a delivery point. Oksi was visibly happier on receiving it.
+- Oksi collected Alisa. They returned with bags of home decorations; items, costs and placement not specified.
+- Family eventually drove to Stronghold. Warden reported a fast journey.
+- Kadyr had installed lamps on the deck and in the Royal Bathroom, also called Captain Nemo's Office. Warden considered the deck lamp too bright.
+- After children's bedtime, Warden went out for water, light bulbs and batteries. He replaced the deck bulb with a dimmer one.
+- Evening included activities with Comandante. A planned screening of *Kung Fu Panda 2* for the Middles was stopped because of their misbehaviour. Children went to bed.
+- Warden described a cozy Stronghold evening.
 
-## Career
-- Pre-vacation work: Yandex preview checked with IR; Oil and Gas models for adjacent department handed to Artem.
-- Pharma market report received a favorable review in Warden's account, but publication remained delayed. Andrey asked for confirmation that DSM Group consulting data could be used, given earlier difficulties with InfoLINE. Warden delegated the verification to Alexander and juniors. Rights clearance and publication not confirmed.
+## Capital and upcoming logistics
+- Oksi was anxious about leaving Stronghold the next day to collect the pets and bring them there. Completion of this errand not reported.
+- Three Capital apartment viewings were expected the following day; none had yet occurred or been cancelled.
+- Warden gently suggested pausing viewings, reasoning that recent Stronghold spending would leave insufficient resources for the target replacement apartment even if Capital sold. This was a proposal, not a decision. No sale, buyer offer or verified financial calculation reported.
 
-## Concert
-- Warden hurried home to take children to Gazan at Gorbushka. Maksim and Alisa were barely ready and had missed Oksi's calls, adding to her irritation.
-- Arrived early expecting remembered long lines; instead entrance was clear, with time for drinks and crisps.
-- Seated in the parterre, formerly the dancing pit in Warden's memory. Schoolchildren chanted for Gazan. Alisa and Maksim filmed, while Jr enjoyed the show holding a handmade pencil poster.
-- Warden looked toward the balcony and recalled himself at an Alisa concert as a child.
-- Concert lasted about an hour by Warden's estimate. VIP photos and autographs followed a wait; children gave Gazan their posters. All seemed very happy returning to the car.
-
-## Home
-- After children went to bed, Oksi reproached Warden for enjoying the concert while she was working at home, as he reported it.
-- Warden silently recalled that the concert had originally been Oksi's plan and that they exchanged responsibilities, expecting the concert to be more tiring than Comandante's evening care.
-- Warden interpreted the missed customary Friday Stronghold visit as the deeper source of frustration. This is his interpretation.
-- They went to bed with the disagreement unresolved.
-
-## Status
-- Concert and VIP encounter completed. Sofa purchase unconfirmed. Pharma publication and DSM rights clearance pending. No new Step 107 status.
+## Continuity boundaries
+- Day 122 disagreement was not explicitly resolved, though Oksi was in better spirits and the family had a cozy evening.
+- Lamp installation and deck bulb change completed; other Stronghold work remains open.
+- No new Career or Third Realm developments reported.

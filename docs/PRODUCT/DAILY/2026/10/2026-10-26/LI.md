@@ -1,15 +1,19 @@
 LI
 
-Oksi leaves for Capital duties and I stay with kids.
+Today is Gas Campaign day. I’m super anxious cuz I’m sure docs are missing.
 
-She sends me a voice that she had lost her cardholder with bank cards (more or less easily replaceable) and driving license (this one is a problem).
+Drive to gas authority through my favourite hilly road somewhat raises my spirits.
 
-Oksi arrives and I help her with pets and more Stronghold decorations. She’s tired and sad because of the lost cardholder.
+At gas authority: I submit cooker passport and surprisingly learn that all others are submitted!  There are few more steps that I at least understand - electronic signatures on documents, submit cooker number etc. This takes time, but serious blocker seems to be removed!
 
-Oksi is out of nose spray, so pharmacy drive with Comandante. Middles get a second chance for Kung Fu Panda.
+Oksi wouldn’t let me celebrate this potential victory too long: we need to rush to pick up point to get boxes with Halloween and New Year decorations. We carry boxes. Comandante waits.
 
-Kids bedtime, then litter and petrol drive on my own.
+And falls asleep on the way home. A 20 minute nap, which though suggests no proper afternoon rest for neither of us.
 
-Late night walk with Sirius under stars. I hope he’s happy here.
+LI
 
-Preparing for tomorrow’s Gas Campaign and realizing that we have no documents except the cooker passport that was missing. Could we have submitted them already? Or are they in Moscow? I don’t remember. Another loss of important thing in one day. Anxious, but its already late, so bed.
+Walk with Comandante and middles altogether. Unlike recently, Comandante doesn’t object to walking.
+
+Evening drive with Comandante to the shop - not because we really needed something, but rather to kill time.
+
+Kung Fu Panda 3 and finally beds. Oksi opens boxes full of pumpkins, ghosts and New Year decorations and, well, they exceed my expectations. Oksi is absolutely happy! But I can’t stay up much longer, walk Sirius and surrender to sleep leaving Oksi manage her Precious

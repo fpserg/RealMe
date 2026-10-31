@@ -1,23 +1,15 @@
 LI
 
-Stronghold day is today, so Oksi wakes in a better mood
+Oksi leaves for Capital duties and I stay with kids.
 
-But there is a blocker - Alisa is invited to her classmate’s birthday
+She sends me a voice that she had lost her cardholder with bank cards (more or less easily replaceable) and driving license (this one is a problem).
 
-I take her to the venue with Comandante on board. Oksi said she’ll pock her up shortly.
+Oksi arrives and I help her with pets and more Stronghold decorations. She’s tired and sad because of the lost cardholder.
 
-But preparations take longer than expected. In the meantime I notice that the plush angry bear I ordered for Oksi a while ago has arrived at delivery point and find an excuse to rush and pick it up.
+Oksi is out of nose spray, so pharmacy drive with Comandante. Middles get a second chance for Kung Fu Panda.
 
-Oksi is even happier when she sees the bear. Then she sets off for Alisa.
+Kids bedtime, then litter and petrol drive on my own.
 
-It takes time again and then the girls are back with bags of home decorations.
+Late night walk with Sirius under stars. I hope he’s happy here.
 
-Setting off for Stronghold, finally. Positive side - the road is fast.
-
-Stronghold. Kadyr hung lamps on the deck and in the Royal Bathroom (or Captain Nemo’s Office). The deck one is perhaps too bright.
-
-After kids in beds I venture for water, light bulbs and batteries. Then I replace the deck bulb with a dimmer light.
-
-Some evening activities for Comandante, Kung Fu Panda 2 for middles (failed due to misbehaviour) and beds.
-
-Cozy Stronghold evening. Oksi is anxious because she’ll have to leave her soul place tomorrow to get pets here, and there are also 3 Capital Watches in one day. I gently suggest that we pause watches as we’ve spent too much on Stronghold and won’t be able to get out target flat yet anyway.
+Preparing for tomorrow’s Gas Campaign and realizing that we have no documents except the cooker passport that was missing. Could we have submitted them already? Or are they in Moscow? I don’t remember. Another loss of important thing in one day. Anxious, but its already late, so bed.

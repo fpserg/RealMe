@@ -1,37 +1,38 @@
-# What Belongs to Today — Day 120
+# What Belongs to Today — Day 121
 
-**Operational date:** 2026-10-22.
+**Operational date:** 2026-10-23.
 
 ## Career — Active
-- **Pharma market report:** **finalized and handed to Andrey for review on Day 120**. Await his feedback and any requested revisions. Do not mark as approved, published or distributed.
-- **Ozon:** continue remodelling financial model for the forthcoming 3Q26 preview. Completion and preview delivery not reported; verify issuer's results timetable when needed.
-- **Oil & Gas:** Artem's forum notes were being read on Day 119. Assess useful takeaways and whether research changes are warranted; no conclusions confirmed.
-- **International investor presentation:** submission unconfirmed; coordinate with Alexey ECM and Artem if outstanding. Separate from hypothetical Ministry of Finance Middle East roadshow.
-- **Promomed:** guidance-beat thesis needs publicly usable evidence. Day 115 relatively private CFO remarks warrant public-disclosure/materiality/compliance checks before communicating, publishing or trading. Mikhail's liquidity concern distinct from thesis; hair-loss anecdote is not clinical evidence.
-- **Cian/HEAD:** track long CIAN / short HEAD case; quantified performance not reported.
-- **Other research:** Artem CNRU–HEAD, pharma statistics, preliminary RUB 100bn Yandex data-center estimate needing validation, peer rating, top picks, InfoLINE and Oil & Gas/Credit if outstanding.
-- **University / Platform / Strategy:** HSE workshops only possible, recurring Platform Economy cadence unapproved, Strategy follow-up as needed.
-- **ECM:** IPO postponed without revised date; possible Middle East roadshow not confirmed assigned.
+- **Pharma market report:** finalized and delivered to Andrey for review on Day 120; Day 121 preparation for review reported. Await comments, approval and any revisions; no publication confirmed.
+- **Ozon:** 3Q26 model restructuring and preview preparation ongoing; neither model nor preview completion confirmed.
+- **GLP-1 price monitor:** Junior Analyst Sergey built a Telegram price-monitoring bot. Validate product coverage, source prices, dosing comparability, frequency and accuracy before relying on it in institutional analysis; operating status not reported.
+- **Brokerage research KPIs:** Andrey discussed targets with Warden and Alexander. Quantity of short/pair recommendations conflicts with limited compliance-approved short universe and research quality. Preserve research integrity and compliance constraints; evaluate metric definitions and duration incentives rather than inventing ideas to meet quotas. Warden's private suggestion about keeping good ideas open longer is a discussion, not an adopted policy.
+- **Platform Economy recording:** recorded with Alexander, editing possible; final edited release/publication unconfirmed. Other Platform cadence and HSE workshops remain unapproved.
+- **Oil & Gas:** follow up Artem's forum notes if needed; no Day 121 conclusion.
+- **Other research:** international investor presentation submission unconfirmed; Alexey ECM and Artem coordination if outstanding; Promomed guidance-beat thesis requires public evidence and disclosure/compliance checks for Day 115 relatively private CFO remarks; Mikhail's liquidity objection separate; Tirzetta hair-loss anecdote not clinical proof. Track CIAN/HEAD pair outcome, Artem CNRU–HEAD, pharma statistics, Yandex data-center estimate, peer rating, top picks, InfoLINE, Strategy and Oil & Gas/Credit as applicable.
+- **ECM:** IPO postponed without new date; potential Middle East roadshow hypothetical.
 
 ## Household — Active
-- **School:** Parents' Day missed on Day 120 because of Oksi's severe headache. Determine whether any school information or follow-up is needed; none reported. Jr's waste-paper recycling delivery completed.
-- **Children:** Jr attended football on Day 120; Comandante cried during the session. Continue maths olympiad, School 444/57 Stage 2 and routines. Tooth Fairy gift after Day 118 tooth loss unconfirmed. Comandante's earlier red spots without confirmed medical resolution.
-- **Oksi / household:** Oksi reported severe headache on Day 120; no outcome reported. She liked a sofa at the furniture shop and recommended it to Warden. **Purchase not agreed or confirmed**; consider fit, cost and timing if pursued. Continue attention to shared rest and coordination, without inferring conflict or agreement.
-- **Stronghold:** Sir Oak planted Day 118; monitor watering/establishment. Aleksey/Kadyr lamp instructions and installation unconfirmed. Remaining gardening, Bathroom Campaign residual items, painting, basement/landscaper Sergey, utilities and Gas Campaign if outstanding.
-- **Parents:** Oksi's Day 117 offer to accommodate Warden's parents at Stronghold is not an invitation or scheduled visit.
-- **Sleeping arrangements:** proposed move to Maksim's bed from too-small toddler bed unconfirmed.
-- **Artifacts:** final placement of decorations, including Rod, unconfirmed.
-- **Capital / Mobility:** buyer follow-up unconfirmed; Day 118 fuel quest result unreported; winter tyres as needed; adjacent plot optional.
-- **Holidays:** possible school-holiday week at Stronghold not approved.
-- **Sanya:** allow space for grief without forced interpretation.
+- **Sofa:** Warden transferred Oksi funds on Day 121; actual sofa order/purchase, cost and delivery not confirmed.
+- **Stronghold decoration budget:** Oksi reportedly spent her savings on additional decorations, displacing savings intended for other decorations. Exact financial exposure and subsequent plans unreported; avoid assuming debt or conflict resolution.
+- **School and concert:** Warden collected Jr from School 57. Next school day before autumn break and Gazan concert anticipated in LI; Warden expected to accompany children while other parent cared for Comandante. Actual date, escort and attendance not confirmed. LI's “tomorrow” retained as source wording.
+- **Children:** late-night whispering reported. Continue Jr's maths olympiad, School 444/57 Stage 2 and routines; Tooth Fairy gift after Day 118 tooth loss unconfirmed; Comandante earlier red spots without confirmed resolution.
+- **Parents' Day:** Oksi missed Day 120 due to headache; school follow-up and headache outcome not reported.
+- **Stronghold:** Sir Oak planted Day 118; monitor establishment. Aleksey/Kadyr lamps unconfirmed; remaining garden, Bathroom Campaign, painting, basement/landscaper Sergey, utilities, Gas Campaign if outstanding.
+- **Warden's parents:** Oksi's Day 117 offer to accommodate visit remains only an offer; no invitation confirmed.
+- **Sleeping arrangements and artifacts:** proposed bed change unconfirmed; placement of Rod and other decorations unconfirmed.
+- **Capital / Mobility:** buyer follow-up unconfirmed; Day 118 fuel quest outcome unknown; winter tyres as needed; adjacent plot optional.
+- **Holidays:** school break approaching; Stronghold holiday stay/leave not confirmed.
+- **Sanya:** preserve space for grief without forced interpretation.
 
 ## Third — Active
-- **RealMe:** Step 107 gated via Architect / Builders Guild / Inspector; no acceptance or Step 108 authorization inferred.
+- **RealMe:** Step 107 remains gated under Architect / Builders Guild / Inspector; no acceptance or Step 108 authorization inferred.
 - **Tower:** City of Heroes, messenger economics, TWR liquidity/dividend report if outstanding.
 
 ## Completed / Observed
-- Warden helped Jr bring waste paper for school recycling.
-- Unexpected metro-side conversation with stranger about Central Bank policy and Nabiullina after Warden bought him beer; Warden called it a Dovlatov scene.
-- Pharma report finalized and handed to Andrey **for review**.
-- Warden left work early; Oksi missed Parents' Day due to headache; Jr attended football with Warden and Comandante.
-- Dinner, Comandante bath and bedtime; Oksi showed interest in a sofa, with no purchase reported.
+- Money transferred to Oksi for prospective sofa.
+- Regular brokerage call and KPI discussion with Andrey and Alexander.
+- Sergey Junior's GLP-1 price monitoring Telegram bot reported built.
+- Platform Economy recording with Alexander; final edited publication unconfirmed.
+- Jr collected from School 57.
+- Oksi's new Stronghold decoration purchases reported; concert outing planned, not completed.

@@ -1,31 +1,23 @@
 LI
 
-Oksi wakes because of my alarm clock which I didn’t hear and shakes me annoyingly - not a wakeup I was dreaming of.
+Stronghold day is today, so Oksi wakes in a better mood
 
-On the way to school with Jr he tells me that Alisa and he want to make a poster for the Gazan gig. The whole event looks important for them, and I try to find something positive in this for me too except making kids happy. And I do: the gig takes place at iconic Gorbushka where I used to go to punk concerts at my youth. And I attended my first rock concert of Alisa band with my parents also there, when I was of age somewhere between Maksim and Alisa. And yes, Alisa is secretly named after Alisa band. When I was taking her and Oksi from maternity hospital I decorated our car with black flag with A letter on it - symbol of Alisa band.
+But there is a blocker - Alisa is invited to her classmate’s birthday
 
-LI
+I take her to the venue with Comandante on board. Oksi said she’ll pock her up shortly.
 
-Finishing stuff before vacations. Yandex preview checked with IR. Oil and gas models for adjacent dept handed over to Artem. Pharma market review is good, but Andrey is reluctant to issue it and finds reasons not to do so: he asks to check whether we can safely use data from DSM Group consulting after we messed up with Infoline. I leave it to Alexander and juniors.
+But preparations take longer than expected. In the meantime I notice that the plush angry bear I ordered for Oksi a while ago has arrived at delivery point and find an excuse to rush and pick it up.
 
-LI
+Oksi is even happier when she sees the bear. Then she sets off for Alisa.
 
-Rushing home to pick up kids and then Gazan. Oksi is already in bad temper because both Maksim and Alisa didn’t respond to her calls and were barrly on time to leave for concert.
+It takes time again and then the girls are back with bags of home decorations.
 
-We arrived earlier as my memories of Gorbushka included long lines for entrance among drunk fans. But this wasn’t this time: the entrance was clear and we even had time for softs and crisps inside.
+Setting off for Stronghold, finally. Positive side - the road is fast.
 
-LI
+Stronghold. Kadyr hung lamps on the deck and in the Royal Bathroom (or Captain Nemo’s Office). The deck one is perhaps too bright.
 
-We get to our seats in parter - where dancing pit was in the past (guess they still remove seats for rock concerts though). The place is crowded with schoolkids who chant “Gazan!” - some things don’t change.
+After kids in beds I venture for water, light bulbs and batteries. Then I replace the deck bulb with a dimmer light.
 
-Then Gazan appears and the place explodes with kids yells. Alisa and Maksim record the entire event on their phones and Jr rocks around with hand drawn pencil poster.
+Some evening activities for Comandante, Kung Fu Panda 2 for middles (failed due to misbehaviour) and beds.
 
-I look at the balcony. Somewhere over there is a little me rocking to Alisa and then moving to dancing pit to get dissolved in crowd.
-
-The concert doesn’t last long, just an hour maybe. We have VIP tickets that include photos with Gazan and his autograph, so we wait, perhaps a bit too long for a non-rockstar guy after an hour gig.
-
-He finally comes out and we get our photos and autographs. Kids submit their posters. Then we get back to the car, kids seem absolutely happy with this experience.
-
-LI
-
-Home: Oksi is still in awful mood. Kids to beds and she starts her hysteria and attacking me for “having fun” while she works 24/7. I argue with her in my head that Gazan gig was her idea and initially she was supposed to go and we swapped because thought this would be more exhausting than Comandante Evening Watch. We actually both knew why this happened: Friday is normally a Stronghold day, and this week it’s missed. We get to beds in a cold war condition. 
+Cozy Stronghold evening. Oksi is anxious because she’ll have to leave her soul place tomorrow to get pets here, and there are also 3 Capital Watches in one day. I gently suggest that we pause watches as we’ve spent too much on Stronghold and won’t be able to get out target flat yet anyway.

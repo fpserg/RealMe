@@ -1,22 +1,19 @@
-# Operational Record — Day 127
+# Operational Record — Day 128
 
-**Operational date:** Thursday, 2026-10-29. **Source:** two verbatim LI entries. Closed by explicit Freeze.
+**Operational date:** Friday, 2026-10-30. **Closure:** Explicit Freeze.
 
-## Gas Campaign
-- After Day 126's extended driving, Comandante was awake for much of the night and developed cold symptoms: sneezing and a runny nose. Warden began the morning already tired.
-- Warden returned to the gas authority despite fatigue. After several corrections, the documents appeared to be in order, **with the Warden explicitly uncertain** (“hopefully!”).
-- Remaining steps were described as online, following the documentation sequence. Final acceptance, completed online steps, authorization and gas connection **not reported**.
+## Provenance
+Original Day 128 LI disappeared before repository preservation. This record is derived from a reconstructed LI explicitly approved by the Warden. Details and precise sequence not present in the surviving trace are unknown. Do not present reconstructed wording as verbatim testimony.
 
-## Stronghold / Household
-- Back at Stronghold, Comandante resisted sleep; Warden kept him indoors because he was unwell.
-- Kadyr arrived to hang shelves and decorations, including in Comandante's room, making a nap there impractical while work was underway.
-- The decorations were completed. Comandante eventually slept, and Warden took a short nap too.
-- Oksi prepared pumpkin stew late into the evening. Tired and hungry, Warden made an irritated remark suggesting they could eat it on Halloween. Oksi reacted coldly and removed it from the oven, saying it was not ready.
-- The children did not finish their portions. Oksi attributed this to Warden's remark; Warden believed they simply disliked pumpkin. Record both interpretations without determining the cause.
-- Warden expressed strain about life at Stronghold, despite the previous day's “Sir Home” milestone.
-- Children went to bed. Warden completed evening litter duty and walked Sirius despite exhaustion.
-- At bedtime, Oksi was warmer and said she hoped they would not quarrel so much at Stronghold. This is a hopeful statement, not proof of full reconciliation.
+## Household — Observed or reported
+- A puppy came under the Stronghold fence and played with Sirius. Ownership, subsequent whereabouts and any action taken are not reported.
+- Warden, Captain Sparrow and Comandante went on a kitchen-ceramics expedition. White ceramics and decorations were encountered at a warehouse; purchase and installation are not confirmed.
+- A rooster was sighted during the day's adventures; location and circumstances unspecified.
+- Oksi called Warden “the best husband in the world,” as recalled in the surviving trace.
+- The meat-and-potato roast at Stronghold was finished. Comandante explored and made a mess; specifics unknown.
+- Children's bedtime, *Kung Fu Panda 4* and Warden's familiar litter duty formed part of the evening. Exact ordering and who watched the film are not established.
 
 ## Evidence boundaries
-- No medical diagnosis beyond Warden's description of Comandante catching a cold.
-- No Career or Third Realm developments reported.
+- No new Gas Campaign milestone reported; Day 127 online formalities and confirmation remain outstanding.
+- No update on Comandante's Day 127 cold or sleep disruption.
+- No Career or Third Realm updates recovered.

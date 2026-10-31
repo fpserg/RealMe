@@ -1,19 +1,19 @@
 LI
 
-Help Jr carry waste paper to school for recycling.
+First thing after taking Jr to school: transfer Oksi money for the sofa.
 
-After school I stand with a regular cigarette and energy drink before work commute when a random boozer asks me to buy him a beer. I do, he thanks me and praises me for a fancy look and ask whether I work for the government. I say I work in a bank, and then he says that he got a higher education and degree in finance. We discuss Central Bank monetary policy and Nabiullina, and after a short nice conversation I dive underground leaving him with a beer on the bench. Only later I realized what this episode reminded me of - I think it’s a perfectly Dovlatov scene!
+Office: housekeeping, regular brokerage call, Ozon modelling, pharma market review preparation. Sergey the Junior made a tg bot which sends price monitoring for GLP-1’s.
 
-LI
+Andrey called me and Alexander to discuss another round of struggle with brokers. He always wants us to meet kpis although sometimes they contradict one another: for example we have a kpi for the amount of short/pair recommendations, but our compliance-approved list of shorts is, hm, short, so there is always a tradeoff between quantity and quality. He says we need to “meet kpis” (so quantity), but the ideas should be good (quality), which is sometimes absurd. After the meeting I quietly trll Alexander that we should better stick to good shorts/pairs and not rush to close them for good performance but rather keep for kpis.
 
-Office: finalized pharma market and handed to Andrey for review
+Platform economy stream with Alexander. This is not a live stream, so we have time and can make mistakes as they will be edited, but I have another hard deadline - pick up Jr from 57.
 
-Remodelling Ozon for 3Q preview
+Jr picked and taken home. Oksi meets us in a bad mood. Trying to figure out what happened.
 
-Leave earlier as Oksi needs to attend parents’ day at school…
+Reason found: she impulsively bought more decorations for Stronghold and wasted all her savings which were intended for, well, other Stronghold decorations.
 
-…which she actually misses because of terrible headache. I take Jr to football along with Comandante who is in a bad mood and cries all the way while Jr is playing. Oksi is meanwhile in furniture shop.
+Tomorrow is last school day before autumn break and Oksi has tickets for Gazan concert. I don’t know who he is, guess he makes meme songs and isextremely popular with schoolkids.
 
-LI
+And I’m facing the fact that I take them to the gig. That’s unexpected. Surely none of us wants to, but that’s a parental obligation, someone has to and looks like its me. On the other hand, the other stays with Comandante till late, so it’s a fair tradeoff.
 
-Home: dinner, Comandante bath and bed. When I’m done Oksi pitches me a sofa she liked at the shop saying that I’ll absolutely love it. I know what is it all about anyway - she liked it and we’ll eventually buy it sooner rather than later.
+Kids not sleeping and whispering in their room till late, likely excited with the coming school break and a deserved reward

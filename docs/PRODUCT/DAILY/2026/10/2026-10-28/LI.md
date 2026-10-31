@@ -1,23 +1,21 @@
 LI
 
-Oksi realizes that she needs a few bags of soil, so a nursery expedition of Captain Sparrow, Comandante and Warden sets out.
+Comandante’s time shifted after almost a full day in car, so he was awake most part of the night, besides he caught a cold, sneezes and his nose is running.
 
-On the way back I receive a call. Mosoblgaz. They tell me that the papers I thought were submitted earlier were actually missing…
+So in the morning I feel already tired, but we need to get back to gas authority anyway, so we go. After a few corrections docs are finally (hopefully!) right, next steps are online, just follow the documentation ladder.
 
-Great frustration. But I had a Plan B for that: I grab kids and start to Capital for papers search.
+Back to Stronghold. Comandante refuses to sleep, and I don’t take him outside because of his sickness, so we spend most of the day inside.
 
-On the way there kids behave. When we areive I turn documents folders upside down but don’t see gas papers. Frustration wave again. But then I see an unfamiliar folder stylized as a museum picture. I open it and… Gas papers!
-
-LI
-
-Bought myself and middles soft drinks to celebrate this victory and set off to Stronghold. Estimated time - 2 hours, so called Oksi to make our first home made dinner by our arrival.
-
-Rush hour, so cutting through traffic… only to realize that we left Comandante milk bottle at Capital. Now have to get back for it. This increases the entire journey by an hour. Call Oksi to tell bad news. First home meat and potato roast will have to wait longer.
+Moreover, Kadyr arrives to hang some shelves and decorations, including Comandante’s room, so I wouldn’t make him to bed anyway.
 
 LI
 
-Capital, grabbing milk bottle and setting off again. Now another issue: both middles need a toilet. Badly. We stop at a gas station, no toilet, another one, same, third - it’s closed. Told them to do their things behind the station. Mission finally completed.
+Decorations are done and Comandante finally sleeps, and so do I.
 
-LI
+After a short nap the standoff goes on. Oksi makes a pumpkin stew well into night and I say in annoyed way that we can probably have it on Halloween - I’m tired and hungry. Cold stare from Oksi, then she takes it away from oven, claiming that it’s not ready anyway.
 
-Finally at Stronghold. Homemade roast waits and is still warm. Oksi is not very pleased - she expected a more perfect setting for the first proper family dinner. But roast is fantastic, and I thank her for turning The Brick into Sir Home.
+Kid’s don’t finish the stew and Oksi blames it all on me, although they just didn’t like pumpkin. Sir Home or The Brick, it keeps challenging me to limits…
+
+Kids at beds. I do my evening rituals - litter and Sirius walk on weak legs.
+
+Bedtime for us. Oksi is warmer, says she hopes we won’t quarrel here more.

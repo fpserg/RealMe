@@ -1,23 +1,20 @@
-# Operational Record — Day 125
+# Operational Record — Day 126
 
-**Operational date:** Tuesday, 2026-10-27. **Source:** two verbatim LI entries. Closed on explicit Freeze.
+**Operational date:** Wednesday, 2026-10-28. **Source:** four verbatim LI entries. Closed upon explicit Freeze.
 
-## Gas Campaign
-- Warden began the day very anxious, believing necessary documents were missing.
-- The drive to the gas authority along his favourite hilly road improved his mood somewhat.
-- At the authority, he submitted the cooker passport and learned that all other documents had already been submitted.
-- Remaining steps included electronic signatures on documents, supplying the cooker's number and other formalities. Warden understood the steps and believed the major blocker removed. Completion of these steps, approval or actual gas connection was **not** reported.
+## Household / Stronghold
+- Oksi needed several bags of soil; Captain Sparrow, Comandante and Warden went on a nursery expedition. Purchase quantity and delivery not explicitly reported.
+- On return, Mosoblgaz called to say that gas papers previously believed submitted were actually missing, contradicting the assurance received Day 125.
+- Warden took children to Capital to search for the gas documents. Children behaved on the outward drive.
+- Initial folder search failed. Warden found the gas documents in an unfamiliar folder decorated like a museum picture. Physical possession confirmed; delivery or acceptance by Mosoblgaz not reported.
+- Warden bought soft drinks for himself and the Middles to celebrate. He estimated two hours back to Stronghold and asked Oksi to prepare their first homemade dinner for arrival.
+- In rush-hour traffic, Warden realized Comandante's milk bottle had been left at Capital; family returned and retrieved it. This added about an hour to the journey. Warden called Oksi about the delay.
+- Both Middles urgently needed a toilet. Two petrol stations had no toilet, and a third had a closed one. Warden directed them to use the area behind the station; need resolved.
+- Family eventually reached Stronghold. Oksi's homemade meat-and-potato roast was still warm and was excellent in Warden's assessment.
+- Oksi was disappointed because she had hoped for a more perfect setting for the first proper family dinner. Warden thanked her for turning “The Brick into Sir Home.”
+- First proper homemade family dinner at Stronghold completed. No other developments in Career or Third reported.
 
-## Household and Stronghold
-- Oksi directed the next errand: collecting boxes of Halloween and New Year decorations from a pickup point. Warden and Oksi carried boxes; Comandante waited.
-- Comandante slept approximately twenty minutes on the return journey. Warden expected this to disrupt a proper afternoon rest for both of them.
-- Warden walked with Comandante and the Middles together; Comandante did not resist walking, unlike recently.
-- Warden took Comandante on an evening shop drive mainly to pass time rather than to purchase an urgently needed item.
-- Family watched *Kung Fu Panda 3* before children's bedtime; exact participants not specified.
-- Oksi opened boxes containing pumpkins, ghosts and New Year decorations. Quantity exceeded Warden's expectations and Oksi was very happy. Placement and final decorating were not reported.
-- Warden walked Sirius and went to sleep, leaving Oksi to manage the decorations.
-
-## Continuity boundaries
-- Gas paperwork confirmed previously submitted; cooker passport delivered; administrative follow-up remains.
-- No updates to Oksi's lost cardholder/licence, Capital viewings or relocation strategy.
-- No Career or Third Realm developments reported.
+## Evidence boundaries
+- Gas documents found, but submission, signatures, gas authorization and connection remain unconfirmed.
+- Nursery expedition occurred; soil acquisition not explicitly confirmed.
+- Dinner served and enjoyed; do not erase Oksi's expressed disappointment about the delayed arrival.

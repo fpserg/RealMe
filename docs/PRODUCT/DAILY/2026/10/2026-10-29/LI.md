@@ -1,21 +1,19 @@
-LI
+# Day 128 — Reconstructed Living Input
 
-Comandante’s time shifted after almost a full day in car, so he was awake most part of the night, besides he caught a cold, sneezes and his nose is running.
+**Operational date:** 2026-10-30.
 
-So in the morning I feel already tired, but we need to get back to gas authority anyway, so we go. After a few corrections docs are finally (hopefully!) right, next steps are online, just follow the documentation ladder.
+**Provenance:** This entry is a reconstruction, not a verbatim recovery of the original LI, which disappeared from the chat before it could be saved. Reconstructed from the factual trace supplied in the conversation and explicitly authorized by the Warden for Day 128 and Freeze. Exact wording and event sequence are not recoverable.
 
-Back to Stronghold. Comandante refuses to sleep, and I don’t take him outside because of his sickness, so we spend most of the day inside.
+LI — RECONSTRUCTED
 
-Moreover, Kadyr arrives to hang some shelves and decorations, including Comandante’s room, so I wouldn’t make him to bed anyway.
+A puppy comes under the fence and plays with Sirius.
 
-LI
+Captain Sparrow, Comandante and I go on an expedition for kitchen ceramics. We encounter white ceramics and decorations at a warehouse. There is also a rooster sighting during the day's adventures.
 
-Decorations are done and Comandante finally sleeps, and so do I.
+Oksi calls me “the best husband in the world.”
 
-After a short nap the standoff goes on. Oksi makes a pumpkin stew well into night and I say in annoyed way that we can probably have it on Halloween - I’m tired and hungry. Cold stare from Oksi, then she takes it away from oven, claiming that it’s not ready anyway.
+Back at Stronghold, the meat-and-potato roast is finished. Comandante explores and makes a mess.
 
-Kid’s don’t finish the stew and Oksi blames it all on me, although they just didn’t like pumpkin. Sir Home or The Brick, it keeps challenging me to limits…
+The children go to bed. Kung Fu Panda 4 is part of the evening, along with my familiar litter duty.
 
-Kids at beds. I do my evening rituals - litter and Sirius walk on weak legs.
-
-Bedtime for us. Oksi is warmer, says she hopes we won’t quarrel here more.
+[Reconstruction note: The order of these events, beyond the broad groupings above, is not independently established. No additional details have been inferred.]

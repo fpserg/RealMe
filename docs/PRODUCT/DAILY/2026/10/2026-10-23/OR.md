@@ -1,26 +1,29 @@
-# Operational Record — Day 121
+# Operational Record — Day 122
 
-**Operational date:** Friday, 2026-10-23. **Source:** one verbatim Living Input. Closed on explicit Freeze. Day number follows Day 120.
+**Operational date:** 2026-10-24. **Source:** five verbatim Living Inputs. Closed by explicit Freeze.
 
-## Family and household
-- After taking Sergey Jr to school, Warden transferred money to Oksi for the sofa she had recommended on Day 120. Transfer confirmed; sofa purchase, amount, order and delivery not confirmed.
-- Warden collected Jr from School 57 after the Platform Economy recording and took him home.
-- Oksi was in a bad mood. Warden reported that she had impulsively spent all of her savings, previously intended for other Stronghold decorations, on additional decorations. Exact amount, purchases and financial consequences not reported.
-- Warden said the next day would be the final school day before autumn break, and Oksi had tickets to a Gazan concert. Warden expected to accompany the children; attendance not yet confirmed. Alternative parent would remain with Comandante late.
-- Children whispered in their room late at night; Warden interpreted this as anticipation of school break and a reward. Motivation is his interpretation, not independently confirmed.
+## Family and memories
+- Warden missed his alarm, which woke Oksi; she woke him irritably.
+- On the school journey, Jr described plans with Alisa for a Gazan concert poster.
+- Warden remembered punk concerts at Gorbushka and his first rock concert there: Alisa, attended with his parents when he was between Maksim's and Alisa's present ages.
+- Warden disclosed that his daughter Alisa was secretly named after the band. He decorated the car with the band's black A flag when bringing newborn Alisa and Oksi home from the maternity hospital.
 
 ## Career
-- Routine housekeeping, regular brokerage call, continued Ozon modelling, and preparation for review of the pharma market report.
-- Junior Analyst Sergey built a Telegram bot for monitoring GLP-1 prices. Reported as built; deployment, coverage, reliability and actual outputs not specified.
-- Andrey met with Warden and Alexander about brokerage research KPIs. Warden described tension between quantitative targets for short/pair recommendations, a limited compliance-approved short list, and quality requirements.
-- Afterward Warden privately told Alexander that they should prioritize good short/pair ideas rather than force quantity, and considered keeping recommendations open longer for KPI purposes rather than closing them after good performance. This is a reported discussion, not a policy or implemented decision. Compliance constraints remain applicable.
-- Warden and Alexander recorded a Platform Economy discussion, not a live stream, with editing expected. Completion of final edited publication not confirmed.
+- Pre-vacation work: Yandex preview checked with IR; Oil and Gas models for adjacent department handed to Artem.
+- Pharma market report received a favorable review in Warden's account, but publication remained delayed. Andrey asked for confirmation that DSM Group consulting data could be used, given earlier difficulties with InfoLINE. Warden delegated the verification to Alexander and juniors. Rights clearance and publication not confirmed.
 
-## Source-time caveat
-- LI dated to operational 2026-10-23 says “Tomorrow is last school day before autumn break.” Preserve as the Warden's wording without inferring or correcting the school's exact calendar date.
+## Concert
+- Warden hurried home to take children to Gazan at Gorbushka. Maksim and Alisa were barely ready and had missed Oksi's calls, adding to her irritation.
+- Arrived early expecting remembered long lines; instead entrance was clear, with time for drinks and crisps.
+- Seated in the parterre, formerly the dancing pit in Warden's memory. Schoolchildren chanted for Gazan. Alisa and Maksim filmed, while Jr enjoyed the show holding a handmade pencil poster.
+- Warden looked toward the balcony and recalled himself at an Alisa concert as a child.
+- Concert lasted about an hour by Warden's estimate. VIP photos and autographs followed a wait; children gave Gazan their posters. All seemed very happy returning to the car.
 
-## Boundaries
-- No Andrey approval of pharma report reported.
-- No Ozon model completion reported.
-- Sofa transfer is not proof of purchase; concert is anticipated, not attended.
-- No new RealMe Step 107 or Tower implementation status reported.
+## Home
+- After children went to bed, Oksi reproached Warden for enjoying the concert while she was working at home, as he reported it.
+- Warden silently recalled that the concert had originally been Oksi's plan and that they exchanged responsibilities, expecting the concert to be more tiring than Comandante's evening care.
+- Warden interpreted the missed customary Friday Stronghold visit as the deeper source of frustration. This is his interpretation.
+- They went to bed with the disagreement unresolved.
+
+## Status
+- Concert and VIP encounter completed. Sofa purchase unconfirmed. Pharma publication and DSM rights clearance pending. No new Step 107 status.

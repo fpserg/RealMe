@@ -1,35 +1,33 @@
-# What Belongs to Today — Day 122
+# What Belongs to Today — Day 123
 
-**Operational date:** 2026-10-24.
-
-## Career — Active
-- **Pharma market report:** Andrey's assessment was positive according to Warden, but publication is **not approved or confirmed**. He asked to check whether DSM Group consulting data can legally/contractually be used, after prior InfoLINE issues. Alexander and junior analysts own follow-up; verify license, citation, reproduction and redistribution permissions before issue. Do not equate Warden's interpretation of delay with verified motive.
-- **Yandex:** preview checked with IR on Day 122; publication not confirmed.
-- **Oil & Gas:** adjacent department's models handed over to Artem on Day 122; any further follow-up unconfirmed.
-- **Ozon:** 3Q26 model update and preview preparation ongoing at Day 121; no Day 122 completion reported.
-- **GLP-1 bot:** Junior Analyst Sergey built Telegram price monitor; validate coverage, comparable doses, sources and operating reliability before research use.
-- **Brokerage KPIs:** competing quantity/quality targets and narrow approved short universe remain unresolved. Keep research and compliance standards; do not create or prolong recommendations solely for metric optimization.
-- **Platform Economy:** recording with Alexander completed Day 121; final editing/release unconfirmed. University/HSE workshop and recurring cadence uncommitted.
-- **Other research:** international investor presentation delivery not confirmed; Promomed guidance thesis must use publicly disclosable information (especially Day 115 CFO remarks); CIAN/HEAD pair result, Artem's research items, InfoLINE, Yandex data-center estimate and Strategy follow-up as applicable.
-- **ECM:** IPO postponed without revised date; potential roadshow unconfirmed.
+**Operational date:** 2026-10-25.
 
 ## Household — Active
-- **Family:** Gazan concert and VIP meeting completed on Day 122. Alisa and Maksim filmed, Jr took handmade poster; children seemed delighted. Family-history note: Alisa named after band Alisa; Warden attended that band's concert with parents at Gorbushka as a child.
-- **Oksi and Warden:** post-concert disagreement unresolved. Warden believes missed customary Friday Stronghold visit contributed, but this is not established as Oksi's explanation. No reconciliation reported; allow space for rest and discussion without presuming resolution.
-- **Sofa:** money transferred Day 121; actual order, price, delivery not confirmed.
-- **Stronghold decorations:** Oksi's Day 121 additional purchases and depleted earmarked savings reported; no budget resolution confirmed.
-- **School and holidays:** school break imminent per Day 121. Whether family spends break at Stronghold is unconfirmed. Jr School 57 pickup Day 121 and concert Day 122 completed.
-- **Children:** Jr maths olympiad, School 444/57 Stage 2 and routines; Tooth Fairy gift unconfirmed; Comandante earlier red spots with no reported resolution.
-- **Stronghold:** Sir Oak planted Day 118; watering/establishment, Aleksey/Kadyr lamps, residual Bathroom Campaign, garden, basement, utilities and Gas Campaign as outstanding.
-- **Family parents:** Oksi's Day 117 suggestion of Warden's parents visiting Stronghold remains unconfirmed.
-- **Other:** bed-change proposal, Rod figurine placement, Capital buyer follow-up, fuel quest outcome, winter tyres and adjacent plot unconfirmed. Sanya grief deserves space.
+- **Capital viewings:** three viewings anticipated for the day following Day 123. Warden proposed pausing further viewings because Stronghold spending may prevent an affordable move to the target apartment. No cancellation, sale, agreed strategy or revised budget confirmed. Clarify Oksi's view and actual relocation affordability before acting.
+- **Pets:** Oksi expected to leave Stronghold the next day to collect pets and bring them there. Journey and arrival unconfirmed.
+- **Stronghold lamps:** Kadyr installed deck and Royal Bathroom/Captain Nemo's Office lamps. Warden replaced too-bright deck bulb with a dimmer one on Day 123. Check if light is satisfactory; no need to repeat completed installation.
+- **Stronghold remaining work:** Sir Oak planted Day 118; watering/establishment. Bathroom Campaign residual items, other garden work, basement/landscaper Sergey, utilities and Gas Campaign remain unconfirmed. Decorations bought by Oksi on Days 121 and 123; costs, placement and financial plan unreported.
+- **Family:** Oksi happier on Day 123 and delighted with angry plush bear. No explicit reconciliation of Day 122 conflict reported. Continue coordination over Stronghold visits, childcare and rest without presuming agreement.
+- **Children:** Alisa attended classmate's birthday party; Warden drove her with Comandante, Oksi picked her up. *Kung Fu Panda 2* for Middles was not completed due to misbehaviour. Jr's maths olympiad, School 444/57 Stage 2, routines and Tooth Fairy gift remain as previously unconfirmed; Comandante's earlier red spots have no reported resolution.
+- **Sofa:** money transferred Day 121; actual purchase/order/delivery still unconfirmed.
+- **Other household:** potential visit by Warden's parents (Oksi's Day 117 suggestion) not scheduled; proposed bed change, Rod placement, winter tyres, adjacent plot and fuel quest result unconfirmed. School break plans not formally established. Sanya grief deserves space.
+
+## Career — Active
+- **Pharma market report:** positively reviewed according to Warden, not published. Andrey requested checking DSM Group data rights after InfoLINE issues. Alexander and junior analysts own verification; establish permitted uses and citations before release.
+- **Yandex:** preview checked with IR Day 122; publication unconfirmed.
+- **Oil & Gas:** adjacent department models handed to Artem Day 122; follow-up unconfirmed.
+- **Ozon:** 3Q26 model/preview ongoing through Day 121; completion not reported.
+- **GLP-1 bot:** Junior Analyst Sergey built price-monitoring Telegram bot; validate data coverage, dose equivalence, sources and reliability.
+- **Brokerage KPIs:** short/pair quantity versus quality and compliance-approved universe tension unresolved; do not manufacture or extend ideas solely for targets.
+- **Platform Economy:** recorded discussion with Alexander Day 121; edited release unconfirmed. HSE workshops and ongoing cadence uncommitted.
+- **Other research:** international investor presentation delivery unconfirmed; Promomed public-disclosure/compliance safeguards; CIAN/HEAD pair, Artem items, InfoLINE, Yandex data-center estimate, Strategy and ECM work as applicable. IPO postponed, roadshow hypothetical.
 
 ## Third — Active
-- **RealMe:** Step 107 still gated; no acceptance or Step 108 authorization reported.
-- **Tower:** City of Heroes, messenger economics, TWR liquidity and dividend report if outstanding.
+- **RealMe:** Step 107 gated, not accepted on last known status; Step 108 not authorized.
+- **Tower:** City of Heroes, messenger economics, TWR liquidity/dividend report if outstanding.
 
 ## Completed / Observed
-- Yandex preview checked with IR; Oil & Gas models handed to Artem.
-- Day 122 Gorbushka concert attended; VIP photos, autographs and poster handover completed.
-- Pharma data-use clearance delegated; publication still pending.
-- Post-concert household disagreement unresolved at bedtime.
+- Alisa birthday party transport and collection; angry plush bear collected and given to Oksi.
+- Stronghold reached; Kadyr's deck and bathroom lamps installed, deck bulb replaced.
+- Water, bulbs and batteries obtained; cozy evening reported.
+- Three Capital viewings and pet collection still prospective; pause suggested, not agreed.
