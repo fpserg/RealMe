@@ -14,6 +14,7 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 |:---:|---|
 | 2026-08 | [The Month the World Took Root](./MONTHLY/2026-08%20%E2%80%94%20The%20Month%20the%20World%20Took%20Root.md) |
 | 2026-09 | [The Month the Quests Became Life](./MONTHLY/2026-09%20%E2%80%94%20The%20Month%20the%20Quests%20Became%20Life.md) |
+| 2026-10 | [The Place Worth Returning To](./MONTHLY/2026-10%20%E2%80%94%20The%20Place%20Worth%20Returning%20To.md) |
 
 ## Daily Chronicles
 
@@ -136,6 +137,7 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 116 | 2026-10-16 | [The Shape in the Fog](../PRODUCT/DAILY/2026/10/2026-10-16/Day%20116%20%E2%80%94%20The%20Shape%20in%20the%20Fog.md) |
 | 117 | 2026-10-17 | [The Ice Cracks](../PRODUCT/DAILY/2026/10/2026-10-17/Day%20117%20%E2%80%94%20The%20Ice%20Cracks.md) |
 | 118 | 2026-10-18 | [Roots and a Tooth](../PRODUCT/DAILY/2026/10/2026-10-18/Day%20118%20%E2%80%94%20Roots%20and%20a%20Tooth.md) |
+| — | 2026-10-19 | [The Fairy Returns](../PRODUCT/DAILY/2026/10/2026-10-19/Chronicle%20%E2%80%94%202026-10-19%20%E2%80%94%20The%20Fairy%20Returns.md) *(date-indexed; day number unresolved)* |
 | 119 | 2026-10-20 | [The Second Shift](../PRODUCT/DAILY/2026/10/2026-10-20/Day%20119%20%E2%80%94%20The%20Second%20Shift.md) |
 | 120 | 2026-10-21 | [A Degree in Finance](../PRODUCT/DAILY/2026/10/2026-10-21/Day%20120%20%E2%80%94%20A%20Degree%20in%20Finance.md) |
 | 121 | 2026-10-22 | [The Short List](../PRODUCT/DAILY/2026/10/2026-10-22/Day%20121%20%E2%80%94%20The%20Short%20List.md) |
