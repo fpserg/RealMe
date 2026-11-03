@@ -151,3 +151,4 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 129 | 2026-10-30 | [The Road Through the Hills](../PRODUCT/DAILY/2026/10/2026-10-30/Day%20129%20%E2%80%94%20The%20Road%20Through%20the%20Hills.md) |
 | 130 | 2026-10-31 | [The Face at the Window](../PRODUCT/DAILY/2026/10/2026-10-31/Day%20130%20%E2%80%94%20The%20Face%20at%20the%20Window.md) |
 | 131 | 2026-11-01 | [The Reaper Waves Goodbye](../PRODUCT/DAILY/2026/11/2026-11-01/Day%20131%20%E2%80%94%20The%20Reaper%20Waves%20Goodbye.md) |
+| 132 | 2026-11-02 | [The Weight of Routine](../PRODUCT/DAILY/2026/11/2026-11-02/Day%20132%20%E2%80%94%20The%20Weight%20of%20Routine.md) |
