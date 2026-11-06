@@ -154,3 +154,4 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 132 | 2026-11-02 | [The Weight of Routine](../PRODUCT/DAILY/2026/11/2026-11-02/Day%20132%20%E2%80%94%20The%20Weight%20of%20Routine.md) |
 | 133 | 2026-11-03 | [The Sofa Awaits](../PRODUCT/DAILY/2026/11/2026-11-03/Day%20133%20%E2%80%94%20The%20Sofa%20Awaits.md) |
 | 134 | 2026-11-04 | [The First Snow](../PRODUCT/DAILY/2026/11/2026-11-04/Day%20134%20%E2%80%94%20The%20First%20Snow.md) |
+| 135 | 2026-11-05 | [The Vanishing Apartment](../PRODUCT/DAILY/2026/11/2026-11-05/Day%20135%20%E2%80%94%20The%20Vanishing%20Apartment.md) |
