@@ -19,3 +19,7 @@ Office. Quickly proceed with Artem and Lisa’s draft on the M&A news. Andrey do
 LI
 
 Discussing tomorrow logistics with Oksi and it’s dense: Jr is invited to his classmate’s birthday, we need to pick up ceramics and Internet master comes to plug in Stronghold. We didn’t intend to go to Stronghold, but logistics is hard anyway, so I suggest we go today, I know Oksi’ll love it.
+
+LI
+
+Home. Quick preparations, car is full of decorations and we set off. Careful drive, as the road can be icy and we are on summer tyres. At Stronghold - Oksi happily runs around with her decorations, I bring boxes to litter plot and we get to beds before tomorrow’s hard day.
