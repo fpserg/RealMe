@@ -15,3 +15,7 @@ Just after arriving home I realize that T-Tech sent a takeover offer for Cian at
 LI
 
 Office. Quickly proceed with Artem and Lisa’s draft on the M&A news. Andrey doesn’t comment on my absence. Business as usual, just started later - comments to media, brokerage call, office routine.
+
+LI
+
+Discussing tomorrow logistics with Oksi and it’s dense: Jr is invited to his classmate’s birthday, we need to pick up ceramics and Internet master comes to plug in Stronghold. We didn’t intend to go to Stronghold, but logistics is hard anyway, so I suggest we go today, I know Oksi’ll love it.
