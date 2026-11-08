@@ -11,3 +11,7 @@ An hour passes. Only then Oksi appears. The shop owner didn’t expect us to com
 LI
 
 Just after arriving home I realize that T-Tech sent a takeover offer for Cian at a significant premium. Big news and unexpected, and I missed it because of waiting for this lazy shopkeeper. Call Artem with instructions for a quick reflection and rush to the office.
+
+LI
+
+Office. Quickly proceed with Artem and Lisa’s draft on the M&A news. Andrey doesn’t comment on my absence. Business as usual, just started later - comments to media, brokerage call, office routine.
