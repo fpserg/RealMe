@@ -7,3 +7,7 @@ LI
 The way there is not that quick - rush hour - but we arrive by the warehouse opening - 9 AM. Oksi get inside. Comandante and I wait…
 
 An hour passes. Only then Oksi appears. The shop owner didn’t expect us to come that early and arrived herself at 10. I’m angry.
+
+LI
+
+Just after arriving home I realize that T-Tech sent a takeover offer for Cian at a significant premium. Big news and unexpected, and I missed it because of waiting for this lazy shopkeeper. Call Artem with instructions for a quick reflection and rush to the office.
