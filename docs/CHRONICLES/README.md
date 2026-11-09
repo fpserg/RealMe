@@ -156,3 +156,4 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 134 | 2026-11-04 | [The First Snow](../PRODUCT/DAILY/2026/11/2026-11-04/Day%20134%20%E2%80%94%20The%20First%20Snow.md) |
 | 135 | 2026-11-05 | [The Vanishing Apartment](../PRODUCT/DAILY/2026/11/2026-11-05/Day%20135%20%E2%80%94%20The%20Vanishing%20Apartment.md) |
 | 136 | 2026-11-06 | [An Hour Borrowed](../PRODUCT/DAILY/2026/11/2026-11-06/Day%20136%20%E2%80%94%20An%20Hour%20Borrowed.md) |
+| 137 | 2026-11-07 | [Which Way Is Home?](../PRODUCT/DAILY/2026/11/2026-11-07/Day%20137%20%E2%80%94%20Which%20Way%20Is%20Home.md) |
