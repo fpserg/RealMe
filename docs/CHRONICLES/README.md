@@ -158,3 +158,4 @@ This is the chronological reading index for all canonical RealMe Chronicles.
 | 136 | 2026-11-06 | [An Hour Borrowed](../PRODUCT/DAILY/2026/11/2026-11-06/Day%20136%20%E2%80%94%20An%20Hour%20Borrowed.md) |
 | 137 | 2026-11-07 | [Which Way Is Home?](../PRODUCT/DAILY/2026/11/2026-11-07/Day%20137%20%E2%80%94%20Which%20Way%20Is%20Home.md) |
 | 138 | 2026-11-08 | [The Western Territories](../PRODUCT/DAILY/2026/11/2026-11-08/Day%20138%20%E2%80%94%20The%20Western%20Territories.md) |
+| 139 | 2026-11-09 | [The Call After a Long While](../PRODUCT/DAILY/2026/11/2026-11-09/Day%20139%20%E2%80%94%20The%20Call%20After%20a%20Long%20While.md) |
